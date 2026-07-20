@@ -3,292 +3,377 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>외화 수급 — 매달 얼마 나가고, 얼마 사고, 하루에 얼마 조달할까</title>
+<title>세인 FX — 오늘 얼마 사면 될까</title>
 <link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@700&display=swap" rel="stylesheet">
 <style>
-:root{--navy:#0F2E4C;--copper:#B87333;--ivory:#F5EFE6;--alert:#B3402A;--line:#d9d0c1;--pending:#c9b89a}
+:root{--navy:#0F2E4C;--copper:#B87333;--ivory:#F5EFE6;--alert:#B3402A;--ok:#3E6B4F;--line:#d9d0c1;--up:#c0392b;--down:#1f6f54}
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:'Pretendard',sans-serif;background:var(--ivory);color:#2b2b2b;line-height:1.6}
-.wrap{max-width:880px;margin:0 auto;padding:0 22px}
+.wrap{max-width:880px;margin:0 auto;padding:0 20px}
 
-header{background:var(--navy);color:#fff;padding:34px 0 30px;text-align:center}
-header h1{font-family:'Noto Serif KR',serif;font-size:24px}
-header p{margin-top:8px;font-size:13.5px;color:#b8c4d0}
+/* 최상단 환율 바 */
+.ratebar{background:var(--navy);color:#fff;padding:14px 0}
+.ratebar .in{max-width:880px;margin:0 auto;padding:0 20px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
+.ratebar .lead{display:flex;align-items:baseline;gap:12px}
+.ratebar .pair{font-size:12px;color:#b8c4d0;letter-spacing:.05em}
+.ratebar .now{font-family:'Noto Serif KR',serif;font-size:30px;font-weight:700}
+.ratebar .chg{font-size:14px;font-weight:700}
+.ratebar .chg.up{color:#ff9b8a} .ratebar .chg.down{color:#7fe0bf}
+.ratebar .meta{font-size:11.5px;color:#8ea3b8;text-align:right}
+.ratebar .meta b{color:#d99a5b;font-weight:600}
 
-/* 답 카드 */
-.answer{background:#fff;border:1px solid var(--line);border-radius:12px;margin-top:-16px;padding:26px 28px;box-shadow:0 4px 16px rgba(15,46,76,.08)}
-.answer .grid{display:grid;grid-template-columns:1fr 1fr 1.2fr;gap:0;text-align:center}
-.answer .cell{padding:6px 14px}
-.answer .cell + .cell{border-left:1px solid #eee6d8}
-.answer .q{font-size:13.5px;color:#8b8577}
-.answer .v{font-family:'Noto Serif KR',serif;font-size:27px;font-weight:700;color:var(--navy);margin-top:6px}
-.answer .cell.goal .v{color:var(--copper);font-size:29px}
-.answer .a{font-size:12.5px;color:#6b6558;margin-top:4px}
-.answer .basis{margin-top:16px;padding-top:14px;border-top:1px dashed var(--line);font-size:13px;color:#555;text-align:center}
-.answer .basis b{color:var(--navy)}
+header{background:linear-gradient(180deg,var(--navy),#164066);color:#fff;padding:22px 0 26px;text-align:center}
+header h1{font-family:'Noto Serif KR',serif;font-size:22px}
+header p{margin-top:6px;font-size:12.5px;color:#b8c4d0}
 
-/* 차트 */
-section{margin-top:36px}
-section h2{font-family:'Noto Serif KR',serif;font-size:19px;color:var(--navy);margin-bottom:6px}
-section .desc{font-size:13.5px;color:#6b6558;margin-bottom:14px}
-.chartbox{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px 16px}
-.legend{display:flex;gap:18px;font-size:12.5px;margin-bottom:6px;flex-wrap:wrap;justify-content:center}
-.legend span{display:inline-flex;align-items:center;gap:6px}
-.sw{width:13px;height:13px;border-radius:3px}
-.sw.buy{background:var(--navy)} .sw.pay{background:var(--copper)} .sw.pend{background:var(--pending)}
-svg{width:100%;height:auto;display:block}
+/* 진행률 카드 (핵심) */
+.gauge-card{background:#fff;border:1px solid var(--line);border-radius:14px;margin-top:-14px;padding:26px 28px;box-shadow:0 6px 24px rgba(15,46,76,.12)}
+.gauge-card .top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:4px}
+.gauge-card .mo{font-size:13px;letter-spacing:.08em;color:var(--copper);font-weight:700}
+.gauge-card .tgt{font-size:12.5px;color:#8b8577}
+.gauge-card .tgt b{color:var(--navy);font-family:'Noto Serif KR',serif;font-size:15px}
 
-/* 룰 카드 */
-.rules{display:grid;grid-template-columns:1fr 1fr;gap:14px}
-.rule{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px;text-align:center}
-.rule.base{border-top:5px solid var(--navy)}
-.rule.surge{border-top:5px solid var(--alert)}
-.rule .t{font-size:14px;font-weight:700;color:var(--navy)}
-.rule.surge .t{color:var(--alert)}
-.rule .v{font-family:'Noto Serif KR',serif;font-size:30px;font-weight:700;color:var(--navy);margin:8px 0 4px}
-.rule.surge .v{color:var(--alert)}
-.rule .a{font-size:13px;color:#6b6558}
+.bar{height:34px;background:var(--ivory);border-radius:9px;overflow:hidden;position:relative;margin:14px 0 6px;border:1px solid #eee6d8}
+.bar .fill{height:100%;background:linear-gradient(90deg,#0F2E4C,#2d6da3);border-radius:9px 0 0 9px;transition:width .6s;display:flex;align-items:center;justify-content:flex-end}
+.bar .pct{position:absolute;top:50%;transform:translateY(-50%);left:14px;font-size:14px;font-weight:700;color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.3)}
+.bar .pace{position:absolute;top:0;bottom:0;width:2px;background:var(--alert);opacity:.7}
+.bar .pace::after{content:'적정';position:absolute;top:-18px;left:50%;transform:translateX(-50%);font-size:10px;color:var(--alert);white-space:nowrap}
 
-/* 표 */
-table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:13.5px}
-thead th{background:var(--navy);color:#fff;font-weight:600;padding:10px 12px;font-size:12.5px;text-align:right}
-thead th:first-child{text-align:left}
-tbody td{padding:9px 12px;border-top:1px solid #f0e9db;text-align:right;font-variant-numeric:tabular-nums}
-tbody td:first-child{text-align:left;font-weight:700;color:var(--navy)}
-tbody td.gap-plus{color:#3E6B4F;font-weight:600}
-tbody td.gap-minus{color:var(--alert);font-weight:600}
-tbody tr.yr td{background:#efe7d8;font-weight:700;color:var(--navy)}
-tbody tr.now td{background:#f3ede0}
-.mini{font-size:11.5px;color:#a29b8b}
+.subrow{display:flex;justify-content:space-between;font-size:12.5px;color:#6b6558}
+.subrow b{color:var(--navy)}
 
-.insight{background:var(--navy);color:#fff;border-radius:12px;padding:24px 26px;margin-top:36px}
-.insight h2{font-family:'Noto Serif KR',serif;font-size:17px;color:#d99a5b;margin-bottom:12px}
-.insight li{list-style:none;font-size:13.5px;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.12);color:#dde5ec}
-.insight li:last-child{border:none}
-.insight b{color:#fff}
-.insight .warn{color:#f0b8a8}
+/* 오늘 권고 */
+.today{margin-top:20px;background:var(--navy);border-radius:12px;padding:22px;text-align:center;color:#fff}
+.today .cap{font-size:13px;color:#b8c4d0}
+.today .big{font-family:'Noto Serif KR',serif;font-size:40px;font-weight:700;margin:4px 0}
+.today .big small{font-size:20px;color:#d99a5b}
+.today .shots{display:flex;justify-content:center;gap:10px;margin-top:12px;flex-wrap:wrap}
+.today .shot{background:rgba(255,255,255,.1);border-radius:8px;padding:9px 16px}
+.today .shot .n{font-size:11px;color:#b8c4d0}
+.today .shot .a{font-family:'Noto Serif KR',serif;font-size:17px;font-weight:700}
+.today .msg{margin-top:14px;font-size:13px;padding-top:12px;border-top:1px solid rgba(255,255,255,.15)}
+.today.done{background:var(--ok)}
+.today.surge .big small{color:#ffb3a0}
 
+section{margin-top:34px}
+section h2{font-family:'Noto Serif KR',serif;font-size:18px;color:var(--navy);margin-bottom:6px}
+section .desc{font-size:13px;color:#6b6558;margin-bottom:14px}
+.card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:20px}
+
+/* 과거 환율 차트 */
+.rangebtns{display:flex;gap:7px;margin-bottom:14px;flex-wrap:wrap}
+.rangebtns button{font-size:12.5px;padding:6px 14px;border:1px solid var(--line);border-radius:20px;background:#fff;color:#555;cursor:pointer}
+.rangebtns button.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+#fxChart{width:100%;height:auto;display:block}
+.fxstat{display:flex;gap:22px;font-size:12.5px;color:#6b6558;margin-top:10px;flex-wrap:wrap}
+.fxstat b{color:var(--navy);font-family:'Noto Serif KR',serif}
 
 /* 뉴스 */
-.news{background:#fff;border:1px solid var(--line);border-radius:12px;padding:20px 24px}
-.news .head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px}
+.news .head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px}
 .news .upd{font-size:11.5px;color:#a29b8b}
 .news ul{list-style:none}
-.news li{padding:9px 0;border-bottom:1px solid #f0e9db;font-size:14px;display:flex;gap:10px;align-items:baseline}
+.news li{padding:9px 0;border-bottom:1px solid #f0e9db;font-size:13.5px;display:flex;gap:10px;align-items:baseline}
 .news li:last-child{border:none}
-.news .tm{flex:0 0 78px;font-size:12px;color:#a29b8b;font-variant-numeric:tabular-nums}
+.news .tm{flex:0 0 74px;font-size:11.5px;color:#a29b8b}
 .news a{color:#2b2b2b;text-decoration:none;flex:1}
 .news a:hover{color:var(--copper);text-decoration:underline}
-.news .src{font-size:11.5px;color:#8b8577;white-space:nowrap}
-.news .hotdot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--alert);margin-right:6px;vertical-align:middle}
-.news .empty{font-size:13px;color:#a29b8b;padding:14px 0;text-align:center}
-footer{margin:40px 0 30px;text-align:center;font-size:11.5px;color:#a29b8b}
-@media(max-width:640px){
-  .answer .grid{grid-template-columns:1fr}
-  .answer .cell + .cell{border-left:none;border-top:1px solid #eee6d8;margin-top:8px;padding-top:12px}
-  .rules{grid-template-columns:1fr}
+.news .src{font-size:11px;color:#8b8577;white-space:nowrap}
+.news .hotdot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--alert);margin-right:5px}
+.news .empty{font-size:13px;color:#a29b8b;padding:12px 0;text-align:center}
+
+/* 월별 표 */
+table{width:100%;border-collapse:collapse;font-size:13px}
+thead th{background:var(--navy);color:#fff;padding:9px 10px;font-size:12px;text-align:right}
+thead th:first-child{text-align:left}
+tbody td{padding:8px 10px;border-top:1px solid #f0e9db;text-align:right;font-variant-numeric:tabular-nums}
+tbody td:first-child{text-align:left;font-weight:700;color:var(--navy)}
+tbody td.plus{color:var(--ok)} tbody td.minus{color:var(--alert)}
+
+footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
+.loading{color:#a29b8b;font-size:13px;text-align:center;padding:16px}
+@media(max-width:600px){
+  .ratebar .now{font-size:24px}
+  .today .big{font-size:32px}
+  .gauge-card{padding:20px}
 }
 </style>
 </head>
 <body>
 
+<!-- 최상단: 오늘 환율 -->
+<div class="ratebar">
+  <div class="in">
+    <div class="lead">
+      <span class="pair">USD / KRW</span>
+      <span class="now" id="rNow">—</span>
+      <span class="chg" id="rChg"></span>
+    </div>
+    <div class="meta" id="rMeta">환율 불러오는 중…</div>
+  </div>
+</div>
+
 <header>
   <div class="wrap">
-    <h1>외화 수급 한 장 — 나가는 돈 · 사는 돈 · 하루 조달액</h1>
-    <p>2025.1 ~ 2026.7 (19개월) · 2026년 7월 13일 기준</p>
+    <h1>오늘 달러, 얼마 사면 될까</h1>
+    <p>세인바이오 외환 조달 현황 · 황유나 과장 집행용</p>
   </div>
 </header>
 
 <div class="wrap">
 
-  <!-- 답 -->
-  <div class="answer">
-    <div class="grid">
-      <div class="cell">
-        <div class="q">매달 나가는 돈</div>
-        <div class="v">평균 221만 불</div>
-        <div class="a">18개월 결제 실적 기준</div>
-      </div>
-      <div class="cell">
-        <div class="q">매달 사는 돈</div>
-        <div class="v">평균 206만 불</div>
-        <div class="a">한 달 11~13일에 나눠 조달</div>
-      </div>
-      <div class="cell goal">
-        <div class="q">그래서, 하루 조달 기준선</div>
-        <div class="v">18~19만 불</div>
-        <div class="a">월 결제액 ÷ 조달일 12일</div>
-      </div>
+  <!-- 진행률 게이지 (핵심) -->
+  <div class="gauge-card">
+    <div class="top">
+      <span class="mo" id="gMonth">2026년 7월</span>
+      <span class="tgt">이번 달 목표 <b id="gTarget">$1,423,036</b></span>
     </div>
-    <div class="basis">검증: 2025년 매입 <b>$24.56M</b> vs 결제 <b>$24.36M</b> — 0.8% 차이로 일치. 이 회사의 수급은 <b>"나갈 만큼 산다"</b>로 이미 균형이 잡혀 있습니다.</div>
+    <div class="bar">
+      <div class="fill" id="gFill" style="width:0%"><span class="pct" id="gPct"></span></div>
+      <div class="pace" id="gPace" style="left:0%"></div>
+    </div>
+    <div class="subrow">
+      <span>샀음 <b id="gBought">$0</b></span>
+      <span>남음 <b id="gLeft">$0</b> · 남은 조달일 <b id="gDaysLeft">—</b></span>
+    </div>
+
+    <!-- 오늘 권고 -->
+    <div class="today" id="todayCard">
+      <div class="cap">오늘 사야 할 금액</div>
+      <div class="big" id="tPerDay">—</div>
+      <div class="shots" id="tShots"></div>
+      <div class="msg" id="tMsg"></div>
+    </div>
   </div>
 
+  <!-- 과거 환율 -->
+  <section>
+    <h2>환율 추이</h2>
+    <div class="desc">시장 참고용 환율(ECB 기준). 실제 IBK 매입환율과는 소폭 차이가 있을 수 있습니다.</div>
+    <div class="card">
+      <div class="rangebtns" id="rangeBtns">
+        <button data-d="30">1개월</button>
+        <button data-d="90" class="on">3개월</button>
+        <button data-d="180">6개월</button>
+        <button data-d="365">1년</button>
+      </div>
+      <svg id="fxChart" viewBox="0 0 820 300"></svg>
+      <div class="fxstat" id="fxStat"></div>
+    </div>
+  </section>
 
-  <!-- 외환 뉴스 (자동 수집) -->
+  <!-- 뉴스 -->
   <section>
     <h2>오늘의 외환시장</h2>
-    <div class="desc">Google News에서 2시간마다 자동 수집 (원달러 환율 · 외환시장 · 연준 · 한국은행). 제목을 누르면 원문으로 이동합니다.</div>
-    <div class="news">
+    <div class="card news">
       <div class="head"><span style="font-size:13px;font-weight:700;color:var(--navy)">주요 뉴스</span><span class="upd" id="newsUpd"></span></div>
-      <ul id="newsList"><li class="empty">뉴스를 불러오는 중…</li></ul>
+      <ul id="newsList"><li class="empty">불러오는 중…</li></ul>
     </div>
   </section>
 
-  <!-- 메인 차트 -->
+  <!-- 월별 수급 -->
   <section>
-    <h2>매달, 산 돈과 나간 돈</h2>
-    <div class="desc">남색이 산 돈(매입), 구리색이 나간 돈(결제). 두 막대의 키가 비슷하면 균형, 구리색이 크면 그 달은 모자란 만큼 미리 사둔 달러에서 꺼내 쓴 것.</div>
-    <div class="chartbox">
-      <div class="legend">
-        <span><i class="sw buy"></i>산 돈 (매입)</span>
-        <span><i class="sw pay"></i>나간 돈 (결제)</span>
-        <span><i class="sw pend"></i>7월 대기 선물환</span>
-      </div>
-      <svg id="mainChart" viewBox="0 0 1180 380"></svg>
+    <h2>월별 수급 (참고)</h2>
+    <div class="desc">매달 산 돈과 나간 돈. 길게 보면 균형 — 2025년 매입·결제 차이 0.8%.</div>
+    <div class="card" style="overflow-x:auto">
+      <table>
+        <thead><tr><th>월</th><th>산 돈</th><th>나간 돈</th><th>차이</th></tr></thead>
+        <tbody id="supplyBody"></tbody>
+      </table>
     </div>
   </section>
 
-  <!-- 하루 조달 룰 -->
-  <section>
-    <h2>하루에 얼마 조달할까 — 두 개의 기어</h2>
-    <div class="desc">지난 19개월 데이터가 알려주는 운영 룰입니다.</div>
-    <div class="rules">
-      <div class="rule base">
-        <div class="t">평상시 기어</div>
-        <div class="v">하루 $185K</div>
-        <div class="a">평달 결제 소요 약 $220만 ÷ 조달일 12일.<br>실제 25년 내내 이 페이스($150~230K)로 운영됨.</div>
-      </div>
-      <div class="rule surge">
-        <div class="t">비상 기어 (가격 급등기)</div>
-        <div class="v">하루 $300K</div>
-        <div class="a">26년 4월형 피크(결제 $368만) 대비.<br>메치오닌 급등 같은 신호가 오면 두 달 전부터 전환.</div>
-      </div>
-    </div>
-  </section>
-
-  <!-- 표 -->
-  <section>
-    <h2>월별 상세</h2>
-    <table>
-      <thead><tr><th>월</th><th>산 돈</th><th>나간 돈</th><th>차이</th><th>하루 조달 필요액*</th></tr></thead>
-      <tbody id="tbody"></tbody>
-    </table>
-    <p class="mini" style="margin-top:8px">* 그 달 나간 돈 ÷ 조달일 12일. 8월 이후 나갈 돈은 6~7월 통관분 자료가 오면 채워집니다.</p>
-  </section>
-
-  <!-- 인사이트 -->
-  <div class="insight">
-    <h2>이 그림이 말해주는 것</h2>
-    <ul>
-      <li><b>2025년은 완벽한 균형</b> — 산 돈 $24.56M, 나간 돈 $24.36M. 매달 나갈 만큼 사는 구조가 이미 작동하고 있었습니다.</li>
-      <li><span class="warn">2026년 상반기는 나간 돈이 $293만 더 많았습니다.</span> 메치오닌 급등(3~6월)으로 결제액이 뛰었는데 매입 페이스는 그대로였기 때문. 4월엔 결제 $368만 vs 매입 $256만.</li>
-      <li>그 대응으로 지금 <b>실행 대기 선물환 $498만</b>을 쌓아둔 상태 — 7~8월 확정 결제($192만)의 2.6배라 당장은 여유. 단, 확보환율 1,515원이므로 환율이 더 내려가면 대기분부터 소진하는 게 유리합니다.</li>
-      <li><b>궁극의 답:</b> 하루 조달액은 고정값이 아니라 <b>"두 달 뒤 나갈 돈"에서 역산</b>하는 값입니다. 이번 달 통관액을 보면 두 달 뒤 결제액이 보이고, 그걸 12일로 나누면 그 달의 하루 조달 목표가 나옵니다. 이 대시보드에 매달 통관자료만 얹으면 자동으로 계산됩니다.</li>
-    </ul>
-  </div>
-
-  <footer>세인바이오 AI혁신팀 · sein-fx-info v1 · 자료: 26년 외화구매내역 + 수입통관·미불금 내역 (25.9~26.7 스냅샷 5장 통합, 중복 274건 제거)</footer>
+  <footer>세인바이오 AI혁신팀 · sein-fx-info v2 · 환율 Frankfurter(ECB) · 뉴스 GitHub Actions 자동수집</footer>
 </div>
 
 <script>
-const D = [
- {m:"25.1",buy:1840000,pay:1780290},{m:"2",buy:2370000,pay:2096080},{m:"3",buy:1500000,pay:1950242},
- {m:"4",buy:1580000,pay:1520606},{m:"5",buy:2310000,pay:2359060},{m:"6",buy:1950000,pay:1940401},
- {m:"7",buy:2800000,pay:2823022},{m:"8",buy:1540000,pay:1509883},{m:"9",buy:1880000,pay:1900552},
+const $=id=>document.getElementById(id);
+const won=n=>"$"+Math.round(n).toLocaleString("en-US");
+const FX_API="https://api.frankfurter.app";
+
+// ── 월별 수급 (고정 데이터) ──
+const SUPPLY=[
+ {m:"25.7",buy:2800000,pay:2823022},{m:"8",buy:1540000,pay:1509883},{m:"9",buy:1880000,pay:1900552},
  {m:"10",buy:1990000,pay:1981369},{m:"11",buy:2265000,pay:2321884},{m:"12",buy:2538921,pay:2179275},
- {m:"26.1",buy:1470000,pay:2408356},{m:"2",buy:2132420,pay:2313841},{m:"3",buy:2331000,pay:2436584},
- {m:"4",buy:2563000,pay:3679494},{m:"5",buy:1770000,pay:1496804},{m:"6",buy:2245000,pay:3108340},
- {m:"7",buy:730000,pay:1423036,partial:true}
+ {m:"26.1",buy:1470000,pay:2022310},{m:"2",buy:2132420,pay:2313841},{m:"3",buy:2331000,pay:2436584},
+ {m:"4",buy:2563000,pay:3679494},{m:"5",buy:1770000,pay:1394054},{m:"6",buy:2245000,pay:2655410},
+ {m:"7",buy:730000,pay:1423036}
 ];
-const PENDING=4980000;
-const NS="http://www.w3.org/2000/svg";
-const el=(t,a)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);return e};
 
-// ── 메인 차트: 월별 매입 vs 결제 ──
-(function(){
-  const svg=document.getElementById("mainChart");
-  const W=1180,H=380,mx=46,base=H-42,plotH=base-34,maxV=4000000;
-  const n=D.length, slot=(W-mx-16)/n, bw=Math.min(slot*0.36,22);
-  [1000000,2000000,3000000,4000000].forEach(v=>{
-    const y=base-v/maxV*plotH;
-    svg.appendChild(el("line",{x1:mx,y1:y,x2:W-10,y2:y,stroke:"#f0e9db"}));
-    const t=el("text",{x:mx-6,y:y+4,"text-anchor":"end","font-size":"10.5",fill:"#a29b8b"});
-    t.textContent=(v/1000000)+"M"; svg.appendChild(t);
-  });
-  D.forEach((d,i)=>{
-    const cx=mx+slot*i+slot/2;
-    const bh=d.buy/maxV*plotH, ph=d.pay/maxV*plotH;
-    svg.appendChild(el("rect",{x:cx-bw-1.5,y:base-bh,width:bw,height:bh,rx:3,fill:"#0F2E4C"}));
-    if(d.partial){
-      const eh=PENDING/maxV*plotH;
-      svg.appendChild(el("rect",{x:cx-bw-1.5,y:base-bh-eh,width:bw,height:eh,rx:3,fill:"#c9b89a",stroke:"#b09b74","stroke-width":1,"stroke-dasharray":"3 3"}));
-    }
-    svg.appendChild(el("rect",{x:cx+1.5,y:base-ph,width:bw,height:ph,rx:3,fill:"#B87333"}));
-    const ml=el("text",{x:cx,y:base+17,"text-anchor":"middle","font-size":"11.5","font-weight":d.m.includes(".")?"700":"400",fill:"#2b2b2b"});
-    ml.textContent=d.m+(d.partial?"*":""); svg.appendChild(ml);
-  });
-  // 연 구분선
-  const xSep=mx+slot*12;
-  svg.appendChild(el("line",{x1:xSep,y1:20,x2:xSep,y2:base,stroke:"#d9d0c1","stroke-width":1,"stroke-dasharray":"5 4"}));
-  const y25=el("text",{x:xSep-8,y:24,"text-anchor":"end","font-size":"11","font-weight":"700",fill:"#a29b8b"});
-  y25.textContent="2025"; svg.appendChild(y25);
-  const y26=el("text",{x:xSep+8,y:24,"font-size":"11","font-weight":"700",fill:"#a29b8b"});
-  y26.textContent="2026"; svg.appendChild(y26);
-  // 메치오닌 급등 주석 (26.4)
-  const ax=mx+slot*15+slot/2;
-  const at=el("text",{x:ax,y:base-3679494/maxV*plotH-10,"text-anchor":"middle","font-size":"11","font-weight":"700",fill:"#B3402A"});
-  at.textContent="결제 $368만 — 메치오닌 급등"; svg.appendChild(at);
-  svg.appendChild(el("line",{x1:mx,y1:base,x2:W-10,y2:base,stroke:"#d9d0c1","stroke-width":1.5}));
-})();
-
-// ── 표 ──
-(function(){
-  const tb=document.getElementById("tbody");
-  const f=n=>"$"+Math.round(n).toLocaleString();
-  let y25b=0,y25p=0,y26b=0,y26p=0;
-  D.forEach((d,i)=>{
-    const yr26=i>=12;
-    if(yr26){y26b+=d.buy;y26p+=d.pay}else{y25b+=d.buy;y25p+=d.pay}
-    const gap=d.buy-d.pay;
-    const tr=document.createElement("tr");
-    if(d.partial) tr.className="now";
-    tr.innerHTML=`<td>${(yr26?"26년 ":"25년 ")+d.m.replace("25.","").replace("26.","")}월${d.partial?' <span class="mini">진행중</span>':''}</td>
-      <td>${f(d.buy)}</td><td>${f(d.pay)}</td>
-      <td class="${gap>=0?'gap-plus':'gap-minus'}">${gap>=0?'+':''}${f(gap).replace('$-','-$')}</td>
-      <td>${f(d.pay/12)}</td>`;
-    tb.appendChild(tr);
-    if(i===11){
-      const yr=document.createElement("tr"); yr.className="yr";
-      yr.innerHTML=`<td>2025년 합계</td><td>${f(y25b)}</td><td>${f(y25p)}</td><td class="gap-plus">+${f(y25b-y25p)}</td><td>${f(y25p/12/12)}</td>`;
-      tb.appendChild(yr);
-    }
-    if(i===D.length-1){
-      const yr=document.createElement("tr"); yr.className="yr";
-      const g=y26b-y26p;
-      yr.innerHTML=`<td>2026년 1~7월</td><td>${f(y26b)}</td><td>${f(y26p)}</td><td class="gap-minus">${f(g).replace('$-','-$')}</td><td>${f(y26p/7/12)}</td>`;
-      tb.appendChild(yr);
-    }
-  });
-})();
-
-// ── 외환 뉴스 로딩 (news.json — GitHub Actions가 자동 갱신) ──
-(async function(){
-  const list=document.getElementById("newsList"), upd=document.getElementById("newsUpd");
+// ── 1. 오늘 환율 ──
+async function loadRate(){
   try{
-    const r=await fetch("news.json?t="+Date.now());
-    if(!r.ok) throw new Error(r.status);
-    const d=await r.json();
-    upd.textContent="업데이트 "+d.updated+" KST";
-    if(!d.items || !d.items.length){ list.innerHTML='<li class="empty">최근 3일 내 뉴스가 없습니다.</li>'; return; }
-    list.innerHTML=d.items.map(n=>
-      `<li><span class="tm">${n.time}</span><a href="${n.link}" target="_blank" rel="noopener">${n.hot?'<span class="hotdot"></span>':''}${n.title}</a><span class="src">${n.source}</span></li>`
-    ).join("");
+    const [cur,prev]=await Promise.all([
+      fetch(`${FX_API}/latest?from=USD&to=KRW`).then(r=>r.json()),
+      fetch(`${FX_API}/latest?from=USD&to=KRW`).then(r=>r.json())  // placeholder
+    ]);
+    const rate=cur.rates.KRW, date=cur.date;
+    // 전일 대비: 최근 5영업일 가져와 직전값과 비교
+    const end=date;
+    const start=new Date(new Date(date).getTime()-9*864e5).toISOString().slice(0,10);
+    const hist=await fetch(`${FX_API}/${start}..${end}?from=USD&to=KRW`).then(r=>r.json());
+    const dates=Object.keys(hist.rates).sort();
+    const last=dates[dates.length-1], prevD=dates[dates.length-2];
+    const chg=rate-hist.rates[prevD].KRW;
+    $("rNow").textContent=rate.toFixed(2);
+    const chgEl=$("rChg");
+    chgEl.textContent=(chg>=0?"▲ ":"▼ ")+Math.abs(chg).toFixed(2);
+    chgEl.className="chg "+(chg>=0?"up":"down");
+    $("rMeta").innerHTML=`ECB 고시 <b>${date}</b> · 시장 참고용`;
   }catch(e){
-    list.innerHTML='<li class="empty">뉴스 파일(news.json)을 아직 불러올 수 없습니다 — GitHub Actions 첫 실행 후 표시됩니다.</li>';
-    upd.textContent="";
+    $("rNow").textContent="—";
+    $("rMeta").textContent="환율을 불러올 수 없습니다";
   }
-})();
+}
+
+// ── 2. 진행률 게이지 + 오늘 권고 ──
+async function loadGauge(){
+  let P;
+  try{ P=await fetch("purchases.json?t="+Date.now()).then(r=>r.json()); }
+  catch(e){ $("gMonth").textContent="purchases.json 없음"; return; }
+
+  const bought=P.log.reduce((a,x)=>a+x.amount,0);
+  const target=P.target;
+  const left=Math.max(0,target-bought);
+  const pct=Math.min(100,bought/target*100);
+
+  const [y,mo]=P.month.split("-").map(Number);
+  $("gMonth").textContent=`${y}년 ${mo}월`;
+  $("gTarget").textContent=won(target);
+  $("gBought").textContent=won(bought);
+  $("gLeft").textContent=won(left);
+  $("gFill").style.width=pct+"%";
+  $("gPct").textContent=pct.toFixed(0)+"%";
+
+  // 이번 달 남은 영업일(주말 제외, 대략)
+  const today=new Date();
+  const isThisMonth=(today.getFullYear()===y && today.getMonth()+1===mo);
+  let bizLeft=0;
+  if(isThisMonth){
+    const last=new Date(y,mo,0).getDate();
+    for(let d=today.getDate();d<=last;d++){
+      const wd=new Date(y,mo-1,d).getDay();
+      if(wd!==0&&wd!==6) bizLeft++;
+    }
+  }else bizLeft=8; // 과거/미래 달이면 기본값
+  // 실제 조달일은 영업일의 약 60% (월 12일꼴) → 남은 조달일 추정
+  const procLeft=Math.max(1,Math.round(bizLeft*0.6));
+  $("gDaysLeft").textContent=procLeft+"일";
+
+  // 적정 페이스선 (오늘까지 며칠 지났나 기준)
+  if(isThisMonth){
+    const last=new Date(y,mo,0).getDate();
+    const paceExpected=(today.getDate()/last)*100;
+    $("gPace").style.left=Math.min(100,paceExpected)+"%";
+  }else $("gPace").style.display="none";
+
+  // 오늘 권고
+  const perDay=left/procLeft;
+  const split=3;
+  const perShot=perDay/split;
+  const card=$("todayCard");
+
+  if(left<=0){
+    card.className="today done";
+    $("tPerDay").textContent="완료 ✓";
+    $("tShots").innerHTML="";
+    $("tMsg").textContent=`이번 달 목표 달성! 추가 조달 불필요. 초과분 ${won(bought-target)}은 다음 달 이월.`;
+  }else{
+    $("tPerDay").innerHTML=won(perDay)+' <small>/ 오늘</small>';
+    const labels=["오전(개장)","점심무렵","오후(마감전)"];
+    $("tShots").innerHTML=labels.map((l,i)=>
+      `<div class="shot"><div class="n">${i+1}회 ${l}</div><div class="a">${won(perShot)}</div></div>`).join("");
+    if(perDay>300000){
+      card.className="today surge";
+      $("tMsg").innerHTML=`⚠ 비상 페이스입니다. 남은 조달일(${procLeft}일)에 비해 남은 금액이 큽니다. 조달일을 앞당기거나 선물환 확보를 검토하세요.`;
+    }else{
+      card.className="today";
+      $("tMsg").innerHTML=`남은 ${won(left)}를 ${procLeft}일에 나눠 집행. 회당 ${won(perShot)}씩 ${split}번.`;
+    }
+  }
+}
+
+// ── 3. 과거 환율 차트 ──
+let fxCache={};
+async function loadFxChart(days){
+  [...$("rangeBtns").children].forEach(b=>b.classList.toggle("on",+b.dataset.d===days));
+  const svg=$("fxChart");
+  svg.innerHTML='<text x="410" y="150" text-anchor="middle" fill="#a29b8b" font-size="13">불러오는 중…</text>';
+  try{
+    let series=fxCache[days];
+    if(!series){
+      const end=new Date().toISOString().slice(0,10);
+      const start=new Date(Date.now()-days*864e5).toISOString().slice(0,10);
+      const d=await fetch(`${FX_API}/${start}..${end}?from=USD&to=KRW`).then(r=>r.json());
+      series=Object.entries(d.rates).map(([dt,v])=>({dt,v:v.KRW})).sort((a,b)=>a.dt<b.dt?-1:1);
+      fxCache[days]=series;
+    }
+    drawFx(series);
+  }catch(e){
+    svg.innerHTML='<text x="410" y="150" text-anchor="middle" fill="#a29b8b" font-size="13">환율 차트를 불러올 수 없습니다</text>';
+  }
+}
+function drawFx(series){
+  const svg=$("fxChart"),NS="http://www.w3.org/2000/svg";
+  const el=(t,a)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);return e};
+  svg.innerHTML="";
+  const W=820,H=300,mL=52,mR=14,mT=16,mB=28;
+  const vals=series.map(s=>s.v),min=Math.min(...vals),max=Math.max(...vals),pad=(max-min)*0.15||5;
+  const lo=min-pad,hi=max+pad;
+  const x=i=>mL+(W-mL-mR)*i/(series.length-1);
+  const y=v=>mT+(H-mT-mB)*(1-(v-lo)/(hi-lo));
+  // 그리드
+  for(let g=0;g<=3;g++){
+    const val=lo+(hi-lo)*g/3,yy=y(val);
+    svg.appendChild(el("line",{x1:mL,y1:yy,x2:W-mR,y2:yy,stroke:"#f0e9db"}));
+    const t=el("text",{x:mL-6,y:yy+4,"text-anchor":"end","font-size":"10.5",fill:"#a29b8b"});
+    t.textContent=Math.round(val); svg.appendChild(t);
+  }
+  // area + line
+  let dLine="",dArea="";
+  series.forEach((s,i)=>{const px=x(i),py=y(s.v);dLine+=(i?"L":"M")+px+" "+py;dArea+=(i?"L":"M")+px+" "+py;});
+  dArea+=`L${x(series.length-1)} ${H-mB}L${mL} ${H-mB}Z`;
+  const grad=el("linearGradient",{id:"fxg",x1:"0",y1:"0",x2:"0",y2:"1"});
+  grad.innerHTML='<stop offset="0" stop-color="#0F2E4C" stop-opacity="0.18"/><stop offset="1" stop-color="#0F2E4C" stop-opacity="0"/>';
+  svg.appendChild(grad);
+  svg.appendChild(el("path",{d:dArea,fill:"url(#fxg)"}));
+  svg.appendChild(el("path",{d:dLine,fill:"none",stroke:"#0F2E4C","stroke-width":2}));
+  // 끝점
+  const lastP=series[series.length-1];
+  svg.appendChild(el("circle",{cx:x(series.length-1),cy:y(lastP.v),r:4,fill:"#B87333"}));
+  // x축 라벨 (양끝 + 중간)
+  [0,Math.floor(series.length/2),series.length-1].forEach(i=>{
+    const t=el("text",{x:x(i),y:H-8,"text-anchor":i===0?"start":i===series.length-1?"end":"middle","font-size":"10.5",fill:"#a29b8b"});
+    t.textContent=series[i].dt.slice(5); svg.appendChild(t);
+  });
+  // 통계
+  const first=series[0].v,last=lastP.v,chg=last-first;
+  $("fxStat").innerHTML=`기간 시작 <b>${first.toFixed(1)}</b> · 현재 <b>${last.toFixed(1)}</b> · 변동 <b style="color:${chg>=0?'#c0392b':'#1f6f54'}">${chg>=0?'+':''}${chg.toFixed(1)}</b> · 최고 <b>${max.toFixed(1)}</b> · 최저 <b>${min.toFixed(1)}</b>`;
+}
+
+// ── 4. 뉴스 ──
+async function loadNews(){
+  const list=$("newsList"),upd=$("newsUpd");
+  try{
+    const d=await fetch("news.json?t="+Date.now()).then(r=>r.json());
+    upd.textContent="업데이트 "+d.updated+" KST";
+    if(!d.items||!d.items.length){list.innerHTML='<li class="empty">최근 뉴스 없음</li>';return;}
+    list.innerHTML=d.items.map(n=>
+      `<li><span class="tm">${n.time}</span><a href="${n.link}" target="_blank" rel="noopener">${n.hot?'<span class="hotdot"></span>':''}${n.title}</a><span class="src">${n.source}</span></li>`).join("");
+  }catch(e){ list.innerHTML='<li class="empty">뉴스 파일을 아직 불러올 수 없습니다 (첫 수집 후 표시)</li>'; }
+}
+
+// ── 5. 월별 수급표 ──
+function loadSupply(){
+  $("supplyBody").innerHTML=SUPPLY.map(d=>{
+    const g=d.buy-d.pay;
+    return `<tr><td>${d.m}월</td><td>${won(d.buy)}</td><td>${won(d.pay)}</td><td class="${g>=0?'plus':'minus'}">${g>=0?'+':''}${won(g).replace('$-','-$')}</td></tr>`;
+  }).join("");
+}
+
+// init
+loadRate(); loadGauge(); loadFxChart(90); loadNews(); loadSupply();
+$("rangeBtns").addEventListener("click",e=>{if(e.target.dataset.d)loadFxChart(+e.target.dataset.d);});
 </script>
 </body>
 </html>
