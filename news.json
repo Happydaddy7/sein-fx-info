@@ -1,21 +1,29 @@
 {
- "updated": "2026-07-20 19:39",
+ "updated": "2026-07-21 08:04",
  "summary": {
-  "up": 12,
-  "down": 6,
+  "up": 11,
+  "down": 7,
   "neutral": 0
  },
  "items": [
   {
-   "title": "기준금리 인상 여파… 5대 은행, 고정형 주담대 상단 7% 중반대 육박",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yMHkzY0dMUERCNmYzLXZTTHVfUkhzcU1pc05uZkVUcGpaSEMwc2xPNnZIc09mMk5LSGFGaGNiQlNGWV9XSnNxZmRQN2pVc3BqQXh4UlVaUk9CRDJPWHhkTWVUazdpazNC?oc=5",
-   "source": "CEO스코어데일리",
-   "time": "07/20 17:38",
+   "title": "\"1560원 위협하더니 1470원대로\"…환율 급락의 숨은 주역은 SK하이닉스",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16LU12XzNDNXZLeS1WMTVoT0pENzZTRjNDZDdvSVVialFkWlViMUFTeU4za1ZNRjZYNTR1NTFwQ1RDWGRSWHhkMFBJVFBkUVVzbDhFMXFGaThrbHN5Z3c1NFBiUWxrSmp2?oc=5",
+   "source": "ebn.co.kr",
+   "time": "07/21 07:14",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[충청논단] 기준금리 인상 후속대책 세워야",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDSTRZQzV3NUJ4OEJSa2ZoUDBBOUNCYmx4MXpaeVpvS0NRRENvTDNTdjRMX0VlQVdjcVFMb3prOVpON2FTWFpiUThpSmZCeEU?oc=5",
+   "source": "v.daum.net",
+   "time": "07/20 20:04",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "“어느덧 원·엔 환율 900원대 눈앞”…엔화 약세에도 원·달러 환율은 급락",
+   "title": "\"어느덧 원·엔 환율 900원대 눈앞\"…엔화 약세에도 원·달러 환율은 급락",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00QkVsSWlPcWFFS3o4VjROS0VDUGgtQjZNSzdDSklFUnlPdEhEbGRNbkpjVGxJTjdKRWg1SDRqX09ua0psTHlTZkNuTENVczQ?oc=5",
    "source": "v.daum.net",
    "time": "07/20 17:01",
@@ -79,14 +87,6 @@
    "strength": 1
   },
   {
-   "title": "여전채 4.5%·기준금리 인상 '이중고'…카드사 조달비용 비상",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52OVZFVmJzSFRTVFJRdkJFbTZRQkd2d256bW9qX1RiX2kzT3gyRlJZdE9XYjI0MU5uVUJXekpPc29mTWE4Q1hwT3J5eUVOLUhwVEQ3UG1MY3E2b2h1MHV5WDY3M1h6OWxf?oc=5",
-   "source": "녹색경제신문",
-   "time": "07/20 14:22",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "기준금리 인상에…시중은행 예·적금 금리 오른다",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mQ2xVTThRRHhIZi1tRVhxSFh0Wm41TTRxTVZCdUN5dHROU0d2RXNxU3BfQXBTNVdTdHpMR1ZRaVE3bDlOVE5jdjJEaVdPbVNqZHotWFRTZ2pCeFpNck5hTA?oc=5",
    "source": "아시아경제",
@@ -111,14 +111,6 @@
    "strength": 1
   },
   {
-   "title": "기준금리 인상 직격탄 맞은 중소기업…연체율·부실채권 동반 상승",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vTzZRWVpRX3hUcE1nMXM4V2RzREUtOXhLNDJJZENrZC12QkxnUkZZcFU1a1QxQl9LdnhIXzJQVHdHQ0NWcU5IMXZ2Ml83aDBmTFYyZWd6S3BmcnE4NmF1OG1ybU9JTEJFQ013?oc=5",
-   "source": "hdnews.co.kr",
-   "time": "07/20 10:18",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "미·이란 확전에 금값 하락…\"연준 금리 인상\" 우려 부각",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0QzUtc0FMR0hRTEZ5dXJDT0QwanRxazAwaFpmRnotSVg3cU9PX00tQS1ZUmhDRFN0aEFWNVRoSlZ6bGhTRjl4T1ltVDFpLWt5OXFRWGh1bXNUOXd4bnlhQXRTaDRneDFf?oc=5",
    "source": "ebn.co.kr",
@@ -127,26 +119,34 @@
    "strength": 1
   },
   {
+   "title": "달러·원 환율 1490원 안팎 거래…중동 불안에 위험회피 확산",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QlRsMXhvN1BTZzNCOWJyMmVRMWI2bGJqWmNweGhpTHg2amlBaFA5cUQ0eGJ2cG54RnYyOGh4UE5id2kyOXJwSXRGU3JESGdjVVVpcFc5WGxWX3M?oc=5",
+   "source": "뉴스1",
+   "time": "07/20 09:36",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[포토] 원/달러 환율 상승, 코스피 하락 출발",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96TUp0YjZIcUdjb1ZNM3RXVG5ZRWZKT25UbDI3WXEwR29BRThJeGlLbm9lZGpIODd3Tm1LNVFpeDdPQ0ttNWlXbmwwalRnUWtsSDE1NzR5Zm0yd0psdmZUXw?oc=5",
+   "source": "아시아경제",
+   "time": "07/20 09:26",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[오늘 금시세] Fed 긴축 전망에 금값, 4천달러선 하회",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SODI1cDhsRjNWdWdDNlpXOExzazEzbEVHb0dKcFNuNl9HcnZpck1YSlU2eEtNYUt6Q09UZkhpZTFrLTNKUVhxTTlab0RDZVl3TTZUNVFrV01vdWZoc2V4a0YwVFZXb0NBaUQwZtIBcEFVX3lxTFAycmctS283QVhqS09EWFBvY09fODR2dnhSRWZnMVQ3OWJZeEVwOENjaG9NWFZGZ1BCRWlQSEc3SXlGM1JmSW9KempWY2phU0FqWnF0ZGNUdmVWRFdRTmVsX1g3T3R3Y2VVVW8ybUFDbk4?oc=5",
+   "source": "남도일보",
+   "time": "07/20 09:20",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "위험회피에 달러 강세…달러인덱스(DXY), 100.5 핵심 지지선 하향 이탈 리스크",
    "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNcTBlUDdLMndjMzA2R3MwdzB0NDBSN0ZpY2FKWENJSTBwSnNyTktZVzZpQkoxU0FsbFlJNk9VSVBJY1hYdmV0U0xScWZGTlVxaU9zQ0ZNTElyclUweV9Mbm9oZGswdWVHT2g4aldRZGstYzl0eGZfb1lpaDdpNTV6NURpZ0lfcUZmS2ZneVpxNGlqUHBMRTA3UlZuTVhMU01Vc1pUT2JvTkFhb29NNS11YUVLQVFSd3hCOEY0ME0wZDIzR1EtLW56NXNGME1rZnU0ZG1wX0N5ZlBkQVJ4S0FCZ1licm9QWnVMeTFVdnlxaTg2VGY2VElCUkh5ckJlaEhPN0xyNkNKR0pJV0NicGdGdW5RV0s5UzR5LWw5cGJNN2h6Zmt3SWs3OTNIbDZGWGI0VjRCanRrTVloZkFSLVRNRnNjOWFFSEtLLTJFUjhrSGcxUQ?oc=5",
    "source": "VT Markets",
    "time": "07/18 15:57",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "'연준 매파' 해맥 \"인플레 너무 높아…모든 FOMC 열린 마음으로\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZmxkRmJOcFRmUE1xUjk2ejNNNExJanlxZ2RyMmlOVXNSVTVYUWpHbkVzUFBTaW9XNktrUDBoUzdNRjN3cDJBV1BaUXdtbHNXZ2E2M0NuYU9BZFpVRGwyYkFmZUx3R1pGbUh0Rm5tV3Q?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/18 05:57",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "위험회피 심리·유가·금리 상승에 달러 강세…멕시코 페소 약세, 달러/페소 17.43 근접",
-   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPaXUtSGUzeTJQMEppdmFleF8zQW5DdFg5cUg0Y0FPMVduQ01UQTA3YmtRTWQ3eE9CZ1BScjk5OVR0cWhPV1d5Y3FMSTYyVEZwcnpkVzNYeWJZdFJVUFUyYUIzOE5OMG00dUk0b2FLakJvNEFPb1JleFFoa2ZGNGRVekhqdDNIMkc2WG82SzVDOGMyRVd5QmNPam5sVjBYQW9fX0Nralc1LVg0YXRlOW55S1FBR1ZCQ19kZ0xNT3FnZWxiUWhOdnFsaEdld3B1bGsxeVIzUzN5QlNpSHNVRXRVVm5RazZvVGgxZUVwekJoeE1Ienl1Y25aMDJKLVRmeWwySEhqS1dYQ0VuQmRiWXNDQklLOHpUMlRLMGtPbzBXeWRUWmFZVnN1N2RfNTY3eDNOUlByTThZMmpPMGtzdE55Ml9tZVljZHFKdHV4Z2tzZ3R6RFFoMkE?oc=5",
-   "source": "VT Markets",
-   "time": "07/18 04:55",
    "dir": "up",
    "strength": 2
   }
