@@ -203,23 +203,27 @@ const SUPPLY=[
 // ── 1. 오늘 환율 ──
 async function loadRate(){
   try{
-    const [cur,prev]=await Promise.all([
-      fetch(`${FX_API}/latest?from=USD&to=KRW`).then(r=>r.json()),
-      fetch(`${FX_API}/latest?from=USD&to=KRW`).then(r=>r.json())  // placeholder
-    ]);
-    const rate=cur.rates.KRW, date=cur.date;
-    // 전일 대비: 최근 5영업일 가져와 직전값과 비교
-    const end=date;
-    const start=new Date(new Date(date).getTime()-9*864e5).toISOString().slice(0,10);
+    // 최근 약 2주치를 한 번에 가져와서, 마지막값 = 오늘 / 그 전값 = 전일 비교
+    const end=new Date().toISOString().slice(0,10);
+    const start=new Date(Date.now()-16*864e5).toISOString().slice(0,10);
     const hist=await fetch(`${FX_API}/${start}..${end}?from=USD&to=KRW`).then(r=>r.json());
     const dates=Object.keys(hist.rates).sort();
-    const last=dates[dates.length-1], prevD=dates[dates.length-2];
-    const chg=rate-hist.rates[prevD].KRW;
+    if(!dates.length) throw new Error("no data");
+
+    const lastD=dates[dates.length-1];
+    const rate=hist.rates[lastD].KRW;
+    // 환율 숫자는 무조건 먼저 표시
     $("rNow").textContent=rate.toFixed(2);
-    const chgEl=$("rChg");
-    chgEl.textContent=(chg>=0?"▲ ":"▼ ")+Math.abs(chg).toFixed(2);
-    chgEl.className="chg "+(chg>=0?"up":"down");
-    $("rMeta").innerHTML=`ECB 고시 <b>${date}</b> · 시장 참고용`;
+    $("rMeta").innerHTML=`ECB 고시 <b>${lastD}</b> · 시장 참고용`;
+
+    // 전일 대비는 있으면 표시 (없어도 환율은 이미 떴음)
+    if(dates.length>=2){
+      const prevD=dates[dates.length-2];
+      const chg=rate-hist.rates[prevD].KRW;
+      const chgEl=$("rChg");
+      chgEl.textContent=(chg>=0?"▲ ":"▼ ")+Math.abs(chg).toFixed(2);
+      chgEl.className="chg "+(chg>=0?"up":"down");
+    }
   }catch(e){
     $("rNow").textContent="—";
     $("rMeta").textContent="환율을 불러올 수 없습니다";
