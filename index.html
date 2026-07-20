@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>외화 수급 — 매달 얼마 나가고, 얼마 사고, 하루에 얼마 조달할까</title>
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@700&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#0F2E4C;--copper:#B87333;--ivory:#F5EFE6;--alert:#B3402A;--line:#d9d0c1;--pending:#c9b89a}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Pretendard',sans-serif;background:var(--ivory);color:#2b2b2b;line-height:1.6}
+.wrap{max-width:880px;margin:0 auto;padding:0 22px}
+
+header{background:var(--navy);color:#fff;padding:34px 0 30px;text-align:center}
+header h1{font-family:'Noto Serif KR',serif;font-size:24px}
+header p{margin-top:8px;font-size:13.5px;color:#b8c4d0}
+
+/* 답 카드 */
+.answer{background:#fff;border:1px solid var(--line);border-radius:12px;margin-top:-16px;padding:26px 28px;box-shadow:0 4px 16px rgba(15,46,76,.08)}
+.answer .grid{display:grid;grid-template-columns:1fr 1fr 1.2fr;gap:0;text-align:center}
+.answer .cell{padding:6px 14px}
+.answer .cell + .cell{border-left:1px solid #eee6d8}
+.answer .q{font-size:13.5px;color:#8b8577}
+.answer .v{font-family:'Noto Serif KR',serif;font-size:27px;font-weight:700;color:var(--navy);margin-top:6px}
+.answer .cell.goal .v{color:var(--copper);font-size:29px}
+.answer .a{font-size:12.5px;color:#6b6558;margin-top:4px}
+.answer .basis{margin-top:16px;padding-top:14px;border-top:1px dashed var(--line);font-size:13px;color:#555;text-align:center}
+.answer .basis b{color:var(--navy)}
+
+/* 차트 */
+section{margin-top:36px}
+section h2{font-family:'Noto Serif KR',serif;font-size:19px;color:var(--navy);margin-bottom:6px}
+section .desc{font-size:13.5px;color:#6b6558;margin-bottom:14px}
+.chartbox{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px 16px}
+.legend{display:flex;gap:18px;font-size:12.5px;margin-bottom:6px;flex-wrap:wrap;justify-content:center}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.sw{width:13px;height:13px;border-radius:3px}
+.sw.buy{background:var(--navy)} .sw.pay{background:var(--copper)} .sw.pend{background:var(--pending)}
+svg{width:100%;height:auto;display:block}
+
+/* 룰 카드 */
+.rules{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.rule{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px;text-align:center}
+.rule.base{border-top:5px solid var(--navy)}
+.rule.surge{border-top:5px solid var(--alert)}
+.rule .t{font-size:14px;font-weight:700;color:var(--navy)}
+.rule.surge .t{color:var(--alert)}
+.rule .v{font-family:'Noto Serif KR',serif;font-size:30px;font-weight:700;color:var(--navy);margin:8px 0 4px}
+.rule.surge .v{color:var(--alert)}
+.rule .a{font-size:13px;color:#6b6558}
+
+/* 표 */
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:13.5px}
+thead th{background:var(--navy);color:#fff;font-weight:600;padding:10px 12px;font-size:12.5px;text-align:right}
+thead th:first-child{text-align:left}
+tbody td{padding:9px 12px;border-top:1px solid #f0e9db;text-align:right;font-variant-numeric:tabular-nums}
+tbody td:first-child{text-align:left;font-weight:700;color:var(--navy)}
+tbody td.gap-plus{color:#3E6B4F;font-weight:600}
+tbody td.gap-minus{color:var(--alert);font-weight:600}
+tbody tr.yr td{background:#efe7d8;font-weight:700;color:var(--navy)}
+tbody tr.now td{background:#f3ede0}
+.mini{font-size:11.5px;color:#a29b8b}
+
+.insight{background:var(--navy);color:#fff;border-radius:12px;padding:24px 26px;margin-top:36px}
+.insight h2{font-family:'Noto Serif KR',serif;font-size:17px;color:#d99a5b;margin-bottom:12px}
+.insight li{list-style:none;font-size:13.5px;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.12);color:#dde5ec}
+.insight li:last-child{border:none}
+.insight b{color:#fff}
+.insight .warn{color:#f0b8a8}
+
+
+/* 뉴스 */
+.news{background:#fff;border:1px solid var(--line);border-radius:12px;padding:20px 24px}
+.news .head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px}
+.news .upd{font-size:11.5px;color:#a29b8b}
+.news ul{list-style:none}
+.news li{padding:9px 0;border-bottom:1px solid #f0e9db;font-size:14px;display:flex;gap:10px;align-items:baseline}
+.news li:last-child{border:none}
+.news .tm{flex:0 0 78px;font-size:12px;color:#a29b8b;font-variant-numeric:tabular-nums}
+.news a{color:#2b2b2b;text-decoration:none;flex:1}
+.news a:hover{color:var(--copper);text-decoration:underline}
+.news .src{font-size:11.5px;color:#8b8577;white-space:nowrap}
+.news .hotdot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--alert);margin-right:6px;vertical-align:middle}
+.news .empty{font-size:13px;color:#a29b8b;padding:14px 0;text-align:center}
+footer{margin:40px 0 30px;text-align:center;font-size:11.5px;color:#a29b8b}
+@media(max-width:640px){
+  .answer .grid{grid-template-columns:1fr}
+  .answer .cell + .cell{border-left:none;border-top:1px solid #eee6d8;margin-top:8px;padding-top:12px}
+  .rules{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <h1>외화 수급 한 장 — 나가는 돈 · 사는 돈 · 하루 조달액</h1>
+    <p>2025.1 ~ 2026.7 (19개월) · 2026년 7월 13일 기준</p>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <!-- 답 -->
+  <div class="answer">
+    <div class="grid">
+      <div class="cell">
+        <div class="q">매달 나가는 돈</div>
+        <div class="v">평균 221만 불</div>
+        <div class="a">18개월 결제 실적 기준</div>
+      </div>
+      <div class="cell">
+        <div class="q">매달 사는 돈</div>
+        <div class="v">평균 206만 불</div>
+        <div class="a">한 달 11~13일에 나눠 조달</div>
+      </div>
+      <div class="cell goal">
+        <div class="q">그래서, 하루 조달 기준선</div>
+        <div class="v">18~19만 불</div>
+        <div class="a">월 결제액 ÷ 조달일 12일</div>
+      </div>
+    </div>
+    <div class="basis">검증: 2025년 매입 <b>$24.56M</b> vs 결제 <b>$24.36M</b> — 0.8% 차이로 일치. 이 회사의 수급은 <b>"나갈 만큼 산다"</b>로 이미 균형이 잡혀 있습니다.</div>
+  </div>
+
+
+  <!-- 외환 뉴스 (자동 수집) -->
+  <section>
+    <h2>오늘의 외환시장</h2>
+    <div class="desc">Google News에서 2시간마다 자동 수집 (원달러 환율 · 외환시장 · 연준 · 한국은행). 제목을 누르면 원문으로 이동합니다.</div>
+    <div class="news">
+      <div class="head"><span style="font-size:13px;font-weight:700;color:var(--navy)">주요 뉴스</span><span class="upd" id="newsUpd"></span></div>
+      <ul id="newsList"><li class="empty">뉴스를 불러오는 중…</li></ul>
+    </div>
+  </section>
+
+  <!-- 메인 차트 -->
+  <section>
+    <h2>매달, 산 돈과 나간 돈</h2>
+    <div class="desc">남색이 산 돈(매입), 구리색이 나간 돈(결제). 두 막대의 키가 비슷하면 균형, 구리색이 크면 그 달은 모자란 만큼 미리 사둔 달러에서 꺼내 쓴 것.</div>
+    <div class="chartbox">
+      <div class="legend">
+        <span><i class="sw buy"></i>산 돈 (매입)</span>
+        <span><i class="sw pay"></i>나간 돈 (결제)</span>
+        <span><i class="sw pend"></i>7월 대기 선물환</span>
+      </div>
+      <svg id="mainChart" viewBox="0 0 1180 380"></svg>
+    </div>
+  </section>
+
+  <!-- 하루 조달 룰 -->
+  <section>
+    <h2>하루에 얼마 조달할까 — 두 개의 기어</h2>
+    <div class="desc">지난 19개월 데이터가 알려주는 운영 룰입니다.</div>
+    <div class="rules">
+      <div class="rule base">
+        <div class="t">평상시 기어</div>
+        <div class="v">하루 $185K</div>
+        <div class="a">평달 결제 소요 약 $220만 ÷ 조달일 12일.<br>실제 25년 내내 이 페이스($150~230K)로 운영됨.</div>
+      </div>
+      <div class="rule surge">
+        <div class="t">비상 기어 (가격 급등기)</div>
+        <div class="v">하루 $300K</div>
+        <div class="a">26년 4월형 피크(결제 $368만) 대비.<br>메치오닌 급등 같은 신호가 오면 두 달 전부터 전환.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 표 -->
+  <section>
+    <h2>월별 상세</h2>
+    <table>
+      <thead><tr><th>월</th><th>산 돈</th><th>나간 돈</th><th>차이</th><th>하루 조달 필요액*</th></tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <p class="mini" style="margin-top:8px">* 그 달 나간 돈 ÷ 조달일 12일. 8월 이후 나갈 돈은 6~7월 통관분 자료가 오면 채워집니다.</p>
+  </section>
+
+  <!-- 인사이트 -->
+  <div class="insight">
+    <h2>이 그림이 말해주는 것</h2>
+    <ul>
+      <li><b>2025년은 완벽한 균형</b> — 산 돈 $24.56M, 나간 돈 $24.36M. 매달 나갈 만큼 사는 구조가 이미 작동하고 있었습니다.</li>
+      <li><span class="warn">2026년 상반기는 나간 돈이 $293만 더 많았습니다.</span> 메치오닌 급등(3~6월)으로 결제액이 뛰었는데 매입 페이스는 그대로였기 때문. 4월엔 결제 $368만 vs 매입 $256만.</li>
+      <li>그 대응으로 지금 <b>실행 대기 선물환 $498만</b>을 쌓아둔 상태 — 7~8월 확정 결제($192만)의 2.6배라 당장은 여유. 단, 확보환율 1,515원이므로 환율이 더 내려가면 대기분부터 소진하는 게 유리합니다.</li>
+      <li><b>궁극의 답:</b> 하루 조달액은 고정값이 아니라 <b>"두 달 뒤 나갈 돈"에서 역산</b>하는 값입니다. 이번 달 통관액을 보면 두 달 뒤 결제액이 보이고, 그걸 12일로 나누면 그 달의 하루 조달 목표가 나옵니다. 이 대시보드에 매달 통관자료만 얹으면 자동으로 계산됩니다.</li>
+    </ul>
+  </div>
+
+  <footer>세인바이오 AI혁신팀 · sein-fx-info v1 · 자료: 26년 외화구매내역 + 수입통관·미불금 내역 (25.9~26.7 스냅샷 5장 통합, 중복 274건 제거)</footer>
+</div>
+
+<script>
+const D = [
+ {m:"25.1",buy:1840000,pay:1780290},{m:"2",buy:2370000,pay:2096080},{m:"3",buy:1500000,pay:1950242},
+ {m:"4",buy:1580000,pay:1520606},{m:"5",buy:2310000,pay:2359060},{m:"6",buy:1950000,pay:1940401},
+ {m:"7",buy:2800000,pay:2823022},{m:"8",buy:1540000,pay:1509883},{m:"9",buy:1880000,pay:1900552},
+ {m:"10",buy:1990000,pay:1981369},{m:"11",buy:2265000,pay:2321884},{m:"12",buy:2538921,pay:2179275},
+ {m:"26.1",buy:1470000,pay:2408356},{m:"2",buy:2132420,pay:2313841},{m:"3",buy:2331000,pay:2436584},
+ {m:"4",buy:2563000,pay:3679494},{m:"5",buy:1770000,pay:1496804},{m:"6",buy:2245000,pay:3108340},
+ {m:"7",buy:730000,pay:1423036,partial:true}
+];
+const PENDING=4980000;
+const NS="http://www.w3.org/2000/svg";
+const el=(t,a)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);return e};
+
+// ── 메인 차트: 월별 매입 vs 결제 ──
+(function(){
+  const svg=document.getElementById("mainChart");
+  const W=1180,H=380,mx=46,base=H-42,plotH=base-34,maxV=4000000;
+  const n=D.length, slot=(W-mx-16)/n, bw=Math.min(slot*0.36,22);
+  [1000000,2000000,3000000,4000000].forEach(v=>{
+    const y=base-v/maxV*plotH;
+    svg.appendChild(el("line",{x1:mx,y1:y,x2:W-10,y2:y,stroke:"#f0e9db"}));
+    const t=el("text",{x:mx-6,y:y+4,"text-anchor":"end","font-size":"10.5",fill:"#a29b8b"});
+    t.textContent=(v/1000000)+"M"; svg.appendChild(t);
+  });
+  D.forEach((d,i)=>{
+    const cx=mx+slot*i+slot/2;
+    const bh=d.buy/maxV*plotH, ph=d.pay/maxV*plotH;
+    svg.appendChild(el("rect",{x:cx-bw-1.5,y:base-bh,width:bw,height:bh,rx:3,fill:"#0F2E4C"}));
+    if(d.partial){
+      const eh=PENDING/maxV*plotH;
+      svg.appendChild(el("rect",{x:cx-bw-1.5,y:base-bh-eh,width:bw,height:eh,rx:3,fill:"#c9b89a",stroke:"#b09b74","stroke-width":1,"stroke-dasharray":"3 3"}));
+    }
+    svg.appendChild(el("rect",{x:cx+1.5,y:base-ph,width:bw,height:ph,rx:3,fill:"#B87333"}));
+    const ml=el("text",{x:cx,y:base+17,"text-anchor":"middle","font-size":"11.5","font-weight":d.m.includes(".")?"700":"400",fill:"#2b2b2b"});
+    ml.textContent=d.m+(d.partial?"*":""); svg.appendChild(ml);
+  });
+  // 연 구분선
+  const xSep=mx+slot*12;
+  svg.appendChild(el("line",{x1:xSep,y1:20,x2:xSep,y2:base,stroke:"#d9d0c1","stroke-width":1,"stroke-dasharray":"5 4"}));
+  const y25=el("text",{x:xSep-8,y:24,"text-anchor":"end","font-size":"11","font-weight":"700",fill:"#a29b8b"});
+  y25.textContent="2025"; svg.appendChild(y25);
+  const y26=el("text",{x:xSep+8,y:24,"font-size":"11","font-weight":"700",fill:"#a29b8b"});
+  y26.textContent="2026"; svg.appendChild(y26);
+  // 메치오닌 급등 주석 (26.4)
+  const ax=mx+slot*15+slot/2;
+  const at=el("text",{x:ax,y:base-3679494/maxV*plotH-10,"text-anchor":"middle","font-size":"11","font-weight":"700",fill:"#B3402A"});
+  at.textContent="결제 $368만 — 메치오닌 급등"; svg.appendChild(at);
+  svg.appendChild(el("line",{x1:mx,y1:base,x2:W-10,y2:base,stroke:"#d9d0c1","stroke-width":1.5}));
+})();
+
+// ── 표 ──
+(function(){
+  const tb=document.getElementById("tbody");
+  const f=n=>"$"+Math.round(n).toLocaleString();
+  let y25b=0,y25p=0,y26b=0,y26p=0;
+  D.forEach((d,i)=>{
+    const yr26=i>=12;
+    if(yr26){y26b+=d.buy;y26p+=d.pay}else{y25b+=d.buy;y25p+=d.pay}
+    const gap=d.buy-d.pay;
+    const tr=document.createElement("tr");
+    if(d.partial) tr.className="now";
+    tr.innerHTML=`<td>${(yr26?"26년 ":"25년 ")+d.m.replace("25.","").replace("26.","")}월${d.partial?' <span class="mini">진행중</span>':''}</td>
+      <td>${f(d.buy)}</td><td>${f(d.pay)}</td>
+      <td class="${gap>=0?'gap-plus':'gap-minus'}">${gap>=0?'+':''}${f(gap).replace('$-','-$')}</td>
+      <td>${f(d.pay/12)}</td>`;
+    tb.appendChild(tr);
+    if(i===11){
+      const yr=document.createElement("tr"); yr.className="yr";
+      yr.innerHTML=`<td>2025년 합계</td><td>${f(y25b)}</td><td>${f(y25p)}</td><td class="gap-plus">+${f(y25b-y25p)}</td><td>${f(y25p/12/12)}</td>`;
+      tb.appendChild(yr);
+    }
+    if(i===D.length-1){
+      const yr=document.createElement("tr"); yr.className="yr";
+      const g=y26b-y26p;
+      yr.innerHTML=`<td>2026년 1~7월</td><td>${f(y26b)}</td><td>${f(y26p)}</td><td class="gap-minus">${f(g).replace('$-','-$')}</td><td>${f(y26p/7/12)}</td>`;
+      tb.appendChild(yr);
+    }
+  });
+})();
+
+// ── 외환 뉴스 로딩 (news.json — GitHub Actions가 자동 갱신) ──
+(async function(){
+  const list=document.getElementById("newsList"), upd=document.getElementById("newsUpd");
+  try{
+    const r=await fetch("news.json?t="+Date.now());
+    if(!r.ok) throw new Error(r.status);
+    const d=await r.json();
+    upd.textContent="업데이트 "+d.updated+" KST";
+    if(!d.items || !d.items.length){ list.innerHTML='<li class="empty">최근 3일 내 뉴스가 없습니다.</li>'; return; }
+    list.innerHTML=d.items.map(n=>
+      `<li><span class="tm">${n.time}</span><a href="${n.link}" target="_blank" rel="noopener">${n.hot?'<span class="hotdot"></span>':''}${n.title}</a><span class="src">${n.source}</span></li>`
+    ).join("");
+  }catch(e){
+    list.innerHTML='<li class="empty">뉴스 파일(news.json)을 아직 불러올 수 없습니다 — GitHub Actions 첫 실행 후 표시됩니다.</li>';
+    upd.textContent="";
+  }
+})();
+</script>
+</body>
+</html>
