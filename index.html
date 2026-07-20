@@ -136,8 +136,8 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
 
 <header>
   <div class="wrap">
-    <h1>오늘 달러, 얼마 사면 될까</h1>
-    <p>세인바이오 외환 조달 현황 · 황유나 과장 집행용</p>
+    <h1>외환 조달 현황</h1>
+    <p>세인바이오 · 이번 달 목표 대비 진행 · 보유 외화 · 시장 동향</p>
   </div>
 </header>
 
@@ -155,15 +155,7 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
     </div>
     <div class="subrow">
       <span>샀음 <b id="gBought">$0</b></span>
-      <span>남음 <b id="gLeft">$0</b> · 남은 조달일 <b id="gDaysLeft">—</b></span>
-    </div>
-
-    <!-- 오늘 권고 -->
-    <div class="today" id="todayCard">
-      <div class="cap">오늘 사야 할 금액</div>
-      <div class="big" id="tPerDay">—</div>
-      <div class="shots" id="tShots"></div>
-      <div class="msg" id="tMsg"></div>
+      <span>남음 <b id="gLeft">$0</b></span>
     </div>
   </div>
 
@@ -219,8 +211,8 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
 
   <!-- 월별 수급 -->
   <section>
-    <h2>월별 수급 (참고)</h2>
-    <div class="desc">매달 산 돈과 나간 돈. 길게 보면 균형 — 2025년 매입·결제 차이 0.8%.</div>
+    <h2>월별 수급 (2026년)</h2>
+    <div class="desc">매달 산 돈과 나간 돈. 1~6월 누계 매입 $12.51M / 송금 $12.77M (차이 −2.1%).</div>
     <div class="card" style="overflow-x:auto">
       <table>
         <thead><tr><th>월</th><th>산 돈</th><th>나간 돈</th><th>차이</th></tr></thead>
@@ -239,11 +231,8 @@ const FX_API="https://api.frankfurter.dev/v1";
 
 // ── 월별 수급 (고정 데이터) ──
 const SUPPLY=[
- {m:"25.7",buy:2800000,pay:2823022},{m:"8",buy:1540000,pay:1509883},{m:"9",buy:1880000,pay:1900552},
- {m:"10",buy:1990000,pay:1981369},{m:"11",buy:2265000,pay:2321884},{m:"12",buy:2538921,pay:2179275},
- {m:"26.1",buy:1470000,pay:2022310},{m:"2",buy:2132420,pay:2313841},{m:"3",buy:2331000,pay:2436584},
- {m:"4",buy:2563000,pay:3679494},{m:"5",buy:1770000,pay:1394054},{m:"6",buy:2245000,pay:2655410},
- {m:"7",buy:730000,pay:1423036}
+ {m:"1",buy:1470000,pay:1432493},{m:"2",buy:2132420,pay:2137356},{m:"3",buy:2331000,pay:2493727},
+ {m:"4",buy:2563000,pay:2598688},{m:"5",buy:1770000,pay:1870411},{m:"6",buy:2245000,pay:2241149}
 ];
 
 // ── 1. 오늘 환율 ──
@@ -318,52 +307,14 @@ async function loadGauge(){
   $("gFill").style.width=pct+"%";
   $("gPct").textContent=pct.toFixed(0)+"%";
 
-  // 이번 달 남은 영업일(주말 제외, 대략)
+  // 적정 페이스선 (이번 달이면 오늘까지 경과 비율 표시)
   const today=new Date();
   const isThisMonth=(today.getFullYear()===y && today.getMonth()+1===mo);
-  let bizLeft=0;
-  if(isThisMonth){
-    const last=new Date(y,mo,0).getDate();
-    for(let d=today.getDate();d<=last;d++){
-      const wd=new Date(y,mo-1,d).getDay();
-      if(wd!==0&&wd!==6) bizLeft++;
-    }
-  }else bizLeft=8; // 과거/미래 달이면 기본값
-  // 실제 조달일은 영업일의 약 60% (월 12일꼴) → 남은 조달일 추정
-  const procLeft=Math.max(1,Math.round(bizLeft*0.6));
-  $("gDaysLeft").textContent=procLeft+"일";
-
-  // 적정 페이스선 (오늘까지 며칠 지났나 기준)
   if(isThisMonth){
     const last=new Date(y,mo,0).getDate();
     const paceExpected=(today.getDate()/last)*100;
     $("gPace").style.left=Math.min(100,paceExpected)+"%";
   }else $("gPace").style.display="none";
-
-  // 오늘 권고
-  const perDay=left/procLeft;
-  const split=3;
-  const perShot=perDay/split;
-  const card=$("todayCard");
-
-  if(left<=0){
-    card.className="today done";
-    $("tPerDay").textContent="완료 ✓";
-    $("tShots").innerHTML="";
-    $("tMsg").textContent=`이번 달 목표 달성! 추가 조달 불필요. 초과분 ${won(bought-target)}은 다음 달 이월.`;
-  }else{
-    $("tPerDay").innerHTML=won(perDay)+' <small>/ 오늘</small>';
-    const labels=["오전(개장)","점심무렵","오후(마감전)"];
-    $("tShots").innerHTML=labels.map((l,i)=>
-      `<div class="shot"><div class="n">${i+1}회 ${l}</div><div class="a">${won(perShot)}</div></div>`).join("");
-    if(perDay>300000){
-      card.className="today surge";
-      $("tMsg").innerHTML=`⚠ 비상 페이스입니다. 남은 조달일(${procLeft}일)에 비해 남은 금액이 큽니다. 조달일을 앞당기거나 선물환 확보를 검토하세요.`;
-    }else{
-      card.className="today";
-      $("tMsg").innerHTML=`남은 ${won(left)}를 ${procLeft}일에 나눠 집행. 회당 ${won(perShot)}씩 ${split}번.`;
-    }
-  }
 }
 
 // ── 3. 과거 환율 차트 ──
