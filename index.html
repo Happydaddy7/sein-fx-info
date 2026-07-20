@@ -58,6 +58,7 @@ header p{margin-top:6px;font-size:12.5px;color:#b8c4d0}
 
 /* 보유 외화 */
 .holdings{display:grid;grid-template-columns:1fr auto 1fr auto 1.15fr;gap:0;align-items:stretch;margin-top:18px}
+.holdings.single{grid-template-columns:1fr}
 .hcard{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 14px;text-align:center}
 .hcard.total{background:var(--navy);border-color:var(--navy)}
 .hlbl{font-size:12px;color:#8b8577}
@@ -160,21 +161,9 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
   </div>
 
   <!-- 보유 외화액 -->
-  <div class="holdings">
-    <div class="hcard">
-      <div class="hlbl">실행 대기 선물환</div>
-      <div class="hval" id="hPool">—</div>
-      <div class="hsub">체결했지만 아직 안 찾은 달러</div>
-    </div>
-    <div class="hplus">+</div>
-    <div class="hcard">
-      <div class="hlbl">외화통장 잔고 <span class="auto">자동</span></div>
-      <div class="hval" id="hBank">—</div>
-      <div class="hsub">산 누계 − 나간 누계</div>
-    </div>
-    <div class="heq">=</div>
+  <div class="holdings single">
     <div class="hcard total">
-      <div class="hlbl">현재 보유 외화 합계</div>
+      <div class="hlbl">현재 보유 외화</div>
       <div class="hval" id="hTotal">—</div>
       <div class="hsub" id="hTotalKrw">원화 환산 —</div>
     </div>
@@ -289,14 +278,10 @@ async function loadGauge(){
   const left=Math.max(0,target-bought);
   const pct=Math.min(100,bought/target*100);
 
-  // 보유 외화 = 대기선물환 + 통장잔고(산 누계 − 나간 누계)
-  const pool=P.pending_forward||0;         // 실행 대기 선물환
-  const paidOut=P.paid_out||0;             // 지금까지 나간(송금한) 누계
-  const bank=Math.max(0, (P.bank_carryover||0) + bought - paidOut);  // 통장잔고
-  window.__holdings={pool, bank, total:pool+bank};
-  $("hPool").textContent=won(pool);
-  $("hBank").textContent=won(bank);
-  $("hTotal").textContent=won(pool+bank);
+  // 현재 보유 외화 (purchases.json의 holdings 값 하나만 표시)
+  const holdings=P.holdings||0;
+  window.__holdings={total:holdings};
+  $("hTotal").textContent=won(holdings);
   renderHoldingsKrw();
 
   const [y,mo]=P.month.split("-").map(Number);
