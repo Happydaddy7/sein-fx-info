@@ -1,110 +1,12 @@
 {
- "updated": "2026-07-20 15:37",
+ "updated": "2026-07-20 09:00",
+ "summary": {"up": 3, "down": 2, "neutral": 1},
  "items": [
-  {
-   "title": "[속보] 원·달러 환율, 0.1원 내린 1478.4원 - 조선비즈",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUURZNE9Qa0JGMlZ3UVQ0MHVfeUlNejB5VWRQamV3N3dMVW95Q29uRGFSUkZkTmNyNTFqaVlGTTgxeGFYcWNKTm45S0h0dFUydDZLWEpWS1AzWFlxaEgtSjlUb09zdEZIWVgzX2VNdG15UHA0YWRUSW1QY2N2RmZZWlhIckJQZ9IBmgFBVV95cUxPcmhDM09IRHBNRlVMVmlUSF9lcDNhWTF3MzlweXZHMkhNSVN1ajl1cHNpTnYyU3BFT2RnUi1sU2dDWVNTWFJOY2phZnFRVlYwSEg3MFNqM1hGdUVzbzlhOEhzY1E2UXJEWThRYkpWdXZsTk5WS0ZRMHpyNDRqRmF5ekdEWFo4QWpCYjJYdWZzMUFVWFI3eHAydm5R?oc=5",
-   "source": "Chosunbiz",
-   "time": "07/20 15:33",
-   "hot": true
-  },
-  {
-   "title": "[속보]원·달러 환율, 0.1원 내린 1478.4원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92QmtleW55N3hvalUzY2Q2V0JrX0Yyc3h0SzJiVnRrMEJfTUxfOGNmeEg3eVJELUVhQzA2TVRxYUM5Ny0zaDZibU02UUxrbDFIbHRIWWpnNl9Ra3pETWp4bw?oc=5",
-   "source": "뉴시스",
-   "time": "07/20 15:31",
-   "hot": true
-  },
-  {
-   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,478.90원(상보)",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xOWxfY01Cc2lDdUdZUjJEdnhiVkZvWGxuQmlxQjJNa1NzWFh6LVUtUWw0OUZEbzZpVlMtWk5mX2dxRnNPbDlnTzNyTmI5UE5QaHJONVI4Tk43UjFCNmdWTXBKcnMwTDlUek94eXFBbF9UZw?oc=5",
-   "source": "KB Think",
-   "time": "07/20 13:54",
-   "hot": true
-  },
-  {
-   "title": "원-엔화 환율, 4원 이상 하락하면서 912원 후반대 기록…달러-엔화 환율은 국제 유가 변동으로 162엔 중반대로 내려서",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5PdnkxT1NlNnB4Mnp6M2VkVmF4YVlOdzBTRzEyWWh6MVRYODJzVkxrMGRrbnlpZVJMWEsxSEhINTExSEJv?oc=5",
-   "source": "산업일보",
-   "time": "07/20 11:17",
-   "hot": true
-  },
-  {
-   "title": "엔화, 국제 유가 상승에 달러 매수로 1달러=162엔대 중반 하락 출발",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAybEZOaW55c0JSRlZNdl96ZjhfNWVMWTRiQVdwNFZvNHJpY3dCc0p2NFk2SUVZeHN4T2VLQlZ0Z1NrMlJqMWJKVm5LMkVMX0g3dTZvUkNLNjdieDdDYTk3NNIBeEFVX3lxTE1tMGd4TmZzTmVVUlo4aUE3dF8wU01QX0VGX2UxUXpCZ2JkaG42VTZISnhWNkltX3hFNmFnYlJpSk9TY2ZsejhzNGVZT1Nkc3NDVEttZ0dVSFB5cU5RTjNVQnVfUFl4OFVvSF92RVFQRVJyZVA5aGF2RQ?oc=5",
-   "source": "뉴시스",
-   "time": "07/20 10:24",
-   "hot": true
-  },
-  {
-   "title": "[이슈] 유가·반도체 겹악재에도…'환율 상단' 누르는 달러 공급",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmMHZrSHlfSUVpeXZOdThiNWVxTTlaX0dMb0Uyc2Y5VUlweHJnVVlTZF8yWk5yUEVWM1hJbXVVNFptamk4UWM3S21NdXF1cHZGVlUyWC1tcS04VURWSXNBR2QwdG1ISnBFMVpLaEJJWjBzVm8?oc=5",
-   "source": "오늘경제",
-   "time": "07/20 10:22",
-   "hot": true
-  },
-  {
-   "title": "원·달러 환율 1500원대 고착화 해법은?",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFSEhQdllHZ2NNVk1sci1kNk15QzZ6YmtpbDMzdGpmZkRzU19PZE9jN0FKUXYyRm5SQVhZQUpLaTBxVndxeUtNajdBWUx0MFBSYnN4RlYwRGhvTUpWNlhsUWR5SDBKcUhwS2F5Tl9VdVNWSTY0Qko3dWFValg?oc=5",
-   "source": "한국금융신문",
-   "time": "07/20 10:19",
-   "hot": true
-  },
-  {
-   "title": "[종합 환율] 7월 20일 장중 주요국 환율 일제히 하락 달러 1,487.40원 기록",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aU2tWazF4eS1mdWRsOFRUdEdfaDE4Y3k3TkU0cUpGRTVLVXFoUWY2dUZFQzZvRUxsajB1SjRMTmFOOUV4dmRKRHRXVHZvYWtpUUxEVVdIX2xWWldkSXhaUEliUy1FNTNjY1VCdUNB?oc=5",
-   "source": "투어코리아",
-   "time": "07/20 10:03",
-   "hot": true
-  },
-  {
-   "title": "[포토] 원/달러 환율 상승, 코스피 하락 출발",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96TUp0YjZIcUdjb1ZNM3RXVG5ZRWZKT25UbDI3WXEwR29BRThJeGlLbm9lZGpIODd3Tm1LNVFpeDdPQ0ttNWlXbmwwalRnUWtsSDE1NzR5Zm0yd0psdmZUXw?oc=5",
-   "source": "아시아경제",
-   "time": "07/20 09:26",
-   "hot": true
-  },
-  {
-   "title": "[환율] 원-달러 1,491.00원 … 0.17%↑",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94RGctWUNxWWJIUHNaZUF1UWd3cjR6ZVVOLTN0N3pTemVydmdJdzlnajd3RVl5aXItOEZvVFpLaHNFU0xBbjIwc282OWJvU0JlTDEzN18zalZsM1p1alkwVndB?oc=5",
-   "source": "버핏연구소",
-   "time": "07/20 08:00",
-   "hot": true
-  },
-  {
-   "title": "1500원 아래로 하락한 원달러 환율",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nYUVNUHdaTng2Y09vdHNMLVV6ZTdlanRGQzl6VWFGMm5pRGdWS3BiNHRIZVVvclAyU3hUcUtNa3F2aUtGN1lkMzZLdkN6SjRQWms2RQ?oc=5",
-   "source": "매일경제",
-   "time": "07/19 16:07",
-   "hot": true
-  },
-  {
-   "title": "원달러 환율 다시 1500밑으로",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hYmdSelhIMVV5aEg4amtWZ2szQmFDcEpDVG0wZjFGY0VlT1ptSTFWdHlMZ3dUQjJzVzRsWDhmd254SDlGQmQ2UWJqNElKVksyamc?oc=5",
-   "source": "매일경제 마켓",
-   "time": "07/19 16:06",
-   "hot": true
-  },
-  {
-   "title": "[이슈체크] 'GDP 4만달러' 초읽기...환율 1,456원 아래면 올해 첫 돌파",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FTWpwcGt5Y2NwZFcxZ3R4ME5SekxtNGdoN214X2dqOG5mZHA0cWN5V1ZwZGJ5a2NidVUzLXNCcTloQXpHWndleEpQVmpGdEdXSVFDVW11X0ZjZWFHU2M1UEVvSQ?oc=5",
-   "source": "조세금융신문",
-   "time": "07/19 09:00",
-   "hot": true
-  },
-  {
-   "title": "[이번주 환율] 금리 인상에 달러·원 1480원대로…중동 불안에도 원화 강세 이어져",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84MzJQNUZxY2kxM2oyM1J2Qm5LdjhsV21GeHhkcXBNVXhsaWo1MV9FZlpEcXFJOUh3UE82RWMydDlIanJLM0tOam9FV2lzelUxeU41YkYyM01iRkNhcG5LczJ2TEstUy15cWtTRnEzc2g?oc=5",
-   "source": "오피니언뉴스",
-   "time": "07/19 09:00",
-   "hot": true
-  },
-  {
-   "title": "[다음주 환율전망] 미 금리 인상 우려 불식 기조로 하향 안정 지속 전망…다음주 원·달러, 1470원대 저점 가능성",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13RzMzZXBEZTNNRnpJb3o2d1c2ajdfV3lnSkNOZlMxRnZqbkhNeXhtM0pIRlNKdUdSMy1uMWI1ajRUaFpxbHBOaF9FZU1rT2Vtd1Q3Y0I2aVRCOEdpS25ab3FYMzhhNGViUHM5RQ?oc=5",
-   "source": "굿모닝경제",
-   "time": "07/19 07:00",
-   "hot": true
-  }
+  {"title":"원/달러 환율, 연준 매파 발언에 1,490원대 상승 마감","link":"https://news.google.com/","source":"연합뉴스","time":"07/20 08:40","dir":"up","strength":3},
+  {"title":"미 CPI 둔화에 금리 인하 기대…달러 약세 전환","link":"https://news.google.com/","source":"한국경제","time":"07/20 07:55","dir":"down","strength":2},
+  {"title":"지정학적 위기 고조에 안전자산 달러 선호 강화","link":"https://news.google.com/","source":"매일경제","time":"07/19 16:20","dir":"up","strength":2},
+  {"title":"수출 호조에 경상수지 흑자…원화 강세 압력","link":"https://news.google.com/","source":"서울경제","time":"07/19 14:05","dir":"down","strength":2},
+  {"title":"위안화 약세에 아시아 통화 동반 약세","link":"https://news.google.com/","source":"연합인포맥스","time":"07/19 11:30","dir":"up","strength":1},
+  {"title":"한국은행 기준금리 동결…환율 영향은 제한적","link":"https://news.google.com/","source":"이데일리","time":"07/18 16:00","dir":"neutral","strength":0}
  ]
 }

@@ -56,6 +56,28 @@ header p{margin-top:6px;font-size:12.5px;color:#b8c4d0}
 .today.done{background:var(--ok)}
 .today.surge .big small{color:#ffb3a0}
 
+/* 보유 외화 */
+.holdings{display:grid;grid-template-columns:1fr auto 1fr auto 1.15fr;gap:0;align-items:stretch;margin-top:18px}
+.hcard{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 14px;text-align:center}
+.hcard.total{background:var(--navy);border-color:var(--navy)}
+.hlbl{font-size:12px;color:#8b8577}
+.hcard.total .hlbl{color:#b8c4d0}
+.hlbl .auto{font-size:10px;background:var(--copper);color:#fff;border-radius:4px;padding:1px 5px;margin-left:4px}
+.hval{font-family:'Noto Serif KR',serif;font-size:22px;font-weight:700;color:var(--navy);margin-top:5px}
+.hcard.total .hval{color:#fff;font-size:24px}
+.hsub{font-size:11px;color:#a29b8b;margin-top:3px}
+.hcard.total .hsub{color:#d99a5b}
+.hplus,.heq{display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:700;color:#c9b89a;padding:0 10px}
+
+/* 뉴스 방향 */
+.newsbal{display:flex;gap:10px;font-size:12.5px;font-weight:700}
+.newsbal .up{color:var(--up)} .newsbal .down{color:var(--down)} .newsbal .neu{color:#a29b8b}
+.news li{align-items:flex-start}
+.news .dirtag{flex:0 0 auto;font-size:11px;font-weight:700;border-radius:5px;padding:2px 7px;white-space:nowrap;margin-top:1px}
+.news .dirtag.up{background:#fdece9;color:var(--up)}
+.news .dirtag.down{background:#e6f4ee;color:var(--down)}
+.news .dirtag.neutral{background:#f0ece3;color:#8b8577}
+
 section{margin-top:34px}
 section h2{font-family:'Noto Serif KR',serif;font-size:18px;color:var(--navy);margin-bottom:6px}
 section .desc{font-size:13px;color:#6b6558;margin-bottom:14px}
@@ -73,13 +95,12 @@ section .desc{font-size:13px;color:#6b6558;margin-bottom:14px}
 .news .head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px}
 .news .upd{font-size:11.5px;color:#a29b8b}
 .news ul{list-style:none}
-.news li{padding:9px 0;border-bottom:1px solid #f0e9db;font-size:13.5px;display:flex;gap:10px;align-items:baseline}
+.news li{padding:10px 0;border-bottom:1px solid #f0e9db;font-size:13.5px;display:grid;grid-template-columns:auto 1fr;gap:4px 10px;align-items:start}
 .news li:last-child{border:none}
-.news .tm{flex:0 0 74px;font-size:11.5px;color:#a29b8b}
-.news a{color:#2b2b2b;text-decoration:none;flex:1}
+.news a{color:#2b2b2b;text-decoration:none;grid-column:2;line-height:1.45}
 .news a:hover{color:var(--copper);text-decoration:underline}
-.news .src{font-size:11px;color:#8b8577;white-space:nowrap}
-.news .hotdot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--alert);margin-right:5px}
+.news .src{font-size:11px;color:#8b8577;grid-column:2}
+.news .dirtag{grid-row:span 2}
 .news .empty{font-size:13px;color:#a29b8b;padding:12px 0;text-align:center}
 
 /* 월별 표 */
@@ -146,6 +167,27 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
     </div>
   </div>
 
+  <!-- 보유 외화액 -->
+  <div class="holdings">
+    <div class="hcard">
+      <div class="hlbl">실행 대기 선물환</div>
+      <div class="hval" id="hPool">—</div>
+      <div class="hsub">체결했지만 아직 안 찾은 달러</div>
+    </div>
+    <div class="hplus">+</div>
+    <div class="hcard">
+      <div class="hlbl">외화통장 잔고 <span class="auto">자동</span></div>
+      <div class="hval" id="hBank">—</div>
+      <div class="hsub">산 누계 − 나간 누계</div>
+    </div>
+    <div class="heq">=</div>
+    <div class="hcard total">
+      <div class="hlbl">현재 보유 외화 합계</div>
+      <div class="hval" id="hTotal">—</div>
+      <div class="hsub" id="hTotalKrw">원화 환산 —</div>
+    </div>
+  </div>
+
   <!-- 과거 환율 -->
   <section>
     <h2>환율 추이</h2>
@@ -165,8 +207,12 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
   <!-- 뉴스 -->
   <section>
     <h2>오늘의 외환시장</h2>
+    <div class="desc">외환에 영향 주는 뉴스만 자동 선별. <b style="color:var(--up)">▲ 상승요인</b>은 환율 오름(원화 약세·달러 강세, 조달비용↑), <b style="color:var(--down)">▼ 하락요인</b>은 환율 내림(달러 약세, 조달비용↓).</div>
     <div class="card news">
-      <div class="head"><span style="font-size:13px;font-weight:700;color:var(--navy)">주요 뉴스</span><span class="upd" id="newsUpd"></span></div>
+      <div class="head">
+        <div class="newsbal" id="newsBal"></div>
+        <span class="upd" id="newsUpd"></span>
+      </div>
       <ul id="newsList"><li class="empty">불러오는 중…</li></ul>
     </div>
   </section>
@@ -189,7 +235,7 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
 <script>
 const $=id=>document.getElementById(id);
 const won=n=>"$"+Math.round(n).toLocaleString("en-US");
-const FX_API="https://api.frankfurter.app";
+const FX_API="https://api.frankfurter.dev/v1";
 
 // ── 월별 수급 (고정 데이터) ──
 const SUPPLY=[
@@ -220,8 +266,10 @@ async function loadRate(){
   }
 
   if(rate!==null){
+    window.__rate=rate;              // 원화 환산용 전역 저장
     $("rNow").textContent=rate.toFixed(2);
     $("rMeta").innerHTML=rateDate?`${rateDate} 기준 · 시장 참고용`:"시장 참고용";
+    if(window.__holdings) renderHoldingsKrw();  // 보유외화 원화환산 갱신
     // 전일 대비: Frankfurter 시계열로 (실패해도 무시)
     try{
       const end=new Date().toISOString().slice(0,10);
@@ -251,6 +299,16 @@ async function loadGauge(){
   const target=P.target;
   const left=Math.max(0,target-bought);
   const pct=Math.min(100,bought/target*100);
+
+  // 보유 외화 = 대기선물환 + 통장잔고(산 누계 − 나간 누계)
+  const pool=P.pending_forward||0;         // 실행 대기 선물환
+  const paidOut=P.paid_out||0;             // 지금까지 나간(송금한) 누계
+  const bank=Math.max(0, (P.bank_carryover||0) + bought - paidOut);  // 통장잔고
+  window.__holdings={pool, bank, total:pool+bank};
+  $("hPool").textContent=won(pool);
+  $("hBank").textContent=won(bank);
+  $("hTotal").textContent=won(pool+bank);
+  renderHoldingsKrw();
 
   const [y,mo]=P.month.split("-").map(Number);
   $("gMonth").textContent=`${y}년 ${mo}월`;
@@ -366,15 +424,35 @@ function drawFx(series){
   $("fxStat").innerHTML=`기간 시작 <b>${first.toFixed(1)}</b> · 현재 <b>${last.toFixed(1)}</b> · 변동 <b style="color:${chg>=0?'#c0392b':'#1f6f54'}">${chg>=0?'+':''}${chg.toFixed(1)}</b> · 최고 <b>${max.toFixed(1)}</b> · 최저 <b>${min.toFixed(1)}</b>`;
 }
 
-// ── 4. 뉴스 ──
+// 보유외화 원화환산 렌더 (환율 로드 후/게이지 로드 후 둘 다에서 호출)
+function renderHoldingsKrw(){
+  const h=window.__holdings, r=window.__rate;
+  if(!h) return;
+  if(r){
+    const krw=Math.round(h.total*r/1e8*10)/10; // 억원
+    $("hTotalKrw").textContent=`원화 약 ${krw.toLocaleString()}억원 (${r.toFixed(0)}원 기준)`;
+  }else{
+    $("hTotalKrw").textContent="원화 환산 대기…";
+  }
+}
+
+// ── 4. 뉴스 (외환영향 + 상승/하락 분류) ──
 async function loadNews(){
-  const list=$("newsList"),upd=$("newsUpd");
+  const list=$("newsList"),upd=$("newsUpd"),bal=$("newsBal");
+  const TAG={up:"▲ 상승요인",down:"▼ 하락요인",neutral:"● 중립"};
   try{
     const d=await fetch("news.json?t="+Date.now()).then(r=>r.json());
     upd.textContent="업데이트 "+d.updated+" KST";
-    if(!d.items||!d.items.length){list.innerHTML='<li class="empty">최근 뉴스 없음</li>';return;}
-    list.innerHTML=d.items.map(n=>
-      `<li><span class="tm">${n.time}</span><a href="${n.link}" target="_blank" rel="noopener">${n.hot?'<span class="hotdot"></span>':''}${n.title}</a><span class="src">${n.source}</span></li>`).join("");
+    if(d.summary){
+      bal.innerHTML=`<span class="up">▲ 상승 ${d.summary.up}</span><span class="down">▼ 하락 ${d.summary.down}</span><span class="neu">● 중립 ${d.summary.neutral}</span>`;
+    }
+    if(!d.items||!d.items.length){list.innerHTML='<li class="empty">최근 외환 관련 뉴스 없음</li>';return;}
+    list.innerHTML=d.items.map(n=>{
+      const dir=n.dir||"neutral";
+      return `<li><span class="dirtag ${dir}">${TAG[dir]}</span>`+
+        `<a href="${n.link}" target="_blank" rel="noopener">${n.title}</a>`+
+        `<span class="src">${n.source} · ${n.time}</span></li>`;
+    }).join("");
   }catch(e){ list.innerHTML='<li class="empty">뉴스 파일을 아직 불러올 수 없습니다 (첫 수집 후 표시)</li>'; }
 }
 
