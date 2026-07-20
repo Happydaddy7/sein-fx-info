@@ -202,29 +202,40 @@ const SUPPLY=[
 
 // ── 1. 오늘 환율 ──
 async function loadRate(){
+  // 현재 환율: open.er-api.com (키 불필요, CORS 허용, 안정적) → 실패 시 Frankfurter
+  let rate=null, rateDate="";
   try{
-    // 최근 약 2주치를 한 번에 가져와서, 마지막값 = 오늘 / 그 전값 = 전일 비교
-    const end=new Date().toISOString().slice(0,10);
-    const start=new Date(Date.now()-16*864e5).toISOString().slice(0,10);
-    const hist=await fetch(`${FX_API}/${start}..${end}?from=USD&to=KRW`).then(r=>r.json());
-    const dates=Object.keys(hist.rates).sort();
-    if(!dates.length) throw new Error("no data");
-
-    const lastD=dates[dates.length-1];
-    const rate=hist.rates[lastD].KRW;
-    // 환율 숫자는 무조건 먼저 표시
-    $("rNow").textContent=rate.toFixed(2);
-    $("rMeta").innerHTML=`ECB 고시 <b>${lastD}</b> · 시장 참고용`;
-
-    // 전일 대비는 있으면 표시 (없어도 환율은 이미 떴음)
-    if(dates.length>=2){
-      const prevD=dates[dates.length-2];
-      const chg=rate-hist.rates[prevD].KRW;
-      const chgEl=$("rChg");
-      chgEl.textContent=(chg>=0?"▲ ":"▼ ")+Math.abs(chg).toFixed(2);
-      chgEl.className="chg "+(chg>=0?"up":"down");
+    const d=await fetch("https://open.er-api.com/v6/latest/USD").then(r=>r.json());
+    if(d && d.rates && d.rates.KRW){
+      rate=d.rates.KRW;
+      rateDate=(d.time_last_update_utc||"").slice(5,16);
     }
-  }catch(e){
+  }catch(e){ /* 폴백으로 */ }
+
+  if(rate===null){
+    try{
+      const d=await fetch(`${FX_API}/latest?from=USD&to=KRW`).then(r=>r.json());
+      if(d && d.rates && d.rates.KRW){ rate=d.rates.KRW; rateDate=d.date||""; }
+    }catch(e){ /* 최종 실패 */ }
+  }
+
+  if(rate!==null){
+    $("rNow").textContent=rate.toFixed(2);
+    $("rMeta").innerHTML=rateDate?`${rateDate} 기준 · 시장 참고용`:"시장 참고용";
+    // 전일 대비: Frankfurter 시계열로 (실패해도 무시)
+    try{
+      const end=new Date().toISOString().slice(0,10);
+      const start=new Date(Date.now()-16*864e5).toISOString().slice(0,10);
+      const h=await fetch(`${FX_API}/${start}..${end}?from=USD&to=KRW`).then(r=>r.json());
+      const ds=Object.keys(h.rates).sort();
+      if(ds.length>=2){
+        const chg=rate-h.rates[ds[ds.length-2]].KRW;
+        const el=$("rChg");
+        el.textContent=(chg>=0?"▲ ":"▼ ")+Math.abs(chg).toFixed(2);
+        el.className="chg "+(chg>=0?"up":"down");
+      }
+    }catch(e){}
+  }else{
     $("rNow").textContent="—";
     $("rMeta").textContent="환율을 불러올 수 없습니다";
   }
