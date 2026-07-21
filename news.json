@@ -1,14 +1,14 @@
 {
- "updated": "2026-07-21 17:05",
+ "updated": "2026-07-21 20:41",
  "summary": {
-  "up": 3,
-  "down": 3,
-  "neutral": 4
+  "up": 4,
+  "down": 4,
+  "neutral": 2
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 3 vs 하락 3).",
+   "상승·하락 요인 혼재 (상승 4 vs 하락 4).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
@@ -31,20 +31,12 @@
    "strength": 0
   },
   {
-   "title": "원·달러 환율 5.0원 내린 1473.4원(오후 3시30분)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzUEh2NU81NXpsRUNHWTB6NHJZbVJjZWc0M1JZLWdDcWVzYU9zRnlRX3h5UUR6ZVBvZ3J2RW5CN1N5dFRubkJ4em1URjR2RkFsNTZGLXA1T1l1Q0VrcUdPcQ?oc=5",
-   "source": "아시아경제",
-   "time": "07/21 15:39",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·달러 환율, 5.0원 내린 1473.4원 마감(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XNFEwYWRDWWcwbmNGem1YQjJvNFlNU1VKR2F1TkRJMzkydl9LWDFNNTVyTlkwMW1STDNSbkFOeGU4YlV4djVTbVI0RGlIZXAxU0paa05QdkpUaUtQa3FHddIBeEFVX3lxTE5kQklGWmRiLWV6SU1rYnM2VV9maElHMi16TUItOWZId21MTmJTTFBJb3V3c0FkcFpfYy1MTFRIRHFjNEM0Y1IwMURkbUNneTc4NWJqTk9mSmV6SHhoN2N6QnU5U1ByTnJmS2dJRkYzQUV5YkZqRXZtcg?oc=5",
-   "source": "뉴시스",
-   "time": "07/21 15:35",
-   "dir": "neutral",
-   "strength": 0
+   "title": "몸통을 흔드는 꼬리?…신현송이 지목한 고환율 주범 NDF, 왜 문제인가",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3lvNWE4MUtvYnV4Uy1IZllLNzJ2YlRhMnNZMTlOUkN5V2liZTFQaVU3cUpUVVhfbzdaUnctSll0cFNNcWNCVTVXZ05JSjV3RXVHQUFHMHdXdGRleDNQbHZjRVZaQkJaUUpQcW0xWm9aN1BNYlJ1ZUg3VEtqS0l0U29HZW9rTlN6bldkNHVn?oc=5",
+   "source": "조선일보",
+   "time": "07/21 14:40",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "외국인 자금 이탈에 대만달러 약세 지속…환율 고공행진 |",
@@ -84,6 +76,14 @@
    "source": "아시아경제",
    "time": "07/20 09:26",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율·채권, 달러 매도세…환율 1400원대 안착할듯",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iYUVMQmNUZkMyeC1BUUpTTHQ1SlRaY1dmaHZWcHRWRGYxZFItaUJVRmg1MFliVDlzT0hhYlB5blZneFJENFlWanloUWYycmJJZUNFaEhBaHRrdw?oc=5",
+   "source": "한국경제",
+   "time": "07/19 17:32",
+   "dir": "down",
    "strength": 1
   },
   {
