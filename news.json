@@ -1,32 +1,40 @@
 {
- "updated": "2026-07-21 10:26",
+ "updated": "2026-07-21 13:57",
  "summary": {
-  "up": 4,
+  "up": 3,
   "down": 4,
-  "neutral": 2
+  "neutral": 3
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 4 vs 하락 4).",
+   "상승·하락 요인 혼재 (상승 3 vs 하락 4).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "달러·원 환율, 중동 불안에도 소폭 하락…장 초반 1470원대 후반",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SSWtNc3M0N05udmJ3VWY3d1pIdkI0OC1McWMzUTN1dlBnbUJ5anhFckl0LXdPbVZYSXVTems3VVdCQ0hHaU5Ja1ktajFlUUJTcEVyX1RVbUdHdkE?oc=5",
-   "source": "뉴스1",
-   "time": "07/21 09:57",
+   "title": "원·달러 환율, 1470원 후반대 등락",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4Nm9OX3pLRU5BV2F0cUNSbW1lZWU0MFc3aTZabXp5S1pNUldqWG16MC1TRE5VZ2xzbUJRRXZGR1o2V1pWR2J3RFh5b2hlX05NU1p1SE5CTFpjM1F2TU5uWEo4N1JVQQ?oc=5",
+   "source": "뉴시스",
+   "time": "07/21 12:53",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "원·달러 환율, 오전 9시 1470원대 등락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tX01NeS1vUy1BbE9FNXlkVnhsRUxLeEhlVDFmRGhTbU83UGkyYnlhWG5SeWpaaFVCMW1ZSkduaFdGblU2YTVTYmx0c05TeG1nN1kyT2N5YUJxMEl6aTNPSdIBeEFVX3lxTFBOYTlveUJib1A2SDh1X0lHOWs0ZEE0VHdfcjRxUDVLcTBzYXI3bWY0dTM3UFZrMmZFcms0dU5RcEVtYllKdUp5dXpTMzVPNUx5VlBQUEFHSkhSRW1EU25HN3JoUWZPV3gyaDV4MlZvR1g4NVoteE9ydg?oc=5",
+   "title": "1470원 후반대 등락하는 원·달러 환율",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWTU4UDFGdG13TC1XNVlpLTVhYkNBY3RqNDJYUFdyd1hmdGxNQkpZa0UxVU9nd1pZVU1rd19ZNmtUVXJSR3IzUFE4RlltN0F6cWhsVW4xNGZYcnRYV29XSlhUZnVuQQ?oc=5",
    "source": "뉴시스",
-   "time": "07/21 09:07",
+   "time": "07/21 12:53",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[외환] 달러-원 1,470원대 후반 등락…저가 매수에 반등 시도",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55MUhJaFg2WDJfMmJuT0RNTnJXcDVsemJzVjVxU0wzY0RlUU1fOG94b1JEQ3ViOW9HSjc2U2ZpQTNtS0VOTkZ3X0hiNzFvXzAtS3FYeUNaTUkwLXJ2YWpUZnM4MGFEbXFwVGR3ZGIwRV_SAXRBVV95cUxObV9kVWtZc1pBR0pwRmdBREZiM3A1MzM2Wm16UjRqT1NfN09wX1JUZkhLTVZJT3ZtNUxEeFFrc29oRm5aLVVGZEh5NVU0SmNwQ25rdTJKNDdTWE9NRUNsTWFQZ3pqSzBfU1VuWHNHMjNtZGItcQ?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/21 11:35",
    "dir": "neutral",
    "strength": 0
   },
@@ -55,6 +63,14 @@
    "strength": 1
   },
   {
+   "title": "기준금리 인상에…시중은행 예·적금 금리 오른다",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mQ2xVTThRRHhIZi1tRVhxSFh0Wm41TTRxTVZCdUN5dHROU0d2RXNxU3BfQXBTNVdTdHpMR1ZRaVE3bDlOVE5jdjJEaVdPbVNqZHotWFRTZ2pCeFpNck5hTA?oc=5",
+   "source": "아시아경제",
+   "time": "07/20 11:33",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "獨·佛 정상 “위안화 저평가, 대중 무역적자 한 요인”…“하루 최대 10억 달러”",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQjEtdTBDdVpiZWdvSkNnT0Y5S0c0ZWxMTmxSQ1pCbUxrLTdFZE1ZdlA0RGozLTFGTWtIWlV6S1FhSEVNLTJFWUxUYkpnVmI0bGN2VE1IVER3TXhjREVBX9IBeEFVX3lxTE43cWtXQTBBNVNuRnpTM2VHcXB2QlhQeklDd0JNbWlCN3I2dXBOYndKVGVxNWxGNlZySnl5REpoSmNjSFBEWk5PdWlza1U4NDBPUjJQTjZ5dmNGS2V0Y1cwazE5ZmJiaHl4bVpYcEdIdERlMzBZeWJZbQ?oc=5",
    "source": "뉴시스",
@@ -76,22 +92,6 @@
    "source": "한국경제",
    "time": "07/19 17:32",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "기준금리 인상 사이클 본격화…주담대 8% 시대 눈앞",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBid3llaENwQnliUFFWVVJLV0JhT1d6UVl6eDQ5OXc2T18wblU0RjdUOTJGZFMwbk9pXzl1OHdPQjR0WE8zVXR3MElQS2VManI3QUFNUDVPVFhpXzI2TXQxc1Nvc0hiVzFheUhYRFFMTmw?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/19 08:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "“코스피 20% 빠져도 우린 올랐습니다”…기준금리 인상에 은행주 ‘들썩’",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qeHJFTlZZeWN0SnJGMnRPQjBrNWZuSU1jRWY4VlJ0OGVleFItWUt3RnhWc19ySTY2UEJUZkNnWklrOEo1N2NiVHNQUEQ0b2ZpaHc?oc=5",
-   "source": "매일경제",
-   "time": "07/18 17:59",
-   "dir": "up",
    "strength": 1
   }
  ]
