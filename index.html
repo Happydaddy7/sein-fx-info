@@ -79,6 +79,39 @@ header p{margin-top:6px;font-size:12.5px;color:#b8c4d0}
 .news .dirtag.down{background:#e6f4ee;color:var(--down)}
 .news .dirtag.neutral{background:#f0ece3;color:#8b8577}
 
+/* 환율 전망 카드 */
+.outlook{background:#fff;border:1px solid var(--line);border-radius:14px;margin-top:-14px;padding:20px 24px;box-shadow:0 6px 24px rgba(15,46,76,.12);border-left:5px solid var(--line)}
+.outlook.up{border-left-color:var(--up)} .outlook.down{border-left-color:var(--down)} .outlook.neutral{border-left-color:#c9b89a}
+.ohead{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.obadge{font-size:13px;font-weight:700;color:#fff;border-radius:6px;padding:3px 12px;background:#c9b89a}
+.outlook.up .obadge{background:var(--up)} .outlook.down .obadge{background:var(--down)}
+.otitle{font-family:'Noto Serif KR',serif;font-size:16px;font-weight:700;color:var(--navy)}
+.onote{font-size:11px;color:#a29b8b;margin-left:auto}
+.olines{list-style:none}
+.olines li{font-size:13.5px;color:#3a3a3a;padding:3px 0 3px 18px;position:relative}
+.olines li::before{content:'·';position:absolute;left:6px;color:var(--copper);font-weight:700}
+.gauge-card{margin-top:16px}
+
+/* 목표 설명 */
+.gnote{margin-top:12px;padding-top:11px;border-top:1px dashed var(--line);font-size:12.5px;color:#6b6558;line-height:1.5}
+.gnote b{color:var(--navy)}
+
+/* DXY */
+.dxytop{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+.dxynow{font-family:'Noto Serif KR',serif;font-size:26px;font-weight:700;color:var(--navy)}
+.dxychg{font-size:13px;font-weight:700}
+.dxychg.up{color:var(--up)} .dxychg.down{color:var(--down)}
+#dxyChart{width:100%;height:auto;display:block}
+
+/* 요약 통계 */
+.statrow{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin-bottom:14px}
+.stat{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 12px;text-align:center}
+.stat.total{background:var(--navy);border-color:var(--navy)}
+.stat .sl{font-size:12px;color:#8b8577}
+.stat.total .sl{color:#b8c4d0}
+.stat .sv{font-family:'Noto Serif KR',serif;font-size:19px;font-weight:700;color:var(--navy);margin-top:5px}
+.stat.total .sv{color:#fff}
+
 section{margin-top:34px}
 section h2{font-family:'Noto Serif KR',serif;font-size:18px;color:var(--navy);margin-bottom:6px}
 section .desc{font-size:13px;color:#6b6558;margin-bottom:14px}
@@ -144,6 +177,12 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
 
 <div class="wrap">
 
+  <!-- 오늘의 환율 전망 (뉴스 기반) -->
+  <div class="outlook" id="outlookCard">
+    <div class="ohead"><span class="obadge" id="oBadge">—</span><span class="otitle">오늘의 환율 전망</span><span class="onote">뉴스 종합 · 참고용</span></div>
+    <ul class="olines" id="oLines"><li>뉴스를 분석하는 중…</li></ul>
+  </div>
+
   <!-- 진행률 게이지 (핵심) -->
   <div class="gauge-card">
     <div class="top">
@@ -158,6 +197,7 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
       <span>샀음 <b id="gBought">$0</b></span>
       <span>남음 <b id="gLeft">$0</b></span>
     </div>
+    <div class="gnote">목표 = <b>이번 달 결제로 나갈 달러(지불예정액)</b>. 이 금액만큼은 이번 달 안에 사둬야 결제가 막힘없이 됩니다. <span id="gTargetNote"></span></div>
   </div>
 
   <!-- 보유 외화액 -->
@@ -198,10 +238,25 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
     </div>
   </section>
 
+  <!-- 달러 인덱스 -->
+  <section>
+    <h2>달러 인덱스 (DXY)</h2>
+    <div class="desc">주요 6개 통화 대비 달러의 힘. 오르면 달러 강세(원/달러 상승 압력), 내리면 달러 약세.</div>
+    <div class="card">
+      <div class="dxytop"><span class="dxynow" id="dxyNow">—</span><span class="dxychg" id="dxyChg"></span></div>
+      <svg id="dxyChart" viewBox="0 0 820 240"></svg>
+    </div>
+  </section>
+
   <!-- 월별 수급 -->
   <section>
     <h2>월별 수급 (2026년)</h2>
-    <div class="desc">매달 산 돈과 나간 돈. 1~6월 누계 매입 $12.51M / 송금 $12.77M (차이 −2.1%).</div>
+    <div class="desc">매달 산 돈과 나간 돈.</div>
+    <div class="statrow">
+      <div class="stat"><div class="sl">월평균 매입액</div><div class="sv" id="avgBuy">—</div></div>
+      <div class="stat"><div class="sl">월평균 지불액</div><div class="sv" id="avgPay">—</div></div>
+      <div class="stat total"><div class="sl">현재 보유 외화</div><div class="sv" id="avgHold">—</div></div>
+    </div>
     <div class="card" style="overflow-x:auto">
       <table>
         <thead><tr><th>월</th><th>산 돈</th><th>나간 돈</th><th>차이</th></tr></thead>
@@ -291,6 +346,7 @@ async function loadGauge(){
   $("gLeft").textContent=won(left);
   $("gFill").style.width=pct+"%";
   $("gPct").textContent=pct.toFixed(0)+"%";
+  if(P.target_note) $("gTargetNote").textContent="("+P.target_note+")";
 
   // 적정 페이스선 (이번 달이면 오늘까지 경과 비율 표시)
   const today=new Date();
@@ -392,16 +448,97 @@ async function loadNews(){
   }catch(e){ list.innerHTML='<li class="empty">뉴스 파일을 아직 불러올 수 없습니다 (첫 수집 후 표시)</li>'; }
 }
 
-// ── 5. 월별 수급표 ──
+// ── 5. 월별 수급표 + 요약 통계 ──
 function loadSupply(){
   $("supplyBody").innerHTML=SUPPLY.map(d=>{
     const g=d.buy-d.pay;
     return `<tr><td>${d.m}월</td><td>${won(d.buy)}</td><td>${won(d.pay)}</td><td class="${g>=0?'plus':'minus'}">${g>=0?'+':''}${won(g).replace('$-','-$')}</td></tr>`;
   }).join("");
+  const n=SUPPLY.length;
+  $("avgBuy").textContent=won(SUPPLY.reduce((a,d)=>a+d.buy,0)/n);
+  $("avgPay").textContent=won(SUPPLY.reduce((a,d)=>a+d.pay,0)/n);
+  // 현재 보유는 purchases.json에서 (loadGauge가 window.__holdings에 채움)
+  const h=window.__holdings;
+  $("avgHold").textContent=h?won(h.total):"—";
+}
+
+// ── 6. 환율 전망 (news.json의 outlook) ──
+async function loadOutlook(){
+  const card=$("outlookCard");
+  const TAG={up:"▲ 상승 우세",down:"▼ 하락 우세",neutral:"● 혼재"};
+  try{
+    const d=await fetch("news.json?t="+Date.now()).then(r=>r.json());
+    if(d.outlook){
+      card.className="outlook "+d.outlook.dir;
+      $("oBadge").textContent=TAG[d.outlook.dir];
+      $("oLines").innerHTML=d.outlook.lines.map(l=>`<li>${l}</li>`).join("");
+    }else{
+      $("oLines").innerHTML="<li>전망 데이터 없음 (뉴스 수집 후 표시)</li>";
+    }
+  }catch(e){ $("oLines").innerHTML="<li>전망을 불러올 수 없습니다 (첫 수집 후 표시)</li>"; }
+}
+
+// ── 7. 달러 인덱스 (DXY) — Frankfurter 6통화로 계산 ──
+function calcDXY(r){
+  // r: {EUR,JPY,GBP,CAD,SEK,CHF} = 1 USD당 각 통화. ICE 공식(from=USD 기준 지수 부호)
+  return 50.14348112 * Math.pow(r.EUR,0.576) * Math.pow(r.JPY,0.136) *
+         Math.pow(r.GBP,0.119) * Math.pow(r.CAD,0.091) *
+         Math.pow(r.SEK,0.042) * Math.pow(r.CHF,0.036);
+}
+async function loadDXY(){
+  try{
+    const end=new Date().toISOString().slice(0,10);
+    const start=new Date(Date.now()-90*864e5).toISOString().slice(0,10);
+    const d=await fetch(`${FX_API}/${start}..${end}?from=USD&to=EUR,JPY,GBP,CAD,SEK,CHF`).then(r=>r.json());
+    const series=Object.entries(d.rates).map(([dt,v])=>({dt,v:calcDXY(v)})).sort((a,b)=>a.dt<b.dt?-1:1);
+    if(!series.length) throw new Error("no data");
+    const last=series[series.length-1].v, first=series[0].v;
+    const prev=series.length>=2?series[series.length-2].v:first;
+    $("dxyNow").textContent=last.toFixed(2);
+    const chg=last-prev;
+    const el=$("dxyChg");
+    el.textContent=(chg>=0?"▲ ":"▼ ")+Math.abs(chg).toFixed(2)+" (전일)";
+    el.className="dxychg "+(chg>=0?"up":"down");
+    drawMiniLine("dxyChart", series, 820, 240);
+  }catch(e){
+    $("dxyNow").textContent="—";
+    $("dxyChart").innerHTML='<text x="410" y="120" text-anchor="middle" fill="#a29b8b" font-size="13">달러 인덱스를 불러올 수 없습니다</text>';
+  }
+}
+
+// 공용 미니 라인차트 (DXY용)
+function drawMiniLine(svgId, series, W, H){
+  const svg=$(svgId),NS="http://www.w3.org/2000/svg";
+  const el=(t,a)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);return e};
+  svg.innerHTML="";
+  const mL=48,mR=14,mT=14,mB=24;
+  const vals=series.map(s=>s.v),min=Math.min(...vals),max=Math.max(...vals),pad=(max-min)*0.15||1;
+  const lo=min-pad,hi=max+pad;
+  const x=i=>mL+(W-mL-mR)*i/(series.length-1);
+  const y=v=>mT+(H-mT-mB)*(1-(v-lo)/(hi-lo));
+  for(let g=0;g<=2;g++){
+    const val=lo+(hi-lo)*g/2,yy=y(val);
+    svg.appendChild(el("line",{x1:mL,y1:yy,x2:W-mR,y2:yy,stroke:"#f0e9db"}));
+    const t=el("text",{x:mL-6,y:yy+4,"text-anchor":"end","font-size":"10.5",fill:"#a29b8b"});
+    t.textContent=val.toFixed(1); svg.appendChild(t);
+  }
+  let dLine="",dArea="";
+  series.forEach((s,i)=>{const px=x(i),py=y(s.v);dLine+=(i?"L":"M")+px+" "+py;dArea+=(i?"L":"M")+px+" "+py;});
+  dArea+=`L${x(series.length-1)} ${H-mB}L${mL} ${H-mB}Z`;
+  const grad=el("linearGradient",{id:"dxyg",x1:"0",y1:"0",x2:"0",y2:"1"});
+  grad.innerHTML='<stop offset="0" stop-color="#B87333" stop-opacity="0.18"/><stop offset="1" stop-color="#B87333" stop-opacity="0"/>';
+  svg.appendChild(grad);
+  svg.appendChild(el("path",{d:dArea,fill:"url(#dxyg)"}));
+  svg.appendChild(el("path",{d:dLine,fill:"none",stroke:"#B87333","stroke-width":2}));
+  svg.appendChild(el("circle",{cx:x(series.length-1),cy:y(series[series.length-1].v),r:4,fill:"#B87333"}));
+  [0,Math.floor(series.length/2),series.length-1].forEach(i=>{
+    const t=el("text",{x:x(i),y:H-6,"text-anchor":i===0?"start":i===series.length-1?"end":"middle","font-size":"10.5",fill:"#a29b8b"});
+    t.textContent=series[i].dt.slice(5); svg.appendChild(t);
+  });
 }
 
 // init
-loadRate(); loadGauge(); loadFxChart(90); loadNews(); loadSupply();
+loadRate(); loadGauge().then(loadSupply); loadFxChart(90); loadNews(); loadOutlook(); loadDXY();
 $("rangeBtns").addEventListener("click",e=>{if(e.target.dataset.d)loadFxChart(+e.target.dataset.d);});
 </script>
 </body>

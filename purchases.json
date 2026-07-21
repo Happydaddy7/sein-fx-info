@@ -1,10 +1,9 @@
 {
  "month": "2026-07",
  "target": 1423036,
- "target_note": "7월 결제기일 기준 미불금 합계",
- "pending_forward": 4980000,
- "bank_carryover": 0,
- "paid_out": 0,
+ "target_note": "7월 결제 예정액 (미불금 기준). 확정액 있으면 교체",
+ "holdings": 5710000,
+ "holdings_note": "현재 보유 외화 (대기 선물환 + 외화통장 등 총액, 수동 입력)",
  "log": [
   {"date":"2026-07-01","amount":340000,"rate":1489.5,"note":""},
   {"date":"2026-07-02","amount":90000,"rate":1491.2,"note":""},

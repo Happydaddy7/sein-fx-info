@@ -44,6 +44,17 @@ DOWN = ["달러 약세", "달러 하락", "달러 급락", "원화 강세", "원
         "엔화 강세", "외환보유액 증가", "환율 하향"]
 
 SKIP = ["코인", "비트코인", "가상자산", "영화", "게임", "드라마", "스포츠"]
+
+# ── 공신력 매체 화이트리스트 (이 매체들만 표시) ──
+# 통신사·경제지·주요 일간지 중심. 부분일치로 판정.
+TRUSTED = [
+    "연합뉴스", "연합인포맥스", "인포맥스", "뉴시스", "뉴스1",
+    "한국경제", "매일경제", "서울경제", "머니투데이", "이데일리",
+    "파이낸셜뉴스", "헤럴드경제", "아시아경제", "조선비즈",
+    "KBS", "MBC", "SBS", "YTN", "연합뉴스TV",
+    "조선일보", "중앙일보", "동아일보", "한겨레", "경향신문", "한국일보",
+    "블룸버그", "로이터", "Bloomberg", "Reuters",
+]
 UA = {"User-Agent": "Mozilla/5.0 (compatible; SeinFXBot/2.0)"}
 
 
@@ -112,12 +123,16 @@ def main():
                 # 2) FX 관련성 필터 — 핵심 단어 없으면 제외
                 if not any(k in title for k in FX_CORE):
                     continue
-                # 3) 중복 제거
+                # 3) 공신력 매체만 (source에 신뢰 매체명이 포함돼야)
+                src = it["source"]
+                if not any(t in src for t in TRUSTED):
+                    continue
+                # 4) 중복 제거
                 key = norm(title)
                 if not key or key in seen:
                     continue
                 seen.add(key)
-                # 4) 방향 분류
+                # 5) 방향 분류
                 direction, strength = classify(title)
                 it["dir"] = direction
                 it["strength"] = strength
@@ -127,15 +142,38 @@ def main():
 
     # 정렬: 방향성 뚜렷한 것(강도↑) 우선, 그다음 최신
     items.sort(key=lambda x: (-x["strength"], -x["dt"].timestamp()))
-    top = items[:18]
+    top = items[:10]
     top.sort(key=lambda x: -x["dt"].timestamp())
 
     up_n = sum(1 for i in top if i["dir"] == "up")
     down_n = sum(1 for i in top if i["dir"] == "down")
+    up_str = sum(i["strength"] for i in top if i["dir"] == "up")
+    down_str = sum(i["strength"] for i in top if i["dir"] == "down")
+
+    # 뉴스 기반 방향 요약 (예측이 아닌, 뉴스가 어느 쪽으로 기울었는지)
+    net = (up_n + up_str) - (down_n + down_str)
+    reasons_up = [i["title"] for i in top if i["dir"] == "up"][:2]
+    reasons_down = [i["title"] for i in top if i["dir"] == "down"][:2]
+    if net >= 3:
+        outlook_dir = "up"
+        line1 = f"상승요인 우세 (상승 {up_n} vs 하락 {down_n})."
+        line2 = "원화 약세·달러 강세 압력 → 조달비용 상승 방향."
+        line3 = "환율 오름세 대비, 필요분 조기 확보 검토."
+    elif net <= -3:
+        outlook_dir = "down"
+        line1 = f"하락요인 우세 (하락 {down_n} vs 상승 {up_n})."
+        line2 = "달러 약세·원화 강세 흐름 → 조달비용 하락 방향."
+        line3 = "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+    else:
+        outlook_dir = "neutral"
+        line1 = f"상승·하락 요인 혼재 (상승 {up_n} vs 하락 {down_n})."
+        line2 = "뚜렷한 방향성 없이 등락 반복 가능성."
+        line3 = "평소 페이스 유지하며 지표 발표 주시."
 
     data = {
         "updated": now.strftime("%Y-%m-%d %H:%M"),
         "summary": {"up": up_n, "down": down_n, "neutral": len(top) - up_n - down_n},
+        "outlook": {"dir": outlook_dir, "lines": [line1, line2, line3]},
         "items": [{"title": i["title"], "link": i["link"], "source": i["source"],
                    "time": i["dt"].strftime("%m/%d %H:%M"),
                    "dir": i["dir"], "strength": i["strength"]}
