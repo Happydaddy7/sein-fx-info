@@ -1,17 +1,98 @@
 {
- "updated": "2026-07-20 09:00",
- "summary": {"up": 3, "down": 2, "neutral": 1},
- "outlook": {"dir": "up", "lines": [
-   "상승요인 우세 (상승 3 vs 하락 2).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
- ]},
+ "updated": "2026-07-21 10:01",
+ "summary": {
+  "up": 4,
+  "down": 4,
+  "neutral": 2
+ },
+ "outlook": {
+  "dir": "neutral",
+  "lines": [
+   "상승·하락 요인 혼재 (상승 4 vs 하락 4).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
+  ]
+ },
  "items": [
-  {"title":"원/달러 환율, 연준 매파 발언에 1,490원대 상승 마감","link":"https://news.google.com/","source":"연합뉴스","time":"07/20 08:40","dir":"up","strength":3},
-  {"title":"미 CPI 둔화에 금리 인하 기대…달러 약세 전환","link":"https://news.google.com/","source":"한국경제","time":"07/20 07:55","dir":"down","strength":2},
-  {"title":"지정학적 위기 고조에 안전자산 달러 선호 강화","link":"https://news.google.com/","source":"매일경제","time":"07/19 16:20","dir":"up","strength":2},
-  {"title":"수출 호조에 경상수지 흑자…원화 강세 압력","link":"https://news.google.com/","source":"서울경제","time":"07/19 14:05","dir":"down","strength":2},
-  {"title":"위안화 약세에 아시아 통화 동반 약세","link":"https://news.google.com/","source":"연합인포맥스","time":"07/19 11:30","dir":"up","strength":1},
-  {"title":"한국은행 기준금리 동결…환율 영향은 제한적","link":"https://news.google.com/","source":"이데일리","time":"07/18 16:00","dir":"neutral","strength":0}
+  {
+   "title": "원·달러 환율, 오전 9시 1470원대 등락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tX01NeS1vUy1BbE9FNXlkVnhsRUxLeEhlVDFmRGhTbU83UGkyYnlhWG5SeWpaaFVCMW1ZSkduaFdGblU2YTVTYmx0c05TeG1nN1kyT2N5YUJxMEl6aTNPSdIBeEFVX3lxTFBOYTlveUJib1A2SDh1X0lHOWs0ZEE0VHdfcjRxUDVLcTBzYXI3bWY0dTM3UFZrMmZFcms0dU5RcEVtYllKdUp5dXpTMzVPNUx5VlBQUEFHSkhSRW1EU25HN3JoUWZPV3gyaDV4MlZvR1g4NVoteE9ydg?oc=5",
+   "source": "뉴시스",
+   "time": "07/21 09:07",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[속보]원·달러 환율, 오전 9시 1476원",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JV3U3Zy1KRTQySlQ3eVk1WHVXeHpHbmc4Z3dfQjNVX2d0SWY1TkQ1eVBMdEw4cjFaNDRsN1VtU0JLR041bW02WERKYlZPMVF4QTBiNVJmRW1ScjFFUGdscNIBeEFVX3lxTE5sTFpRZGIzN1dwTmI1anFkdDNMYzEtMVVNdTV4TUc2cl9BTXg0NktEbTZuMUpiUXF0NV96M1NhTVZIRHlnX2RpRFFvbF9fWmxvM29ZaGp3b2s5R1ljbmlFU3dIRGFQNU1RNHE2bGVabDAyOENlamw0SQ?oc=5",
+   "source": "뉴시스",
+   "time": "07/21 09:05",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "외국인 자금 이탈에 대만달러 약세 지속…환율 고공행진 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZWQwU3RZMUdGelIxamNEM0xqaE55V1BFU3VwNW1JNzZmWUJrMktvLUNieUpqRDRqeERlemRVVzBzZ2ZzdWhwOW9KaUppTll2THF6RDRxNXFpWElFSmEtNnZxdTZpZmxMamZPMTViaFl5OXoz?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/20 15:55",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,478.90원(상보)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SemxlVkZDaS01d244djNCdHpLbEhPNnVnZUZLdm5sWTd3TEZYVE8zWHRFTVRzSGwtX1hoWGZLcUVEdkRYdHBVZnM3S1pUREhsVHhrdlJDSkRNUDlXUGhUb0t4UGtnUFZhZUlMUWZqS3A?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/20 15:54",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,479.50원",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5OVZoeW1ydldyOVBubU9UMm1DQ2pGVjZNLU9maDJhRHZxWUJwZzRPYjVmZlE0Zlc4TmtTUVdiRzhZUFpDeUloM2FjbHlOV2cxeURQYzh1XzVLLWUxZ0lmZUpBaXVOS01Ra1pkS3JCVENCZ19v0gF0QVVfeXFMUHk5Vmh5bXJ2V3I5UG5tT1QybUNDakZWNk0tT2ZoMmFEdnFZQnBnNE9iNWZmUTRmVzhOa1NRV2JHOFlQWkN5SWgzYWNseU5XZzF5RFBjOHVfNUstZTFnSWZlSkFpdU5LTVFrWmRLckJUQ0JnX28?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/20 15:43",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "獨·佛 정상 “위안화 저평가, 대중 무역적자 한 요인”…“하루 최대 10억 달러”",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQjEtdTBDdVpiZWdvSkNnT0Y5S0c0ZWxMTmxSQ1pCbUxrLTdFZE1ZdlA0RGozLTFGTWtIWlV6S1FhSEVNLTJFWUxUYkpnVmI0bGN2VE1IVER3TXhjREVBX9IBeEFVX3lxTE43cWtXQTBBNVNuRnpTM2VHcXB2QlhQeklDd0JNbWlCN3I2dXBOYndKVGVxNWxGNlZySnl5REpoSmNjSFBEWk5PdWlza1U4NDBPUjJQTjZ5dmNGS2V0Y1cwazE5ZmJiaHl4bVpYcEdIdERlMzBZeWJZbQ?oc=5",
+   "source": "뉴시스",
+   "time": "07/20 10:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[포토] 원/달러 환율 상승, 코스피 하락 출발",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96TUp0YjZIcUdjb1ZNM3RXVG5ZRWZKT25UbDI3WXEwR29BRThJeGlLbm9lZGpIODd3Tm1LNVFpeDdPQ0ttNWlXbmwwalRnUWtsSDE1NzR5Zm0yd0psdmZUXw?oc=5",
+   "source": "아시아경제",
+   "time": "07/20 09:26",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율·채권, 달러 매도세…환율 1400원대 안착할듯",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iYUVMQmNUZkMyeC1BUUpTTHQ1SlRaY1dmaHZWcHRWRGYxZFItaUJVRmg1MFliVDlzT0hhYlB5blZneFJENFlWanloUWYycmJJZUNFaEhBaHRrdw?oc=5",
+   "source": "한국경제",
+   "time": "07/19 17:32",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "기준금리 인상 사이클 본격화…주담대 8% 시대 눈앞",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBid3llaENwQnliUFFWVVJLV0JhT1d6UVl6eDQ5OXc2T18wblU0RjdUOTJGZFMwbk9pXzl1OHdPQjR0WE8zVXR3MElQS2VManI3QUFNUDVPVFhpXzI2TXQxc1Nvc0hiVzFheUhYRFFMTmw?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/19 08:30",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "“코스피 20% 빠져도 우린 올랐습니다”…기준금리 인상에 은행주 ‘들썩’",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qeHJFTlZZeWN0SnJGMnRPQjBrNWZuSU1jRWY4VlJ0OGVleFItWUt3RnhWc19ySTY2UEJUZkNnWklrOEo1N2NiVHNQUEQ0b2ZpaHc?oc=5",
+   "source": "매일경제",
+   "time": "07/18 17:59",
+   "dir": "up",
+   "strength": 1
+  }
  ]
 }
