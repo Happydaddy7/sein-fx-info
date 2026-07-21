@@ -1,40 +1,48 @@
 {
- "updated": "2026-07-21 13:57",
+ "updated": "2026-07-21 17:05",
  "summary": {
   "up": 3,
-  "down": 4,
-  "neutral": 3
+  "down": 3,
+  "neutral": 4
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 3 vs 하락 4).",
+   "상승·하락 요인 혼재 (상승 3 vs 하락 3).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "원·달러 환율, 1470원 후반대 등락",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4Nm9OX3pLRU5BV2F0cUNSbW1lZWU0MFc3aTZabXp5S1pNUldqWG16MC1TRE5VZ2xzbUJRRXZGR1o2V1pWR2J3RFh5b2hlX05NU1p1SE5CTFpjM1F2TU5uWEo4N1JVQQ?oc=5",
-   "source": "뉴시스",
-   "time": "07/21 12:53",
+   "title": "원·엔 환율 900원대…하이닉스 효과에 1년8개월 만에 최저",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56MEliYXh0aWZxRGZYa0M2QjhvNEMzMHN2MTNzMTVGSU5IMjliV3NwaTZ5bmpIQ21od3N4ZU15Y2ZOYnh0aXhBVS1YRE9uQ0ZrTWltTGJB?oc=5",
+   "source": "중앙일보",
+   "time": "07/21 16:17",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "1470원 후반대 등락하는 원·달러 환율",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQWTU4UDFGdG13TC1XNVlpLTVhYkNBY3RqNDJYUFdyd1hmdGxNQkpZa0UxVU9nd1pZVU1rd19ZNmtUVXJSR3IzUFE4RlltN0F6cWhsVW4xNGZYcnRYV29XSlhUZnVuQQ?oc=5",
-   "source": "뉴시스",
-   "time": "07/21 12:53",
+   "title": "원·달러 환율, 5.0원 내려···5거래일째 1400원대 마감",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qRGNDeHJVMFY3VWpLY3V6am1VRmlOYi1HRTVicmplMmd3UDJNa2cybkFXcDNDbEhQWkVMUXZLMGZZOUZtVHRqOXJSYWUyTzlTU2RILVdrcDFqdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "07/21 15:43",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "[외환] 달러-원 1,470원대 후반 등락…저가 매수에 반등 시도",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55MUhJaFg2WDJfMmJuT0RNTnJXcDVsemJzVjVxU0wzY0RlUU1fOG94b1JEQ3ViOW9HSjc2U2ZpQTNtS0VOTkZ3X0hiNzFvXzAtS3FYeUNaTUkwLXJ2YWpUZnM4MGFEbXFwVGR3ZGIwRV_SAXRBVV95cUxObV9kVWtZc1pBR0pwRmdBREZiM3A1MzM2Wm16UjRqT1NfN09wX1JUZkhLTVZJT3ZtNUxEeFFrc29oRm5aLVVGZEh5NVU0SmNwQ25rdTJKNDdTWE9NRUNsTWFQZ3pqSzBfU1VuWHNHMjNtZGItcQ?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/21 11:35",
+   "title": "원·달러 환율 5.0원 내린 1473.4원(오후 3시30분)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzUEh2NU81NXpsRUNHWTB6NHJZbVJjZWc0M1JZLWdDcWVzYU9zRnlRX3h5UUR6ZVBvZ3J2RW5CN1N5dFRubkJ4em1URjR2RkFsNTZGLXA1T1l1Q0VrcUdPcQ?oc=5",
+   "source": "아시아경제",
+   "time": "07/21 15:39",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율, 5.0원 내린 1473.4원 마감(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XNFEwYWRDWWcwbmNGem1YQjJvNFlNU1VKR2F1TkRJMzkydl9LWDFNNTVyTlkwMW1STDNSbkFOeGU4YlV4djVTbVI0RGlIZXAxU0paa05QdkpUaUtQa3FHddIBeEFVX3lxTE5kQklGWmRiLWV6SU1rYnM2VV9maElHMi16TUItOWZId21MTmJTTFBJb3V3c0FkcFpfYy1MTFRIRHFjNEM0Y1IwMURkbUNneTc4NWJqTk9mSmV6SHhoN2N6QnU5U1ByTnJmS2dJRkYzQUV5YkZqRXZtcg?oc=5",
+   "source": "뉴시스",
+   "time": "07/21 15:35",
    "dir": "neutral",
    "strength": 0
   },
@@ -63,14 +71,6 @@
    "strength": 1
   },
   {
-   "title": "기준금리 인상에…시중은행 예·적금 금리 오른다",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mQ2xVTThRRHhIZi1tRVhxSFh0Wm41TTRxTVZCdUN5dHROU0d2RXNxU3BfQXBTNVdTdHpMR1ZRaVE3bDlOVE5jdjJEaVdPbVNqZHotWFRTZ2pCeFpNck5hTA?oc=5",
-   "source": "아시아경제",
-   "time": "07/20 11:33",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "獨·佛 정상 “위안화 저평가, 대중 무역적자 한 요인”…“하루 최대 10억 달러”",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQjEtdTBDdVpiZWdvSkNnT0Y5S0c0ZWxMTmxSQ1pCbUxrLTdFZE1ZdlA0RGozLTFGTWtIWlV6S1FhSEVNLTJFWUxUYkpnVmI0bGN2VE1IVER3TXhjREVBX9IBeEFVX3lxTE43cWtXQTBBNVNuRnpTM2VHcXB2QlhQeklDd0JNbWlCN3I2dXBOYndKVGVxNWxGNlZySnl5REpoSmNjSFBEWk5PdWlza1U4NDBPUjJQTjZ5dmNGS2V0Y1cwazE5ZmJiaHl4bVpYcEdIdERlMzBZeWJZbQ?oc=5",
    "source": "뉴시스",
@@ -87,11 +87,11 @@
    "strength": 1
   },
   {
-   "title": "환율·채권, 달러 매도세…환율 1400원대 안착할듯",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iYUVMQmNUZkMyeC1BUUpTTHQ1SlRaY1dmaHZWcHRWRGYxZFItaUJVRmg1MFliVDlzT0hhYlB5blZneFJENFlWanloUWYycmJJZUNFaEhBaHRrdw?oc=5",
-   "source": "한국경제",
-   "time": "07/19 17:32",
-   "dir": "down",
+   "title": "기준금리 인상 사이클 본격화…주담대 8% 시대 눈앞",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBid3llaENwQnliUFFWVVJLV0JhT1d6UVl6eDQ5OXc2T18wblU0RjdUOTJGZFMwbk9pXzl1OHdPQjR0WE8zVXR3MElQS2VManI3QUFNUDVPVFhpXzI2TXQxc1Nvc0hiVzFheUhYRFFMTmw?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/19 08:30",
+   "dir": "up",
    "strength": 1
   }
  ]
