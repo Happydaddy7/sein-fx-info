@@ -1,17 +1,98 @@
 {
- "updated": "2026-07-22 13:56",
+ "updated": "2026-07-22 17:06",
  "summary": {
-  "up": 0,
-  "down": 0,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 0 vs 하락 0).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 6 vs 하락 4).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
- "items": []
+ "items": [
+  {
+   "title": "원·달러 환율, 1480원대 반등…고환율 속 강달러 압력 여전",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MREZyOFhGa3dCM00zVTVIMjNUQ2JPM25qRGtpZlZQQVlGMVlUSFlIVVlqVWVjLUp3RHBfbXZJbVd2XzhtcTRsVlAwdDdJLUQ2Y25BS2I5b3ZyQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "07/22 16:19",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "재부상하는 지정학적 리스크…원·달러, 1480.1원 마감",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iNDNJNXAyUVZocGNVSk5nb2xHeFVMZVcxMFpVLWpEeGdscm4zZmZJTmtzMHVYOWNpb2lvZzd2eDg0Nk1sYkI4RW1IdzZTZDVDUXVuZC1iWFRjMFRWYzFyb9IBeEFVX3lxTE5EYTMyR0lnbWlibUxFTGZrVnVyMzhFQ2xfXzY5TFNnenFVWHRfYWtEVzQ5X1hFMFhDWGJTUEI1QWg4SzhNZ0k1WDB4MDQzbEZ0bFp2TUxhRUxTLTltTXZpakMweWtmdUp1dUNBb1h1clVLYzBnMFpFTw?oc=5",
+   "source": "뉴시스",
+   "time": "07/22 15:33",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "달러당 163엔 돌파, 엔화 39년래 최약세…중동긴장에 달러 강세",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLWNSenNBNzZ2YzdWQktqWklQcEV2M3paMmNvTkNaQV9STkwwSW80T3hHMmFxbnVHdFB6TmM4TW8yWXN1MzJidlRiM2xiaHdMeG4yMkxDc3ZlWHpDcmNPVnZLZXZnUms?oc=5",
+   "source": "뉴스1",
+   "time": "07/22 09:20",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "허장 차관 “SK하이닉스 자금 유입·조선사 선물환 매도로 환율 안정”",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4WTdMQ092aExTNDhRb2hnZ3BTMnB0NXdZYTdidDQtVlFKTF9tRlV2WUZxaXpMdEZud2swUGI5RU5vYzlJOWN2WkZwUGJnZUFObXfSAVNBVV95cUxOLWVBNVhtMlpMS0dHRHFsVFM1d2xLQXFXRWtMN3czeHNvNmprZktGZWVKbkNsekdxbXRGdkZXZFJsTXNVQU5xaldSM2pRTDV2cmZFOA?oc=5",
+   "source": "서울경제",
+   "time": "07/22 09:02",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "기준금리 인상에 예금금리도 들썩…은행 3%대·저축은행 4%대",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GVzJCUVd1MnE4Y2g4MjcyRzdha3ZEQ0pOcEl3bzJLbXAtSm15OVlNUWY1cE5UTkhvZGhzUk4tNkhEWW5jVnpEWVdmb0ZfaEpVcGF2VG5CNDhiYmpfQ2RVcdIBeEFVX3lxTFB1cmxVaDhYQzJYMlFLaE9Da08yWnhKMHdUSGNQM2thNEt1OUNmZGRQNzJ5Sy1EMDJIUnNVWDdlUTN2TjdHNE5xbUdBSS1JejcwSFZnY0V1Y25KVXJFclZhcDFxaWh2SEV1MU41emlzU0NZU3d3TVMwQw?oc=5",
+   "source": "뉴시스",
+   "time": "07/22 06:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "달러 강세에도 원/달러 환율 6일째 하락…1470원 밑으로 가나 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KUjgyalBVVVhSWWtKbzRzZ0xmLWgtS3M3VmR5cXJjTU5jVHpFV0dCQ2xmLUQwMk9RQXVTVzJEMUdvMm1qSjVBM3FpaXdoQXlDMDNiRGJvVzJMbzhNNy1HRXo4NEc2SnkwT3ZB0gFwQVVfeXFMTk1hTmh5TVNlb1drN1JWa0pvYmM1RENRc1FscFhTYVR3Q1VHSVpxY0Zncm5GbUxRMnEta0VaMmE4ZFowUjQ4TXJLbVpCNGZObl9UZ1I5YWsxdmp1V21uLWs1aml1SlZaekE2a3ducDFGRQ?oc=5",
+   "source": "머니투데이",
+   "time": "07/21 16:42",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "외국인 자금 이탈에 대만달러 약세 지속…환율 고공행진 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZWQwU3RZMUdGelIxamNEM0xqaE55V1BFU3VwNW1JNzZmWUJrMktvLUNieUpqRDRqeERlemRVVzBzZ2ZzdWhwOW9KaUppTll2THF6RDRxNXFpWElFSmEtNnZxdTZpZmxMamZPMTViaFl5OXoz?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/20 15:55",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,478.90원(상보)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SemxlVkZDaS01d244djNCdHpLbEhPNnVnZUZLdm5sWTd3TEZYVE8zWHRFTVRzSGwtX1hoWGZLcUVEdkRYdHBVZnM3S1pUREhsVHhrdlJDSkRNUDlXUGhUb0t4UGtnUFZhZUlMUWZqS3A?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/20 15:54",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,479.50원",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5OVZoeW1ydldyOVBubU9UMm1DQ2pGVjZNLU9maDJhRHZxWUJwZzRPYjVmZlE0Zlc4TmtTUVdiRzhZUFpDeUloM2FjbHlOV2cxeURQYzh1XzVLLWUxZ0lmZUpBaXVOS01Ra1pkS3JCVENCZ19v0gF0QVVfeXFMUHk5Vmh5bXJ2V3I5UG5tT1QybUNDakZWNk0tT2ZoMmFEdnFZQnBnNE9iNWZmUTRmVzhOa1NRV2JHOFlQWkN5SWgzYWNseU5XZzF5RFBjOHVfNUstZTFnSWZlSkFpdU5LTVFrWmRLckJUQ0JnX28?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/20 15:43",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "獨·佛 정상 “위안화 저평가, 대중 무역적자 한 요인”…“하루 최대 10억 달러”",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQjEtdTBDdVpiZWdvSkNnT0Y5S0c0ZWxMTmxSQ1pCbUxrLTdFZE1ZdlA0RGozLTFGTWtIWlV6S1FhSEVNLTJFWUxUYkpnVmI0bGN2VE1IVER3TXhjREVBXw?oc=5",
+   "source": "뉴시스",
+   "time": "07/20 10:31",
+   "dir": "up",
+   "strength": 1
+  }
+ ]
 }
