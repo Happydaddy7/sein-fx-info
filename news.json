@@ -1,38 +1,54 @@
 {
- "updated": "2026-07-22 08:01",
+ "updated": "2026-07-22 10:25",
  "summary": {
-  "up": 5,
+  "up": 4,
   "down": 4,
-  "neutral": 1
+  "neutral": 2
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 4).",
+   "상승·하락 요인 혼재 (상승 4 vs 하락 4).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "기준금리 인상에 예금금리도 들썩…은행 3%대·저축은행 4%대",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GVzJCUVd1MnE4Y2g4MjcyRzdha3ZEQ0pOcEl3bzJLbXAtSm15OVlNUWY1cE5UTkhvZGhzUk4tNkhEWW5jVnpEWVdmb0ZfaEpVcGF2VG5CNDhiYmpfQ2RVcdIBeEFVX3lxTFB1cmxVaDhYQzJYMlFLaE9Da08yWnhKMHdUSGNQM2thNEt1OUNmZGRQNzJ5Sy1EMDJIUnNVWDdlUTN2TjdHNE5xbUdBSS1JejcwSFZnY0V1Y25KVXJFclZhcDFxaWh2SEV1MU41emlzU0NZU3d3TVMwQw?oc=5",
-   "source": "뉴시스",
-   "time": "07/22 06:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "유가 또 90달러 위협…다시 고개 든 '3고', 한국 경제 압박",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GaHRRODhxU3UxNHJzeVl3V3FlQlVLV1pGNWhLQkV4Y2xyR2N3UDRrSUZwb2FYajdMckh3bEUydGcwMjd6VTlrYkR2cHhPdjRmanQ3Rg?oc=5",
+   "title": "중동 불안·강달러 압력에…달러·원 환율 1479원대",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40RGhYTlFlSmloWDUzc1M3a3Uya2sxRnZKeXlMVFp0Mk1lZ3FWSDY3UjQxV2d5RC12LTZUWGFrX1ZoWDA2OUE5UDNQbVBOTmJXSjQ5OWRjZkU5dUE?oc=5",
    "source": "뉴스1",
-   "time": "07/22 06:00",
+   "time": "07/22 09:38",
    "dir": "neutral",
    "strength": 0
   },
   {
+   "title": "달러당 163엔 돌파, 엔화 39년래 최약세…중동긴장에 달러 강세",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLWNSenNBNzZ2YzdWQktqWklQcEV2M3paMmNvTkNaQV9STkwwSW80T3hHMmFxbnVHdFB6TmM4TW8yWXN1MzJidlRiM2xiaHdMeG4yMkxDc3ZlWHpDcmNPVnZLZXZnUms?oc=5",
+   "source": "뉴스1",
+   "time": "07/22 09:20",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[속보]원·달러 환율, 오전 9시 1480.9원",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Yako2T2N0aDRMaXpwUHNnVG5UZDZFNG5IaUFyN3NtOUZza25aV2JRd2NUSXQ3TXNTVXNtcFk2LUpEczVGRWR1aWo5cVBlcDhIcFZodVV4TjJJZEpkVTVWbdIBeEFVX3lxTFBxek9CWTVYUXIwbjhKZjI2eWhqd2tlOWN6M3VTQXdwdnFGSk5ZWEg3eUt4bzYtNmJwb3RWRm5qM3ZlRWh4bndkaWE3TUxQU0hlQTVvLWlXQkNCdGtLN1FBemlzZ1VEaFQtbldBU2JBOHNENlZhTkdfRg?oc=5",
+   "source": "뉴시스",
+   "time": "07/22 09:07",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "허장 차관 “SK하이닉스 자금 유입·조선사 선물환 매도로 환율 안정”",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4WTdMQ092aExTNDhRb2hnZ3BTMnB0NXdZYTdidDQtVlFKTF9tRlV2WUZxaXpMdEZud2swUGI5RU5vYzlJOWN2WkZwUGJnZUFObXfSAVNBVV95cUxOLWVBNVhtMlpMS0dHRHFsVFM1d2xLQXFXRWtMN3czeHNvNmprZktGZWVKbkNsekdxbXRGdkZXZFJsTXNVQU5xaldSM2pRTDV2cmZFOA?oc=5",
+   "source": "서울경제",
+   "time": "07/22 09:02",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "달러 강세에도 원/달러 환율 6일째 하락…1470원 밑으로 가나 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NYU5oeU1TZW9XazdSVmtKb2JjNURDUXNRbHBYU2FUd0NVR0lacWNGZ3JuRm1MUTJxLWtFWjJhOGRaMFI0OE1yS21aQjRmTm5fVGdSOWFrMXZqdVdtbi1rNWppdUpWWnpBNmt3bnAxRkXSAXBBVV95cUxOTWFOaHlNU2VvV2s3UlZrSm9iYzVEQ1FzUWxwWFNhVHdDVUdJWnFjRmdybkZtTFEycS1rRVoyYThkWjBSNDhNckttWkI0Zk5uX1RnUjlhazF2anVXbW4tazVqaXVKVlp6QTZrd25wMUZF?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KUjgyalBVVVhSWWtKbzRzZ0xmLWgtS3M3VmR5cXJjTU5jVHpFV0dCQ2xmLUQwMk9RQXVTVzJEMUdvMm1qSjVBM3FpaXdoQXlDMDNiRGJvVzJMbzhNNy1HRXo4NEc2SnkwT3ZB0gFwQVVfeXFMTk1hTmh5TVNlb1drN1JWa0pvYmM1RENRc1FscFhTYVR3Q1VHSVpxY0Zncm5GbUxRMnEta0VaMmE4ZFowUjQ4TXJLbVpCNGZObl9UZ1I5YWsxdmp1V21uLWs1aml1SlZaekE2a3ducDFGRQ?oc=5",
    "source": "머니투데이",
    "time": "07/21 16:42",
    "dir": "up",
@@ -75,22 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96TUp0YjZIcUdjb1ZNM3RXVG5ZRWZKT25UbDI3WXEwR29BRThJeGlLbm9lZGpIODd3Tm1LNVFpeDdPQ0ttNWlXbmwwalRnUWtsSDE1NzR5Zm0yd0psdmZUXw?oc=5",
    "source": "아시아경제",
    "time": "07/20 09:26",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율·채권, 달러 매도세…환율 1400원대 안착할듯",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iYUVMQmNUZkMyeC1BUUpTTHQ1SlRaY1dmaHZWcHRWRGYxZFItaUJVRmg1MFliVDlzT0hhYlB5blZneFJENFlWanloUWYycmJJZUNFaEhBaHRrdw?oc=5",
-   "source": "한국경제",
-   "time": "07/19 17:32",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "기준금리 인상 사이클 본격화…주담대 8% 시대 눈앞",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBid3llaENwQnliUFFWVVJLV0JhT1d6UVl6eDQ5OXc2T18wblU0RjdUOTJGZFMwbk9pXzl1OHdPQjR0WE8zVXR3MElQS2VManI3QUFNUDVPVFhpXzI2TXQxc1Nvc0hiVzFheUhYRFFMTmw?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/19 08:30",
    "dir": "up",
    "strength": 1
   }
