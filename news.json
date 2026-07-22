@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-22 20:41",
+ "updated": "2026-07-23 08:09",
  "summary": {
   "up": 5,
   "down": 3,
@@ -15,10 +15,18 @@
  },
  "items": [
   {
-   "title": "환율 1400원대로 내려왔지만···정부, 수출기업에 “외화 더 들여와 달라”",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mbjY3MWRCZFV6R01XNXZfWWJ0bDQ2b2pQdV95ZDllQmdKeXlHNHB2ajRZUDhhaF9SZEoxZDk0eTBZR2gwZXdjVmhjVTlubG45cVhlRWxLandyZ9IBX0FVX3lxTE5qYUdPaDZPQy01LUxsdHlUaTZIbVI1U0tGcmVHcDZkbEdXb05taVZKMXpCQ0JRVVExbUpKbThXMlBVQlE2UTkzZlVOZUpoOS1sb3JpMzBnVi1jOEdheDQ0?oc=5",
-   "source": "경향신문",
-   "time": "07/22 17:16",
+   "title": "스테이트스트리트 \"연준 금리인상, 고용시장에 피해 입힐 수도\"",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yTThUWW1NNHRzY2pJN1RjUkRTUklDRUduSjc3V3VSbFFXR1hhZE0tUUt5aGs4eWVsa1F0VlVVc2pDRm9oUGJzQ2JTYXo1Y1R4SkE0?oc=5",
+   "source": "SBS Biz",
+   "time": "07/23 06:46",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "‘힌트’ 지운 케빈 워시…안갯속 빠진 연준 금리 결정│Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZWRvTVdoVW14UkFfQWNWdkcwMUEzM1g0UEIxeHZ5NWJKLW1kRV9mUDVSWGhBODNxLWNmaXRXMU1Hc0FkVTluME5fLWI4cEdGU1pPaFNLcmFRbHc?oc=5",
+   "source": "중앙일보",
+   "time": "07/23 03:17",
    "dir": "neutral",
    "strength": 0
   },
@@ -39,14 +47,6 @@
    "strength": 1
   },
   {
-   "title": "[달러·원] 환율 6.7원 오른 1480.1원 (15:30 기준)",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02NzI2eUl0cXgtejBPUlVTMWN2TkxvZVc3a1EwV2R1RnA0RmtIRnhhd3BPVl9JaTdob3lDRGtHY1BXT2tQWThqS1ZPck5jS3hFTFBqbDdDUWtFNVhGeld3?oc=5",
-   "source": "뉴스1",
-   "time": "07/22 15:32",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "달러당 163엔 돌파, 엔화 39년래 최약세…중동긴장에 달러 강세",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLWNSenNBNzZ2YzdWQktqWklQcEV2M3paMmNvTkNaQV9STkwwSW80T3hHMmFxbnVHdFB6TmM4TW8yWXN1MzJidlRiM2xiaHdMeG4yMkxDc3ZlWHpDcmNPVnZLZXZnUms?oc=5",
    "source": "뉴스1",
@@ -63,18 +63,18 @@
    "strength": 1
   },
   {
-   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,478.90원(상보) |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KQUhwYXR5eHdOVG1xcDlwVHowaVc4elFGTElWMVJWWDdJTTRoaTl6WmFLY3lpLVh1QTQzdG0ySUdybFRyRkxSSC1VV2dDOFFrSW9hTGo3eWR3aFZheHZiVW4tVGtUX1FFVkJEN2dOWW8tanJk?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/20 15:57",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "외국인 자금 이탈에 대만달러 약세 지속…환율 고공행진 |",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZWQwU3RZMUdGelIxamNEM0xqaE55V1BFU3VwNW1JNzZmWUJrMktvLUNieUpqRDRqeERlemRVVzBzZ2ZzdWhwOW9KaUppTll2THF6RDRxNXFpWElFSmEtNnZxdTZpZmxMamZPMTViaFl5OXoz?oc=5",
    "source": "연합인포맥스",
    "time": "07/20 15:55",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,478.90원(상보)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SemxlVkZDaS01d244djNCdHpLbEhPNnVnZUZLdm5sWTd3TEZYVE8zWHRFTVRzSGwtX1hoWGZLcUVEdkRYdHBVZnM3S1pUREhsVHhrdlJDSkRNUDlXUGhUb0t4UGtnUFZhZUlMUWZqS3A?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/20 15:54",
    "dir": "down",
    "strength": 1
   },
@@ -88,7 +88,7 @@
   },
   {
    "title": "獨·佛 정상 “위안화 저평가, 대중 무역적자 한 요인”…“하루 최대 10억 달러”",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQjEtdTBDdVpiZWdvSkNnT0Y5S0c0ZWxMTmxSQ1pCbUxrLTdFZE1ZdlA0RGozLTFGTWtIWlV6S1FhSEVNLTJFWUxUYkpnVmI0bGN2VE1IVER3TXhjREVBXw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQjEtdTBDdVpiZWdvSkNnT0Y5S0c0ZWxMTmxSQ1pCbUxrLTdFZE1ZdlA0RGozLTFGTWtIWlV6S1FhSEVNLTJFWUxUYkpnVmI0bGN2VE1IVER3TXhjREVBX9IBeEFVX3lxTE43cWtXQTBBNVNuRnpTM2VHcXB2QlhQeklDd0JNbWlCN3I2dXBOYndKVGVxNWxGNlZySnl5REpoSmNjSFBEWk5PdWlza1U4NDBPUjJQTjZ5dmNGS2V0Y1cwazE5ZmJiaHl4bVpYcEdIdERlMzBZeWJZbQ?oc=5",
    "source": "뉴시스",
    "time": "07/20 10:31",
    "dir": "up",
