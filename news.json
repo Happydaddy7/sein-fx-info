@@ -1,34 +1,42 @@
 {
- "updated": "2026-07-23 08:09",
+ "updated": "2026-07-23 10:45",
  "summary": {
-  "up": 5,
-  "down": 3,
-  "neutral": 2
+  "up": 6,
+  "down": 4,
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 5 vs 하락 3).",
+   "상승요인 우세 (상승 6 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "스테이트스트리트 \"연준 금리인상, 고용시장에 피해 입힐 수도\"",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yTThUWW1NNHRzY2pJN1RjUkRTUklDRUduSjc3V3VSbFFXR1hhZE0tUUt5aGs4eWVsa1F0VlVVc2pDRm9oUGJzQ2JTYXo1Y1R4SkE0?oc=5",
-   "source": "SBS Biz",
-   "time": "07/23 06:46",
-   "dir": "neutral",
-   "strength": 0
+   "title": "한은 기준금리 인상, 진짜 의미는 '긴축전환'…\"현금 확보해야\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3VWRNRl9ockxVUFZ6cDFHSmFjc1A5RnJ4amhZWWpaNXNhWEk0Q2UwWmNId1RxWWpTYWl2eE42MExYQ25zWGM3d2NzMERZblZMczlFanZXcFItMFRxblV5RtIBeEFVX3lxTE50YmtUQnV5UjZScy16cGd3WEFHSV9ySWVkTG43ajRKaW1vczFOeTk5Qmtxb0JRX1VJMXhjbXlZZHZ2bktHRWVyMmxlTTZLbVJpMjBVZ185bWh5SlNTdHN1OXVrdXJpNEhLYmFDQW92ZEVRR1h3VzdFXw?oc=5",
+   "source": "뉴시스",
+   "time": "07/23 09:42",
+   "dir": "up",
+   "strength": 2
   },
   {
-   "title": "‘힌트’ 지운 케빈 워시…안갯속 빠진 연준 금리 결정│Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lZWRvTVdoVW14UkFfQWNWdkcwMUEzM1g0UEIxeHZ5NWJKLW1kRV9mUDVSWGhBODNxLWNmaXRXMU1Hc0FkVTluME5fLWI4cEdGU1pPaFNLcmFRbHc?oc=5",
-   "source": "중앙일보",
-   "time": "07/23 03:17",
-   "dir": "neutral",
-   "strength": 0
+   "title": "기준금리 인상에 5대 은행 예적금 금리 올려",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYnB4cFI2Y3pHbS1KOHNGcU9mWlRDSW00WlByd1I1QWhMM0NaVThXRm1sMm9SR1p1S0l5ZWFXci1hVVhsX0YzemljM243ajRZYmFRTVhEWXhHQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "07/23 09:37",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[외환] 달러 약세·리스크온 회복에 1,470원대 후반 안착…구글 매출 호조",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SUlBQmt4UGhpUnQzNk9uNHVzQ3ZMa2JxS0hwekNHQzFqRUJTUjBBQkJnSkl5c19ubGo3dEluSGxtSXNOQ2NsemtmLVE0Q0l4ZmJKTHhpeXdnRlQ3VW11TWFyQ1N0Rk1oV3hYR1UzekFUUVVG0gF0QVVfeXFMT3RJSUFCa3hQaGlSdDM2T240dXNDdkxrYnFLSHB6Q0dDMWpFQlNSMEFCQmdKSXlzX25sajd0SW5IbG1Jc05DY2x6a2YtUTRDSXhmYkpMeGl5d2dGVDdVbXVNYXJDU3RGTWhXeFhHVTN6QVRRVUY?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/23 08:39",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "원·달러 환율, 1480원대 반등…고환율 속 강달러 압력 여전",
@@ -40,7 +48,7 @@
   },
   {
    "title": "재부상하는 지정학적 리스크…원·달러, 1480.1원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iNDNJNXAyUVZocGNVSk5nb2xHeFVMZVcxMFpVLWpEeGdscm4zZmZJTmtzMHVYOWNpb2lvZzd2eDg0Nk1sYkI4RW1IdzZTZDVDUXVuZC1iWFRjMFRWYzFyb9IBeEFVX3lxTE5EYTMyR0lnbWlibUxFTGZrVnVyMzhFQ2xfXzY5TFNnenFVWHRfYWtEVzQ5X1hFMFhDWGJTUEI1QWg4SzhNZ0k1WDB4MDQzbEZ0bFp2TUxhRUxTLTltTXZpakMweWtmdUp1dUNBb1h1clVLYzBnMFpFTw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83TWtPQng5TVpTV0VKUmc2RldZdGNKeWJaSzN2Wm1Wd2dqX1E1amltNHFXYnVheUxiOTNjdjJNZkhLbXVFUEsydFN1aDNYbUFweTRBRmowQ3VTcV9ESy1yRzFWaHHSAXhBVV95cUxORGEzMkdJZ21pYm1MRUxma1Z1cjM4RUNsX182OUxTZ3pxVVh0X2FrRFc0OV9YRTBYQ1hiU1BCNUFoOEs4TWdJNVgweDA0M2xGdGxadk1MYUVMUy05bU12aWpDMHlrZnVKdXVDQW9YdXJVS2MwZzBaRU8?oc=5",
    "source": "뉴시스",
    "time": "07/22 15:33",
    "dir": "up",
@@ -84,14 +92,6 @@
    "source": "연합인포맥스",
    "time": "07/20 15:43",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "獨·佛 정상 “위안화 저평가, 대중 무역적자 한 요인”…“하루 최대 10억 달러”",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXQjEtdTBDdVpiZWdvSkNnT0Y5S0c0ZWxMTmxSQ1pCbUxrLTdFZE1ZdlA0RGozLTFGTWtIWlV6S1FhSEVNLTJFWUxUYkpnVmI0bGN2VE1IVER3TXhjREVBX9IBeEFVX3lxTE43cWtXQTBBNVNuRnpTM2VHcXB2QlhQeklDd0JNbWlCN3I2dXBOYndKVGVxNWxGNlZySnl5REpoSmNjSFBEWk5PdWlza1U4NDBPUjJQTjZ5dmNGS2V0Y1cwazE5ZmJiaHl4bVpYcEdIdERlMzBZeWJZbQ?oc=5",
-   "source": "뉴시스",
-   "time": "07/20 10:31",
-   "dir": "up",
    "strength": 1
   }
  ]
