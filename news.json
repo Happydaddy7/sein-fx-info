@@ -1,26 +1,66 @@
 {
- "updated": "2026-07-23 14:14",
+ "updated": "2026-07-23 17:09",
  "summary": {
-  "up": 5,
-  "down": 4,
-  "neutral": 1
+  "up": 3,
+  "down": 2,
+  "neutral": 5
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 5 vs 하락 4).",
+   "상승요인 우세 (상승 3 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "한은 \"워시 연준 체제 출범 후 불확실성 확대…장기금리 상승 가능성\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ya3p6NENNVmNoU1RrUWVxUVZ2QVZGeUVzdWQ4YnFxYnJwSTljLUNMY2lGYjE5Qk02YWVqUDhXZklZS2R3OV9tQUpMSENYcElVQWRPQjRTaWI3RmlUbjZGTjYxMWtzU2hzY0ZYTWJBTDA?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/23 12:10",
+   "title": "코스피·GDP 서프라이즈에 원/달러 1460원대 급락…두달 내 최저 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zUUlGZjhCQXNWQkFqRmNvRDRKZVFxOU8zMHJhUGVBR0JDUG1FM0U5a2VTeHc2U0o1NVlkakZ6QkRGdEdibFdxaGxBcDA0S2xqeUI2eXZtdW5aWjdzWGU4X1lNSDgtZE5zaGxn0gFwQVVfeXFMTk44emF2WTRmVWE2SjFweUdneXQ2ODZGTFVCUV8yUm9iNjVqRmZmM0NtUkpPS3J2ZnpvdHZHVDd6QmZ5V3JuaHQ4NWZiOXZieGNnOWxRbldaRzFhTXRmVU91MzNqNGQwZzFrVlF4aVpVag?oc=5",
+   "source": "머니투데이",
+   "time": "07/23 17:01",
    "dir": "neutral",
    "strength": 0
+  },
+  {
+   "title": "韓 증시 돌아온 외국인에 원-달러 1460원대 급락…원-엔 900원 밑으로",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DR3VObkhMTF94QW1aTUwtRmEwUERaRk91dGtHa2lOQUpERFRGaC1yTGtwNjFyOUNablVVeC1NZjcwdVBrVVhCdWFramk5MXN1OWM1dzJR?oc=5",
+   "source": "중앙일보",
+   "time": "07/23 16:46",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "알파벳 실적·GDP 호조에 달러·원 13.3원 급락…1466.8원 마감(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MLTVJbkE5dDhDamJheFc5cHJCNUoyUXl0aUlNVnl2YnNkX3N0NGstYmtjb3AzempGSUprNUgwVGMzX2hoa0cxQ0pVNXloSXJyc0luWXdGVWJicDA?oc=5",
+   "source": "뉴스1",
+   "time": "07/23 16:13",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러, 1466.8원 마감…원·엔은 장중 900원선 깨져",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0cU5vcklQZ1JaQzBrOWRsekZKMEY1M0MydTZac3NZaVMyc0NsOVdJWVo5Nko3WDVfWHg0WGZmVmZlOFd2WGw0a3gzemJDU2xWcWpFSVcwV3FNdTJrS2FTUNIBeEFVX3lxTE9GYnlEelJYSGx3SmhJZFZNUGhIcTJ2R3RYTDlnUG01azJIbVR6NThuSEpEdjliSjQ4MXVuRFNYLVpXVWZzS0lZdVBTb1h6U29TVGFKNXdiWXkzdVdMbHlpT0xxRnJSbEt4SlcwT1VLVDVycWloQ2ZObw?oc=5",
+   "source": "뉴시스",
+   "time": "07/23 15:43",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율 13.3원 내린 1466.8원(오후 3시30분)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hYzNJVDF5STAySXZRZGx6QkNrMUtubnFqNVR6ZWhLWjlvaXNCQ2tfMkdRQzFkSjZvVE1hWDh4dHNjczhjNGRCc1pYYWJOVGF5c05ZeGEwTEVwREJRa0JhSQ?oc=5",
+   "source": "아시아경제",
+   "time": "07/23 15:37",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "‘강달러’ 끝나니 이번엔 환율 급락 공포",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fQktKUEJPMUtaZ09VX1cwSW1QUzQtNFlvT1ZzR25QdmdqVk9EMFBfX0w2Q05SdkIxR3VuMmR0TjMwZ3BFR0FKWHVMNjk1dExSV0VzZ1dB?oc=5",
+   "source": "헤럴드경제",
+   "time": "07/23 11:20",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "한은 기준금리 인상, 진짜 의미는 '긴축전환'…\"현금 확보해야\"",
@@ -47,51 +87,11 @@
    "strength": 1
   },
   {
-   "title": "원·달러 환율, 1480원대 반등…고환율 속 강달러 압력 여전",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MREZyOFhGa3dCM00zVTVIMjNUQ2JPM25qRGtpZlZQQVlGMVlUSFlIVVlqVWVjLUp3RHBfbXZJbVd2XzhtcTRsVlAwdDdJLUQ2Y25BS2I5b3ZyQQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "07/22 16:19",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "기준금리 인상에 예금금리도 들썩…은행 3%대·저축은행 4%대",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GVzJCUVd1MnE4Y2g4MjcyRzdha3ZEQ0pOcEl3bzJLbXAtSm15OVlNUWY1cE5UTkhvZGhzUk4tNkhEWW5jVnpEWVdmb0ZfaEpVcGF2VG5CNDhiYmpfQ2RVcdIBeEFVX3lxTFB1cmxVaDhYQzJYMlFLaE9Da08yWnhKMHdUSGNQM2thNEt1OUNmZGRQNzJ5Sy1EMDJIUnNVWDdlUTN2TjdHNE5xbUdBSS1JejcwSFZnY0V1Y25KVXJFclZhcDFxaWh2SEV1MU41emlzU0NZU3d3TVMwQw?oc=5",
-   "source": "뉴시스",
-   "time": "07/22 06:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "달러 강세에도 원/달러 환율 6일째 하락…1470원 밑으로 가나 - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KUjgyalBVVVhSWWtKbzRzZ0xmLWgtS3M3VmR5cXJjTU5jVHpFV0dCQ2xmLUQwMk9RQXVTVzJEMUdvMm1qSjVBM3FpaXdoQXlDMDNiRGJvVzJMbzhNNy1HRXo4NEc2SnkwT3ZB0gFwQVVfeXFMTk1hTmh5TVNlb1drN1JWa0pvYmM1RENRc1FscFhTYVR3Q1VHSVpxY0Zncm5GbUxRMnEta0VaMmE4ZFowUjQ4TXJLbVpCNGZObl9UZ1I5YWsxdmp1V21uLWs1aml1SlZaekE2a3ducDFGRQ?oc=5",
    "source": "머니투데이",
    "time": "07/21 16:42",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,478.90원(상보) |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KQUhwYXR5eHdOVG1xcDlwVHowaVc4elFGTElWMVJWWDdJTTRoaTl6WmFLY3lpLVh1QTQzdG0ySUdybFRyRkxSSC1VV2dDOFFrSW9hTGo3eWR3aFZheHZiVW4tVGtUX1FFVkJEN2dOWW8tanJk?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/20 15:57",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "외국인 자금 이탈에 대만달러 약세 지속…환율 고공행진",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHY0WkxDRlRfdVd3aGFaVEdxYTY3VG1TSGdnSHFudlJCdjNSY19LbEhDVmFub0dzWFV0czkxQ3I4eXRfb1RYNW96Q3FXSXNfU0RGSjl6eFI1el9tYXQ4Q3hNcERsR240SnRzbFlHRUk?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/20 15:51",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,479.50원",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5OVZoeW1ydldyOVBubU9UMm1DQ2pGVjZNLU9maDJhRHZxWUJwZzRPYjVmZlE0Zlc4TmtTUVdiRzhZUFpDeUloM2FjbHlOV2cxeURQYzh1XzVLLWUxZ0lmZUpBaXVOS01Ra1pkS3JCVENCZ19v0gF0QVVfeXFMUHk5Vmh5bXJ2V3I5UG5tT1QybUNDakZWNk0tT2ZoMmFEdnFZQnBnNE9iNWZmUTRmVzhOa1NRV2JHOFlQWkN5SWgzYWNseU5XZzF5RFBjOHVfNUstZTFnSWZlSkFpdU5LTVFrWmRLckJUQ0JnX28?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/20 15:43",
-   "dir": "down",
    "strength": 1
   }
  ]
