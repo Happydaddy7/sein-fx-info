@@ -1,19 +1,27 @@
 {
- "updated": "2026-07-23 10:45",
+ "updated": "2026-07-23 14:14",
  "summary": {
-  "up": 6,
+  "up": 5,
   "down": 4,
-  "neutral": 0
+  "neutral": 1
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
+   "상승요인 우세 (상승 5 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "한은 \"워시 연준 체제 출범 후 불확실성 확대…장기금리 상승 가능성\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ya3p6NENNVmNoU1RrUWVxUVZ2QVZGeUVzdWQ4YnFxYnJwSTljLUNMY2lGYjE5Qk02YWVqUDhXZklZS2R3OV9tQUpMSENYcElVQWRPQjRTaWI3RmlUbjZGTjYxMWtzU2hzY0ZYTWJBTDA?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/23 12:10",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "한은 기준금리 인상, 진짜 의미는 '긴축전환'…\"현금 확보해야\"",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3VWRNRl9ockxVUFZ6cDFHSmFjc1A5RnJ4amhZWWpaNXNhWEk0Q2UwWmNId1RxWWpTYWl2eE42MExYQ25zWGM3d2NzMERZblZMczlFanZXcFItMFRxblV5RtIBeEFVX3lxTE50YmtUQnV5UjZScy16cGd3WEFHSV9ySWVkTG43ajRKaW1vczFOeTk5Qmtxb0JRX1VJMXhjbXlZZHZ2bktHRWVyMmxlTTZLbVJpMjBVZ185bWh5SlNTdHN1OXVrdXJpNEhLYmFDQW92ZEVRR1h3VzdFXw?oc=5",
@@ -47,18 +55,10 @@
    "strength": 1
   },
   {
-   "title": "재부상하는 지정학적 리스크…원·달러, 1480.1원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83TWtPQng5TVpTV0VKUmc2RldZdGNKeWJaSzN2Wm1Wd2dqX1E1amltNHFXYnVheUxiOTNjdjJNZkhLbXVFUEsydFN1aDNYbUFweTRBRmowQ3VTcV9ESy1yRzFWaHHSAXhBVV95cUxORGEzMkdJZ21pYm1MRUxma1Z1cjM4RUNsX182OUxTZ3pxVVh0X2FrRFc0OV9YRTBYQ1hiU1BCNUFoOEs4TWdJNVgweDA0M2xGdGxadk1MYUVMUy05bU12aWpDMHlrZnVKdXVDQW9YdXJVS2MwZzBaRU8?oc=5",
+   "title": "기준금리 인상에 예금금리도 들썩…은행 3%대·저축은행 4%대",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GVzJCUVd1MnE4Y2g4MjcyRzdha3ZEQ0pOcEl3bzJLbXAtSm15OVlNUWY1cE5UTkhvZGhzUk4tNkhEWW5jVnpEWVdmb0ZfaEpVcGF2VG5CNDhiYmpfQ2RVcdIBeEFVX3lxTFB1cmxVaDhYQzJYMlFLaE9Da08yWnhKMHdUSGNQM2thNEt1OUNmZGRQNzJ5Sy1EMDJIUnNVWDdlUTN2TjdHNE5xbUdBSS1JejcwSFZnY0V1Y25KVXJFclZhcDFxaWh2SEV1MU41emlzU0NZU3d3TVMwQw?oc=5",
    "source": "뉴시스",
-   "time": "07/22 15:33",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "달러당 163엔 돌파, 엔화 39년래 최약세…중동긴장에 달러 강세",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLWNSenNBNzZ2YzdWQktqWklQcEV2M3paMmNvTkNaQV9STkwwSW80T3hHMmFxbnVHdFB6TmM4TW8yWXN1MzJidlRiM2xiaHdMeG4yMkxDc3ZlWHpDcmNPVnZLZXZnUms?oc=5",
-   "source": "뉴스1",
-   "time": "07/22 09:20",
+   "time": "07/22 06:00",
    "dir": "up",
    "strength": 1
   },
@@ -71,18 +71,18 @@
    "strength": 1
   },
   {
-   "title": "외국인 자금 이탈에 대만달러 약세 지속…환율 고공행진 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZWQwU3RZMUdGelIxamNEM0xqaE55V1BFU3VwNW1JNzZmWUJrMktvLUNieUpqRDRqeERlemRVVzBzZ2ZzdWhwOW9KaUppTll2THF6RDRxNXFpWElFSmEtNnZxdTZpZmxMamZPMTViaFl5OXoz?oc=5",
+   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,478.90원(상보) |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KQUhwYXR5eHdOVG1xcDlwVHowaVc4elFGTElWMVJWWDdJTTRoaTl6WmFLY3lpLVh1QTQzdG0ySUdybFRyRkxSSC1VV2dDOFFrSW9hTGo3eWR3aFZheHZiVW4tVGtUX1FFVkJEN2dOWW8tanJk?oc=5",
    "source": "연합인포맥스",
-   "time": "07/20 15:55",
+   "time": "07/20 15:57",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "달러-원, 달러 약세에 1,470원대로…한때 1,478.90원(상보)",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SemxlVkZDaS01d244djNCdHpLbEhPNnVnZUZLdm5sWTd3TEZYVE8zWHRFTVRzSGwtX1hoWGZLcUVEdkRYdHBVZnM3S1pUREhsVHhrdlJDSkRNUDlXUGhUb0t4UGtnUFZhZUlMUWZqS3A?oc=5",
+   "title": "외국인 자금 이탈에 대만달러 약세 지속…환율 고공행진",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqVHY0WkxDRlRfdVd3aGFaVEdxYTY3VG1TSGdnSHFudlJCdjNSY19LbEhDVmFub0dzWFV0czkxQ3I4eXRfb1RYNW96Q3FXSXNfU0RGSjl6eFI1el9tYXQ4Q3hNcERsR240SnRzbFlHRUk?oc=5",
    "source": "연합인포맥스",
-   "time": "07/20 15:54",
+   "time": "07/20 15:51",
    "dir": "down",
    "strength": 1
   },
