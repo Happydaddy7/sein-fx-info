@@ -110,13 +110,29 @@ header p{margin-top:6px;font-size:12.5px;color:#b8c4d0}
 #dxyChart{width:100%;height:auto;display:block}
 
 /* 요약 통계 */
-.statrow{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px;margin-bottom:14px}
+.statrow{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:14px}
+@media(max-width:640px){.statrow{grid-template-columns:1fr 1fr}}
 .stat{background:#fff;border:1px solid var(--line);border-radius:10px;padding:14px 12px;text-align:center}
 .stat.total{background:var(--navy);border-color:var(--navy)}
 .stat .sl{font-size:12px;color:#8b8577}
 .stat.total .sl{color:#b8c4d0}
 .stat .sv{font-family:'Noto Serif KR',serif;font-size:19px;font-weight:700;color:var(--navy);margin-top:5px}
 .stat.total .sv{color:#fff}
+
+/* 앞으로 나갈 돈 */
+.upcoming{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+.ucard{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px 16px}
+.ucard.cover{background:var(--navy);border-color:var(--navy)}
+.uhead{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px}
+.umonth{font-size:12.5px;font-weight:700;color:var(--copper)}
+.ucard.cover .umonth{color:#d99a5b}
+.ucnt{font-size:11px;color:#a29b8b}
+.uval{font-family:'Noto Serif KR',serif;font-size:24px;font-weight:700;color:var(--navy)}
+.ucard.cover .uval{color:#fff}
+.ulist{margin-top:10px;padding-top:9px;border-top:1px dashed var(--line);font-size:11.5px;color:#6b6558;line-height:1.7}
+.ulist span{display:block}
+.ucovnote{font-size:11.5px;color:#b8c4d0;margin-top:6px;line-height:1.5}
+.unote{margin-top:10px;font-size:12px;color:#8a6a4a;background:#faf3ec;border-radius:8px;padding:10px 14px}
 
 section{margin-top:34px}
 section h2{font-family:'Noto Serif KR',serif;font-size:18px;color:var(--navy);margin-bottom:6px}
@@ -190,23 +206,6 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
     <div class="fcbox" id="fcBox"><div class="fcmeta">예상 범위 계산 중…</div></div>
   </div>
 
-  <!-- 진행률 게이지 (핵심) -->
-  <div class="gauge-card">
-    <div class="top">
-      <span class="mo" id="gMonth">2026년 7월</span>
-      <span class="tgt">이번 달 목표 <b id="gTarget">$1,423,036</b></span>
-    </div>
-    <div class="bar">
-      <div class="fill" id="gFill" style="width:0%"><span class="pct" id="gPct"></span></div>
-      <div class="pace" id="gPace" style="left:0%"></div>
-    </div>
-    <div class="subrow">
-      <span>샀음 <b id="gBought">$0</b></span>
-      <span>남음 <b id="gLeft">$0</b></span>
-    </div>
-    <div class="gnote">목표 = <b>이번 달 결제로 나갈 달러(지불예정액)</b>. 이 금액만큼은 이번 달 안에 사둬야 결제가 막힘없이 됩니다. <span id="gTargetNote"></span></div>
-  </div>
-
   <!-- 보유 외화액 -->
   <div class="holdings single">
     <div class="hcard total">
@@ -215,6 +214,30 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
       <div class="hsub" id="hTotalKrw">원화 환산 —</div>
     </div>
   </div>
+
+  <!-- 앞으로 나갈 돈 -->
+  <section>
+    <h2>앞으로 나갈 돈</h2>
+    <div class="desc">결제기일이 확정된 미불금 기준. 보유 외화로 덮이는지 확인용.</div>
+    <div class="upcoming">
+      <div class="ucard">
+        <div class="uhead"><span class="umonth">7월 잔여</span><span class="ucnt" id="u7cnt"></span></div>
+        <div class="uval" id="u7">—</div>
+        <div class="ulist" id="u7list"></div>
+      </div>
+      <div class="ucard">
+        <div class="uhead"><span class="umonth">8월</span><span class="ucnt" id="u8cnt"></span></div>
+        <div class="uval" id="u8">—</div>
+        <div class="ulist" id="u8list"></div>
+      </div>
+      <div class="ucard cover">
+        <div class="uhead"><span class="umonth">보유 대비</span></div>
+        <div class="uval" id="uCover">—</div>
+        <div class="ucovnote" id="uCoverNote"></div>
+      </div>
+    </div>
+    <div class="unote">⚠ 8월분은 6~7월 통관자료가 아직 반영되지 않아 실제보다 적게 잡혀 있습니다. 통관자료 입수 시 갱신 필요.</div>
+  </section>
 
   <!-- 과거 환율 -->
   <section>
@@ -258,10 +281,11 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
   <!-- 월별 수급 -->
   <section>
     <h2>월별 수급 (2026년)</h2>
-    <div class="desc">매달 산 돈과 나간 돈.</div>
+    <div class="desc">매달 산 돈(구매액)과 나간 돈(사용액). 7월은 진행 중(7/22까지). 출처: 선물환 구매 누계표 (#0-09-외환).</div>
     <div class="statrow">
       <div class="stat"><div class="sl">월평균 매입액</div><div class="sv" id="avgBuy">—</div></div>
       <div class="stat"><div class="sl">월평균 지불액</div><div class="sv" id="avgPay">—</div></div>
+      <div class="stat"><div class="sl">평균 매입환율 <span style="font-size:10px;color:#a29b8b">2026</span></div><div class="sv">1,489.58</div></div>
       <div class="stat total"><div class="sl">현재 보유 외화</div><div class="sv" id="avgHold">—</div></div>
     </div>
     <div class="card" style="overflow-x:auto">
@@ -272,7 +296,7 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
     </div>
   </section>
 
-  <footer>세인바이오 AI혁신팀 · sein-fx-info v2 · 환율 Frankfurter(ECB) · 뉴스 GitHub Actions 자동수집</footer>
+  <footer>세인바이오 AI혁신팀 · sein-fx-info v2 · 환율 Frankfurter(ECB) · 뉴스 자동수집 · 수급 데이터 #0-09-외환 구매누계표</footer>
 </div>
 
 <script>
@@ -282,8 +306,9 @@ const FX_API="https://api.frankfurter.dev/v1";
 
 // ── 월별 수급 (고정 데이터) ──
 const SUPPLY=[
- {m:"1",buy:1470000,pay:1432493},{m:"2",buy:2132420,pay:2137356},{m:"3",buy:2331000,pay:2493727},
- {m:"4",buy:2563000,pay:2598688},{m:"5",buy:1770000,pay:1870411},{m:"6",buy:2245000,pay:2241149}
+ {m:"1",buy:1770000,pay:1410000},{m:"2",buy:1530000,pay:1950000},{m:"3",buy:2010000,pay:2310000},
+ {m:"4",buy:2190000,pay:2550000},{m:"5",buy:1530000,pay:1770000},{m:"6",buy:2200000,pay:2210000},
+ {m:"7",buy:1710000,pay:1600000}
 ];
 
 // ── 1. 오늘 환율 ──
@@ -359,40 +384,48 @@ function updateForecast(){
   }
 }
 
-// ── 2. 진행률 게이지 + 오늘 권고 ──
+// ── 2. 보유 외화 + 앞으로 나갈 돈 ──
+const UPCOMING = {
+  "7": {total:372690, cnt:5, items:[
+    ["07/24","ALCHEM BIO MDCP",82000],
+    ["07/24","NHU 메치오닌",144000],
+    ["07/24","SHANDONG V-C",15200],
+    ["07/29","GREEN&NATURAL 하이팻",35490],
+    ["07/29","NHU 메치오닌",96000]
+  ]},
+  "8": {total:497490, cnt:4, items:[
+    ["08/04","CHANHEN MCP 100톤",97500],
+    ["08/04","CHANHEN MCP 200톤",192000],
+    ["08/04","GREEN&NATURAL 메가팻",15990],
+    ["08/13","CHANHEN MCP 200톤",192000]
+  ]}
+};
+
 async function loadGauge(){
   let P;
   try{ P=await fetch("purchases.json?t="+Date.now()).then(r=>r.json()); }
-  catch(e){ $("gMonth").textContent="purchases.json 없음"; return; }
+  catch(e){ $("hTotal").textContent="purchases.json 없음"; return; }
 
-  const bought=P.log.reduce((a,x)=>a+x.amount,0);
-  const target=P.target;
-  const left=Math.max(0,target-bought);
-  const pct=Math.min(100,bought/target*100);
-
-  // 현재 보유 외화 (purchases.json의 holdings 값 하나만 표시)
+  // 현재 보유 외화
   const holdings=P.holdings||0;
   window.__holdings={total:holdings};
   $("hTotal").textContent=won(holdings);
   renderHoldingsKrw();
 
-  const [y,mo]=P.month.split("-").map(Number);
-  $("gMonth").textContent=`${y}년 ${mo}월`;
-  $("gTarget").textContent=won(target);
-  $("gBought").textContent=won(bought);
-  $("gLeft").textContent=won(left);
-  $("gFill").style.width=pct+"%";
-  $("gPct").textContent=pct.toFixed(0)+"%";
-  if(P.target_note) $("gTargetNote").textContent="("+P.target_note+")";
+  // 앞으로 나갈 돈
+  const u7=UPCOMING["7"], u8=UPCOMING["8"];
+  $("u7").textContent=won(u7.total);
+  $("u7cnt").textContent=u7.cnt+"건";
+  $("u7list").innerHTML=u7.items.map(i=>`<span>${i[0]} ${i[1]} · ${won(i[2])}</span>`).join("");
+  $("u8").textContent=won(u8.total);
+  $("u8cnt").textContent=u8.cnt+"건";
+  $("u8list").innerHTML=u8.items.map(i=>`<span>${i[0]} ${i[1]} · ${won(i[2])}</span>`).join("");
 
-  // 적정 페이스선 (이번 달이면 오늘까지 경과 비율 표시)
-  const today=new Date();
-  const isThisMonth=(today.getFullYear()===y && today.getMonth()+1===mo);
-  if(isThisMonth){
-    const last=new Date(y,mo,0).getDate();
-    const paceExpected=(today.getDate()/last)*100;
-    $("gPace").style.left=Math.min(100,paceExpected)+"%";
-  }else $("gPace").style.display="none";
+  const need=u7.total+u8.total;
+  const ratio=need>0?holdings/need:0;
+  $("uCover").textContent=ratio.toFixed(1)+"배";
+  $("uCoverNote").innerHTML=`보유 ${won(holdings)} ÷ 7~8월 소요 ${won(need)}<br>`+
+    (ratio>=1?`잔여 ${won(holdings-need)} — 충분`:`부족 ${won(need-holdings)} — 추가 매입 필요`);
 }
 
 // ── 3. 과거 환율 차트 ──
@@ -498,7 +531,7 @@ async function loadNews(){
 function loadSupply(){
   $("supplyBody").innerHTML=SUPPLY.map(d=>{
     const g=d.buy-d.pay;
-    return `<tr><td>${d.m}월</td><td>${won(d.buy)}</td><td>${won(d.pay)}</td><td class="${g>=0?'plus':'minus'}">${g>=0?'+':''}${won(g).replace('$-','-$')}</td></tr>`;
+    return `<tr${d.m==="7"?' class="now"':""}><td>${d.m}월${d.m==="7"?' <span class="mini">진행중</span>':""}</td><td>${won(d.buy)}</td><td>${won(d.pay)}</td><td class="${g>=0?'plus':'minus'}">${g>=0?'+':''}${won(g).replace('$-','-$')}</td></tr>`;
   }).join("");
   const n=SUPPLY.length;
   $("avgBuy").textContent=won(SUPPLY.reduce((a,d)=>a+d.buy,0)/n);
