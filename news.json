@@ -1,48 +1,56 @@
 {
- "updated": "2026-07-23 20:44",
+ "updated": "2026-07-24 08:00",
  "summary": {
-  "up": 5,
+  "up": 4,
   "down": 1,
-  "neutral": 4
+  "neutral": 5
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 5 vs 하락 1).",
+   "상승요인 우세 (상승 4 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "2분기 GDP도 깜짝 성장…기준금리 추가 인상 힘받나",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEaTNVYWlyM2VZbmszT0NsTDN0YUJaZ2pOeHZNd05UYm9mU1pxRTVNSC1NS2p6SnRCT25HMmUxTk9lRkNJXzJJOHRCQUEtM1R3RS1CbjVkUEZoSWFTWnBhdFY1RlZkTUxNU2hEaEE2ME0yQQ?oc=5",
-   "source": "한겨레",
-   "time": "07/23 19:54",
+   "title": "원·달러 두 달여 만에 최저…원·엔 900원 하회",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92WGxjbExXbmZidUtqandOa1RMVkRYdy1nS1U2WWh1UFpTbEVKaUFwRnBrX0RsUGVqMUVBWE5JNHFVcnpEdDNQR3p2WFRObENSOHpRbzhfRElXVVAydDhDVDlNV1ViVzA?oc=5",
+   "source": "연합뉴스TV",
+   "time": "07/23 20:54",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "한국 경제 성장세에…힘 받는 기준금리 '연속 인상'",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXWGQ2dnl3azlNZ29sa0I2eGc5ajZUWmdCcUpaUXNSaW5WLVprdnNBd3ducVQteXJFWnprOWFQSjllOHBYSkRYV3BpNnBGaFJpakhUckNHM255a3PSAWBBVV95cUxNOVp1UHBzMUlkZ1ZxUl9YVVkzb2lfZUxHZXkyeUZ0QlhkSEdoekRraTVOX3lOM01WMVVBbTlmQXRydmVQWjM2Nl9XUUoxMFk5NkhjMmxpdHBfV3NqT2JRcFI?oc=5",
-   "source": "연합뉴스",
+   "title": "원·엔 환율, 1년8개월 만에 ‘800원대’",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVW00Q3Btd2M5UlNhb242YVR1YmFCTzNncXRrTUJVdjNUWi1kSFNkZjNIc0NHbFlsTDF2dXVieDRkbmtMaTNRdU1DalEyaFMwZ1BxZFVrOTdHUdIBX0FVX3lxTE9Ec1psSWd2dURrSVdPNHNkOTlSNGNUYXRuSHlXY0M2aW9SZjJfajgtZGJwUWdiSW1PaWtsWVotOUh1Z3B3MGduX29pUV9SUHlXVlM1bkJPR2NJdUl1aUFJ?oc=5",
+   "source": "경향신문",
+   "time": "07/23 20:44",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "2분기 GDP도 깜짝 성장…기준금리 추가 인상 힘받나",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEaTNVYWlyM2VZbmszT0NsTDN0YUJaZ2pOeHZNd05UYm9mU1pxRTVNSC1NS2p6SnRCT25HMmUxTk9lRkNJXzJJOHRCQUEtM1R3RS1CbjVkUEZoSWFTWnBhdFY1RlZkTUxNU2hEaEE2ME0yQQ?oc=5",
+   "source": "한겨레",
+   "time": "07/23 20:11",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "한국 경제 성장세에…힘 받는 기준금리 ’연속 인상’",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CQjRRdjhpdzIzVlA1MVZGVk5JYVRfaEgtN2xjNzhiYm1ZQURKLXN5bExDSUZ6aXUxbjJ2MDNQOEthLUZiUmNBQ0hIenhUdFdTeXNYS2E4dGlJU0pLYUpwdDNJRTE3TXc?oc=5",
+   "source": "연합뉴스TV",
    "time": "07/23 18:18",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "외국인 리밸런싱 주춤…원·달러 환율 1460원대로",
+   "title": "갑자기 힘 세진 원화…원·달러 1460원대, 원·엔 890원대로",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pUk83Y0NrWjNwLUk2OENkN2YwMTI1Z0k3VUFUNEM3ZDhpbjJBNmw2SjNMUFNBUmszSGJmZ3NRUFltWUl1MWFZNTFTRTRuTG1GeDczTUJ5ay1aQQ?oc=5",
    "source": "한국경제",
    "time": "07/23 17:42",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·엔 환율 900원 밑으로…1년 8개월만에 최저",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DdF9zdUtpa3EyaE1FNC1Oa2ZYNmtDWmZ5Uy1kRF85cjJVRnppa1ZjRXYxTWMwbm1pdndyX3lzLTBqakFfSVZTOVc1MUdOazVwbHfSAVNBVV95cUxQRjZtckpVVFRHT0JqT2xlWG5tQ3JNRlJWX1U1bFgzWVJWQkkxSkhyRWFJNkxpeEhNd1JtQ2FrX1dnbTNGbHh2bFdmTE5KNjkzb2JZRQ?oc=5",
-   "source": "서울경제",
-   "time": "07/23 17:38",
    "dir": "neutral",
    "strength": 0
   },
@@ -63,26 +71,18 @@
    "strength": 2
   },
   {
-   "title": "기준금리 인상에 5대 은행 예적금 금리 올려",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYnB4cFI2Y3pHbS1KOHNGcU9mWlRDSW00WlByd1I1QWhMM0NaVThXRm1sMm9SR1p1S0l5ZWFXci1hVVhsX0YzemljM243ajRZYmFRTVhEWXhHQQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "07/23 09:37",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "[외환] 달러 약세·리스크온 회복에 1,470원대 후반 안착…구글 매출 호조",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SUlBQmt4UGhpUnQzNk9uNHVzQ3ZMa2JxS0hwekNHQzFqRUJTUjBBQkJnSkl5c19ubGo3dEluSGxtSXNOQ2NsemtmLVE0Q0l4ZmJKTHhpeXdnRlQ3VW11TWFyQ1N0Rk1oV3hYR1UzekFUUVVG0gF0QVVfeXFMT3RJSUFCa3hQaGlSdDM2T240dXNDdkxrYnFLSHB6Q0dDMWpFQlNSMEFCQmdKSXlzX25sajd0SW5IbG1Jc05DY2x6a2YtUTRDSXhmYkpMeGl5d2dGVDdVbXVNYXJDU3RGTWhXeFhHVTN6QVRRVUY?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WWGJNWXdUWkxvcnNOMHhGLXlDNzYwcVM3cVMzMlNwMUtfU1RTT3B3aGR6VTFuTXVQV3NVMXNPQUdkQlVOVnVJQmxTNVZFa0stZzlOSDA3bEwzZGF0aEVabFJBWEJHLTNLSGZlQlBFVm_SAXRBVV95cUxPdElJQUJreFBoaVJ0MzZPbjR1c0N2TGticUtIcHpDR0MxakVCU1IwQUJCZ0pJeXNfbmxqN3RJbkhsbUlzTkNjbHprZi1RNENJeGZiSkx4aXl3Z0ZUN1VtdU1hckNTdEZNaFd4WEdVM3pBVFFVRg?oc=5",
    "source": "연합인포맥스",
-   "time": "07/23 08:39",
+   "time": "07/23 08:31",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "기준금리 인상에 예금금리도 들썩…은행 3%대·저축은행 4%대",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GVzJCUVd1MnE4Y2g4MjcyRzdha3ZEQ0pOcEl3bzJLbXAtSm15OVlNUWY1cE5UTkhvZGhzUk4tNkhEWW5jVnpEWVdmb0ZfaEpVcGF2VG5CNDhiYmpfQ2RVcdIBeEFVX3lxTFB1cmxVaDhYQzJYMlFLaE9Da08yWnhKMHdUSGNQM2thNEt1OUNmZGRQNzJ5Sy1EMDJIUnNVWDdlUTN2TjdHNE5xbUdBSS1JejcwSFZnY0V1Y25KVXJFclZhcDFxaWh2SEV1MU41emlzU0NZU3d3TVMwQw?oc=5",
-   "source": "뉴시스",
-   "time": "07/22 06:00",
+   "title": "달러당 163엔 돌파, 엔화 39년래 최약세…중동긴장에 달러 강세",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLWNSenNBNzZ2YzdWQktqWklQcEV2M3paMmNvTkNaQV9STkwwSW80T3hHMmFxbnVHdFB6TmM4TW8yWXN1MzJidlRiM2xiaHdMeG4yMkxDc3ZlWHpDcmNPVnZLZXZnUms?oc=5",
+   "source": "뉴스1",
+   "time": "07/22 09:20",
    "dir": "up",
    "strength": 1
   },
