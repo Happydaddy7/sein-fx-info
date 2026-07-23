@@ -281,7 +281,7 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
   <!-- 월별 수급 -->
   <section>
     <h2>월별 수급 (2026년)</h2>
-    <div class="desc">매달 산 돈(구매액)과 나간 돈(사용액). 7월은 진행 중(7/22까지). 출처: 선물환 구매 누계표 (#0-09-외환).</div>
+    <div class="desc">매달 산 돈(구매액)과 나간 돈(사용액). 출처: 선물환 구매 누계표 (#0-09-외환).</div>
     <div class="statrow">
       <div class="stat"><div class="sl">월평균 매입액</div><div class="sv" id="avgBuy">—</div></div>
       <div class="stat"><div class="sl">월평균 지불액</div><div class="sv" id="avgPay">—</div></div>
@@ -310,6 +310,7 @@ const SUPPLY=[
  {m:"4",buy:2190000,pay:2550000},{m:"5",buy:1530000,pay:1770000},{m:"6",buy:2200000,pay:2210000},
  {m:"7",buy:1710000,pay:1600000}
 ];
+const LAST_M = SUPPLY[SUPPLY.length-1].m;   // 마지막(진행 중) 달
 
 // ── 1. 오늘 환율 ──
 async function loadRate(){
@@ -411,6 +412,13 @@ async function loadGauge(){
   window.__holdings={total:holdings};
   $("hTotal").textContent=won(holdings);
   renderHoldingsKrw();
+
+  // 마지막 기록일 (월별 수급표 표기용) — "07-22" → "7/22"
+  if(P.log && P.log.length){
+    const d=P.log[P.log.length-1].date;      // "2026-07-22"
+    const p=d.split("-");
+    window.__lastDate=`${+p[1]}/${+p[2]}`;
+  }
 
   // 앞으로 나갈 돈
   const u7=UPCOMING["7"], u8=UPCOMING["8"];
@@ -531,7 +539,7 @@ async function loadNews(){
 function loadSupply(){
   $("supplyBody").innerHTML=SUPPLY.map(d=>{
     const g=d.buy-d.pay;
-    return `<tr${d.m==="7"?' class="now"':""}><td>${d.m}월${d.m==="7"?' <span class="mini">진행중</span>':""}</td><td>${won(d.buy)}</td><td>${won(d.pay)}</td><td class="${g>=0?'plus':'minus'}">${g>=0?'+':''}${won(g).replace('$-','-$')}</td></tr>`;
+    return `<tr${d.m===LAST_M?' class="now"':""}><td>${d.m}월${d.m===LAST_M&&window.__lastDate?' <span class="mini">'+window.__lastDate+' 기준</span>':""}</td><td>${won(d.buy)}</td><td>${won(d.pay)}</td><td class="${g>=0?'plus':'minus'}">${g>=0?'+':''}${won(g).replace('$-','-$')}</td></tr>`;
   }).join("");
   const n=SUPPLY.length;
   $("avgBuy").textContent=won(SUPPLY.reduce((a,d)=>a+d.buy,0)/n);
