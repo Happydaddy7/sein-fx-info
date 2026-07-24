@@ -119,22 +119,32 @@ def main():
         print(f"{month} 해당 [집계] 줄 없음. 변경 없음.")
         return
 
-    P["log"] = [{"date": r["date"],
-                 "amount": int(r["amount"] or 0),
-                 "rate": r["rate"] or 0,
-                 "note": ""} for r in cur if r["amount"]]
+    # ── 기존 log 보존 + 슬랙 데이터 병합 (같은 날짜는 슬랙 값으로 갱신) ──
+    merged = {}
+    for x in P.get("log", []):
+        if x.get("date", "").startswith(month):
+            merged[x["date"]] = x
+    for r in cur:
+        if r["amount"] is not None:
+            merged[r["date"]] = {"date": r["date"],
+                                 "amount": int(r["amount"]),
+                                 "rate": r["rate"] or 0,
+                                 "note": ""}
+    P["log"] = [merged[d] for d in sorted(merged)]
 
     last = cur[-1]
     if last.get("balance"):
         P["holdings"] = int(last["balance"])
         P["holdings_note"] = f"{last['date']} 기준 선물환 잔액 (Slack 자동)"
 
+    # 목표(사용액 누계): 슬랙에서 읽은 값이 기존보다 클 때만 갱신.
+    # 집계 줄이 일부 날짜만 있을 때 기존 누계가 깎이는 것을 방지.
     used_sum = sum(int(r["used"]) for r in cur if r.get("used"))
-    if used_sum and not os.environ.get("MANUAL_TARGET"):
+    if os.environ.get("MANUAL_TARGET"):
+        P["target"] = int(os.environ["MANUAL_TARGET"])
+    elif used_sum > int(P.get("target", 0) or 0):
         P["target"] = used_sum
         P["target_note"] = f"{month} 사용액 누계 (Slack 자동)"
-    elif os.environ.get("MANUAL_TARGET"):
-        P["target"] = int(os.environ["MANUAL_TARGET"])
 
     P["updated_from_slack"] = datetime.now(KST).strftime("%Y-%m-%d %H:%M")
 
