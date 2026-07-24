@@ -1,14 +1,14 @@
 {
- "updated": "2026-07-24 13:59",
+ "updated": "2026-07-24 15:22",
  "summary": {
-  "up": 7,
+  "up": 6,
   "down": 1,
-  "neutral": 2
+  "neutral": 3
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 1).",
+   "상승요인 우세 (상승 6 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -27,6 +27,14 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Bd3MxQzdZTWYzNjJnUERjMmNuYmpaS2g4bkpFTjViNXc0bEdZRS1WNEpjOXRYcXNhUV91VWpTOHR4N2hENTRyWGUxOHhDaDQtQ1VDNzFJZ0xiWFBrOHkxQdIBeEFVX3lxTE5vYzVoeG5aVWZXQ2RCQTRwNGxLNEU0RHFNdm9UZjh3blU5U1hFVkJNY25Id3BjeHNhazAySHNwaHRWUVctMlUyTDh0VDU3Z2tCcTZVNm44MGNvRXU5T29XX2RGT3J4d3E1ZzdubTFOa1lZY3Zvc3FoSw?oc=5",
    "source": "뉴시스",
    "time": "07/24 11:31",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "달러-엔 164엔 육박에도 달러-원은 낙하…'원·위안 동조론' 솔솔 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KMThtQjdhX09YLVZzQzVlZHEzR2lqcHo4cTRFdk8tV0NHd0trYUNFRjdJbXktVmJZS01fbW1kZ1FjdHFHQ3VxU0FZdDRHbWp4c3hUZDRBOWU5QUhORGp6YkhXekliU0p1bXFOZWVkOXpRV2Zq?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/24 10:33",
    "dir": "neutral",
    "strength": 0
   },
@@ -53,14 +61,6 @@
    "time": "07/23 15:04",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "한은 기준금리 인상, 진짜 의미는 '긴축전환'…\"현금 확보해야\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3VWRNRl9ockxVUFZ6cDFHSmFjc1A5RnJ4amhZWWpaNXNhWEk0Q2UwWmNId1RxWWpTYWl2eE42MExYQ25zWGM3d2NzMERZblZMczlFanZXcFItMFRxblV5RtIBeEFVX3lxTE50YmtUQnV5UjZScy16cGd3WEFHSV9ySWVkTG43ajRKaW1vczFOeTk5Qmtxb0JRX1VJMXhjbXlZZHZ2bktHRWVyMmxlTTZLbVJpMjBVZ185bWh5SlNTdHN1OXVrdXJpNEhLYmFDQW92ZEVRR1h3VzdFXw?oc=5",
-   "source": "뉴시스",
-   "time": "07/23 09:42",
-   "dir": "up",
-   "strength": 2
   },
   {
    "title": "[외환] 달러 약세·리스크온 회복에 1,470원대 후반 안착…구글 매출 호조",
