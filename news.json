@@ -1,56 +1,88 @@
 {
- "updated": "2026-07-24 20:29",
+ "updated": "2026-07-27 08:01",
  "summary": {
-  "up": 4,
+  "up": 3,
   "down": 1,
-  "neutral": 5
+  "neutral": 6
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 4 vs 하락 1).",
+   "상승요인 우세 (상승 3 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "원·달러 환율 0.2원 오른 1466.6원(오후 3시30분)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUVmxSbTk4YUJzV1p1R3k0MzZzRVFjNkZybnN0WFJJd0ZKUkJ6Z3ZjXzhpUzhkaFN0a3FibHF0dUhQLXAxcmhySThXVWYxOUI3aVE1TE52TkNNblpGdXBXbg?oc=5",
-   "source": "아시아경제",
-   "time": "07/24 15:46",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·달러 환율, 0.2원 내린 1466.6원 마감(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93OXNRQWVLeTRYLWFqdDlJT29IYk9YTUVuSnQ3dUpGTHZxc3F4Wnl6WGNrM2tUQnNoa1RZeFpOTlNwdkM2S002ZVZFZUhBYk5ydVBPVUZuQ2FXMVp2U2hjY9IBeEFVX3lxTE0xeW1mMzQzSHktMXNua0p4SzJ5ekhBeHBMb3BZY1V6c1Q1MThWWDBYRFFHNDhoLTJJUW12aEExb0stYTlnTEFwb0lOU3B0a0JvbnFxRkk4a0VZUUJJZVNjOS02YWxhbGNUMHJNZkJBR1dYSk1GVW1kXw?oc=5",
+   "title": "[주간뉴욕증시] M7 가운데 4곳 실적 발표…美연준 금리결정도",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ua1JOczU1QzZFamw1TTBTSXN4NERqLVNwZTEyaU95OUNQUmhiVGx0eVZmd29CZjdTUUdRVW00RzQwLXFtX21kR2k1dVRFR0x0a05qVjNvSks3WVBKdncyUtIBeEFVX3lxTE8xVzUyOGwwRXd3QzM4ZHBKeWg5bnZFWmZXb3Z4cnpYaGNXX2d5ZEtrV3d5ajVYVXFYQ3ZCdExFRGduV1k0S2ZDSjB2aVdQNk5MLTB0dk5tQVFhZlFmMkZISnQ4TkFiV2Q3RE43UVFqWWxlZVdQNHFyLQ?oc=5",
    "source": "뉴시스",
-   "time": "07/24 15:37",
+   "time": "07/27 07:04",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "[달러·원] 환율 0.2원 내린 1466.6원 (15:30 기준)",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqQnFWOExUYTNSTzYwSEZ2Z0ZQTmdiU3BfS0lBQlFWdHpMc2h1NFFvNTcxR292dXJaUnRmekJWaHNCUE1EY09TTjdjV3BRQ3ZLenVra0w0Y01wNTlHM1Nv?oc=5",
-   "source": "뉴스1",
-   "time": "07/24 15:36",
+   "title": "엔화 추락·원화 강세…뚜렷해진 디커플링",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wQl9WUHFuYWtiZ2NvZ2M3RmZrUEZpc0U3a1JBaUYwRFJaQk5MckNVU1pyQk1FcFhvRjVOYXVySkJ1UHkwbTJiTWR6SFZuTmZqNF8tQmZ4TGtqUQ?oc=5",
+   "source": "한국경제",
+   "time": "07/26 18:00",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "케빈 워시의 두 번째 FOMC…기준금리 올릴까 [한상춘의 국제경제 읽기]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBic0ZsVDNVdmFCNnNCcV8wc2JUd2psWnVPRUp3U3VodVFuWXFfYkMwMDE3cGpOWldsNHhrajczZFAzMEYyeE1ZYVc3QS1NQUo1NGRJQTZsaG9idw?oc=5",
+   "source": "한국경제",
+   "time": "07/26 17:11",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "[속보]원·달러 환율, 0.2원 내린 1466.6원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TYzNubzljQ25pTkZyd2lrSENjdVVDeU56dGxkT0ItZEh1ajJsOUtlMG53WUtDN3RvdDg0MHZjWVgxUVlFeHFNMG5TajFDZnRacjE2ajR1QkdZWlJNazN6WdIBeEFVX3lxTE1tY3hLVzF2YS1iRm90eEZfcGQzTnpDejA5TldWRVVMcHVpeXl1ZkRKT19JdHRXb3FnN2NzWDAzQ3JVSnRNMTRScFRqUmtWelg1djlfYXBKY2Q1dUNZWXNzaVVHeVFYSEo3UmNaMXZoazJpY2ljRzlkMA?oc=5",
+   "title": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EUzJSNzliOW5seTdHQnJZSElRMExKLTliU2RoazBDTW9EVWhZUXdLY2MteTljZHRlcXlXZ09waTRhZjZYWEd3YTdmYklJX3EzRFZTQm1Qd1NOQdIBX0FVX3lxTFBHVERSTU91bkthWmM1QXBKR1pWT013bEFucldJbThXdTJCeGREYk94bHhfMG1KSlpPOC12Ymp2bC04amMyMmY5QXp0OVBSaC1Ra0RiWktXYURvT0pfOXl3?oc=5",
+   "source": "경향신문",
+   "time": "07/26 16:07",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "고환율에 달러보험 불티…시장 변동에 소비자 피해 '경고음'",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRMlFYS05uOUdVYTZ4T3p3Wjh4dlVjY0NpUmNUTzV1TTVTYjJFd2E2NTQtMzk2V2FfMnc0dFdPdFM4d1NUS1h6cmoxN3RpYzZJZDloalpIZGZVRGhYbjZqTdIBeEFVX3lxTE51MUNaUkNNNHdXcGltWi14bE9MYlRYS08ydWpZYkhLRjJLNHJ6cWt6SzQ2WVp6QVhnVzc0SGFtdmNwYl9fTDdkcHBMMGk3QU1IdUNxSnJGNFFwTDVneVliYWZNYVd1YU5ZWWhBNGJlcnljQXpQQWpMeA?oc=5",
    "source": "뉴시스",
-   "time": "07/24 15:35",
+   "time": "07/26 12:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "2분기 성장세 확인…기준금리 '연속 인상' 힘 받나",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nWS1Wd1g4X0RnS0tLdHRuRTJwcWZQOGFJMWNFMEh4Um5ZU2NyZVBPckpOMXdOREYzX3VqRXlObXhlNWVGWDFBT3Blcmh5V2p0eG5paGVzcmFBSE3SAWBBVV95cUxQVF9XME81X3JuZGpVWW5ETmlxbHZid2dPNVdNWTdZaG9YSE5RN21Fd2tMbTNUMDRDSTlsVEhGdU1TVHRpWVNEN0w1ZEtUVXdZc1dGNW1MdTJXMnNIQlRBdzY?oc=5",
+   "source": "연합뉴스",
+   "time": "07/26 10:26",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "[외환] 원/달러 환율 0.2원 내린 1,466.6원(15:30 기준가)",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02eXhGZXNCcmk0a0JrVXlSTmQyeWlEbmRubVQ2ZVZQclZTSDd6YVVNQWNCUjIwdjdncGpLalJJRU9lMllwSzBJRFAzT29fVEZUdEE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "07/24 15:30",
+   "title": "미국은 속도 조절?…이달 말 전세계 시선 연준으로",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qVmpNa3lyNjBQV0ZfMHcydkdqYTZoMHc1QnB2eG5qZnY3UVljZ0JqenBmTzVWamxWX2poeWFyT0ctSUVmQ1Nma1dFUS1NY1h5VG5sY3d4azVtMDktSlQ5UHBQMVJwNmM?oc=5",
+   "source": "연합뉴스TV",
+   "time": "07/26 10:23",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "6월 원화 실질가치 17년 만에 최저…7월 들어 강세 전환",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TaGpnTW5ZSGswaURYY1VpbWdfNUI0alpsSnJTZE4wdDRoUFdxakctX3h2MVJndUVpRFpzbnQyMHhKLVcyV2RiS2l6QW0wVTNBM0d6V2hpTW5Kcmx3d0xxZ3dGLWc?oc=5",
+   "source": "서울경제TV",
+   "time": "07/26 10:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "고유가에 물가 불안 커진다…금리·관세·환율 ’삼중 부담’",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qazRudDZROWVURHBRSmpnV2FTMVpVZ2FLa2NHU0oyQjA2YjNMNDFvdXc0Z1poand2ejR1dlhQQ0g1RTVFRV9saG9INTd5T3Awd2s5b2NvelNjZDVhQVZhUzVZb3Q1bkE?oc=5",
+   "source": "연합뉴스TV",
+   "time": "07/26 10:00",
    "dir": "neutral",
    "strength": 0
   },
@@ -59,38 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96amZqbGMwMFY3b1N2TG5jcldtZHFlQXJlQU5NeHk5VmYyRUI2M2NweFJQVWNEclV3N1NPWmFGX3dhNjhHVVVfclRqbnI1ZHBLMmZqMU9nSHItLWc?oc=5",
    "source": "뉴스1",
    "time": "07/24 09:49",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美, 한국 환율관찰대상국 유지…\"원화 약세, 펀더멘탈 부합 안 해\" - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1USGlHMEpjMVJJTVhxVElOd3VSRnBkcDU2SEhKM1o3d3V2d2NWVS1RUGlPTVRzdXdRT0ZzWlRRb1ZDdTdPZjNkTlpPb1RFOWJUdEUwajNHdmg1Q2VMdFp1WGJNMHBNRllYcmRv0gFwQVVfeXFMTnM3TVFuQUt5YjJZZW1hOEdKWmJDdDJVby1mUXJ1UlhzeTJqbnFHcDF2RDBKRi1PbEl1TEhreWd0dXE3YkRTZlVNZjBoeWZ1MEtBa2RVSU9URnJWSHlxaXNHSGVLd3ZDOE9sRnd2ZGVfaA?oc=5",
-   "source": "머니투데이",
-   "time": "07/24 08:19",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[외환] 달러 약세·리스크온 회복에 1,470원대 후반 안착…구글 매출 호조",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WWGJNWXdUWkxvcnNOMHhGLXlDNzYwcVM3cVMzMlNwMUtfU1RTT3B3aGR6VTFuTXVQV3NVMXNPQUdkQlVOVnVJQmxTNVZFa0stZzlOSDA3bEwzZGF0aEVabFJBWEJHLTNLSGZlQlBFVm_SAXRBVV95cUxPdElJQUJreFBoaVJ0MzZPbjR1c0N2TGticUtIcHpDR0MxakVCU1IwQUJCZ0pJeXNfbmxqN3RJbkhsbUlzTkNjbHprZi1RNENJeGZiSkx4aXl3Z0ZUN1VtdU1hckNTdEZNaFd4WEdVM3pBVFFVRg?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/23 08:31",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "달러당 163엔 돌파, 엔화 39년래 최약세…중동긴장에 달러 강세",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfLWNSenNBNzZ2YzdWQktqWklQcEV2M3paMmNvTkNaQV9STkwwSW80T3hHMmFxbnVHdFB6TmM4TW8yWXN1MzJidlRiM2xiaHdMeG4yMkxDc3ZlWHpDcmNPVnZLZXZnUms?oc=5",
-   "source": "뉴스1",
-   "time": "07/22 09:20",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "기준금리 인상에 예금금리도 들썩…은행 3%대·저축은행 4%대",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GVzJCUVd1MnE4Y2g4MjcyRzdha3ZEQ0pOcEl3bzJLbXAtSm15OVlNUWY1cE5UTkhvZGhzUk4tNkhEWW5jVnpEWVdmb0ZfaEpVcGF2VG5CNDhiYmpfQ2RVcdIBeEFVX3lxTFB1cmxVaDhYQzJYMlFLaE9Da08yWnhKMHdUSGNQM2thNEt1OUNmZGRQNzJ5Sy1EMDJIUnNVWDdlUTN2TjdHNE5xbUdBSS1JejcwSFZnY0V1Y25KVXJFclZhcDFxaWh2SEV1MU41emlzU0NZU3d3TVMwQw?oc=5",
-   "source": "뉴시스",
-   "time": "07/22 06:00",
    "dir": "up",
    "strength": 1
   }
