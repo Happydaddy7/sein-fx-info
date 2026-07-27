@@ -1,19 +1,59 @@
 {
- "updated": "2026-07-27 08:01",
+ "updated": "2026-07-27 10:50",
  "summary": {
-  "up": 3,
+  "up": 4,
   "down": 1,
-  "neutral": 6
+  "neutral": 5
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 3 vs 하락 1).",
+   "상승요인 우세 (상승 4 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "[크레디트, 금통위 그 후] 하이닉스 끌고 환율 밀고…장밋빛 전망은 아직",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XY2tnZVBrbWg2cml1M1NxSUUycmxxbGhqM2pwTnBjNm9US1VXMklmVFNYSkNJSnlhZUVVU1ZMOUd2SWY5UllWYzFRcDE2bnp1Z3VIeDBTLUhGWVRIQjI0U19QZ21RQTJudERKWmtlYXo?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/27 10:44",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "\"연준, 한국 실패 교훈 삼아 이달 금리 올려야\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpTGp5eWp1eXBkZGtlYUd0N0lGQTRjNTVJVjBjUVE4Si1yaHQyUWk4QnhJemdQWXlvNTBNOTFTcmhhQ2lVeldBZ1F4NFkxR0NRQmo5THJaUjF0TkM3YzI4RG1mTng4X29CTGR1LW5zcEE?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/27 10:36",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율, 오전 9시 1450원대 후반 등락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NR3pZemtsOFd5OWxmN3p0bGZ1Sjk0OFRFeElFUFFBMllBSDdOV0YweUctQkdqUkJYWFFMbjE4UXlOTGQ4RVJlbWVlNkdBZEM4S0dZUTl6RDE0YXhCZkx6bNIBeEFVX3lxTFBxcFRzdjZIOXNUVUFrODNDUTZVWnd2QlRxZGc3NDhnQnpDX2ZVT2p5UW5XRThFSl96SEw1cDREYjJOSGVkY3l0ZUFoUVFRbElKZEJkcE93d08zd2otSHZ1MUlWbG45eXZfdXVGbS1YbXl3enNQN3hwNQ?oc=5",
+   "source": "뉴시스",
+   "time": "07/27 09:12",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[속보]원·달러 환율, 오전 9시 1459.0원",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12cWRSNnZfci04QmdhNERHcXZObUlZZkkxS0hPYjlpbzkxVldGQUFEc1h4U3Awd0lVYWFoQ1VQaDBoS2R5SW9haElJVzlFRXdNSExxOEdPMUdkbVJsWHJUStIBeEFVX3lxTE8xYzZYNHA3Q2l6dGxKMWoycTlVczdTWVRjNmlnNFdEdFVvVzBycjhLNWVaNDVhMUxVeUFQNDhCX3NCeHNBV3VzRlpnSlZxSWllX2FQQUh3YnFHNDJVUFJOVlJ6NGtEeE1UTFhpNU5OY3NQX1BvbmFFdw?oc=5",
+   "source": "뉴시스",
+   "time": "07/27 09:05",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "변정규 본부장 \"고환율 끝난 것 아니다…달러 강세 재개 가능성 대비해야\"[돈워리]",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vU1p5VlhQd3RpWUZSQkdEUmZqQjRiR1AydGpDWVpHVVYyMktGTlVPYlZWMEV4UDdWcnh3eGZQUUlMVVlMbjQ0aFVYc19wWXZyQ2RUMVRBSlhQNFBFRnRjYnFYUzZrX0ZRZm43QTI5OFlheGU5V0h3QUxzSQ?oc=5",
+   "source": "이데일리TV",
+   "time": "07/27 08:42",
+   "dir": "up",
+   "strength": 2
+  },
   {
    "title": "[주간뉴욕증시] M7 가운데 4곳 실적 발표…美연준 금리결정도",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ua1JOczU1QzZFamw1TTBTSXN4NERqLVNwZTEyaU95OUNQUmhiVGx0eVZmd29CZjdTUUdRVW00RzQwLXFtX21kR2k1dVRFR0x0a05qVjNvSks3WVBKdncyUtIBeEFVX3lxTE8xVzUyOGwwRXd3QzM4ZHBKeWg5bnZFWmZXb3Z4cnpYaGNXX2d5ZEtrV3d5ajVYVXFYQ3ZCdExFRGduV1k0S2ZDSjB2aVdQNk5MLTB0dk5tQVFhZlFmMkZISnQ4TkFiV2Q3RE43UVFqWWxlZVdQNHFyLQ?oc=5",
@@ -23,20 +63,20 @@
    "strength": 0
   },
   {
+   "title": "투자자들, 유가 상승으로 美 연준 금리 인상에 베팅",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ra0VmNkRHMG4wOHFjWWI5aFJYVWY4R3RXQVZMeUxENjh3clpXRnF3SlpjZ3NDNmJMX1hPRzJDWWM4STFCQVhfMzBCSW5feHJVV2V3c3NmMnNMZw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "07/27 04:30",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "엔화 추락·원화 강세…뚜렷해진 디커플링",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wQl9WUHFuYWtiZ2NvZ2M3RmZrUEZpc0U3a1JBaUYwRFJaQk5MckNVU1pyQk1FcFhvRjVOYXVySkJ1UHkwbTJiTWR6SFZuTmZqNF8tQmZ4TGtqUQ?oc=5",
    "source": "한국경제",
    "time": "07/26 18:00",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "케빈 워시의 두 번째 FOMC…기준금리 올릴까 [한상춘의 국제경제 읽기]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBic0ZsVDNVdmFCNnNCcV8wc2JUd2psWnVPRUp3U3VodVFuWXFfYkMwMDE3cGpOWldsNHhrajczZFAzMEYyeE1ZYVc3QS1NQUo1NGRJQTZsaG9idw?oc=5",
-   "source": "한국경제",
-   "time": "07/26 17:11",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’",
@@ -51,46 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRMlFYS05uOUdVYTZ4T3p3Wjh4dlVjY0NpUmNUTzV1TTVTYjJFd2E2NTQtMzk2V2FfMnc0dFdPdFM4d1NUS1h6cmoxN3RpYzZJZDloalpIZGZVRGhYbjZqTdIBeEFVX3lxTE51MUNaUkNNNHdXcGltWi14bE9MYlRYS08ydWpZYkhLRjJLNHJ6cWt6SzQ2WVp6QVhnVzc0SGFtdmNwYl9fTDdkcHBMMGk3QU1IdUNxSnJGNFFwTDVneVliYWZNYVd1YU5ZWWhBNGJlcnljQXpQQWpMeA?oc=5",
    "source": "뉴시스",
    "time": "07/26 12:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "2분기 성장세 확인…기준금리 '연속 인상' 힘 받나",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nWS1Wd1g4X0RnS0tLdHRuRTJwcWZQOGFJMWNFMEh4Um5ZU2NyZVBPckpOMXdOREYzX3VqRXlObXhlNWVGWDFBT3Blcmh5V2p0eG5paGVzcmFBSE3SAWBBVV95cUxQVF9XME81X3JuZGpVWW5ETmlxbHZid2dPNVdNWTdZaG9YSE5RN21Fd2tMbTNUMDRDSTlsVEhGdU1TVHRpWVNEN0w1ZEtUVXdZc1dGNW1MdTJXMnNIQlRBdzY?oc=5",
-   "source": "연합뉴스",
-   "time": "07/26 10:26",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "미국은 속도 조절?…이달 말 전세계 시선 연준으로",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qVmpNa3lyNjBQV0ZfMHcydkdqYTZoMHc1QnB2eG5qZnY3UVljZ0JqenBmTzVWamxWX2poeWFyT0ctSUVmQ1Nma1dFUS1NY1h5VG5sY3d4azVtMDktSlQ5UHBQMVJwNmM?oc=5",
-   "source": "연합뉴스TV",
-   "time": "07/26 10:23",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "6월 원화 실질가치 17년 만에 최저…7월 들어 강세 전환",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TaGpnTW5ZSGswaURYY1VpbWdfNUI0alpsSnJTZE4wdDRoUFdxakctX3h2MVJndUVpRFpzbnQyMHhKLVcyV2RiS2l6QW0wVTNBM0d6V2hpTW5Kcmx3d0xxZ3dGLWc?oc=5",
-   "source": "서울경제TV",
-   "time": "07/26 10:00",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "고유가에 물가 불안 커진다…금리·관세·환율 ’삼중 부담’",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qazRudDZROWVURHBRSmpnV2FTMVpVZ2FLa2NHU0oyQjA2YjNMNDFvdXc0Z1poand2ejR1dlhQQ0g1RTVFRV9saG9INTd5T3Awd2s5b2NvelNjZDVhQVZhUzVZb3Q1bkE?oc=5",
-   "source": "연합뉴스TV",
-   "time": "07/26 10:00",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "국제유가 급등에 달러·원 환율 상승…1470원대로 올라",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96amZqbGMwMFY3b1N2TG5jcldtZHFlQXJlQU5NeHk5VmYyRUI2M2NweFJQVWNEclV3N1NPWmFGX3dhNjhHVVVfclRqbnI1ZHBLMmZqMU9nSHItLWc?oc=5",
-   "source": "뉴스1",
-   "time": "07/24 09:49",
    "dir": "up",
    "strength": 1
   }
