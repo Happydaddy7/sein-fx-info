@@ -1,19 +1,43 @@
 {
- "updated": "2026-07-27 10:50",
+ "updated": "2026-07-27 14:38",
  "summary": {
-  "up": 4,
+  "up": 2,
   "down": 1,
-  "neutral": 5
+  "neutral": 7
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 4 vs 하락 1).",
+   "상승요인 우세 (상승 2 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "日, 환율정책의 반면교사…원·달러 환율 안정, 더 미룰 수 없다! 특단의 대책 필요하다![국제경제읽기 한상춘]",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xRU8wTWFLRjUySlJULWE1N0lYN2pKZ29kSHRtMnI0QUJJdmJ4MC15MVpBZW13LUVJWmJpUmNKczRHRUNBODBVdzdNbk5lSkF4SnQ5Y2hMTXhreWgxYmNGRmpsemhzY0xSTTYtamlEaFkzQTNmQ19J?oc=5",
+   "source": "한국경제TV",
+   "time": "07/27 12:00",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "원-달러 환율, 54거래일 만에 1450원대에서 거래 시작",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQW50UTY0WEJPLWh2N1E4SUxOVDBTUkZBZzg1REZlcG41Q1FYOUEteWFkaElsdWxDLU9UNXd4aXNWVjdfbVUyMXVCMzFqRWFKaUN5NGI5ekIya1QxZTlnd0NhY2M0X1hmYWhMQV9tMWFHN3VDWWfSAWZBVV95cUxPVFBGeXBRSmVqTmlzblVaR0xVRHRQQ1pwODkzVzJnUlBLWnB2RlR0SHZISEJwSHVORjZ6WktKQlZMbmd4ZnZrRDRmd2I3aUdvU2twam0xekVELWpLTnp5NkFOREs4TEE?oc=5",
+   "source": "동아일보",
+   "time": "07/27 11:19",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[올댓차이나] 위안화 기준치 1달러=6.7911위안… 0.041% 절상",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KU2wybG0xVTlnZEExdWR5ek1SSE04OUdfVUVPcGI4Nkh4b0N3U1ByM0RscWFoTE5PTjB3eFcwY09Nb2VIQ2VSWjd4UVBJZUVlTWhZU1lJY0UyMm10Xy1IVGNKLVJWUzFsejhVTmx3LXItSWJKUzdnQdIBeEFVX3lxTE5KU2wybG0xVTlnZEExdWR5ek1SSE04OUdfVUVPcGI4Nkh4b0N3U1ByM0RscWFoTE5PTjB3eFcwY09Nb2VIQ2VSWjd4UVBJZUVlTWhZU1lJY0UyMm10Xy1IVGNKLVJWUzFsejhVTmx3LXItSWJKUzdnQQ?oc=5",
+   "source": "뉴시스",
+   "time": "07/27 11:09",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "[크레디트, 금통위 그 후] 하이닉스 끌고 환율 밀고…장밋빛 전망은 아직",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XY2tnZVBrbWg2cml1M1NxSUUycmxxbGhqM2pwTnBjNm9US1VXMklmVFNYSkNJSnlhZUVVU1ZMOUd2SWY5UllWYzFRcDE2bnp1Z3VIeDBTLUhGWVRIQjI0U19QZ21RQTJudERKWmtlYXo?oc=5",
@@ -27,6 +51,14 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpTGp5eWp1eXBkZGtlYUd0N0lGQTRjNTVJVjBjUVE4Si1yaHQyUWk4QnhJemdQWXlvNTBNOTFTcmhhQ2lVeldBZ1F4NFkxR0NRQmo5THJaUjF0TkM3YzI4RG1mTng4X29CTGR1LW5zcEE?oc=5",
    "source": "연합인포맥스",
    "time": "07/27 10:36",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "\"연준, 이달 깜짝 금리인상 가능성…정책운용 측면서 유리\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DRDQxOE16c1hjcDh4ajBGUzBHSTNRbDczQmloNGI0S3VPaGh4eXpmUzhsNmlhaTNVWG1vM28zUmtsdXVFQkVjMUNpME1kX1ZXcVp1X2NzRm53OVU5enZCZE1VbkdiTEg0NXpCUmY3NDI?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/27 09:42",
    "dir": "neutral",
    "strength": 0
   },
@@ -55,42 +87,10 @@
    "strength": 2
   },
   {
-   "title": "[주간뉴욕증시] M7 가운데 4곳 실적 발표…美연준 금리결정도",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ua1JOczU1QzZFamw1TTBTSXN4NERqLVNwZTEyaU95OUNQUmhiVGx0eVZmd29CZjdTUUdRVW00RzQwLXFtX21kR2k1dVRFR0x0a05qVjNvSks3WVBKdncyUtIBeEFVX3lxTE8xVzUyOGwwRXd3QzM4ZHBKeWg5bnZFWmZXb3Z4cnpYaGNXX2d5ZEtrV3d5ajVYVXFYQ3ZCdExFRGduV1k0S2ZDSjB2aVdQNk5MLTB0dk5tQVFhZlFmMkZISnQ4TkFiV2Q3RE43UVFqWWxlZVdQNHFyLQ?oc=5",
-   "source": "뉴시스",
-   "time": "07/27 07:04",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "투자자들, 유가 상승으로 美 연준 금리 인상에 베팅",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ra0VmNkRHMG4wOHFjWWI5aFJYVWY4R3RXQVZMeUxENjh3clpXRnF3SlpjZ3NDNmJMX1hPRzJDWWM4STFCQVhfMzBCSW5feHJVV2V3c3NmMnNMZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "07/27 04:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "엔화 추락·원화 강세…뚜렷해진 디커플링",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wQl9WUHFuYWtiZ2NvZ2M3RmZrUEZpc0U3a1JBaUYwRFJaQk5MckNVU1pyQk1FcFhvRjVOYXVySkJ1UHkwbTJiTWR6SFZuTmZqNF8tQmZ4TGtqUQ?oc=5",
-   "source": "한국경제",
-   "time": "07/26 18:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EUzJSNzliOW5seTdHQnJZSElRMExKLTliU2RoazBDTW9EVWhZUXdLY2MteTljZHRlcXlXZ09waTRhZjZYWEd3YTdmYklJX3EzRFZTQm1Qd1NOQdIBX0FVX3lxTFBHVERSTU91bkthWmM1QXBKR1pWT013bEFucldJbThXdTJCeGREYk94bHhfMG1KSlpPOC12Ymp2bC04amMyMmY5QXp0OVBSaC1Ra0RiWktXYURvT0pfOXl3?oc=5",
    "source": "경향신문",
    "time": "07/26 16:07",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "고환율에 달러보험 불티…시장 변동에 소비자 피해 '경고음'",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRMlFYS05uOUdVYTZ4T3p3Wjh4dlVjY0NpUmNUTzV1TTVTYjJFd2E2NTQtMzk2V2FfMnc0dFdPdFM4d1NUS1h6cmoxN3RpYzZJZDloalpIZGZVRGhYbjZqTdIBeEFVX3lxTE51MUNaUkNNNHdXcGltWi14bE9MYlRYS08ydWpZYkhLRjJLNHJ6cWt6SzQ2WVp6QVhnVzc0SGFtdmNwYl9fTDdkcHBMMGk3QU1IdUNxSnJGNFFwTDVneVliYWZNYVd1YU5ZWWhBNGJlcnljQXpQQWpMeA?oc=5",
-   "source": "뉴시스",
-   "time": "07/26 12:00",
    "dir": "up",
    "strength": 1
   }
