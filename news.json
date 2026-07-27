@@ -1,24 +1,48 @@
 {
- "updated": "2026-07-27 21:49",
+ "updated": "2026-07-28 08:07",
  "summary": {
   "up": 3,
-  "down": 3,
-  "neutral": 4
+  "down": 4,
+  "neutral": 3
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 3 vs 하락 3).",
+   "상승·하락 요인 혼재 (상승 3 vs 하락 4).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "100달러 넘나드는 국제유가에 물가 관리 비상…환율도 반등 여지",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93OG45OGNzeEszRFl2Ukx3cnIwQ0FYbTY4ck9CY0VPZng5S2JsbmE3blk2ekdycTJSYjNoTl9yMW9iTkY2WWlyZEVjZWxZZ1c1QV9tR1FKbFpqTFVhaktVZk9NcDVMaC0yVDczcnVwWW95Zw?oc=5",
-   "source": "한겨레",
-   "time": "07/27 18:59",
+   "title": "[뉴욕환시] 달러 3거래일째↑…美 국채금리 낙폭 제한 속 파운드 약세",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rVmtObjRfWWg5YW91dXlZSVJ0Z0VwSmZWcFVlR3IySWktTlVDMHg0c2ZJTXFrSFBicHFMczh0ZTFPel9udmZhMy14R01PV0plMUk4OUxEY0k5MVk1c1BrTlpRT1Jwa05IME8yeGJHSks?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/28 07:32",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "트럼프, 연준 또 압박…\"금리 내려야 미국 더 성장한다\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ajlITFpQd0hXWHh5c2JwSXNNOHI2Y0VLSlN3VzZOVUxldWJGNTFSZWxfX0dVYWtzOWc0OU90eEdsRnJOZEFrRDVxVEQyby1OeUt0U0M0QXdXZw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "07/28 06:10",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "트럼프, 7월 FOMC 앞두고 \"연준 기준금리 인하해야\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySkhPX2xtcXZXVXRoUUtBbE1WdDlaYWlpVnNwc1JLajY5Y0w0dWFnZjJDWHoxMTVRLWIySUhpb1JnLWtyUWVESVhFSFk2WGZoOVhqYi1YU2xsMXFkWkduTdIBeEFVX3lxTE44UDI3dzJVT0R2RnJGMTFVSnFMcy1NWWV3SDFtLTdBSXh2c0x0dm1lcmxfdVBzWjdqY2VjUVdzeW8ya09iYkJYM2w1WlhMT2VkdnprNEFjX2lQUm9MS1ItRWEzVTQxMWVVcGppVXliXzdDME9CWVBRLQ?oc=5",
+   "source": "뉴시스",
+   "time": "07/28 04:08",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "FOMC와 실적발표 몰린 주…美 증시, 국제유가 급락에 상승",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14M0Uxc3Npb2tabW9YZFQxMjFOUmdIckpPdDFRd2Job1VhZTI1dlBQOXhMZ2l4aE5GMUpJTUczb1QtWDFyWDBEY3czNmpnTVhFdE1UckNzSk1fdw?oc=5",
+   "source": "한국경제",
+   "time": "07/27 23:11",
    "dir": "neutral",
    "strength": 0
   },
@@ -29,30 +53,6 @@
    "time": "07/27 17:54",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "원-달러 환율, 54거래일 만에 장중 1450원대 진입",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yQzJYbVJCanVNVlBoY1VrRlRWcDczWTEyLTAwbEFGQ3hEUWxFc0ZOaXNnanlFQ2EwcmJGeGIwUGY0QVFvT1VJYkVCbUxGYzA2N3NKaHpqQ3pVZlFSU2diZjN5eUNfWmNTYmZSM1QyLXZTc2lFUVHSAWZBVV95cUxOT0RTS2FPRnFjelkyZm1NN3J4T0IwMGswNmI3LXhpYmdsUVlYSmlJQlRsOTlBU1F5SEZ2X3ZfMTZDN2NJUTZtNWY1YmZRZzdWUmN2LWZTRWNOTVNzdlpGZHRtbXVFeGc?oc=5",
-   "source": "동아일보",
-   "time": "07/27 17:04",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "중동 리스크 완화에도 외국인 매도·저가 결제에 환율 반등 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tdFd6VzZkbVBpaThpNFNQcVl3dEFnS2Vvekoxai1XVy0wOWhrOG94dTB3SlpPS0F5UzJVNXhoSW5jRnFHRGdpNEVpckVqbko1eXfSAVNBVV95cUxNZ0VVLUljLUNjRExxSVE1T0dDUXhKS3dldHA2ZzRuMVBXNXVkeHBxd3M2RkNpY0ZMYk9ZdWVBSld2Y2VXemVHQ0ZTOUdXalJZR1hYUQ?oc=5",
-   "source": "서울경제",
-   "time": "07/27 16:25",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "중동 소강 국면에도…환율 1.9원 오른 1,468.5원",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jU3NaUEZleFFqOVFyb0d6V0MxLWpwTkZNWmFfcTdMeGFMVDBHd05yaXE3U2dEcmxJQWE3WjBUVEMwS3BuRTNsRWNOREs1VUJNaTliVjgtZC1ycDDSAWBBVV95cUxNYUJYQ2d5YmtEanB2QXdWZHBBNHhnN3VnZGJqRkxsVVVDa3dvXzFkSG1UajNTTzNWeG0ycmN6amxtSWt1bEtteEZPZGJfbGljU3NkaTlqUTJNbExwbTFFdVQ?oc=5",
-   "source": "연합뉴스",
-   "time": "07/27 16:21",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "日, 환율정책의 반면교사…원·달러 환율 안정, 더 미룰 수 없다! 특단의 대책 필요하다![국제경제읽기 한상춘]",
