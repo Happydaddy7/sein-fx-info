@@ -1,30 +1,38 @@
 {
- "updated": "2026-07-28 13:52",
+ "updated": "2026-07-28 17:12",
  "summary": {
-  "up": 5,
-  "down": 4,
-  "neutral": 1
+  "up": 6,
+  "down": 2,
+  "neutral": 2
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 5 vs 하락 4).",
+   "상승요인 우세 (상승 6 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "美예측시장서 연준 7월 금리 동결 베팅 71%",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80Z3FDZUdhYWlBNmFMaENJMHVKcGlVU1FHZnhxLURJR19tRG10eWxlUEpNZ3EtUUdsRnExOFhuZjNmMVhsSF9sOG55TzNvclZlZUs0MlJQV1d3dUNoM3B5RkRDODB0a0hwemZVa185dXQ?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/28 13:16",
+   "title": "환율 외인 5조 주식 매도에도 1460원 초반…하이닉스 ADR 환전 영향 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RX05nX2QzUnJRekQyMkF2T1hCRjZVTG9hcGo5RVZEOVViVDFreEJkTHZJd2hVazNOSVk3SW1qQlQxVFBWR1gtWG0zamJJTXlEc2fSAVNBVV95cUxNR2Fjem1kdjM4U0lVem5vdWJ3QWs0OUlvdWdmTnZMeE05c0RDTWd4VFpHUVR1VF8yQlF6dkFRSUt2cGw4N2M1S1RpNGdZSTZWb1o4QQ?oc=5",
+   "source": "서울경제",
+   "time": "07/28 16:17",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "외국인 5조 순매도에도 하이닉스 ADR 효과…환율 소폭 하락",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mc2w2NXNSQmdTanNoWi1Ja3VJUmNYa2tFX0Y1Y3UxX3FzdjlJZUVsdkVBZFRTa0RFWFYtX0ZTYVJyLS1yd3g4UGt5ZUM4TWFQRjFtd1pYNEZlWlXSAWBBVV95cUxONThiMk9FZkZ6RVR5MmdQeXRJd0tLeUtMLS05TndwRFNtUUUtcVRjT1V0VmNOMXloVUY1ZDhGem1oMWhKZXNkSDE0emVMc0JsZVR4M0tIa3RiaE9nQ3F6MnU?oc=5",
+   "source": "연합뉴스",
+   "time": "07/28 16:09",
    "dir": "neutral",
    "strength": 0
   },
   {
    "title": "美연준 금리 인상 관측 큰 폭 증가",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PMnlmTmhCeXRvLXFGN2hySDI0LVdyMUZMcmROYWx1WW5VTUt6Y0htRW1rSGRiQmJxSkNQUXVqb2FxOXFpLTEwUU5Nbkl3aW1ubU1F?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PMnlmTmhCeXRvLXFGN2hySDI0LVdyMUZMcmROYWx1WW5VTUt6Y0htRW1rSGRiQmJxSkNQUXVqb2FxOXFpLTEwUU5Nbkl3aW1ubU1F0gFYQVVfeXFMT2FxRWVseldNOXhFTklJczhOc1hpRGk2T040cFJyeWZ5R2oyOVdQdjlscFgzcndVX2NsSTg2VW1SdzA2bUVHaDF2S1EyVEpETmlqc0NHRW13MA?oc=5",
    "source": "SBS Biz",
    "time": "07/28 10:42",
    "dir": "up",
@@ -39,19 +47,19 @@
    "strength": 1
   },
   {
-   "title": "원화 강세에 美지수 ETF 희비…환헤지형 선방",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QaXhIWm51eGJXQUtZTDdiTGY3NjZ5Szg1TzhBME9zVmNnNzN3NlRaZUxfeldDQ1otYUU0ODNSY0xvSzY2NzV0VExDaGhoU2RLdXfSAVNBVV95cUxOMnhRYTZRYzN6SlB3RTRCMmpqVzJac0szTUJRMDFqOTVLVFpBUEdIdUM2emRmTnU3M3hwbkd1OTNWd3J3NFVkbThEaEZiSDd0TFVwbw?oc=5",
-   "source": "서울경제",
-   "time": "07/27 17:54",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "日, 환율정책의 반면교사…원·달러 환율 안정, 더 미룰 수 없다! 특단의 대책 필요하다![국제경제읽기 한상춘]",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xRU8wTWFLRjUySlJULWE1N0lYN2pKZ29kSHRtMnI0QUJJdmJ4MC15MVpBZW13LUVJWmJpUmNKczRHRUNBODBVdzdNbk5lSkF4SnQ5Y2hMTXhreWgxYmNGRmpsemhzY0xSTTYtamlEaFkzQTNmQ19J?oc=5",
    "source": "한국경제TV",
    "time": "07/27 12:00",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[FOMC 폴] 7월 '매파적 동결' 관측",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56RnQ1d3hwYUdzd0lZaDNhUWJTaUNkTHZZNDFiX2NnNGpMbHNCeVdxQUxpcm9rd0VFa1ZCLU1Tc3Z4bmNRQlI0Wm5ZVUFVQUFYb1ROdnJSUklBNUpocTY2SHBLNEh6WkRRZzJQZjRfaFM?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/27 10:00",
+   "dir": "up",
    "strength": 1
   },
   {
@@ -68,14 +76,6 @@
    "source": "파이낸셜뉴스",
    "time": "07/27 04:30",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "엔화 추락·원화 강세…뚜렷해진 디커플링",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wQl9WUHFuYWtiZ2NvZ2M3RmZrUEZpc0U3a1JBaUYwRFJaQk5MckNVU1pyQk1FcFhvRjVOYXVySkJ1UHkwbTJiTWR6SFZuTmZqNF8tQmZ4TGtqUQ?oc=5",
-   "source": "한국경제",
-   "time": "07/26 18:00",
-   "dir": "down",
    "strength": 1
   },
   {
