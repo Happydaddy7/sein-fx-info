@@ -1,34 +1,34 @@
 {
- "updated": "2026-07-28 17:12",
+ "updated": "2026-07-28 20:49",
  "summary": {
   "up": 6,
-  "down": 2,
-  "neutral": 2
+  "down": 3,
+  "neutral": 1
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 2).",
+   "상승요인 우세 (상승 6 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "환율 외인 5조 주식 매도에도 1460원 초반…하이닉스 ADR 환전 영향 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RX05nX2QzUnJRekQyMkF2T1hCRjZVTG9hcGo5RVZEOVViVDFreEJkTHZJd2hVazNOSVk3SW1qQlQxVFBWR1gtWG0zamJJTXlEc2fSAVNBVV95cUxNR2Fjem1kdjM4U0lVem5vdWJ3QWs0OUlvdWdmTnZMeE05c0RDTWd4VFpHUVR1VF8yQlF6dkFRSUt2cGw4N2M1S1RpNGdZSTZWb1o4QQ?oc=5",
-   "source": "서울경제",
-   "time": "07/28 16:17",
+   "title": "미 연준 ‘포워드 가이던스’ 폐지…“자산가격 변동성 커질 것”",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MN284RkctdkxSWFBIdDFKZHdxNHRSUDJtLUswVDdqWm4zRHMzc2J1R1NFQWpMTUJaNl9oYVd6eHZUdlNwcC11S1poZXR3czFRVlN5Zy1QWkFCeGM0NlJxSmlnYmJFTnc?oc=5",
+   "source": "한겨레",
+   "time": "07/28 18:44",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "외국인 5조 순매도에도 하이닉스 ADR 효과…환율 소폭 하락",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mc2w2NXNSQmdTanNoWi1Ja3VJUmNYa2tFX0Y1Y3UxX3FzdjlJZUVsdkVBZFRTa0RFWFYtX0ZTYVJyLS1yd3g4UGt5ZUM4TWFQRjFtd1pYNEZlWlXSAWBBVV95cUxONThiMk9FZkZ6RVR5MmdQeXRJd0tLeUtMLS05TndwRFNtUUUtcVRjT1V0VmNOMXloVUY1ZDhGem1oMWhKZXNkSDE0emVMc0JsZVR4M0tIa3RiaE9nQ3F6MnU?oc=5",
-   "source": "연합뉴스",
-   "time": "07/28 16:09",
-   "dir": "neutral",
-   "strength": 0
+   "title": "수급 타고 원화 강세...연말 1,430~1,450원 전망",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54TGNOTXI4RzJOUGtGVzViZW9EUnowdWY1aWhkbE9kOTRZSHBVYVhhLW9SS0hEbHNMUHF5ZXRXRGlvODdNYThYQUgtcEpLMG56d0N5TWRTYWxZenZTeVlyNEtkN0hHTGQwMXRZcmlZa3o5cGlSYlUw?oc=5",
+   "source": "한국경제TV",
+   "time": "07/28 17:25",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "美연준 금리 인상 관측 큰 폭 증가",
