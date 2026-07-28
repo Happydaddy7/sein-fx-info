@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28 08:07",
+ "updated": "2026-07-28 10:25",
  "summary": {
   "up": 3,
   "down": 4,
@@ -15,18 +15,26 @@
  },
  "items": [
   {
-   "title": "[뉴욕환시] 달러 3거래일째↑…美 국채금리 낙폭 제한 속 파운드 약세",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rVmtObjRfWWg5YW91dXlZSVJ0Z0VwSmZWcFVlR3IySWktTlVDMHg0c2ZJTXFrSFBicHFMczh0ZTFPel9udmZhMy14R01PV0plMUk4OUxEY0k5MVk1c1BrTlpRT1Jwa05IME8yeGJHSks?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/28 07:32",
+   "title": "시타델증권 \"연준, 깜짝 금리인상 가능성…워시 신뢰 높일 것\"",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxZTkyZUZiVF9kTndrLUtWa3BweDZYbWc1UTRtSm8zeThyeHg2N09NWkFOaUlYYURZMEt1TThIaTlzc1FZRmV2QWVZMXA3eXFmektrX0NURkdkWlRaNWIwbDJVS3pobkU?oc=5",
+   "source": "뉴스1",
+   "time": "07/28 09:37",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "트럼프, 연준 또 압박…\"금리 내려야 미국 더 성장한다\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5ajlITFpQd0hXWHh5c2JwSXNNOHI2Y0VLSlN3VzZOVUxldWJGNTFSZWxfX0dVYWtzOWc0OU90eEdsRnJOZEFrRDVxVEQyby1OeUt0U0M0QXdXZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "07/28 06:10",
+   "title": "미 무역대표 “301조 관세, 연준 금리 결정에 영향 없을 것”",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xVkJuX2hqRkQ5djEtTVFPdHBWeS1QY1FzMm8wdm1CaTBMV01DNHVPVk1hVzdsNzUyRHBjcGl6bXctQUdIaFpIRVZXcHU5VVh4T0UxOHNBc1p5OVk?oc=5",
+   "source": "KBS 뉴스",
+   "time": "07/28 09:29",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율, 오전 9시 1460원대 후반 등락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoRXhKWTZvZ3FBSXMtMmYzanVkX19CT0ZZQ2pMZzQ1V29LRWVNUVJNWDIxc096Z2doQnk1dFBhQ3pBbDJoQzdrMjh6TkR5aXV3QXEzaEt2VmkxVjUzUnM0T9IBeEFVX3lxTE1Lc2p4QWVOQmZTOVhuZ2N6cFBacmhILWppbzFLT0RxWjhFOHdhTFFXMXdHNVZ3OG9mblYyUmRDUXhyN1EyQXVlTkVSaThtSGxHaHduc2tteUt2ZjQ5YVlpVjE1dzRTeHluN0NlTG5BYzFMUlFBTU45dQ?oc=5",
+   "source": "뉴시스",
+   "time": "07/28 09:12",
    "dir": "neutral",
    "strength": 0
   },
@@ -37,14 +45,6 @@
    "time": "07/28 04:08",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "FOMC와 실적발표 몰린 주…美 증시, 국제유가 급락에 상승",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14M0Uxc3Npb2tabW9YZFQxMjFOUmdIckpPdDFRd2Job1VhZTI1dlBQOXhMZ2l4aE5GMUpJTUczb1QtWDFyWDBEY3czNmpnTVhFdE1UckNzSk1fdw?oc=5",
-   "source": "한국경제",
-   "time": "07/27 23:11",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "원화 강세에 美지수 ETF 희비…환헤지형 선방",
