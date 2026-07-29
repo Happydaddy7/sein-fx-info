@@ -1,88 +1,88 @@
 {
- "updated": "2026-07-29 20:53",
+ "updated": "2026-07-30 08:01",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 10,
+  "down": 0,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 10 vs 하락 0).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
+   "title": "美 연준 매파적 동결…한은, 기준금리 인상 속도 내나",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdFZxNDB3YnYzREpRQmFtZVg1dFQ4bnpncFZOOXhsX0VGNEdCWlBSX1JLNndQR2swM1ZhQXhFZHlRVEMwWGRBRFBZQmRRa0hTLXB6el9iWFJyQVXSAWBBVV95cUxOVnp4Tnc4bzZsUTFBdXc2VS1HbTM3ZDM1Y0FlOXdwV2VqVWtQc1pyU09jSzZQNGYydkNMMXByZFNOVlVyaDh1NTVtRUZ1ZlJQVnNqclNoU050M09wUVE0Qm0?oc=5",
+   "source": "연합뉴스",
+   "time": "07/30 07:33",
+   "dir": "up",
+   "strength": 3
+  },
+  {
+   "title": "연준 금리 동결에도 국채금리 급등…시장 \"긴축 더 필요\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0Tm5nZUFSMkt0LXdKMUs5dlFXNG5WclVMT3IwUFpvUkE4ZlF3WTRrODhSRXNaVmtBendScXVGbW5Bck5mc0xZZWt1b0xleVFISUNPLW9ZOEJwQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "07/30 07:13",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美연준 매파적 금리동결…워시 \"인플레 2% 목표 의심 말라\"(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPX0ZsbEVkSFNaUEVmVGp3U1MxRWFKR3QyeGEyeWtjb0VzSC1qN1pWU2cycF9OaVJxYVhMU3h0S3JVN0NBQlNHQnRuaVZwWlpVX0t5WkxZMjREbTRfR1ZWSklaSFliYmc?oc=5",
+   "source": "뉴스1",
+   "time": "07/30 07:04",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "연준, 5연속 금리 동결…매파 연은 총재 3명 인상 반대표(상보)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUTEFySUpCWFk3bnJRa2IxRFN6MHpzOVlzWjBrMzRhOURLTnlqVF9oc1c0QThvYmdMbllqY3RabjRxY0JZaWR3M2cwaFZVbjhrSnVXN3E2YlVfN3FlaXVSQVVkTmwyUFFXSEZaUFJscng?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/30 05:19",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준 금리 동결…매파 목소리 커지며 9월 주목",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGLVRXU29BOFE0Rmk1MTNGaVA2WFZwZ1BYc0tlWkRJVjB0ZkFHa0FWY0VfRGV0X1N1d2dRTjRfc0NHc0w5Z2s0QkZmeE1xOUo4eXlnRElUdm1jdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "07/30 05:14",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美연준, 5연속 금리 동결…위원 3명은 ‘금리 인상’ 의견",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MRnFZU1dmUXJNRERTUTVrVmJ6UHBkQmJwNk5FYWxVMkEtcnRkMTVmelo2b3MwRXMyOXh3Ri0zaFdBT0JpcVNYWExRbjNrLXZoVVNkM1otQ05icnFJR0xwVzdR?oc=5",
+   "source": "미주중앙일보",
+   "time": "07/30 04:49",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "이란 전쟁 속 연준 금리 동결…달러 가치 ‘일주일 만에 최저’│Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrR0hYcDNzWUdLNUtNM2lteC1WZEpLaWtuT2dNeHRlN0VoaV9COXdJdUJ5bHNvbDhNaW9KTjNvQV9UQ0hySDRTcm1KOHlrQUJvbGpQcWVPcUhrT2M?oc=5",
+   "source": "중앙일보",
+   "time": "07/30 04:11",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준 금리 동결…'인플레 우려' 매파 목소리 커져",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kSDdyUUcwZjlyblNxYXJMYTN1UlBZTXRxenFBN3dKc2d3WXBzdWxRVzdTdGpfVHViVm9rbkltQVJDN003ZVRXVTF2MEpvM25MdXRDOU5LN05Ndw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "07/30 03:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "환율 15.8원 내린 1,440원대‥중동 전쟁 이후 최저",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvTmRSTjNGWWctY1AzSWxuQTdPT19SbFM4eUFvTzRrNXpPU2pzQ0dFOXFwS3BkMjhSS2haM0pseWJtZUNnWXd0ZFRxNjVxS0w5cldWR19GQnBtZDVYclNFR2t0S1VvcFR5QkJuTHpNUng1UXBwSEU4Nw?oc=5",
    "source": "MBC 뉴스",
    "time": "07/29 19:50",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율, 5개월 만에 1450원 아래로···중동 전쟁 이후 최저",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzbElVb3RyeUh1eWI3ZWJFclI2b2FvTXl0S0VYQ2VLb3hmN21CZ0xQN3lvd0h5S3h4Y3M2VDF6dW8wOFdNX3NEMXBLejVWOEhZeWFpcHRVMmFKQdIBX0FVX3lxTE1OX000VDVkUC1rc2M0WmJia1NnNnBBQURtR21WUmZFbjVZVThXcXFhdVU5VlZ4MUZBZXRzZFlpSDdWOVNzUkJob3ZsOUdvMkJlWkFvemdWeGlkT0J2cjk0?oc=5",
-   "source": "경향신문",
-   "time": "07/29 17:12",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "코스피 폭락에도 원/달러 환율 급락…5개월 만에 1440원대 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43dHFSbzJQRi1XM2h4R3IxS0RmQ3JSZHEwa21WS2thRUd2T3NBcDhKT3I3bWtHMmtsU1czNGduVTF4LWtnLWFWSXlQNUNla0E3SVhEX0xGOG1aSU1fMVhSbVloUEVkUmVVVFBN0gFwQVVfeXFMTjRRNGZKZURVWkpwcjVDeVUwLU5Yb3hQcXhBY1lpc1dpMFZpbTYxR1hzV1FoQUdyRVFfNnBvd0EyR0FWQ3NMWXZRbXd5SVhKMlppNGFtRnJ2ODhqLXE3Tnl5R3dHZnMwcFZyTEZXdzFCUg?oc=5",
-   "source": "머니투데이",
-   "time": "07/29 16:48",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "신현송 한은 총재 \"기준금리 인상 기조 유지…근원물가 잡아야\"",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LOHp6TG1SdjdYeWRSNkdWa3NnUTZLYnlVN1ItUFdKTUF0S3hMdEJ5dWpkdXZ5TWVHcVdsV2hGem1lY1FlbjlVY1RWVkhWNVRiUEVCa1BZMDc2Nkc0OWNsdlVMaEU?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "07/29 15:27",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "월가 \"연준 동결하면 달러 약세…금리인상 위험 과대평가\"",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JWXVfRXBOX1FmVjVuLUZOaWs4cFQtdy03SWlJUVpoT25sUllNSGhWT1gteDhySzAtZ290cGVBNHVydHlMWGtHZHU3cmFWYUF2bDNvMS0tVDlIU0lxSVJFV09UeWdEWk0?oc=5",
-   "source": "뉴스1",
-   "time": "07/29 15:26",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "신현송 \"기준금리 인상 기조 유지…시기·대응 수준 상황 지켜볼 것\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyZ0c0Mk5DOFRoMFJSTGRzWXVPcUJDcnIweGJJR3NMOVREWHRTZ0MyNXhDTUJpcGNqYUtnRlp4RmhHZldxNUFnTjZzamhqTDNqcTdoZEc4MV9Ub1F6X3dWSA?oc=5",
-   "source": "아시아경제",
-   "time": "07/29 13:24",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[뉴욕환시] 달러 나흘만에↓…중동 분쟁 낙관론 속 '비둘기 연준' 경계 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KYWctZGE0bGNPcThOeW9aTWowT0ZFRnZXdDR4aXZ1cGpKQTUtX0pUcEhSc2J1a3BCRHVmTXR5SUJfeERrVDl2bU1hcDh1RUtsRGJBRno0RUd2U05COVh1dlFKYkxCOXRUeEtDcEhyZHp0elpB?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/29 07:23",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "연준 ‘사전 예고’ 시대 저무나…시타델 “이번 주 기습 금리 인상 가능성”│Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44b0U4RXZyaHctQVRrUm1rcUJ4TzdOZmJfVGdoMGx6bjd2TzJjaHdybXJKYVFCY2FnZ1pvVWJIb0xaSlA0UllsWWJZUWVRODRBVERrcXFtVW82YU0?oc=5",
-   "source": "중앙일보",
-   "time": "07/29 05:06",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준 금리 동결 땐 달러 즉각 하락…TD “금리 인상 우려 과도”│Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BcjNjcGd0c0pFQkxNS3N1SFpOeThpajFHY2s0N0lZNUlTcE9fS0x5WVYwanR6bUFDUHFJemh3UTlrUXRER3NIZklMcHNJSE9Kd3NyZ0VlaWdoTlk?oc=5",
-   "source": "중앙일보",
-   "time": "07/29 03:47",
    "dir": "up",
    "strength": 1
   },
