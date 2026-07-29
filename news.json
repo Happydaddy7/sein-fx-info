@@ -1,19 +1,35 @@
 {
- "updated": "2026-07-29 08:03",
+ "updated": "2026-07-29 10:25",
  "summary": {
-  "up": 7,
-  "down": 3,
-  "neutral": 0
+  "up": 5,
+  "down": 4,
+  "neutral": 1
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 5 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "원·달러 환율, 오전 9시 1450원대 중반 등락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXUlJvRllzMzk4WlNiTUJac1ZELVF2SE1fTDZKVk1FbjJEdkNOSGpUVmVPdnJqLUI4c2NsM0RPQ3UtWFYzSnBSZXAyMzBXcnNpZGtBdDFJcjJxZV85Ykc4N9IBeEFVX3lxTE1wN1lkaEFIQWx1OTRQQXJzU21wQ0VHaXRNYnNtcDVmUkREWEoybzZGbjRIajF0QlRybExFdVVPQkVRRWRWb0tINEV6a0hXdEt6c1dDWW9xNHBISzlRT25QaGZKNGhIbmh0aXlodTBxa0dzYnExdXRJMw?oc=5",
+   "source": "뉴시스",
+   "time": "07/29 09:08",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[뉴욕환시] 달러 나흘만에↓…중동 분쟁 낙관론 속 '비둘기 연준' 경계 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KYWctZGE0bGNPcThOeW9aTWowT0ZFRnZXdDR4aXZ1cGpKQTUtX0pUcEhSc2J1a3BCRHVmTXR5SUJfeERrVDl2bU1hcDh1RUtsRGJBRno0RUd2U05COVh1dlFKYkxCOXRUeEtDcEhyZHp0elpB?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/29 07:23",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "연준 ‘사전 예고’ 시대 저무나…시타델 “이번 주 기습 금리 인상 가능성”│Global Money Club",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44b0U4RXZyaHctQVRrUm1rcUJ4TzdOZmJfVGdoMGx6bjd2TzJjaHdybXJKYVFCY2FnZ1pvVWJIb0xaSlA0UllsWWJZUWVRODRBVERrcXFtVW82YU0?oc=5",
@@ -63,28 +79,12 @@
    "strength": 1
   },
   {
-   "title": "[FOMC 폴] 7월 '매파적 동결' 관측",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56RnQ1d3hwYUdzd0lZaDNhUWJTaUNkTHZZNDFiX2NnNGpMbHNCeVdxQUxpcm9rd0VFa1ZCLU1Tc3Z4bmNRQlI0Wm5ZVUFVQUFYb1ROdnJSUklBNUpocTY2SHBLNEh6WkRRZzJQZjRfaFM?oc=5",
-   "source": "연합인포맥스",
-   "time": "07/27 10:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "변정규 본부장 \"고환율 끝난 것 아니다…달러 강세 재개 가능성 대비해야\"[돈워리]",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vU1p5VlhQd3RpWUZSQkdEUmZqQjRiR1AydGpDWVpHVVYyMktGTlVPYlZWMEV4UDdWcnh3eGZQUUlMVVlMbjQ0aFVYc19wWXZyQ2RUMVRBSlhQNFBFRnRjYnFYUzZrX0ZRZm43QTI5OFlheGU5V0h3QUxzSQ?oc=5",
    "source": "이데일리TV",
    "time": "07/27 08:42",
    "dir": "up",
    "strength": 2
-  },
-  {
-   "title": "투자자들, 유가 상승으로 美 연준 금리 인상에 베팅",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ra0VmNkRHMG4wOHFjWWI5aFJYVWY4R3RXQVZMeUxENjh3clpXRnF3SlpjZ3NDNmJMX1hPRzJDWWM4STFCQVhfMzBCSW5feHJVV2V3c3NmMnNMZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "07/27 04:30",
-   "dir": "up",
-   "strength": 1
   },
   {
    "title": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’",

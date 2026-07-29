@@ -2,8 +2,8 @@
  "month": "2026-07",
  "target": 1870000,
  "target_note": "7월 사용액 누계 (7/23까지)",
- "holdings": 4930000,
- "holdings_note": "2026-07-27 기준 선물환 잔액 (Slack 자동)",
+ "holdings": 4810000,
+ "holdings_note": "2026-07-28 기준 선물환 잔액 (Slack 자동)",
  "log": [
   {
    "date": "2026-07-01",
@@ -112,7 +112,13 @@
    "amount": 120000,
    "rate": 1470.34,
    "note": ""
+  },
+  {
+   "date": "2026-07-28",
+   "amount": 120000,
+   "rate": 1467.5,
+   "note": ""
   }
  ],
- "updated_from_slack": "2026-07-29 08:03"
+ "updated_from_slack": "2026-07-29 10:25"
 }
