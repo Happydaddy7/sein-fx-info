@@ -1,19 +1,35 @@
 {
- "updated": "2026-07-29 17:16",
+ "updated": "2026-07-29 20:53",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "환율 15.8원 내린 1,440원대‥중동 전쟁 이후 최저",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvTmRSTjNGWWctY1AzSWxuQTdPT19SbFM4eUFvTzRrNXpPU2pzQ0dFOXFwS3BkMjhSS2haM0pseWJtZUNnWXd0ZFRxNjVxS0w5cldWR19GQnBtZDVYclNFR2t0S1VvcFR5QkJuTHpNUng1UXBwSEU4Nw?oc=5",
+   "source": "MBC 뉴스",
+   "time": "07/29 19:50",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 환율, 5개월 만에 1450원 아래로···중동 전쟁 이후 최저",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzbElVb3RyeUh1eWI3ZWJFclI2b2FvTXl0S0VYQ2VLb3hmN21CZ0xQN3lvd0h5S3h4Y3M2VDF6dW8wOFdNX3NEMXBLejVWOEhZeWFpcHRVMmFKQdIBX0FVX3lxTE1OX000VDVkUC1rc2M0WmJia1NnNnBBQURtR21WUmZFbjVZVThXcXFhdVU5VlZ4MUZBZXRzZFlpSDdWOVNzUkJob3ZsOUdvMkJlWkFvemdWeGlkT0J2cjk0?oc=5",
+   "source": "경향신문",
+   "time": "07/29 17:12",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "코스피 폭락에도 원/달러 환율 급락…5개월 만에 1440원대 - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43dHFSbzJQRi1XM2h4R3IxS0RmQ3JSZHEwa21WS2thRUd2T3NBcDhKT3I3bWtHMmtsU1czNGduVTF4LWtnLWFWSXlQNUNla0E3SVhEX0xGOG1aSU1fMVhSbVloUEVkUmVVVFBN0gFwQVVfeXFMTjRRNGZKZURVWkpwcjVDeVUwLU5Yb3hQcXhBY1lpc1dpMFZpbTYxR1hzV1FoQUdyRVFfNnBvd0EyR0FWQ3NMWXZRbXd5SVhKMlppNGFtRnJ2ODhqLXE3Tnl5R3dHZnMwcFZyTEZXdzFCUg?oc=5",
@@ -68,22 +84,6 @@
    "source": "중앙일보",
    "time": "07/29 03:47",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美연준 금리 인상 관측 큰 폭 증가",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PMnlmTmhCeXRvLXFGN2hySDI0LVdyMUZMcmROYWx1WW5VTUt6Y0htRW1rSGRiQmJxSkNQUXVqb2FxOXFpLTEwUU5Nbkl3aW1ubU1F0gFYQVVfeXFMT2FxRWVseldNOXhFTklJczhOc1hpRGk2T040cFJyeWZ5R2oyOVdQdjlscFgzcndVX2NsSTg2VW1SdzA2bUVHaDF2S1EyVEpETmlqc0NHRW13MA?oc=5",
-   "source": "SBS Biz",
-   "time": "07/28 10:42",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "트럼프, 7월 FOMC 앞두고 \"연준 기준금리 인하해야\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySkhPX2xtcXZXVXRoUUtBbE1WdDlaYWlpVnNwc1JLajY5Y0w0dWFnZjJDWHoxMTVRLWIySUhpb1JnLWtyUWVESVhFSFk2WGZoOVhqYi1YU2xsMXFkWkduTdIBeEFVX3lxTE44UDI3dzJVT0R2RnJGMTFVSnFMcy1NWWV3SDFtLTdBSXh2c0x0dm1lcmxfdVBzWjdqY2VjUVdzeW8ya09iYkJYM2w1WlhMT2VkdnprNEFjX2lQUm9MS1ItRWEzVTQxMWVVcGppVXliXzdDME9CWVBRLQ?oc=5",
-   "source": "뉴시스",
-   "time": "07/28 04:08",
-   "dir": "down",
    "strength": 1
   },
   {
