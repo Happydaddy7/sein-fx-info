@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29 13:57",
+ "updated": "2026-07-29 17:16",
  "summary": {
   "up": 6,
   "down": 4,
@@ -14,6 +14,38 @@
   ]
  },
  "items": [
+  {
+   "title": "코스피 폭락에도 원/달러 환율 급락…5개월 만에 1440원대 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43dHFSbzJQRi1XM2h4R3IxS0RmQ3JSZHEwa21WS2thRUd2T3NBcDhKT3I3bWtHMmtsU1czNGduVTF4LWtnLWFWSXlQNUNla0E3SVhEX0xGOG1aSU1fMVhSbVloUEVkUmVVVFBN0gFwQVVfeXFMTjRRNGZKZURVWkpwcjVDeVUwLU5Yb3hQcXhBY1lpc1dpMFZpbTYxR1hzV1FoQUdyRVFfNnBvd0EyR0FWQ3NMWXZRbXd5SVhKMlppNGFtRnJ2ODhqLXE3Tnl5R3dHZnMwcFZyTEZXdzFCUg?oc=5",
+   "source": "머니투데이",
+   "time": "07/29 16:48",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "신현송 한은 총재 \"기준금리 인상 기조 유지…근원물가 잡아야\"",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LOHp6TG1SdjdYeWRSNkdWa3NnUTZLYnlVN1ItUFdKTUF0S3hMdEJ5dWpkdXZ5TWVHcVdsV2hGem1lY1FlbjlVY1RWVkhWNVRiUEVCa1BZMDc2Nkc0OWNsdlVMaEU?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "07/29 15:27",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "월가 \"연준 동결하면 달러 약세…금리인상 위험 과대평가\"",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JWXVfRXBOX1FmVjVuLUZOaWs4cFQtdy03SWlJUVpoT25sUllNSGhWT1gteDhySzAtZ290cGVBNHVydHlMWGtHZHU3cmFWYUF2bDNvMS0tVDlIU0lxSVJFV09UeWdEWk0?oc=5",
+   "source": "뉴스1",
+   "time": "07/29 15:26",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "신현송 \"기준금리 인상 기조 유지…시기·대응 수준 상황 지켜볼 것\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyZ0c0Mk5DOFRoMFJSTGRzWXVPcUJDcnIweGJJR3NMOVREWHRTZ0MyNXhDTUJpcGNqYUtnRlp4RmhHZldxNUFnTjZzamhqTDNqcTdoZEc4MV9Ub1F6X3dWSA?oc=5",
+   "source": "아시아경제",
+   "time": "07/29 13:24",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "[뉴욕환시] 달러 나흘만에↓…중동 분쟁 낙관론 속 '비둘기 연준' 경계 |",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KYWctZGE0bGNPcThOeW9aTWowT0ZFRnZXdDR4aXZ1cGpKQTUtX0pUcEhSc2J1a3BCRHVmTXR5SUJfeERrVDl2bU1hcDh1RUtsRGJBRno0RUd2U05COVh1dlFKYkxCOXRUeEtDcEhyZHp0elpB?oc=5",
@@ -39,14 +71,6 @@
    "strength": 1
   },
   {
-   "title": "수급 타고 원화 강세...연말 1,430~1,450원 전망",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54TGNOTXI4RzJOUGtGVzViZW9EUnowdWY1aWhkbE9kOTRZSHBVYVhhLW9SS0hEbHNMUHF5ZXRXRGlvODdNYThYQUgtcEpLMG56d0N5TWRTYWxZenZTeVlyNEtkN0hHTGQwMXRZcmlZa3o5cGlSYlUw?oc=5",
-   "source": "한국경제TV",
-   "time": "07/28 17:25",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "美연준 금리 인상 관측 큰 폭 증가",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PMnlmTmhCeXRvLXFGN2hySDI0LVdyMUZMcmROYWx1WW5VTUt6Y0htRW1rSGRiQmJxSkNQUXVqb2FxOXFpLTEwUU5Nbkl3aW1ubU1F0gFYQVVfeXFMT2FxRWVseldNOXhFTklJczhOc1hpRGk2T040cFJyeWZ5R2oyOVdQdjlscFgzcndVX2NsSTg2VW1SdzA2bUVHaDF2S1EyVEpETmlqc0NHRW13MA?oc=5",
    "source": "SBS Biz",
@@ -63,36 +87,12 @@
    "strength": 1
   },
   {
-   "title": "日, 환율정책의 반면교사…원·달러 환율 안정, 더 미룰 수 없다! 특단의 대책 필요하다![국제경제읽기 한상춘]",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xRU8wTWFLRjUySlJULWE1N0lYN2pKZ29kSHRtMnI0QUJJdmJ4MC15MVpBZW13LUVJWmJpUmNKczRHRUNBODBVdzdNbk5lSkF4SnQ5Y2hMTXhreWgxYmNGRmpsemhzY0xSTTYtamlEaFkzQTNmQ19J?oc=5",
-   "source": "한국경제TV",
-   "time": "07/27 12:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "변정규 본부장 \"고환율 끝난 것 아니다…달러 강세 재개 가능성 대비해야\"[돈워리]",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vU1p5VlhQd3RpWUZSQkdEUmZqQjRiR1AydGpDWVpHVVYyMktGTlVPYlZWMEV4UDdWcnh3eGZQUUlMVVlMbjQ0aFVYc19wWXZyQ2RUMVRBSlhQNFBFRnRjYnFYUzZrX0ZRZm43QTI5OFlheGU5V0h3QUxzSQ?oc=5",
    "source": "이데일리TV",
    "time": "07/27 08:42",
    "dir": "up",
    "strength": 2
-  },
-  {
-   "title": "투자자들, 유가 상승으로 美 연준 금리 인상에 베팅",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ra0VmNkRHMG4wOHFjWWI5aFJYVWY4R3RXQVZMeUxENjh3clpXRnF3SlpjZ3NDNmJMX1hPRzJDWWM4STFCQVhfMzBCSW5feHJVV2V3c3NmMnNMZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "07/27 04:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "1450원대까지 떨어진 원·달러 환율, 변수는 ‘중동 전쟁’",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EUzJSNzliOW5seTdHQnJZSElRMExKLTliU2RoazBDTW9EVWhZUXdLY2MteTljZHRlcXlXZ09waTRhZjZYWEd3YTdmYklJX3EzRFZTQm1Qd1NOQdIBX0FVX3lxTFBHVERSTU91bkthWmM1QXBKR1pWT013bEFucldJbThXdTJCeGREYk94bHhfMG1KSlpPOC12Ymp2bC04amMyMmY5QXp0OVBSaC1Ra0RiWktXYURvT0pfOXl3?oc=5",
-   "source": "경향신문",
-   "time": "07/26 16:07",
-   "dir": "up",
-   "strength": 1
   }
  ]
 }
