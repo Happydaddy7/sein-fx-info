@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30 13:46",
+ "updated": "2026-07-30 17:05",
  "summary": {
   "up": 8,
   "down": 2,
@@ -15,11 +15,27 @@
  },
  "items": [
   {
+   "title": "미 매파적 동결에…한은 기준금리 8월 인상 가능성 고개",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmNGhqVlRRLTZWSVpaLWU4bC1fSjJNd2MxSmVEVkVmWkVZc1l1ZnJOS2twMEluSGV0U3hfLWh6UG5jd2dpMWl1LTZOQng5VVhRT2RSaFdVSElXZ05PTUVibDBsMkRGV2Q0NWp2d1MzTUZyUQ?oc=5",
+   "source": "한겨레",
+   "time": "07/30 15:12",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "달러 대비 원화 환율 1430원대로...연준 금리 동결에 달러 약세",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWpmMU00cXN2MGZMRERrM3YzdmNJV3E3akVwQUM4bnQzNDMwaUhqWEdhQ2RiOFRGSEFraEtkZHo3X0F2YVpFQzlGV3ItbC1wOXJaTlc3TXVGYWppVENDNlpySG9jVHU1QWY2SWc4WEJERzZONnd4emlKZUhtTzl3T3dLZFR0Q2ctdFBlcGtB?oc=5",
    "source": "조선일보",
-   "time": "07/30 09:55",
+   "time": "07/30 09:58",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "5연속 금리 동결한 美 연준…한은, 8월 연속 금리 인상 여부에 관심",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHZyYjVlRFdCUFJaTkVlRk5ncmdYd0RzN0lsdWQxZE11aFBraFdmY1F1Z0w2eHNLcFc4b0RQRGZfVUUzcFZkRlhOYW5BRVhwZXhWQ3hBQXVCTnBzbjBVVUl2d0ZoM2VzMEtzTUZVMmY4Z0JTYW8tRE1lQlJjV21tcWhwM1V3M25QUGU4ZnlR?oc=5",
+   "source": "조선일보",
+   "time": "07/30 09:43",
+   "dir": "up",
    "strength": 1
   },
   {
@@ -31,28 +47,12 @@
    "strength": 1
   },
   {
-   "title": "5연속 금리 동결한 美 연준…한은, 8월 연속 금리 인상 여부에 관심",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHZyYjVlRFdCUFJaTkVlRk5ncmdYd0RzN0lsdWQxZE11aFBraFdmY1F1Z0w2eHNLcFc4b0RQRGZfVUUzcFZkRlhOYW5BRVhwZXhWQ3hBQXVCTnBzbjBVVUl2d0ZoM2VzMEtzTUZVMmY4Z0JTYW8tRE1lQlJjV21tcWhwM1V3M25QUGU4ZnlR?oc=5",
-   "source": "조선일보",
-   "time": "07/30 09:34",
+   "title": "미 연준 ’매파 동결’에…한은 8월 연속 인상하나",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QZzRtM21HVG9tR0hxNzlDcXpCTWtDYkpMc3RnRXpMNFNVX2hmYVlvc2I0OEl0a0l5aVczaXdoSHlLc25CLWpDb1VTOXJvMVJvWGVybDYxall5cXI5MnZBeXJ5ZTJzV0U?oc=5",
+   "source": "연합뉴스TV",
+   "time": "07/30 08:46",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "'매파적 동결' 연준, 9월 금리인상 가능성…한은도 추가인상 저울질",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NSGJ2S3R4LWg1UmE4NGhKYWRXZi1JX2xfaFcyaTlFLW5VSzZHcXNsWXhDNHY3eEQ2RmNCNVM4MGRLaGFrVTdaLUdPQ3l2OWVHVHlya3hjWk02dw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "07/30 08:49",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 연준 ‘매파적 동결’… 한은 연속 금리 인상 나설까",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hY2RnU0duNHNNbDhfa3V4UmQyU0JGdEhNS3BPeWltSzVBNGlPYXBiRXFiWUFaQUhGMmM5THZmQ1lxTklRemVoSWNQcTFMczlmUzJqYjVqbFJyb2ZGamZMaTFCWjI?oc=5",
-   "source": "서울경제TV",
-   "time": "07/30 08:48",
-   "dir": "up",
-   "strength": 2
   },
   {
    "title": "美 연준 매파적 동결…한은, 기준금리 인상 속도 내나",
@@ -87,10 +87,10 @@
    "strength": 1
   },
   {
-   "title": "연준 금리 동결…매파 목소리 커지며 9월 주목",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGLVRXU29BOFE0Rmk1MTNGaVA2WFZwZ1BYc0tlWkRJVjB0ZkFHa0FWY0VfRGV0X1N1d2dRTjRfc0NHc0w5Z2s0QkZmeE1xOUo4eXlnRElUdm1jdw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "07/30 05:14",
+   "title": "美연준, 5연속 금리 동결…위원 3명은 ‘금리 인상’ 의견",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SaVI1RXR1WXVFZ0FBOW1VT01OelpyeTk4Y1EwdkhURGxOOFVHdWJseUVDWDZUcG9FdG5wTzlKZ3RWWFF0R3RwX2t1OHFfWFBqeTVST3Jn?oc=5",
+   "source": "중앙일보",
+   "time": "07/30 04:49",
    "dir": "up",
    "strength": 1
   }
