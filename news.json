@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30 10:18",
+ "updated": "2026-07-30 13:46",
  "summary": {
   "up": 8,
   "down": 2,
@@ -23,14 +23,6 @@
    "strength": 1
   },
   {
-   "title": "미국 ‘매파적 동결’에 한은 기준금리 ‘연속 인상’ 가시권",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZRll1TmZPVzRMLTZHYzk0aTFPckE3NHh3bU16M1gyVURlM04tM1llRFNOV3VHd2RKN0FvNVZuVTNnd1pZeUtqZVYxeHY2MHVqUFlybGx3?oc=5",
-   "source": "헤럴드경제",
-   "time": "07/30 09:50",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "연준發 달러 약세에 달러·원 환율 추가 하락…1430원대 거래",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zMFN4MTJDWWZsVHE0T25nbzJhaGRvbnJ3SC03ZkNQZWc5X2M5WlgyVXlwQmt5MENEVGtnRFhWNkxYMWc2bEZtQWpSTjVmN2JrbkUwcnVyZXB3ZkgzbjFB?oc=5",
    "source": "뉴스1",
@@ -43,6 +35,14 @@
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHZyYjVlRFdCUFJaTkVlRk5ncmdYd0RzN0lsdWQxZE11aFBraFdmY1F1Z0w2eHNLcFc4b0RQRGZfVUUzcFZkRlhOYW5BRVhwZXhWQ3hBQXVCTnBzbjBVVUl2d0ZoM2VzMEtzTUZVMmY4Z0JTYW8tRE1lQlJjV21tcWhwM1V3M25QUGU4ZnlR?oc=5",
    "source": "조선일보",
    "time": "07/30 09:34",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "'매파적 동결' 연준, 9월 금리인상 가능성…한은도 추가인상 저울질",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NSGJ2S3R4LWg1UmE4NGhKYWRXZi1JX2xfaFcyaTlFLW5VSzZHcXNsWXhDNHY3eEQ2RmNCNVM4MGRLaGFrVTdaLUdPQ3l2OWVHVHlya3hjWk02dw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "07/30 08:49",
    "dir": "up",
    "strength": 1
   },
@@ -79,18 +79,18 @@
    "strength": 1
   },
   {
-   "title": "美연준 매파적 금리동결…워시 \"인플레 2% 목표 의심 말라\"(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPX0ZsbEVkSFNaUEVmVGp3U1MxRWFKR3QyeGEyeWtjb0VzSC1qN1pWU2cycF9OaVJxYVhMU3h0S3JVN0NBQlNHQnRuaVZwWlpVX0t5WkxZMjREbTRfR1ZWSklaSFliYmc?oc=5",
-   "source": "뉴스1",
-   "time": "07/30 07:04",
-   "dir": "up",
-   "strength": 2
-  },
-  {
    "title": "연준, 5연속 금리 동결…매파 연은 총재 3명 인상 반대표(상보)",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUTEFySUpCWFk3bnJRa2IxRFN6MHpzOVlzWjBrMzRhOURLTnlqVF9oc1c0QThvYmdMbllqY3RabjRxY0JZaWR3M2cwaFZVbjhrSnVXN3E2YlVfN3FlaXVSQVVkTmwyUFFXSEZaUFJscng?oc=5",
    "source": "연합인포맥스",
    "time": "07/30 05:19",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준 금리 동결…매파 목소리 커지며 9월 주목",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGLVRXU29BOFE0Rmk1MTNGaVA2WFZwZ1BYc0tlWkRJVjB0ZkFHa0FWY0VfRGV0X1N1d2dRTjRfc0NHc0w5Z2s0QkZmeE1xOUo4eXlnRElUdm1jdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "07/30 05:14",
    "dir": "up",
    "strength": 1
   }
