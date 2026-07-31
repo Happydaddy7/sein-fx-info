@@ -20,6 +20,9 @@ jobs:
       - name: Fetch FX news
         run: python3 fetch_news.py
 
+      - name: Log forecast & score
+        run: python3 forecast_log.py || echo "예측 기록 건너뜀"
+
       - name: Sync purchases from Slack
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
@@ -31,7 +34,7 @@ jobs:
         run: |
           git config user.name "sein-fx-bot"
           git config user.email "actions@github.com"
-          git add news.json purchases.json
+          git add news.json purchases.json forecast_log.json
           if git diff --cached --quiet; then
             echo "변경 없음"
             echo "changed=false" >> "$GITHUB_OUTPUT"
