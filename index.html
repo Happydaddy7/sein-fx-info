@@ -134,6 +134,17 @@ header p{margin-top:6px;font-size:12.5px;color:#b8c4d0}
 .ucovnote{font-size:11.5px;color:#b8c4d0;margin-top:6px;line-height:1.5}
 .unote{margin-top:10px;font-size:12px;color:#8a6a4a;background:#faf3ec;border-radius:8px;padding:10px 14px}
 
+/* 예측 성적표 */
+.scoretop{display:flex;gap:20px;margin-bottom:14px;flex-wrap:wrap}
+.scoretop .sc{text-align:center}
+.scoretop .scv{font-family:'Noto Serif KR',serif;font-size:24px;font-weight:700;color:var(--navy)}
+.scoretop .scl{font-size:12px;color:#8b8577}
+.scoretop .scv.good{color:var(--ok)} .scoretop .scv.bad{color:var(--alert)}
+#scoreTable td.hit{color:var(--ok);font-weight:700}
+#scoreTable td.miss{color:var(--alert);font-weight:700}
+.dirchip{font-size:11px;font-weight:700;border-radius:4px;padding:1px 6px}
+.dirchip.up{background:#fdece9;color:var(--up)} .dirchip.down{background:#e6f4ee;color:var(--down)} .dirchip.neutral{background:#f0ece3;color:#8b8577}
+
 section{margin-top:34px}
 section h2{font-family:'Noto Serif KR',serif;font-size:18px;color:var(--navy);margin-bottom:6px}
 section .desc{font-size:13px;color:#6b6558;margin-bottom:14px}
@@ -265,6 +276,19 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
         <span class="upd" id="newsUpd"></span>
       </div>
       <ul id="newsList"><li class="empty">불러오는 중…</li></ul>
+    </div>
+  </section>
+
+  <!-- 예측 성적표 -->
+  <section>
+    <h2>예측 성적표</h2>
+    <div class="desc">매일 기록한 전망 범위와 다음 거래일 실제 환율 비교. 오늘부터 기록 시작.</div>
+    <div class="card">
+      <div class="scoretop" id="scoreTop"><span class="loading">기록을 불러오는 중…</span></div>
+      <table id="scoreTable" style="display:none">
+        <thead><tr><th>예측 기준일</th><th>예측 범위</th><th>방향</th><th>실제</th><th>결과</th></tr></thead>
+        <tbody id="scoreBody"></tbody>
+      </table>
     </div>
   </section>
 
@@ -626,8 +650,44 @@ function drawMiniLine(svgId, series, W, H){
   });
 }
 
+// ── 8. 예측 성적표 ──
+async function loadScore(){
+  const top=$("scoreTop"), tbl=$("scoreTable"), body=$("scoreBody");
+  const DIR={up:"▲ 상승",down:"▼ 하락",neutral:"● 중립"};
+  try{
+    const d=await fetch("forecast_log.json?t="+Date.now()).then(r=>r.json());
+    const recs=(d.records||[]).filter(r=>r.actual!==null).sort((a,b)=>a.made_on<b.made_on?1:-1);
+    const s=d.summary;
+    if(s){
+      const hc=s.hit_rate>=60?"good":s.hit_rate<40?"bad":"";
+      top.innerHTML=
+        `<div class="sc"><div class="scv ${hc}">${s.hit_rate}%</div><div class="scl">범위 적중 (${s.hit}/${s.scored})</div></div>`+
+        (s.dir_rate!=null?`<div class="sc"><div class="scv">${s.dir_rate}%</div><div class="scl">방향 적중 (${s.dir_hit}/${s.dir_scored})</div></div>`:"")+
+        `<div class="sc"><div class="scv">${s.scored}</div><div class="scl">채점 완료</div></div>`;
+    }else{
+      top.innerHTML='<span class="loading">채점된 예측이 아직 없습니다. 내일부터 결과가 채워집니다.</span>';
+    }
+    if(recs.length){
+      body.innerHTML=recs.slice(0,14).map(r=>{
+        const inRange=r.hit;
+        const [lo,hi]=r.today_band;
+        return `<tr>
+          <td>${r.made_on.slice(5)}</td>
+          <td>${lo.toLocaleString()}~${hi.toLocaleString()}</td>
+          <td><span class="dirchip ${r.dir}">${DIR[r.dir]}</span></td>
+          <td>${r.actual.toLocaleString()}</td>
+          <td class="${inRange?'hit':'miss'}">${inRange?'✅ 적중':'❌ 빗나감'}${r.dir_hit===false?' (방향✗)':r.dir_hit===true?' (방향✓)':''}</td>
+        </tr>`;
+      }).join("");
+      tbl.style.display="";
+    }
+  }catch(e){
+    top.innerHTML='<span class="loading">예측 기록이 아직 없습니다 (오늘부터 수집 시작).</span>';
+  }
+}
+
 // init
-loadRate(); loadGauge().then(loadSupply); loadFxChart(90); loadNews(); loadOutlook(); loadDXY();
+loadRate(); loadGauge().then(loadSupply); loadFxChart(90); loadNews(); loadOutlook(); loadDXY(); loadScore();
 $("rangeBtns").addEventListener("click",e=>{if(e.target.dataset.d)loadFxChart(+e.target.dataset.d);});
 </script>
 </body>
