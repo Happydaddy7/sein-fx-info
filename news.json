@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31 08:11",
+ "updated": "2026-07-31 10:45",
  "summary": {
   "up": 8,
   "down": 2,
@@ -47,14 +47,6 @@
    "strength": 1
   },
   {
-   "title": "연준 ＇매파적 동결＇...한은 8월 금리인상 가능성 커지나",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxLW1JclNLcEVtb055UDBGZ0lzaXo2UEJZV0VVWUREQ05YaW5vX1Vqcy1CNTBadmxnakUzYzBiQzF2R0hpcXNCWFRxVmdKTTR0b1QydmZQMWZoU3BFSlVwT21jeDNSMVFTYmZDbDZuLVh0cUl1bUNn?oc=5",
-   "source": "한국경제TV",
-   "time": "07/30 17:56",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "美연준 기준금리 ‘매파적 동결’…고물가에 9월 인상 관측 우세",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93cTBIeHJrUGJfUE8wNEl5bWEzSFk5T0RLdV93cjZTODZNQ1ZSblNTUFUtNGFMSG5sWENhdWtWbUE5SjNKQUxXQlBqd3RwVkE1OUtMZlNUTmFwenVsOFprTkJPelRCMkRXUndyZTU2MTVLUnfSAWZBVV95cUxPRUc1Yy1vWmdKRFFCY2U5X0lGRkE4XzE2LTdxZktnXzNyVzhnWUp4VU5paWZhaU04dzY5eUhoOHNLVDdHYmxXZHRRejdTZmVVRUw5eGg5eUgzSXBTeVk2MHl4eWJKUmc?oc=5",
    "source": "동아일보",
@@ -67,6 +59,14 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jQkI2azlXTTZWSHpJNGhpeXNNUXE2d3hoWFZiNnE2WmN3QVBiTHJpTUcwTDFPUktlUVBUWFFxakQ0aUd1cUo0cEFVT2NpaFkwOURlTFRpRFBjdw?oc=5",
    "source": "한국경제",
    "time": "07/30 17:03",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "미 기준금리 5연속 동결·국채금리도 급등…한은 통화 긴축에 속도낼까",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fRS1pYnZfRl84N1FBYXhtaHJlZkt2SjlHcXk0Vkd4STczUDVsdFltajZsMjQ3ZWFrZDJ3OWwwTjA4b1F6YnQ0MWZyVkprMGllNHFhQUlldEZBc0tpSko0MldLeFR3aDRV?oc=5",
+   "source": "매일경제TV",
+   "time": "07/30 16:52",
    "dir": "up",
    "strength": 1
   },
