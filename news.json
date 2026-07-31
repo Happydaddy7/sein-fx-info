@@ -1,35 +1,19 @@
 {
- "updated": "2026-07-31 14:23",
+ "updated": "2026-07-31 17:31",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
-  {
-   "title": "일본은행, 오늘 금리동결 유력…엔화 방어용 매파 메시지 주목",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZSEtvOUNRZVRIZzBzSHdBRV81WDdMb0RLU1dJUXdqZVZmem1DN1J6R3pYY0ZLX1ZZUkk1eUZBTTc4OF9rNnVlNWw1TTNkZC1mNVhYbWVXUDNHei01YjcxX21yazVBcU0?oc=5",
-   "source": "뉴스1",
-   "time": "07/31 09:29",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "엔·달러 환율 급락…\"美·日 당국 시장개입 추정\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMzZxUDJmXzhablFnWjlEbUJ3czY2aXRXLWJQZ1JCV1BMT3RNNHBkSkQtV090ODN1Sk9Cb3FsY1JOR2ZzLXMzd3NHbm5GWlpNbXZLQ0dCVEh0dw?oc=5",
-   "source": "한국경제",
-   "time": "07/31 06:34",
-   "dir": "down",
-   "strength": 1
-  },
   {
    "title": "원·달러 환율, 야간거래서 장중 1410원대로 급락...“엔화 강세 동조”",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLdTJPQlFpMFNHbFpoVzVRTlAwSXI2REpMSXE0U09ISFU1WU9HWnVrNUdqZ1U5RnJvNFI3SUgwYVF5anJOR0lvaUJtaUh4LXZHeEHSAVNBVV95cUxONE5uLWtNNlF2Yk1ablVEbnRfejZGRXd5QmM1UUR1YlpMcjJtOXpwc0MxaXhPNVJWZl9pR0NCdUliYzdaNWtlcVNBeTZhR3ZNc2N4RQ?oc=5",
@@ -55,36 +39,52 @@
    "strength": 1
   },
   {
-   "title": "원·달러 환율 장중 1419원…엔화 강세에 9개월만 최저 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nU0o1S1c3eS1NejQ3dUc5ZFltWDAxSklYbUgydXhuN1Z2MFZPaVY5b3Y5VHFQcG01MWVkeWJaQWxWenNxSXFHSFMyLTJwNkFSWmdJLTAycGZYUUUyYVc1SjREa0NRU0NTRW1SMXBR0gFuQVVfeXFMT2dTSjVLVzd5LU16NDd1RzlkWW1YMDFKSVhtSDJ1eG43VnYwVk9pVjlvdjlUcVBwbTUxZWR5YlpBbFZ6c3FJcUdIUzItMnA2QVJaZ0ktMDJwZlhRRTJhVzVKNERrQ1FTQ1NFbVIxcFE?oc=5",
-   "source": "머니투데이",
-   "time": "07/31 00:28",
+   "title": "미 매파적 동결에…한은 기준금리 8월 인상 가능성 고개",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmNGhqVlRRLTZWSVpaLWU4bC1fSjJNd2MxSmVEVkVmWkVZc1l1ZnJOS2twMEluSGV0U3hfLWh6UG5jd2dpMWl1LTZOQng5VVhRT2RSaFdVSElXZ05PTUVibDBsMkRGV2Q0NWp2d1MzTUZyUQ?oc=5",
+   "source": "한겨레",
+   "time": "07/30 15:12",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "미 연준의 불안한 '동결'… 한은 '2연속 기준금리 인상' 두고 고심",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpVVVtcHE3VGZHaWRxYm5PcHkzX25YcWFCa2s4YmlYbXNRVWUyenBaLTRNYUJPSXJ2TmtsQTBGNnl6N2JPNVpBLXNCZk5rM1diVTNMeWh3cWQ1XzBDbnotdGJreS1JMkljVk9KUmFB0gFzQVVfeXFMT2RjMnZsVy1qU2g5MXJteHB5dnRfbkJVak51TW1iaERLYkN1TElNQTZILXUyZFMyVEFvT0JVaUxoMEE1eVcxLWhLcmxQeTg2Y05YaHV6NmpxWF9nM3lQZWNheThsU1FNb0pjSGpDdHBKNVpDRQ?oc=5",
+   "source": "한국일보",
+   "time": "07/30 13:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "중장기 달러-원은…\"대만 경로 땐 1,600원대…독일 경로도 1,430원 웃돌아\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WSkVpVmlpV1hBX2M1aXE1ZUNUVU1FMmQtTGRxUWRKeXdra0RqM1NjNlJsMVFQVU82T191bDVwSHZTUUFSeUpGNmVYVXdKdjhkS3NMRUoxbzVaZl9zWXJTNFFlUUYwR0hPeWRrZjc1TTA?oc=5",
+   "source": "연합인포맥스",
+   "time": "07/30 12:49",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[FOMC 금리동결 배경·향후 전망] ‘물가안정’ 최우선 ‘매파적 동결’… 연준 3명은 인상 의견",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OVXVPVDRYUDNzcWdJZXpka0xDakJBSnBiVnFhZ1VfbWRyc0RBenhHOUdBVVYtb3VBZXRZMW1CNURDeW1OZFdQMWI0ZHJ1OElHQTdicXJweDVyU1RnZTE4?oc=5",
+   "source": "미주한국일보",
+   "time": "07/30 12:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "달러 대비 원화 환율 1430원대로...연준 금리 동결에 달러 약세",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWpmMU00cXN2MGZMRERrM3YzdmNJV3E3akVwQUM4bnQzNDMwaUhqWEdhQ2RiOFRGSEFraEtkZHo3X0F2YVpFQzlGV3ItbC1wOXJaTlc3TXVGYWppVENDNlpySG9jVHU1QWY2SWc4WEJERzZONnd4emlKZUhtTzl3T3dLZFR0Q2ctdFBlcGtB?oc=5",
+   "source": "조선일보",
+   "time": "07/30 09:58",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "美연준 기준금리 ‘매파적 동결’…고물가에 9월 인상 관측 우세",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93cTBIeHJrUGJfUE8wNEl5bWEzSFk5T0RLdV93cjZTODZNQ1ZSblNTUFUtNGFMSG5sWENhdWtWbUE5SjNKQUxXQlBqd3RwVkE1OUtMZlNUTmFwenVsOFprTkJPelRCMkRXUndyZTU2MTVLUnfSAWZBVV95cUxPRUc1Yy1vWmdKRFFCY2U5X0lGRkE4XzE2LTdxZktnXzNyVzhnWUp4VU5paWZhaU04dzY5eUhoOHNLVDdHYmxXZHRRejdTZmVVRUw5eGg5eUgzSXBTeVk2MHl4eWJKUmc?oc=5",
-   "source": "동아일보",
-   "time": "07/30 17:36",
+   "title": "미국 ‘매파적 동결’에 한은 기준금리 ‘연속 인상’ 가시권",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZRll1TmZPVzRMLTZHYzk0aTFPckE3NHh3bU16M1gyVURlM04tM1llRFNOV3VHd2RKN0FvNVZuVTNnd1pZeUtqZVYxeHY2MHVqUFlybGx3?oc=5",
+   "source": "헤럴드경제",
+   "time": "07/30 09:50",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "미 연준 매파적 동결…한은 금리인상 속도 내나",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rVXBmVC0tRUtGNkx1dVA5R0FRYXI1Unc0N2tvZmlUOHpOQ0F4UXI5RmZDWEY4MHZyUzBXRm9aZE5JVWVWaG9PX3JUYjVmYlFBdmlKVW9RR2NzaTN2akhMUDNKemdvTjg?oc=5",
-   "source": "연합뉴스TV",
-   "time": "07/30 14:29",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "美 연준 ‘매파적 동결’… 한은 연속 금리 인상 나설까",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hY2RnU0duNHNNbDhfa3V4UmQyU0JGdEhNS3BPeWltSzVBNGlPYXBiRXFiWUFaQUhGMmM5THZmQ1lxTklRemVoSWNQcTFMczlmUzJqYjVqbFJyb2ZGamZMaTFCWjI?oc=5",
-   "source": "서울경제TV",
-   "time": "07/30 08:48",
-   "dir": "up",
-   "strength": 2
   },
   {
    "title": "美 연준 매파적 동결…한은, 기준금리 인상 속도 내나",
