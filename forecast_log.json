@@ -1,1 +1,21 @@
-{"records":[],"updated":""}
+{
+ "records": [
+  {
+   "made_on": "2026-07-31",
+   "base_rate": 1443.61,
+   "dir": "up",
+   "today_band": [
+    1440,
+    1454
+   ],
+   "week_band": [
+    1435,
+    1467
+   ],
+   "actual": null,
+   "hit": null,
+   "dir_hit": null
+  }
+ ],
+ "updated": "2026-08-03 09:38"
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-03 07:59",
+ "updated": "2026-08-03 09:38",
  "summary": {
   "up": 4,
   "down": 2,
@@ -14,6 +14,22 @@
   ]
  },
  "items": [
+  {
+   "title": "125원 떨어진 원·달러…원화값 7월 8.8% 뛰었다 [Pick코노미]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RTHVfSWlCZXNwdGJyZUdSSkJORW1kMXFnN2hQMXF0akRrZW9rXzhLYWlHV2hmQ0ZfdXFtWUhPb2lkcGZVQmw2R0hCSHRVcEcxZGfSAVNBVV95cUxPUmoxaVQ0M0NTb0w3OTJtQ19CVThVOG1xUy1YdmZDWDVybDFtd3FDVzJ4UjIwbzVkTlY3ZUQzdTA1TVc0M3ljVWZxOGpWTEsybzMxbw?oc=5",
+   "source": "서울경제",
+   "time": "08/03 06:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "28년 만의 美·日 엔화 공동개입...연준은 45년 만에 FOMC 축소 검토[글로벌 모닝 브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jT1NRX3pMVjNpR2VxNWZKMEZ0ejByVkVQb3dTZUJXbWdLVkxxZDJnTmFhWGljSDBPMGwwN21ZdFFTM2RfNEZWaDRVczhHZEFSM1HSAVNBVV95cUxObmhTUm5VVkVXcnEtSnhoS3BKWU1iSHpuTmY5b1dwcllWN0ZmMHlaZEVpSHEyT0FCQzdoVVJ1UU9HZVc4VW9rZGpkVnpCUE9Bc0hsVQ?oc=5",
+   "source": "서울경제",
+   "time": "08/03 06:00",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "환율 한달새 114원 급락… 美日, 28년만에 ‘엔화 방어’ 동시 개입",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2RzJfWklPeDRJU2FXYXZ4ZjZnQTVoVWh6LWsxbGRkVFR3RnNxYmN3TXdtQzc5dTVSSVZiLUM3UmFvLWgxM3hMaXV5UWppbG11Tk9CRUo4MXlaV0ZKTV9lYzJEZDc0VXBSQjY0RHREOWh3MlJOU2fSAWZBVV95cUxPMjV2SzZNY3B6TDNiM2JUek1ScGRaYzQ4ZFl3YzZZQ25vX3h5UXdrNTRNSnNESERLazdwS0RmclVVcmJ3ajdGWHZPelVHc3REWE93OGtUU0tSSDZ0N2RiZ3dqNnpuNmc?oc=5",
@@ -37,22 +53,6 @@
    "time": "08/03 00:01",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "워시, 연준 금리결정 횟수 45년 만에 줄이나",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BLUgtU0lYV2RZeUh4S0hyeUs1ZXQ2aUp3c3Y4MG53RzJLUkJVdWJjaF9YSGpwMnJqT1kyV0tLREpHVUJ4Yk5yb1RNNThLTWFueHM40gFTQVVfeXFMTUEtSC1TSVhXZFl5SHhLSHJ5SzVldDZpSndzdjgwbndHMktSQlV1YmNoX1hIanAycmpPWTJXS0tESkdVQnhiTnJvVE01OEtNYW54czg?oc=5",
-   "source": "서울경제",
-   "time": "08/02 18:33",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원화, 한 달 새 8.8% 절상…금융위기 이후 최대폭",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DcEtBM2FvVFA4RVA2NC1RMk5FVWVmbzJpNlBXOFJXME1BdGU0UzF6OEZYWkFIUVlvUnhtZjdqN2duTkpqMlZJWmx4dmI1dzBQMUHSAVNBVV95cUxPYkd2RlNSOXRzdV9WSmFaMUdPWEh2cGFzOU5FWW95VXBxcjJUR055MXhyLV9WN1F3eWJGOHFUREg5d0UwbjNtZi1xQ1hnR3lRbzI5TQ?oc=5",
-   "source": "서울경제",
-   "time": "08/02 18:00",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "기준금리 인상에…증권사, 예탁금 이자 올린다",
