@@ -26,10 +26,31 @@ def krw_series(days=20):
     end = datetime.now(KST).date()
     start = end - timedelta(days=days)
     url = f"{FX}/{start}..{end}?from=USD&to=KRW"
-    with urllib.request.urlopen(url, timeout=20) as r:
-        d = json.loads(r.read())
-    rates = d.get("rates", {})
-    return sorted(((dt, v["KRW"]) for dt, v in rates.items()), key=lambda x: x[0])
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (compatible; SeinFXBot/1.0)",
+        "Accept": "application/json",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            d = json.loads(r.read())
+        rates = d.get("rates", {})
+        series = sorted(((dt, v["KRW"]) for dt, v in rates.items()), key=lambda x: x[0])
+        if series:
+            return series
+    except Exception as e:
+        print(f"[warn] frankfurter 실패: {e} — 대체 소스 시도")
+    # 폴백: frankfurter.app (구주소) 재시도
+    try:
+        alt = f"https://api.frankfurter.app/{start}..{end}?from=USD&to=KRW"
+        req2 = urllib.request.Request(alt, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; SeinFXBot/1.0)"})
+        with urllib.request.urlopen(req2, timeout=20) as r:
+            d = json.loads(r.read())
+        rates = d.get("rates", {})
+        return sorted(((dt, v["KRW"]) for dt, v in rates.items()), key=lambda x: x[0])
+    except Exception as e:
+        print(f"[error] 환율 조회 실패: {e}")
+        return []
 
 
 def news_dir():
