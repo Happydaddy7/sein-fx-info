@@ -12,10 +12,35 @@
     1425,
     1462
    ],
+   "actual": 1427.05,
+   "hit": false,
+   "dir_hit": null,
+   "actual_on": "2026-08-03"
+  },
+  {
+   "made_on": "2026-08-03",
+   "base_rate": 1427.05,
+   "dir": "neutral",
+   "today_band": [
+    1418,
+    1436
+   ],
+   "week_band": [
+    1407,
+    1447
+   ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-08-03 21:48"
+ "updated": "2026-08-04 08:06",
+ "summary": {
+  "scored": 1,
+  "hit": 0,
+  "hit_rate": 0,
+  "dir_scored": 0,
+  "dir_hit": 0,
+  "dir_rate": null
+ }
 }
