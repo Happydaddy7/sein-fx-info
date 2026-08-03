@@ -3,19 +3,19 @@
   {
    "made_on": "2026-07-31",
    "base_rate": 1443.61,
-   "dir": "up",
+   "dir": "neutral",
    "today_band": [
-    1440,
-    1454
+    1435,
+    1452
    ],
    "week_band": [
-    1435,
-    1467
+    1425,
+    1462
    ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-08-03 17:59"
+ "updated": "2026-08-03 21:48"
 }

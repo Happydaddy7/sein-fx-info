@@ -1,98 +1,17 @@
 {
- "updated": "2026-08-03 17:59",
+ "updated": "2026-08-03 21:48",
  "summary": {
-  "up": 4,
-  "down": 3,
-  "neutral": 3
+  "up": 0,
+  "down": 0,
+  "neutral": 0
  },
  "outlook": {
-  "dir": "up",
+  "dir": "neutral",
   "lines": [
-   "상승요인 우세 (상승 4 vs 하락 3).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "상승·하락 요인 혼재 (상승 0 vs 하락 0).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
- "items": [
-  {
-   "title": "美·日이 쏘아올린 엔화 급등…엔 캐리 청산 시한폭탄 터지나",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlLTFCRVBrMGRVNTNOXzl1by1CYnRySFBJS1lOVVBiVEQtNVNEZ3JHNHE1emwwYk9Ob2JnWXM2NFJEdkJONUltSFhoSy1iU1U5WjM5Zy1PXzBKdw?oc=5",
-   "source": "한국경제",
-   "time": "08/03 17:55",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원화 38%·엔화 50% … 동아시아 '저평가'",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiaVRwNlNocGM2LWpnZ2xlSHVFcldMeFVNRXZkeGdISVJqLXl1ZGdPZ1E0UTVLeFZSZEVKRjJQRnV0bndEUk5BWmRUOU1VYktTNVE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "08/03 17:54",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "환율 1400원대 진입 초읽기?…엔화 강세 반사이익 언제까지 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Gc0hocFVEX09LSkFjdmdoaUl4S01WZEVDcFFKUy1PeEp2VmVkQUZOY01vSGpmQjVHb1d4MnBSVzU1ZXlwemVmaGplZzBCaFFjMEHSAVNBVV95cUxOS1l0N0x4eVI0QXVabjU0dzE1T2JYV1kxM0t6RzlsM1hfUEx5WllUZ1VkOVZrN2ZuRlEzdEtMSlZDdGFDclVqQ2N5VnhVdFJ2WmF0QQ?oc=5",
-   "source": "서울경제",
-   "time": "08/03 16:43",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "중동 리스크 꺾여도 환율 소폭 상승…서학개미·수입업체 '달러 수요' - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FU0VtUzBpYTc4bkQtZnhveUVUd3ZqeTFEZFZrWjY0aERWNjhJMTI0VnNsZTJzSmFMV3hSR2NuLUllWWl4MmRBb2s1ZWhuYzNyeldhazlxNWNDTjJoN1Boc3h3RnVSUV9uZ1pN0gFwQVVfeXFMUElsYm5LS0x5R1VEY29FdUwwZ053dWxieDFsNWh6eTVUN21YRFJmMXdfNTFHLVNYVXZGbVloU3VIYmstNTBrRTJkODA0NlBSOEtDM3JXcThrNGJMcG9samFYVHFHOGJ1M09WWlNUaFRwTA?oc=5",
-   "source": "머니투데이",
-   "time": "08/03 16:36",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[사설] 환율 하락, 물가·민생 안정으로 이어져야 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xRzhJb3E2VVRkbklPYXhlR3hOSFdqRG9XUWZPX0xOOWJITVNCYzFQbzR0bUhSUUV4SjlxanZOU1ZydTNOM2xZeTNYRjh4MkE0ZnF0RV9oRXFJSi1GSVhiY283LUx0NW0xOVVF0gFwQVVfeXFMTkJOdGdhNUJld1daYllUTGlmaE5mclEwWUJpakQ1ODVlbFJnUFVnU3VHMnBoLVN0YW1rWndzQW0yZEVlUW1LM2JFenJkdW9YR292VXAxOFMyS2g0ZUVfZUdCMFl3X0RhRFZYdHlnclkyOQ?oc=5",
-   "source": "머니투데이",
-   "time": "08/03 04:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[사설] 한미일 공조에 환율 급락, 이참에 통화스와프 속도 내길",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qNWxRVzRpcXV6TDNkNksyd3pGYXpBZm9CNVd5NVlvWGYwZ1o1Tl85Yi1aVmZPNElzem5HbXZCZ1NzUmMyWVZ4YzlYcm1fRTRtTUHSAVNBVV95cUxNR2lMYUFxQjVmWXlFTVhxbHRSS0tFa1pjUC13STBEazVjeW50YzNVYkthVEUzaTdVYXoxY0FuMllwbVVvQ0xGLWV2SlIwUWxUVXUxbw?oc=5",
-   "source": "서울경제",
-   "time": "08/03 00:01",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "기준금리 인상에…증권사, 예탁금 이자 올린다",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FWUxhNjQ4ME41Yi1aQ3QxYnZoRTMyVWhBTzNYMFNIMGdSQVl6M3htbkNOVkpRRUlWYWpaRTVEbTk2a0NPUVQ3RGFwSkdDVVpUYnfSAVNBVV95cUxOMS1DdU1LSS0zRHlMd2NFczZtUFQzblE5MHFXTnVZbTU3X2t2dVktUW9wdG5SbmdGUWNyTHhhNVFVVEZtZThfdnRoWHdnM0poUkRSOA?oc=5",
-   "source": "서울경제",
-   "time": "08/02 17:51",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미 연준 의원 3인, 금리 인상 공개 촉구…\"행동 나서야\"",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5bDV0WE9ycVV6YXRob0NPTkFxdmc5YlZUQkF5YjJsd1kycGlfOTZfbV9JYXB6WkdUandGODVaMzE2eE1HUXRqZU11aERrcV9tWk9Da0F2RnJIRWtwRGk2b3RjRXdsLUk?oc=5",
-   "source": "연합뉴스TV",
-   "time": "08/01 05:29",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "“금리 더 올려야” 연준 매파 목소리에 美 국채 금리 급등…30년물 2007년 후 최고│Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9odnR6Y1daOWRudU5abm5TM2RFRFBSRUgtdHY5aXpMS0w2LWZvaGZlQURkUGNOelBNM21uTFJpWlp3dTNqb1BtdUo1TUJEeEVYQlhVV00zVGhQTlk?oc=5",
-   "source": "중앙일보",
-   "time": "08/01 00:58",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "한 달 만에 141원 '수직 낙하'…고환율 끌어내린 세 가지 요인",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qZDdTYlZVLUxJSU5fclZnOFBhQkFWb0hXcTNad05mTWFlNzZ1X29JdUZTY3Z2N0h3WEQtS0dIXzFId1ZtREdMVk9lTUxJWkZrMktWS3RGLWx2QQ?oc=5",
-   "source": "한국경제",
-   "time": "07/31 19:00",
-   "dir": "up",
-   "strength": 1
-  }
- ]
+ "items": []
 }
