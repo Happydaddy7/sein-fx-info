@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-04 08:06",
+ "updated": "2026-08-04 10:21",
  "summary": {
   "up": 2,
-  "down": 2,
-  "neutral": 6
+  "down": 3,
+  "neutral": 5
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 2 vs 하락 2).",
+   "상승·하락 요인 혼재 (상승 2 vs 하락 3).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
@@ -45,14 +45,6 @@
    "time": "08/03 20:02",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "美·日 공동개입에 엔화값 급반등… 원·달러도 1420원대로 [미·일 환율공조]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEVlRlYjNiQURibGdQMGR6SVpwMV94V3pRa3BCLTJ0LWtfY25XLXRtMmszVV85Q09mUUE3RGY0OHdEZUxqbWlkUEZkQzRlWTY0V2NzVWVWMTY5Zw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/03 18:33",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "원화 38%·엔화 50% … 동아시아 '저평가'",
@@ -93,6 +85,14 @@
    "time": "08/03 15:37",
    "dir": "neutral",
    "strength": 0
+  },
+  {
+   "title": "[사설] 한미일 공조에 환율 급락, 이참에 통화스와프 속도 내길",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qNWxRVzRpcXV6TDNkNksyd3pGYXpBZm9CNVd5NVlvWGYwZ1o1Tl85Yi1aVmZPNElzem5HbXZCZ1NzUmMyWVZ4YzlYcm1fRTRtTUHSAVNBVV95cUxNR2lMYUFxQjVmWXlFTVhxbHRSS0tFa1pjUC13STBEazVjeW50YzNVYkthVEUzaTdVYXoxY0FuMllwbVVvQ0xGLWV2SlIwUWxUVXUxbw?oc=5",
+   "source": "서울경제",
+   "time": "08/03 00:01",
+   "dir": "down",
+   "strength": 1
   }
  ]
 }
