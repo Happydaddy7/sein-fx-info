@@ -1,32 +1,32 @@
 {
- "updated": "2026-08-04 17:15",
+ "updated": "2026-08-04 20:54",
  "summary": {
-  "up": 6,
-  "down": 2,
-  "neutral": 2
+  "up": 7,
+  "down": 3,
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 2).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "금통위원들 “기준금리 인상 필요성 커져”…추가 인상 의견도",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUZkRrelpfblJneVNkRm0wcDN1a2NGTDRjc0V4ZEZnZDl0NEZSc1Q2MHI1MGZqdHoyUzQyNkxMMUZ2N2p2c2d3d2pPRFRKalZvdGFuV0pzdkVfeUU?oc=5",
-   "source": "KBS 뉴스",
-   "time": "08/04 16:41",
+   "title": "한은 “3월 환율 급등 3분의 1은 NDF 탓…야간에 영향 커”",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YVE9DTWNTVTlQZU9VU0pONEt5bVJka0hLWThkNGFqdWJSbERrQkRBa0txWXJxUmxtU0J6YnpQOUJBaTFfWmhuX3VFemQybjV3UVdMSEo2dWNlcFFvak9xUllyMUZ1b0k?oc=5",
+   "source": "한겨레",
+   "time": "08/04 17:35",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "금통위원들 \"기준금리 인상 필요성 커지고 부담은 줄어\"",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YQmRXYmZQVmJtTkd4YlpOSjdsdnptbU80ZkMtZjA5TndDMjRzMFI4c25rT0lRcmtxN2NtaHBKTTQxM2JjV3BUOEhRdFlaOWNaWmt6SFM4NFk0cGZYb1NGTVg0RUhTcERCQlp0akNCN2VCcG1j?oc=5",
-   "source": "연합뉴스 한민족센터",
-   "time": "08/04 16:34",
+   "title": "한은 금통위 \"기준금리 인상, 필요성 커지고 부담은 줄어\"",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pcEdwQTMxNkIyUXQ3UVRIRl96ZUJ0a0hYS2thVUhDcmpuX0ZxeVRfNnhpeTdMX3MzQkJjZkFQczBYRFc4ZEkyQmNRN2t3QUFrUTZpa1pkakw1LXcwcGlBV2ZQZUMySUE?oc=5",
+   "source": "연합뉴스TV",
+   "time": "08/04 17:11",
    "dir": "up",
    "strength": 1
   },
@@ -47,20 +47,20 @@
    "strength": 1
   },
   {
-   "title": "환율 79원 뛰던 3월, NDF가 3할 밀어 올렸다",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ydFZMMTZvYjVMV1p2Y2xGVlRTaC1HbThLMFBMcnM0cFFyX1RRQzJ2d0xBand1ZEhBZ0xDRzZRNmgxNXFlSDdHaTM5T3A3RlF0OVJ4b2xGUnREQQ?oc=5",
+   "title": "원·달러 환율 하락세 '멈칫'···1400원대는 15거래일째",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3UFotREtwalhmWjd1WnVMSFQ1WTJYbDFmOFhmaGRGNV9SbXdIZnFIRU03LUFzSzVPYWlSd280T1BMa0F4YjJJQy1ieEhDakxaZjFDUS1CNW1ndw?oc=5",
    "source": "파이낸셜뉴스",
-   "time": "08/04 15:44",
-   "dir": "neutral",
-   "strength": 0
+   "time": "08/04 15:39",
+   "dir": "down",
+   "strength": 1
   },
   {
-   "title": "원·달러 환율, 2.7원 오른 1432.5원(오후 3시30분)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HcTM1LUdHQkwxZU1tRUl1ZHBxa2J4YlpwSHppLWlQQlFRUk03bVNVempMVjRZZU1wNlZzNGxJWnJGRmtFcVJ1QzQyZmkzU01Ib280VWVtaFJIVWU0SW1CVA?oc=5",
-   "source": "아시아경제",
-   "time": "08/04 15:33",
-   "dir": "neutral",
-   "strength": 0
+   "title": "역외 NDF 쏠림에 원화 흔들…환율 상승폭의 33% 차지 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RdHQ1d3FsY1RIQktGRi1jcng5bkZ3OTAxaFlXNk5DS3J4TVZEWTNwb1Fma1dyUUtNOFhvd3k1bVcwTG9VZDktY0NWTUVZVEhWX2NwekJXWGJsMkdqQmdCU3Q5R0tjSzVXV3Bn0gFwQVVfeXFMUGtwLUxVLWFibmNiQU5KS0s4WTJtUGJzZk1zV0NIS0c5U3FMU3BWQ3JjT29FNWsxZkY3WDRfOEhRS0lhN2pEdzZqSWxkNkpBd3dQd0dWOWtjazFROGFRa3p3UFlLS3ByVkY1MVZldTc5OQ?oc=5",
+   "source": "머니투데이",
+   "time": "08/04 14:23",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "美 채권자경단이 움직인다…기준금리 인상 명분 강해졌다 [BOK WATCHER]",
