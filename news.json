@@ -1,24 +1,64 @@
 {
- "updated": "2026-08-04 13:53",
+ "updated": "2026-08-04 17:15",
  "summary": {
-  "up": 2,
-  "down": 3,
-  "neutral": 5
+  "up": 6,
+  "down": 2,
+  "neutral": 2
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 2 vs 하락 3).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 6 vs 하락 2).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "달러-엔, 美·日 추가 개입 전망에 약세 지속",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94RmFsM3Q4cVVkX241cktOSlBVdS1SUWpfb3ZTdFdSbnQ4N01pbzJLNUt6OUhtcDl5NFp0RjdaQm9hbldJOC13bUt0eUhmYWlURmU3UEY1U1Q2RVVYNGVQVGgwTFotN1RDRlFwVTRjRmM?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/04 02:20",
+   "title": "금통위원들 “기준금리 인상 필요성 커져”…추가 인상 의견도",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUZkRrelpfblJneVNkRm0wcDN1a2NGTDRjc0V4ZEZnZDl0NEZSc1Q2MHI1MGZqdHoyUzQyNkxMMUZ2N2p2c2d3d2pPRFRKalZvdGFuV0pzdkVfeUU?oc=5",
+   "source": "KBS 뉴스",
+   "time": "08/04 16:41",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "금통위원들 \"기준금리 인상 필요성 커지고 부담은 줄어\"",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YQmRXYmZQVmJtTkd4YlpOSjdsdnptbU80ZkMtZjA5TndDMjRzMFI4c25rT0lRcmtxN2NtaHBKTTQxM2JjV3BUOEhRdFlaOWNaWmt6SFM4NFk0cGZYb1NGTVg0RUhTcERCQlp0akNCN2VCcG1j?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "time": "08/04 16:34",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율, 중동 리스크 완화·저가매수 교차에 1,430원대 정체",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpQkFnYmluVlJkaTZmNVJLTFZkRGF2U244SGxNd3BpcUpoUU1rMXRkUEQ2MXB5bzVJU0x3Wml3WFMxVkRHVXdCbW5qWWozNUJnelVDalgzRjJ3ZFhma2laa2JndzhuZUppaEJLTWF5cC1GRkZw?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "time": "08/04 16:04",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "'몸통 대비 긴 꼬리'…한은 \"올해 3월 환율 급등 33%가 NDF 탓\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBENzFNdXhfSHZUbjlrVklyVkRYTExtUzRDUVVTNEdsWUhyWHN5OURjaU9uU0RzMkZHSVdiS3o3a0RUcDFDbTZ5RUdzWlpwOHUydWd1X09xeWlXNXh3ZjNTUQ?oc=5",
+   "source": "아시아경제",
+   "time": "08/04 15:49",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 79원 뛰던 3월, NDF가 3할 밀어 올렸다",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ydFZMMTZvYjVMV1p2Y2xGVlRTaC1HbThLMFBMcnM0cFFyX1RRQzJ2d0xBand1ZEhBZ0xDRzZRNmgxNXFlSDdHaTM5T3A3RlF0OVJ4b2xGUnREQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/04 15:44",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율, 2.7원 오른 1432.5원(오후 3시30분)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HcTM1LUdHQkwxZU1tRUl1ZHBxa2J4YlpwSHppLWlQQlFRUk03bVNVempMVjRZZU1wNlZzNGxJWnJGRmtFcVJ1QzQyZmkzU01Ib280VWVtaFJIVWU0SW1CVA?oc=5",
+   "source": "아시아경제",
+   "time": "08/04 15:33",
    "dir": "neutral",
    "strength": 0
   },
@@ -39,51 +79,11 @@
    "strength": 1
   },
   {
-   "title": "美·日 공동개입에 엔화값 급반등… 원·달러도 1420원대로 [미·일 환율공조]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEVlRlYjNiQURibGdQMGR6SVpwMV94V3pRa3BCLTJ0LWtfY25XLXRtMmszVV85Q09mUUE3RGY0OHdEZUxqbWlkUEZkQzRlWTY0V2NzVWVWMTY5Zw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/03 18:33",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원화 38%·엔화 50% … 동아시아 '저평가'",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiaVRwNlNocGM2LWpnZ2xlSHVFcldMeFVNRXZkeGdISVJqLXl1ZGdPZ1E0UTVLeFZSZEVKRjJQRnV0bndEUk5BWmRUOU1VYktTNVE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "08/03 17:54",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "환율 1400원대 진입 초읽기?…엔화 강세 반사이익 언제까지 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Gc0hocFVEX09LSkFjdmdoaUl4S01WZEVDcFFKUy1PeEp2VmVkQUZOY01vSGpmQjVHb1d4MnBSVzU1ZXlwemVmaGplZzBCaFFjMEHSAVNBVV95cUxOS1l0N0x4eVI0QXVabjU0dzE1T2JYV1kxM0t6RzlsM1hfUEx5WllUZ1VkOVZrN2ZuRlEzdEtMSlZDdGFDclVqQ2N5VnhVdFJ2WmF0QQ?oc=5",
-   "source": "서울경제",
-   "time": "08/03 16:43",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "중동 리스크 꺾여도 환율 소폭 상승…서학개미·수입업체 '달러 수요' - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FU0VtUzBpYTc4bkQtZnhveUVUd3ZqeTFEZFZrWjY0aERWNjhJMTI0VnNsZTJzSmFMV3hSR2NuLUllWWl4MmRBb2s1ZWhuYzNyeldhazlxNWNDTjJoN1Boc3h3RnVSUV9uZ1pN0gFwQVVfeXFMUElsYm5LS0x5R1VEY29FdUwwZ053dWxieDFsNWh6eTVUN21YRFJmMXdfNTFHLVNYVXZGbVloU3VIYmstNTBrRTJkODA0NlBSOEtDM3JXcThrNGJMcG9samFYVHFHOGJ1M09WWlNUaFRwTA?oc=5",
-   "source": "머니투데이",
-   "time": "08/03 16:36",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·달러 환율, 5.8원 오른 1429.8원 마감(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1taHRvSUxrVWJZMEdZS1pBNzFSNXpvczg2WTdIVGpBbUJEdGg4UVZhWEFWQXhHdjBhS1lObndEaHgtLWNHR0Z0M0dycEFQWXZrS0p5LXZyUzQwWm84TzE4TdIBeEFVX3lxTE80Y2JvekQtaXdRSE1CZ2dnYUFsd180S0VlVS1DcDNwMjBDOFdoTEZlN3JWZkxzNDgyNjU1QzFtb1g0eElLTUxvVnAyZzJ2RHI2NGpuNjRWaFAwYXVFLW5ndWJsUnk4ekhsNFlMaGExQm9QREZIV2RJaA?oc=5",
-   "source": "뉴시스",
-   "time": "08/03 15:37",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[사설] 한미일 공조에 환율 급락, 이참에 통화스와프 속도 내길",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qNWxRVzRpcXV6TDNkNksyd3pGYXpBZm9CNVd5NVlvWGYwZ1o1Tl85Yi1aVmZPNElzem5HbXZCZ1NzUmMyWVZ4YzlYcm1fRTRtTUHSAVNBVV95cUxNR2lMYUFxQjVmWXlFTVhxbHRSS0tFa1pjUC13STBEazVjeW50YzNVYkthVEUzaTdVYXoxY0FuMllwbVVvQ0xGLWV2SlIwUWxUVXUxbw?oc=5",
-   "source": "서울경제",
-   "time": "08/03 00:01",
-   "dir": "down",
+   "title": "‘주가 하락=원화 약세’ 공식 안맞네...7월 코스피 22% 급락에도 환율 125원↓",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aaWFLdmZYQW1VOUNISGZUMjFDd0JvX09ncGo4LVpIRl80elZJbDE5UV9zZllNYVUzRHphR2xmTG1DQUlOSDNfWnc1VDRYZXJpZGVQajF3?oc=5",
+   "source": "중앙일보",
+   "time": "08/03 16:31",
+   "dir": "up",
    "strength": 1
   },
   {
