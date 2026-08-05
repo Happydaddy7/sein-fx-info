@@ -1,26 +1,42 @@
 {
- "updated": "2026-08-05 17:14",
+ "updated": "2026-08-05 20:50",
  "summary": {
-  "up": 5,
-  "down": 4,
-  "neutral": 1
+  "up": 4,
+  "down": 6,
+  "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "down",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 4).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "하락요인 우세 (하락 6 vs 상승 4).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "환율, 美재무 개입 시사·외국인 순매수에 8.0원 내린 1,424.5원",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Yc1lQdmREZUpHWkZfMWZiWERmZ0Z5TEdVUEU5aGpseXctYkVLbTVQR3JITlVtYUVyWXZqekpORkhDZlRFMVhCWVhIa3IxS0RtdG1ENU9LMlM0c2_SAWBBVV95cUxNYWRxVVlNYlRuandsLWx3dzhOVmw0NWt3RUFkWV9ZMkZiRlFLRm5VQXZlc1dUaF83OHlXT3pjakg2X2pSblZuTGlLbmF5NEVTRTcxXzAwa0RMTGVNUWZnSHo?oc=5",
-   "source": "연합뉴스",
-   "time": "08/05 16:11",
-   "dir": "neutral",
-   "strength": 0
+   "title": "베선트 “원화 과도한 변동성” 발언에 환율 하락…대미 투자 위한 관리?",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83UGFVR1ZzVkZRZDU0ak9tOGVXZEwtTFk0dGhKa09nODBSQXZSeHBQRmV5ODJYX0xDX3RpRmhQNU1feDR0MDctdFY5aXpCQXh3WUd2SFZSQjk4cWt4Zm9lVjJiTXY5cGlWNHdVQlYzOVBVQQ?oc=5",
+   "source": "한겨레",
+   "time": "08/05 19:24",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "美, 엔화 이어 원화·위안화도 환율 방어 대상 시사",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SZUpEUlRkaWFMa1FfdW54TnRmN283cHlfTXZady1mYVZsT05IUUUyYTFnYk9ZMlp3b2VQZjRzLWRqb3NQY3phWkYwMFFaQUNUQUc2a1J6R215Zw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/05 18:29",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "달러 약세 속 환율 1424.5원 마감…\"서학개미 늘어 환율 상방 압력\"(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oTDJnbTRGWDlCN054QmUyblpLUjBfT3R1ZjJxUGVPbGFNclRCSVlvNllobVNqLXVyZGtuRm5wMXNiVXpZTjBKNkNNeTZpU0FDeWtudlpiQ3JlaGM?oc=5",
+   "source": "뉴스1",
+   "time": "08/05 16:28",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "외평채·달러 약세 효과…외환보유액 5.9억달러 늘었다",
@@ -32,17 +48,17 @@
   },
   {
    "title": "미·일 공조에도…엔화 강세 지속엔 IB들 '신중 모드'",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmbW1salhaTHN2MmYtQzVWWDhXanhXWmp1ekljbmFVUWdMcklKUzNSdko2TkFRcGlvTnBwTndVRWZQdlZFYU43MmljR2dHRk1XMm9tZWxZc01Kd2xoVDloYdIBYEFVX3lxTFBmbW1salhaTHN2MmYtQzVWWDhXanhXWmp1ekljbmFVUWdMcklKUzNSdko2TkFRcGlvTnBwTndVRWZQdlZFYU43MmljR2dHRk1XMm9tZWxZc01Kd2xoVDloYQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IelR4TlUyN243N3pyLW5jWVpYZ1Y0Y2pIWHk3WnFZQ09neUluTlhXa0kyVVoxLW42MEw2S0s5anM1YVowVTVlVE5rbTVvd1hlRTUyYXh0dzFmMWPSAWBBVV95cUxQZm1tbGpYWkxzdjJmLUM1Vlg4V2p4V1pqdXpJY25hVVFnTHJJSlMzUnZKNk5BUXBpb05wcE53VUVmUHZWRWFONzJpY0dnR0ZNVzJvbWVsWXNNSndsaFQ5aGE?oc=5",
    "source": "연합뉴스",
    "time": "08/05 05:58",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "한은 “3월 환율 급등 3분의 1은 NDF 탓…야간에 영향 커”",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YVE9DTWNTVTlQZU9VU0pONEt5bVJka0hLWThkNGFqdWJSbERrQkRBa0txWXJxUmxtU0J6YnpQOUJBaTFfWmhuX3VFemQybjV3UVdMSEo2dWNlcFFvak9xUllyMUZ1b0k?oc=5",
-   "source": "한겨레",
-   "time": "08/04 17:35",
+   "title": "7월 기준금리 인상 만장일치 이유는…\"금융리스크 커졌지만, 인상 부담 줄어\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wYkUwbUNvRFc3Q0tBaFVRLTE3bjBzenU1cmpPYVF0Zi1aWXdCWjRRLUV4LVNFdGFVYWs0Q1F1WVdtejZvS2lqd3N6c0g2ZEpFUU5lRzNuR1M0Zk5mVEpCcA?oc=5",
+   "source": "아시아경제",
+   "time": "08/04 18:08",
    "dir": "up",
    "strength": 1
   },
@@ -63,35 +79,19 @@
    "strength": 1
   },
   {
-   "title": "한은 \"올해 3월 환율 급등, 3분의 1은 NDF 탓\"",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBid3ZwM0pXMzRCeGJscnl5T2FPZnpLUjVMa2tVcTY5LWxfaFNLamZTTll1Q0s4N01jZEo5TDBZbGVOWjFGUDV5ODFYUDRKMUNCWkxIU3UzMXBSWENNQVlMRDNrMzdMNGsx?oc=5",
-   "source": "매일경제TV",
-   "time": "08/04 15:06",
+   "title": "'몸통 대비 긴 꼬리'…한은 \"올해 3월 환율 급등 33%가 NDF 탓\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBENzFNdXhfSHZUbjlrVklyVkRYTExtUzRDUVVTNEdsWUhyWHN5OURjaU9uU0RzMkZHSVdiS3o3a0RUcDFDbTZ5RUdzWlpwOHUydWd1X09xeWlXNXh3ZjNTUQ?oc=5",
+   "source": "아시아경제",
+   "time": "08/04 15:49",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "美 채권자경단이 움직인다…기준금리 인상 명분 강해졌다 [BOK WATCHER]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1aGZGNDhPQWRvdjhCYkh0dmxwUXpUanN0R0RpTUwtamNMcHJSeFA2NEhOVkd4QXktUkJBUWJobk1ySGJGZ2M2TThYQ1hmVmszLVE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "08/03 20:26",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 안정 3가지 이유…“당분간 1380~1420원 전망”",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Oamt2Q0c2VHg5NEgyT2lvVmVtZDg5SF80NWVsV0tWd0FKRE1BUnptak1WSGFaOUF4ZTd1YzR0amN0M2UyMVF0emRxRnZ0cnpGdXJKMEpLdUpYV2lkYzhydndIc3RxRldlSlRSX3VXSWZyUQ?oc=5",
-   "source": "한겨레",
-   "time": "08/03 20:02",
+   "title": "원·달러 환율 하락세 '멈칫'···1400원대는 15거래일째",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3UFotREtwalhmWjd1WnVMSFQ1WTJYbDFmOFhmaGRGNV9SbXdIZnFIRU03LUFzSzVPYWlSd280T1BMa0F4YjJJQy1ieEhDakxaZjFDUS1CNW1ndw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/04 15:39",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "1,400원 향하는 환율…단기 하락 vs 중장기 '1,500원 뉴노멀'",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxM1g0Yzh6X280X0NKMmx2UlFQUktaQ2ZoMEI1RVFHZHRBMHhSQl9TWXVrTjJJbWRwaVpVX2l1YXVmWG5PZnVIVlduU2pGTG1MUUdjUGRQYW0wUVJLUWRtVEpIN2RPQTNfTGx3UkttZnM?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/03 10:55",
-   "dir": "up",
    "strength": 1
   }
  ]
