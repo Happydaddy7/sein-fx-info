@@ -142,6 +142,7 @@ header p{margin-top:6px;font-size:12.5px;color:#b8c4d0}
 .scoretop .scv.good{color:var(--ok)} .scoretop .scv.bad{color:var(--alert)}
 #scoreTable td.hit{color:var(--ok);font-weight:700}
 #scoreTable td.miss{color:var(--alert);font-weight:700}
+#scoreChart{width:100%;height:auto;display:block;margin-bottom:14px}
 .dirchip{font-size:11px;font-weight:700;border-radius:4px;padding:1px 6px}
 .dirchip.up{background:#fdece9;color:var(--up)} .dirchip.down{background:#e6f4ee;color:var(--down)} .dirchip.neutral{background:#f0ece3;color:#8b8577}
 
@@ -285,6 +286,7 @@ footer{margin:36px 0 28px;text-align:center;font-size:11.5px;color:#a29b8b}
     <div class="desc">매일 기록한 전망 범위와 다음 거래일 실제 환율 비교. 오늘부터 기록 시작.</div>
     <div class="card">
       <div class="scoretop" id="scoreTop"><span class="loading">기록을 불러오는 중…</span></div>
+      <svg id="scoreChart" viewBox="0 0 820 260" style="display:none"></svg>
       <table id="scoreTable" style="display:none">
         <thead><tr><th>예측 기준일</th><th>예측 범위</th><th>방향</th><th>실제</th><th>결과</th></tr></thead>
         <tbody id="scoreBody"></tbody>
@@ -680,10 +682,56 @@ async function loadScore(){
         </tr>`;
       }).join("");
       tbl.style.display="";
+      drawScoreChart(recs.slice(0,14).reverse());
     }
   }catch(e){
     top.innerHTML='<span class="loading">예측 기록이 아직 없습니다 (오늘부터 수집 시작).</span>';
   }
+}
+
+// 예측 범위(막대) vs 실제 종가(점) 시각화
+function drawScoreChart(recs){
+  const svg=$("scoreChart"),NS="http://www.w3.org/2000/svg";
+  if(!recs.length) return;
+  const el=(t,a)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);return e};
+  svg.innerHTML="";
+  const W=820,H=260,mL=52,mR=16,mT=16,mB=34;
+  // y범위: 예측밴드와 실제를 모두 포함
+  let vals=[];
+  recs.forEach(r=>{vals.push(r.today_band[0],r.today_band[1],r.actual);});
+  const min=Math.min(...vals),max=Math.max(...vals),pad=(max-min)*0.12||3;
+  const lo=min-pad,hi=max+pad;
+  const n=recs.length;
+  const x=i=>mL+(W-mL-mR)*(n===1?0.5:i/(n-1));
+  const y=v=>mT+(H-mT-mB)*(1-(v-lo)/(hi-lo));
+  // 격자
+  for(let g=0;g<=3;g++){
+    const val=lo+(hi-lo)*g/3,yy=y(val);
+    svg.appendChild(el("line",{x1:mL,y1:yy,x2:W-mR,y2:yy,stroke:"#f0e9db"}));
+    const t=el("text",{x:mL-6,y:yy+4,"text-anchor":"end","font-size":"10.5",fill:"#a29b8b"});
+    t.textContent=Math.round(val); svg.appendChild(t);
+  }
+  const bw=Math.min((W-mL-mR)/n*0.4,18);
+  recs.forEach((r,i)=>{
+    const cx=x(i);
+    const [blo,bhi]=r.today_band;
+    const yhi=y(bhi), ylo=y(blo);
+    // 예측 밴드(막대) — 적중 초록, 빗나감 회색
+    svg.appendChild(el("rect",{x:cx-bw/2,y:yhi,width:bw,height:Math.max(2,ylo-yhi),rx:3,
+      fill:r.hit?"rgba(62,107,79,0.25)":"rgba(217,208,193,0.5)",
+      stroke:r.hit?"#3E6B4F":"#c9b89a","stroke-width":1}));
+    // 실제 종가(점)
+    const ay=y(r.actual);
+    svg.appendChild(el("circle",{cx:cx,cy:ay,r:4,
+      fill:r.hit?"#3E6B4F":"#B3402A"}));
+    // 날짜 라벨
+    const t=el("text",{x:cx,y:H-14,"text-anchor":"middle","font-size":"10",fill:"#a29b8b"});
+    t.textContent=r.made_on.slice(5); svg.appendChild(t);
+  });
+  // 범례
+  const lg=el("text",{x:mL,y:H-2,"font-size":"10.5",fill:"#8b8577"});
+  lg.textContent="막대=예측범위, 점=실제종가 (초록=범위적중, 빨강=빗나감)"; svg.appendChild(lg);
+  svg.style.display="";
 }
 
 // init
