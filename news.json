@@ -1,32 +1,40 @@
 {
- "updated": "2026-08-05 08:06",
+ "updated": "2026-08-05 10:26",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 6 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
+   "title": "외평채·달러 약세 효과…외환보유액 5.9억달러 늘었다",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IMmJIS1A0TThSOUNsdVJOUnNGTFVieHJnREhzU011Q0ozdno2Rk1fdXpzQnppZ25BNzhHcU9yZU54TWo2aHNjbFJQWm50dndUTzlZZm9hdTRfaHAzRTl0U2N2bnI?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "08/05 06:10",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "미·일 공조에도…엔화 강세 지속엔 IB들 '신중 모드'",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wOFFWMTFLejJfU0Z1aVdySnJCQ1RrdGpXNE9jY19GREtzTVJBdll6Y0lzVTkyd2NFRFJKMF9pZ0JkSmhIZl9jRHlJeERPX0gxaGkwdDZ6OEVycmpzV2JMNExqb0s3Ml9nLUZUUmdDczNQWWxO?oc=5",
-   "source": "연합뉴스 한민족센터",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmbW1salhaTHN2MmYtQzVWWDhXanhXWmp1ekljbmFVUWdMcklKUzNSdko2TkFRcGlvTnBwTndVRWZQdlZFYU43MmljR2dHRk1XMm9tZWxZc01Kd2xoVDloYdIBYEFVX3lxTFBmbW1salhaTHN2MmYtQzVWWDhXanhXWmp1ekljbmFVUWdMcklKUzNSdko2TkFRcGlvTnBwTndVRWZQdlZFYU43MmljR2dHRk1XMm9tZWxZc01Kd2xoVDloYQ?oc=5",
+   "source": "연합뉴스",
    "time": "08/05 05:58",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "한은 금통위 \"기준금리 인상, 필요성 커지고 부담은 줄어\"",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SMTJmRk1FZ1JGVzlicnZMV1hCYkppbkRNNlMzcWNXcno0c0VURkRpVkIzOHdFcHlsUVNiTHpUTGlTejJHNzMtTU9GYzF4NkxyanVDYzNuMTd2RmZfY0pnY2VPemNmMjQ?oc=5",
-   "source": "연합뉴스TV",
-   "time": "08/05 00:29",
+   "title": "7월 기준금리 인상 만장일치 이유는…\"금융리스크 커졌지만, 인상 부담 줄어\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wYkUwbUNvRFc3Q0tBaFVRLTE3bjBzenU1cmpPYVF0Zi1aWXdCWjRRLUV4LVNFdGFVYWs0Q1F1WVdtejZvS2lqd3N6c0g2ZEpFUU5lRzNuR1M0Zk5mVEpCcA?oc=5",
+   "source": "아시아경제",
+   "time": "08/04 18:08",
    "dir": "up",
    "strength": 1
   },
@@ -79,18 +87,10 @@
    "strength": 1
   },
   {
-   "title": "한은 \"올해 3월 환율 급등 3분의 1은 NDF 탓…야간에 영향 커\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIaHVJLVFDbldueGZrM2V2cmRZSnoyaERhZXRBamJQZkljZXFtM2xHUDJPekoyZVVLeGg1TkFWcFppY2JuRGJENnhwb2t6N1pZTjZIZEZMU0p0Zw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/04 14:47",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 채권자경단이 움직인다…기준금리 인상 명분 강해졌다 [BOK WATCHER]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1aGZGNDhPQWRvdjhCYkh0dmxwUXpUanN0R0RpTUwtamNMcHJSeFA2NEhOVkd4QXktUkJBUWJobk1ySGJGZ2M2TThYQ1hmVmszLVE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "08/03 20:26",
+   "title": "한은 \"올해 3월 환율 급등, 3분의 1은 NDF 탓\"",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBid3ZwM0pXMzRCeGJscnl5T2FPZnpLUjVMa2tVcTY5LWxfaFNLamZTTll1Q0s4N01jZEo5TDBZbGVOWjFGUDV5ODFYUDRKMUNCWkxIU3UzMXBSWENNQVlMRDNrMzdMNGsx?oc=5",
+   "source": "매일경제TV",
+   "time": "08/04 15:06",
    "dir": "up",
    "strength": 1
   }
