@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-05 10:26",
+ "updated": "2026-08-05 13:53",
  "summary": {
   "up": 6,
   "down": 4,
@@ -31,26 +31,10 @@
    "strength": 1
   },
   {
-   "title": "7월 기준금리 인상 만장일치 이유는…\"금융리스크 커졌지만, 인상 부담 줄어\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wYkUwbUNvRFc3Q0tBaFVRLTE3bjBzenU1cmpPYVF0Zi1aWXdCWjRRLUV4LVNFdGFVYWs0Q1F1WVdtejZvS2lqd3N6c0g2ZEpFUU5lRzNuR1M0Zk5mVEpCcA?oc=5",
-   "source": "아시아경제",
-   "time": "08/04 18:08",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "한은 “3월 환율 급등 3분의 1은 NDF 탓…야간에 영향 커”",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YVE9DTWNTVTlQZU9VU0pONEt5bVJka0hLWThkNGFqdWJSbERrQkRBa0txWXJxUmxtU0J6YnpQOUJBaTFfWmhuX3VFemQybjV3UVdMSEo2dWNlcFFvak9xUllyMUZ1b0k?oc=5",
    "source": "한겨레",
    "time": "08/04 17:35",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "유가 급락에도 달러 매수세 유입…저가매수에 1430원대 복귀 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBreEdRTWs4YTdCM0NhYUEzLUNzQ013MHk2aVcxZ0VLTE91UndlZE51MUZCMkVEQm1Cb3hkODFVS3hnNE9SQkUwamxCbFA2cEp3MUHSAVNBVV95cUxPVjlmcHo4Y29HNm5RQjRoVVV6SHliWXVUWVVuVUxhY1M1M2t0MUZyMjRlT2lFMlJMMWJUb240ZkZSMnJNOFl3bHFKdzB6a3gzbnl0bw?oc=5",
-   "source": "서울경제",
-   "time": "08/04 17:12",
    "dir": "up",
    "strength": 1
   },
@@ -91,6 +75,22 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBid3ZwM0pXMzRCeGJscnl5T2FPZnpLUjVMa2tVcTY5LWxfaFNLamZTTll1Q0s4N01jZEo5TDBZbGVOWjFGUDV5ODFYUDRKMUNCWkxIU3UzMXBSWENNQVlMRDNrMzdMNGsx?oc=5",
    "source": "매일경제TV",
    "time": "08/04 15:06",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "역외 NDF 쏠림에 원화 흔들…환율 상승폭의 33% 차지 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RdHQ1d3FsY1RIQktGRi1jcng5bkZ3OTAxaFlXNk5DS3J4TVZEWTNwb1Fma1dyUUtNOFhvd3k1bVcwTG9VZDktY0NWTUVZVEhWX2NwekJXWGJsMkdqQmdCU3Q5R0tjSzVXV3Bn0gFwQVVfeXFMUGtwLUxVLWFibmNiQU5KS0s4WTJtUGJzZk1zV0NIS0c5U3FMU3BWQ3JjT29FNWsxZkY3WDRfOEhRS0lhN2pEdzZqSWxkNkpBd3dQd0dWOWtjazFROGFRa3p3UFlLS3ByVkY1MVZldTc5OQ?oc=5",
+   "source": "머니투데이",
+   "time": "08/04 14:23",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 채권자경단이 움직인다…기준금리 인상 명분 강해졌다 [BOK WATCHER]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1aGZGNDhPQWRvdjhCYkh0dmxwUXpUanN0R0RpTUwtamNMcHJSeFA2NEhOVkd4QXktUkJBUWJobk1ySGJGZ2M2TThYQ1hmVmszLVE?oc=5",
+   "source": "매일경제 마켓",
+   "time": "08/03 20:26",
    "dir": "up",
    "strength": 1
   }
