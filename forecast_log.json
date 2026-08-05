@@ -37,21 +37,21 @@
   {
    "made_on": "2026-08-04",
    "base_rate": 1427.11,
-   "dir": "up",
+   "dir": "neutral",
    "today_band": [
-    1423,
-    1438
+    1419,
+    1435
    ],
    "week_band": [
-    1418,
-    1451
+    1409,
+    1445
    ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-08-05 13:53",
+ "updated": "2026-08-05 17:14",
  "summary": {
   "scored": 2,
   "hit": 1,
