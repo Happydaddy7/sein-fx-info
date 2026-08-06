@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06 10:23",
+ "updated": "2026-08-06 13:54",
  "summary": {
   "up": 3,
   "down": 7,
@@ -15,11 +15,27 @@
  },
  "items": [
   {
+   "title": "'더 올려야' vs '지켜보자'…연준 금리전쟁, 9월까지 이어진다",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xNFVnYk5JN1RrOEJQMFlXX2toRTd0bUUySGhLb2k1QmZ1YjhoTVA5M1VYMGJKbnpQVk5QNVlGUVZmLW1zLWNTZlVVbE9HYVpGdk5TSEJGWWRSdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/06 11:15",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "환율 하락에 은행권 기대감…기업금융 여력 커진다",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5LTA1dm9GVXFzTE14a2VSako3MFRvYzU2UTM2bFF5bTlqOGEwN1hCSlBLUzNFb2lUT2VEd2poUDhuaDZpUXl4TTZoUHZOMHJFbEExcjNwcjdlQ3NhMFJhU181clo?oc=5",
    "source": "MTN 머니투데이방송",
    "time": "08/06 08:42",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "금리 동결 찬성했던 美 연준 이사도 \"필요하면 인상\"…매파 목소리 확산",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUmt2OUhsLXA2emYwNHllN3I3aFJUdWxvdlFQY0U3N18xUF9fOTE3WW1kbGxIa1N5d09jWmJ5UVhZV2UyMXpmTUpyZHJESEpRTF9JRlRGTnlCNGdXbHpXUG5xc1RPazFBN0dGbXRIekllR2FoNV9TZzdQbExUZWpBT3F6RlZya3kyMGNr?oc=5",
+   "source": "조선일보",
+   "time": "08/06 08:17",
+   "dir": "up",
    "strength": 1
   },
   {
@@ -44,14 +60,6 @@
    "source": "한겨레",
    "time": "08/05 19:24",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美, 엔화 이어 원화·위안화도 환율 방어 대상 시사",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SZUpEUlRkaWFMa1FfdW54TnRmN283cHlfTXZady1mYVZsT05IUUUyYTFnYk9ZMlp3b2VQZjRzLWRqb3NQY3phWkYwMFFaQUNUQUc2a1J6R215Zw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/05 18:29",
-   "dir": "up",
    "strength": 1
   },
   {
@@ -84,14 +92,6 @@
    "source": "연합뉴스",
    "time": "08/05 05:58",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "한은 금통위 \"기준금리 인상, 필요성 커지고 부담은 줄어\"",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SMTJmRk1FZ1JGVzlicnZMV1hCYkppbkRNNlMzcWNXcno0c0VURkRpVkIzOHdFcHlsUVNiTHpUTGlTejJHNzMtTU9GYzF4NkxyanVDYzNuMTd2RmZfY0pnY2VPemNmMjQ?oc=5",
-   "source": "연합뉴스TV",
-   "time": "08/05 00:29",
-   "dir": "up",
    "strength": 1
   }
  ]
