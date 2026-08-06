@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06 17:12",
+ "updated": "2026-08-06 20:56",
  "summary": {
   "up": 5,
   "down": 5,
@@ -15,10 +15,26 @@
  },
  "items": [
   {
+   "title": "우리금융硏 \"한은, 8월 기준금리 '매파적 동결' 전망\"",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FWld3ejROckVvVFNVbC1iQXlGVVNndEZZOEU4Zm9NeXpYS0doZFFlVXlXbDgtd2dSWDhtVzhUZEJFRHNFVVJ5RzczNGRrSy1ueWF1aWtEQTJ5Y1BLRElLOGlGbHhVV1A4bGNZZWw2c0VPWkx6?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "time": "08/06 14:20",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "BofA CEO \"연준, 9·11·12월 세 차례 금리 인상\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qcC1Vd2JaZG5oSy1jTEY0SXIxdTQ5R3JFc3FfOXBTck5NOXpOSFE2aWZQSGFMUTlFUkxKdHRxUkNnc1VfSUhuajkyMkFFR0J4bmlGbjZnNVV2S3FscE53QTJra3NQTVhNNTlkSUN2OTg?oc=5",
    "source": "연합인포맥스",
    "time": "08/06 12:22",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "금리 동결 찬성했던 美 연준 이사도 \"필요하면 인상\"…매파 목소리 확산",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUmt2OUhsLXA2emYwNHllN3I3aFJUdWxvdlFQY0U3N18xUF9fOTE3WW1kbGxIa1N5d09jWmJ5UVhZV2UyMXpmTUpyZHJESEpRTF9JRlRGTnlCNGdXbHpXUG5xc1RPazFBN0dGbXRIekllR2FoNV9TZzdQbExUZWpBT3F6RlZya3kyMGNr?oc=5",
+   "source": "조선일보",
+   "time": "08/06 08:22",
    "dir": "up",
    "strength": 1
   },
@@ -76,22 +92,6 @@
    "source": "연합뉴스",
    "time": "08/05 05:58",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "한은 금통위 \"기준금리 인상, 필요성 커지고 부담은 줄어\"",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SMTJmRk1FZ1JGVzlicnZMV1hCYkppbkRNNlMzcWNXcno0c0VURkRpVkIzOHdFcHlsUVNiTHpUTGlTejJHNzMtTU9GYzF4NkxyanVDYzNuMTd2RmZfY0pnY2VPemNmMjQ?oc=5",
-   "source": "연합뉴스TV",
-   "time": "08/05 00:29",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "금통위원들 “기준금리 인상 필요성 커져”…추가 인상 의견도",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUZkRrelpfblJneVNkRm0wcDN1a2NGTDRjc0V4ZEZnZDl0NEZSc1Q2MHI1MGZqdHoyUzQyNkxMMUZ2N2p2c2d3d2pPRFRKalZvdGFuV0pzdkVfeUU?oc=5",
-   "source": "KBS 뉴스",
-   "time": "08/04 16:41",
-   "dir": "up",
    "strength": 1
   }
  ]
