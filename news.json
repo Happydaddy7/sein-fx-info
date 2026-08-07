@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07 15:58",
+ "updated": "2026-08-07 17:44",
  "summary": {
   "up": 8,
   "down": 2,
@@ -20,6 +20,14 @@
    "source": "연합인포맥스",
    "time": "08/07 10:12",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 환율 10개월 만에 최저…원화 강세 이어지나",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UamZyOTRwTWl5RldUMWg3N2R6c0M4eTBvRkNubnpmemhRbWRObG5GdmJtbXNWMFhnRV9SdnMtUEJYc1pXOEU1Wnc0aUVwYkZPa0HSAVNBVV95cUxOeEhpU1ZWZ21nNUdOUUtJWTRub3dUUXpHTWFQYkh1UXlNcmhscUxJVTNzN01kVGhnV0hwUG1mQkxIVDlBRks5bW5rWHVCNk9KOXhsSQ?oc=5",
+   "source": "서울경제",
+   "time": "08/07 10:00",
+   "dir": "down",
    "strength": 1
   },
   {
@@ -76,14 +84,6 @@
    "source": "KBS 뉴스",
    "time": "08/06 07:21",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "베선트 “원화 과도한 변동성” 발언에 환율 하락…대미 투자 위한 관리?",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83UGFVR1ZzVkZRZDU0ak9tOGVXZEwtTFk0dGhKa09nODBSQXZSeHBQRmV5ODJYX0xDX3RpRmhQNU1feDR0MDctdFY5aXpCQXh3WUd2SFZSQjk4cWt4Zm9lVjJiTXY5cGlWNHdVQlYzOVBVQQ?oc=5",
-   "source": "한겨레",
-   "time": "08/05 19:24",
-   "dir": "down",
    "strength": 1
   },
   {
