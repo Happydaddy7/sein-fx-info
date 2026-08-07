@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-07 14:26",
+ "updated": "2026-08-07 15:58",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -23,27 +23,11 @@
    "strength": 1
   },
   {
-   "title": "원·달러 환율 10개월 만에 최저…원화 강세 이어지나",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UamZyOTRwTWl5RldUMWg3N2R6c0M4eTBvRkNubnpmemhRbWRObG5GdmJtbXNWMFhnRV9SdnMtUEJYc1pXOEU1Wnc0aUVwYkZPa0HSAVNBVV95cUxOeEhpU1ZWZ21nNUdOUUtJWTRub3dUUXpHTWFQYkh1UXlNcmhscUxJVTNzN01kVGhnV0hwUG1mQkxIVDlBRks5bW5rWHVCNk9KOXhsSQ?oc=5",
-   "source": "서울경제",
-   "time": "08/07 10:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "달러-원, 런던장서 반등…커스터디 달러 매수에 1,430원 부근",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DZC1pOEhLMW8xZ2xydmVoSEtGaDEwUDExbjBlX1NFLWdCMVhIRy1hTHRqdE1oTjk0MEREMGVRUk8tWEw2VXl1NnVURi1WUVdaak9PMGtJcXN6OFp3MW1mRHhMR2NKelBOeHlUNmg0cEHSAXRBVV95cUxNTGJtT1ViOFNZT0V3REtLTEY0V1VXbExGdV9DeHd6Q1ByWDh1cGlBYmhuSFVfVC1xRHZwa0RWU2RBSE0yZDB3MDNnXy1taFNwLXZkRHpxa0Z2ZmRQQW9PVDBaWTNEUjUwX3FZblRVX1BBWUM5UQ?oc=5",
    "source": "연합인포맥스",
    "time": "08/06 19:30",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "주가 4.6% 폭락에도 원화 강세…환율 1410원대 급락 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iSFJaRDdEdTBIN2VyY2c0OWlXeTllTG5sRkVXbi1EcHBkU3BUbXQ4NTZEcGxHTmZZUXVORV9hN2RNY2pFSXVWODFOVW9pNWQ0M3fSAVNBVV95cUxNWGhGMktjdTVOSWdkMnNmYTZUMjZGcEcxZ2RabW14UGc5aFRXT3VmY2JFbkNVNGt3RHE0ZEdlbXRCVzJnQmVHRTQzX0g3amFJLWJJcw?oc=5",
-   "source": "서울경제",
-   "time": "08/06 17:25",
-   "dir": "down",
    "strength": 1
   },
   {
@@ -91,6 +75,22 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBOGZJRDdMd1B4YmN6N0xva193QWNvUG1SWjNrMS1TWmxKQXJhbFBOQWo1R2FNZVhobWVFandMeEdHdUNUZlhiT1diYlNCVy12VnRYYXJNT2hqQ1E?oc=5",
    "source": "KBS 뉴스",
    "time": "08/06 07:21",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "베선트 “원화 과도한 변동성” 발언에 환율 하락…대미 투자 위한 관리?",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83UGFVR1ZzVkZRZDU0ak9tOGVXZEwtTFk0dGhKa09nODBSQXZSeHBQRmV5ODJYX0xDX3RpRmhQNU1feDR0MDctdFY5aXpCQXh3WUd2SFZSQjk4cWt4Zm9lVjJiTXY5cGlWNHdVQlYzOVBVQQ?oc=5",
+   "source": "한겨레",
+   "time": "08/05 19:24",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "美, 엔화 이어 원화·위안화도 환율 방어 대상 시사",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SZUpEUlRkaWFMa1FfdW54TnRmN283cHlfTXZady1mYVZsT05IUUUyYTFnYk9ZMlp3b2VQZjRzLWRqb3NQY3phWkYwMFFaQUNUQUc2a1J6R215Zw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/05 18:29",
    "dir": "up",
    "strength": 1
   }
