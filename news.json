@@ -1,24 +1,80 @@
 {
- "updated": "2026-08-07 19:41",
+ "updated": "2026-08-10 07:35",
  "summary": {
-  "up": 7,
-  "down": 3,
-  "neutral": 0
+  "up": 4,
+  "down": 4,
+  "neutral": 2
  },
  "outlook": {
-  "dir": "up",
+  "dir": "neutral",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "상승·하락 요인 혼재 (상승 4 vs 하락 4).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "고환율 꺾이자…면세점도 14개월 만에 기준환율 내렸다",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51YXdadGdrRTBLc1dhNDRtV1lXZ09oVmd2QkVaVlRfZmQxTjJiMmQwN0d2Y0Y5SGFPcEpOdnVYNDZXUnRDYVJpb3kxT3N2emZRckHSAVNBVV95cUxQNUtKQndYUHRMM25ia0daZzR5MnlpSzdsQlhOLWlVVmZUTFE0SHlBcW9TeDh0bmwxcTZINi0yU1k5UWZMT2Z6OGZ3MDVlQWFySFNENA?oc=5",
-   "source": "서울경제",
-   "time": "08/07 18:25",
+   "title": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5",
+   "source": "한겨레",
+   "time": "08/09 20:11",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "안정 찾는 외환시장… 원·달러 1300원대 초읽기",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ra2ZsOUVXNVM3bTJhNW5LVG42S2dwMnAyUk8wcEI0d091dXUyMWU4cUxvRG1uLWRBVVJFbll6SDd2NzY5aVQxenZ2T0pnYW1VS3ItckVTSWRkdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/09 18:15",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "\"환율 하락도 코스닥 유리...이번 주도 코스닥 상승 전망\"",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aFRRMmgwRG9IaXZIUDJfc3I5bTFrT2U1SDE2c21kd09pWjZQV05QSVpqeWNXQlVCSndYSzZYOXpKWHkzVTQwNTg4dEtteHI1UFNGaVdacnpIMzNGS0E?oc=5",
+   "source": "YTN",
+   "time": "08/09 07:21",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "5년째 물가 못 잡은 연준의 신뢰 위기…금리 인상 두고 내부 ‘균열’│Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XVjEtTkpiWElLdnh1NEg0cEFzOFNFeFBGODhOUFd4MVFxZW9DTk1zSzRlSVNLeVk3MmNraHJleUQ1WGVxdElCLVpwNmVNa2lKZG5TSV9BX2hvbU0?oc=5",
+   "source": "중앙일보",
+   "time": "08/08 04:48",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "트럼프, 쿡 연준 이사 해임 재추진...금리 인하 압박 다시 시동",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aM2RyZVlERVZrWUFFS3BsYmwtQkhNbkU1N09LUEY0MWhkODhZVUxQbm9kX1hsV1ZKNnFzSThJenhIOGhwQ2dTTWNsT2xxTmc2TFB0cER1TXI5Zw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/08 02:58",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "미국 취업자 수 2만3000명 감소…연준 금리 인상 가능성 낮아져",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGNhVDVCMmVyTXR3dHZxSTVrcjRwSDFvYkk5azlZTnYyeV95akJLaUFKVnVnbEdrRE1lZFR5alBXX1pDUTE0VExNQ1NfNkJPY1RCOHQ1MmNUN2NoLWNrbGJVUXVDc1BKZV9mdlU2ZF9HZ2paNFVMNExTMHd0SzJ2NkdZdmRGWENYbVNVT2t3?oc=5",
+   "source": "조선일보",
+   "time": "08/07 22:12",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 하락에…5대 은행 달러예금 폭증",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90ZWp1c3hHUmd5WUxjS2NnVHhpVTQ3blM3WVRiV0lVVXR3a1pwb1g2RkVLaWJFbmhxOUp4VEJ0VWl4SlNCcV9JVFM3TjNqMG1MbV9UN2F6a2hCU0Y4Z0g5Rw?oc=5",
+   "source": "아시아경제",
+   "time": "08/07 19:47",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "IRS 금리 상승…매파 연준·한은 우려 확대",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pUTBaTTBybFZEN3VNTlhqMGJJZ0hLOUNVbmNxVTFNSENYSzJ0UEh5ODVpZnNyNnNQazZDTTdKVm4ybmw1NG85TUxjZHdmclI1WllOLWxtek9rWV81Ml9IWkRjeHBCWEViVXNjTUtSUkTSAXRBVV95cUxNeEpZdHhDcENNVWEzdFd0NEk5LTBPdlpoRzhrNU9fLTJBX3JKU0hCZXlnUmJJazJ1X1BvdGdzUDVRYmRiV2h6anhVU0lUT19yc0FFRy05aEU5Q1RBdGtfUWhnZHVWUDBxMXJYOXdXQXgzX1owaA?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/07 18:47",
    "dir": "up",
    "strength": 1
   },
@@ -35,62 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UamZyOTRwTWl5RldUMWg3N2R6c0M4eTBvRkNubnpmemhRbWRObG5GdmJtbXNWMFhnRV9SdnMtUEJYc1pXOEU1Wnc0aUVwYkZPa0HSAVNBVV95cUxOeEhpU1ZWZ21nNUdOUUtJWTRub3dUUXpHTWFQYkh1UXlNcmhscUxJVTNzN01kVGhnV0hwUG1mQkxIVDlBRks5bW5rWHVCNk9KOXhsSQ?oc=5",
    "source": "서울경제",
    "time": "08/07 10:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "우리금융硏 \"한은, 8월 기준금리 '매파적 동결' 전망\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vRk9rU3Izc2YxZzE4Q0pOY1cwS3JtRGFVRnRPNnc5bE9zNVRnVGYyMGQwWVh4VF8zblZHeG9NaXdPcUJJM3BmdUpKTWljX3dabmREUmVDbEdQVUnSAWBBVV95cUxQdzNDMVJlZ3dkeVN2OGhacF9oaEVyVVVsNURhZ1A0enllY2ZTclgzamZINEM5cnAtclgtbmZMRlVTV0JVV3pjb3VTZ1JITEhzTlUtVUpzMlNlMnhJRmpBaUc?oc=5",
-   "source": "연합뉴스",
-   "time": "08/06 14:20",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "동결에 표 던졌던 美 연준 쿡 이사… \"물가 안 잡히면 금리 인상\"",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0MDRNTTZLM0Z1c0FjMWVpaG9RSks3N0k4b1FONldBNk5NeGNEUzJTRDMxTDhTbGNsN1A4TDQwOUdPelh6ZWNhX210RUw0SDhkYi1EWlpHVFFQem1HN0ZrbngyUnB6OWVsNkRSaWd30gFzQVVfeXFMT3R6eEN5SjlCMXVrQV8yT3Jkdm1nbEhUY2ZwMDFlSkh2bS1kZllIZ1Z4VFppRnM3ckpfbkJ0YXZlMlJFLVQ0Yi0ybnlBSG16X1lEdzNvZXlyN21qRUlfMFZfWGlIVS1aNWxGWUJpVlhvOHBPMA?oc=5",
-   "source": "한국일보",
-   "time": "08/06 13:51",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "BofA CEO \"연준, 9·11·12월 세 차례 금리 인상\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qcC1Vd2JaZG5oSy1jTEY0SXIxdTQ5R3JFc3FfOXBTck5NOXpOSFE2aWZQSGFMUTlFUkxKdHRxUkNnc1VfSUhuajkyMkFFR0J4bmlGbjZnNVV2S3FscE53QTJra3NQTVhNNTlkSUN2OTg?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/06 12:22",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "금리 동결 찬성했던 美 연준 이사도 \"필요하면 인상\"…매파 목소리 확산",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUmt2OUhsLXA2emYwNHllN3I3aFJUdWxvdlFQY0U3N18xUF9fOTE3WW1kbGxIa1N5d09jWmJ5UVhZV2UyMXpmTUpyZHJESEpRTF9JRlRGTnlCNGdXbHpXUG5xc1RPazFBN0dGbXRIekllR2FoNV9TZzdQbExUZWpBT3F6RlZya3kyMGNr?oc=5",
-   "source": "조선일보",
-   "time": "08/06 08:22",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준 '비둘기'도 돌아섰다…쿡 \"필요하면 금리 올릴 것\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TE9lM3ViWDlWYVZMUDNHVnB2REl0UDZzemZRWmFLWHVWQ2VPbklrai1yNzZtam9UVjR5N00tUEt4YkNBbzl0RmJtbnBscWhZcGNnZHRTRjFZUQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/06 07:24",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "리사 쿡 미 연준 이사 “필요 시 금리 인상 행동할 준비”",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBOGZJRDdMd1B4YmN6N0xva193QWNvUG1SWjNrMS1TWmxKQXJhbFBOQWo1R2FNZVhobWVFandMeEdHdUNUZlhiT1diYlNCVy12VnRYYXJNT2hqQ1E?oc=5",
-   "source": "KBS 뉴스",
-   "time": "08/06 07:21",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "베선트 “원화 과도한 변동성” 발언에 환율 하락…대미 투자 위한 관리?",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83UGFVR1ZzVkZRZDU0ak9tOGVXZEwtTFk0dGhKa09nODBSQXZSeHBQRmV5ODJYX0xDX3RpRmhQNU1feDR0MDctdFY5aXpCQXh3WUd2SFZSQjk4cWt4Zm9lVjJiTXY5cGlWNHdVQlYzOVBVQQ?oc=5",
-   "source": "한겨레",
-   "time": "08/05 19:24",
    "dir": "down",
    "strength": 1
   }
