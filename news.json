@@ -1,32 +1,48 @@
 {
- "updated": "2026-08-10 07:35",
+ "updated": "2026-08-10 09:52",
  "summary": {
   "up": 4,
-  "down": 4,
-  "neutral": 2
+  "down": 2,
+  "neutral": 4
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 4 vs 하락 4).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 4 vs 하락 2).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "1600원 위협하다 어느새 1300원대 눈앞…환율도 ‘롤러코스터’",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00Z21nV3B6ZHFjN0xDWUlsaS1BN0g0YV9RUXd2V285RE9OWFhuSllzU1B6UUFaOHlZeHFHa1BXTTdLdDhWR3VoMlp3a2tLZExqLVZDbzdtWlp3SFdoTy0tbE5XeXhzY1k?oc=5",
-   "source": "한겨레",
-   "time": "08/09 20:11",
+   "title": "美 고용 쇼크에 약달러…달러·원 환율 1410원선 거래",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZDRJSUlESzVUM2NvaTZIT2h1ZlVNZHYtTGVEM1pfSUVuNmhPdkVsLXQ1aDBIZ2VQd3ZGRU4yY1FxdENsblZpWUJDM1Z6S0FBSjd2dHlBMVlJTkk?oc=5",
+   "source": "뉴스1",
+   "time": "08/10 09:28",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "안정 찾는 외환시장… 원·달러 1300원대 초읽기",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ra2ZsOUVXNVM3bTJhNW5LVG42S2dwMnAyUk8wcEI0d091dXUyMWU4cUxvRG1uLWRBVVJFbll6SDd2NzY5aVQxenZ2T0pnYW1VS3ItckVTSWRkdw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/09 18:15",
+   "title": "원·달러 환율 소폭 상승",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hY0I4bXByN0R1LUVIcmxydUdyV3JsYzBaYmNXUy12LXBhd1MxTnFhQnBGRGY1VGh5Qm84ejdMMXNHakNRc1hyWVpXRXFqTWlXTmRDNEUwVmdQOEYzWG1kVg?oc=5",
+   "source": "뉴시스",
+   "time": "08/10 09:24",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율, 오전 9시 1410원대 등락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTEYyTDhDWEZ0QmIxZDgtX21LLUNCbV9EZnlzNzVrRmtQM3VhN3VlelNOblc0RGRGMWI1OVc2eGQ1MFhYZUZpVVpSejUwdnBtdkRSYkg0MFg5bmFTRlVWOdIBeEFVX3lxTE1qV3NaLWs2dU4waWFtYjB4QUVEcnBab28wTGw5Wjl6NDg2WmJ3dUgzSFNBdXBrU2xlQzhRdllGRlR2cjVla0hFQlRTUk1jSFg5LXFxbXV6aUI2WDlDQzVPcmladUZ6eXplTE1rTEdvcGNEZzJKLVIwZQ?oc=5",
+   "source": "뉴시스",
+   "time": "08/10 09:09",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[속보]원·달러 환율, 오전 9시 1410.3원",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GVlhmdjdhX1BSdGZCZ3FJeGJxQld4c21yN2JjQnhibWdXUVc4MzVPWUdoc3pHaXdjSHdsczJwenVWRWllYVFHWkU1TXE1UlRvSmRpRWY4MEF4N3VnY1h1aQ?oc=5",
+   "source": "뉴시스",
+   "time": "08/10 09:06",
    "dir": "neutral",
    "strength": 0
   },
@@ -63,14 +79,6 @@
    "strength": 1
   },
   {
-   "title": "환율 하락에…5대 은행 달러예금 폭증",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90ZWp1c3hHUmd5WUxjS2NnVHhpVTQ3blM3WVRiV0lVVXR3a1pwb1g2RkVLaWJFbmhxOUp4VEJ0VWl4SlNCcV9JVFM3TjNqMG1MbV9UN2F6a2hCU0Y4Z0g5Rw?oc=5",
-   "source": "아시아경제",
-   "time": "08/07 19:47",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "IRS 금리 상승…매파 연준·한은 우려 확대",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pUTBaTTBybFZEN3VNTlhqMGJJZ0hLOUNVbmNxVTFNSENYSzJ0UEh5ODVpZnNyNnNQazZDTTdKVm4ybmw1NG85TUxjZHdmclI1WllOLWxtek9rWV81Ml9IWkRjeHBCWEViVXNjTUtSUkTSAXRBVV95cUxNeEpZdHhDcENNVWEzdFd0NEk5LTBPdlpoRzhrNU9fLTJBX3JKU0hCZXlnUmJJazJ1X1BvdGdzUDVRYmRiV2h6anhVU0lUT19yc0FFRy05aEU5Q1RBdGtfUWhnZHVWUDBxMXJYOXdXQXgzX1owaA?oc=5",
    "source": "연합인포맥스",
@@ -84,14 +92,6 @@
    "source": "연합인포맥스",
    "time": "08/07 10:12",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율 10개월 만에 최저…원화 강세 이어지나",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UamZyOTRwTWl5RldUMWg3N2R6c0M4eTBvRkNubnpmemhRbWRObG5GdmJtbXNWMFhnRV9SdnMtUEJYc1pXOEU1Wnc0aUVwYkZPa0HSAVNBVV95cUxOeEhpU1ZWZ21nNUdOUUtJWTRub3dUUXpHTWFQYkh1UXlNcmhscUxJVTNzN01kVGhnV0hwUG1mQkxIVDlBRks5bW5rWHVCNk9KOXhsSQ?oc=5",
-   "source": "서울경제",
-   "time": "08/07 10:00",
-   "dir": "down",
    "strength": 1
   }
  ]
