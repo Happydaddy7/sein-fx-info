@@ -1,19 +1,35 @@
 {
- "updated": "2026-08-10 12:42",
+ "updated": "2026-08-10 14:14",
  "summary": {
-  "up": 5,
+  "up": 4,
   "down": 2,
-  "neutral": 3
+  "neutral": 4
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 5 vs 하락 2).",
+   "상승요인 우세 (상승 4 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "美연준 금리 동결 가능성 급상승…증시에도 호재",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xSHN0VlNvekRZdGpYQkktYnRBMF93QVUwQ0F5djU1d0FaMGZxQldMbTFMeWZxS3FHN0RadjdJdFcwQnFGTEV6Sm5yOEY1R0Iwdm1B0gFYQVVfeXFMTVpqdlo5U3JXNzFpSVh3Mkd6c2lGMDlDeVlJZ3VLOWE1cEkzN2p5T0ZTRmM0c1pTaURqTFlzYzB2ajExMy1hTVNHQkVPenRSQWQzWmg2ME02Qw?oc=5",
+   "source": "SBS Biz",
+   "time": "08/10 13:42",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "월가 \"美 고용 부진에 연준 금리 동결 가능성 커져…증시엔 추가 상승 여력\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kVTYza0pqQ2JHemk4ZVBGX096LWZOSUVVTW1xOEZDTl8teHl1TFJCUXBnb09ieDc3a0dTNFVDWVMwMmh0aE1IY1RxX3ZjN2lSQlEtMVZERmttaFdlTmNkOHBuQVdKcjJRT0pEUjYySUQ?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/10 12:53",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "ING \"美 고용, 연준 금리 인상에 심각한 의문 제기\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iLW50TGlhVjZubmRpNVlUc3lqdHJia1BheHY3b3BrMDhCN1U0NDlOT3FDbFJ0TjZlVjE5QjRtZUFVb2dfaGhDeHVPRmNSTlE4NXFmTjNHNUJiRWFqcllCRGpfOGtTWFQzQmxWRkhtTWc?oc=5",
@@ -39,6 +55,14 @@
    "strength": 1
   },
   {
+   "title": "[헤럴드pic] 1300원대 앞둔 원달러 환율",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wUmRfdnlseHZiMVZ2OXJyTEpDZE0xWHluSW41NWI3ejI4UmVSaWVfVjZ4d1FDUHNZb0FFY0czbXU0b0RRUTlPamlZSjhlNTB0aFJPYmh3?oc=5",
+   "source": "헤럴드경제",
+   "time": "08/10 11:01",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
    "title": "7월 국고채 금리, 환율 상승·외국인 매도에 전반적 상승",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10VXdsS3FITjJiSWhtVDZwSTF2b3ZQTGVkLTYwQy1UNGlVTVhvS2hwVWdlakFraTNkSlFLc2RRWU9uZDZzSG1XeXc1SndBVUFkTmEyRFk0MklmN3PSAWBBVV95cUxOa0NwYWJObFJ1dGpoVVRPdlY5MjYxbnR6V3dYdDJFeF9CWlRGRHViX3lIbE1WQmlrb3Q3cUlRZ3dUcUduNkNWeWRHS1Q5NmdJOE1YZ25kOGRfOEh5VmJvVWY?oc=5",
    "source": "연합뉴스",
@@ -47,35 +71,11 @@
    "strength": 2
   },
   {
-   "title": "원·달러 환율 소폭 상승",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hY0I4bXByN0R1LUVIcmxydUdyV3JsYzBaYmNXUy12LXBhd1MxTnFhQnBGRGY1VGh5Qm84ejdMMXNHakNRc1hyWVpXRXFqTWlXTmRDNEUwVmdQOEYzWG1kVg?oc=5",
-   "source": "뉴시스",
-   "time": "08/10 09:24",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·달러 환율, 오전 9시 1410원대 등락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaTEYyTDhDWEZ0QmIxZDgtX21LLUNCbV9EZnlzNzVrRmtQM3VhN3VlelNOblc0RGRGMWI1OVc2eGQ1MFhYZUZpVVpSejUwdnBtdkRSYkg0MFg5bmFTRlVWOdIBeEFVX3lxTE1qV3NaLWs2dU4waWFtYjB4QUVEcnBab28wTGw5Wjl6NDg2WmJ3dUgzSFNBdXBrU2xlQzhRdllGRlR2cjVla0hFQlRTUk1jSFg5LXFxbXV6aUI2WDlDQzVPcmladUZ6eXplTE1rTEdvcGNEZzJKLVIwZQ?oc=5",
-   "source": "뉴시스",
-   "time": "08/10 09:09",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "\"환율 하락도 코스닥 유리...이번 주도 코스닥 상승 전망\"",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aFRRMmgwRG9IaXZIUDJfc3I5bTFrT2U1SDE2c21kd09pWjZQV05QSVpqeWNXQlVCSndYSzZYOXpKWHkzVTQwNTg4dEtteHI1UFNGaVdacnpIMzNGS0E?oc=5",
    "source": "YTN",
    "time": "08/09 07:21",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "5년째 물가 못 잡은 연준의 신뢰 위기…금리 인상 두고 내부 ‘균열’│Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XVjEtTkpiWElLdnh1NEg0cEFzOFNFeFBGODhOUFd4MVFxZW9DTk1zSzRlSVNLeVk3MmNraHJleUQ1WGVxdElCLVpwNmVNa2lKZG5TSV9BX2hvbU0?oc=5",
-   "source": "중앙일보",
-   "time": "08/08 04:48",
-   "dir": "up",
    "strength": 1
   },
   {
