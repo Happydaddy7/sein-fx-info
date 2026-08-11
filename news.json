@@ -1,27 +1,19 @@
 {
- "updated": "2026-08-11 12:25",
+ "updated": "2026-08-11 13:56",
  "summary": {
-  "up": 7,
+  "up": 9,
   "down": 1,
-  "neutral": 2
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 1).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
-  {
-   "title": "[올댓차이나] 위안화 기준치 1달러=6.7900위안… 0.024% 절하",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRMXV1NVh2T0dVbnRadmRsMUhKd202d052d2EyWXhrVDJtblBrSk5JT1dLM0F4VXhlR1hsTmZWZ1JXOGVGZDRrUHdIYTJvcjhUZHRMLTh5VE5DWVNDUHc1QdIBeEFVX3lxTE5LQkNwc2N2MzItRllad0NfWktnYXBwVm9hOTdPNXdJZzZGR3hHdnNPM3I4SGRkeHp2ck9hZ1VCZVh5U2E3UXpyaWpyMUVVbm5mMm01RnZ6ZjVlUkRmYXZ5aDZZYThiOGRBRlZoQnNhcmVaX1hzMkZoTw?oc=5",
-   "source": "뉴시스",
-   "time": "08/11 11:03",
-   "dir": "neutral",
-   "strength": 0
-  },
   {
    "title": "연준서 커지는 금리 인상론…해맥 \"한 차례로는 부족\"",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMjBYUXpQZEpyOE56S04ybGFuZU9PMkRvTms1bjdJRGZCYlh4S1dqUlhKU3hISlhNRW91ZHNkZjlFQkprWjBnaTZnaGFMbHNwdGV1X1B5WHhiTV9ZU3hkR9IBeEFVX3lxTE5EYldMWFl1NmM5Q1gwUURDeTZaRVJaRmU0NGp6dTdxOHZ6ZWRnZU5kRS1jbUJwdE53ZEdoZXFnSTRXeDE1emUzMlZyRXlLV3BSY3lvbzBEeWFacF8xczRCTDdDQU5COE1EbEVmZlhKZWdHRFJ3NEtEVQ?oc=5",
@@ -29,14 +21,6 @@
    "time": "08/11 10:40",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "미국, 장기금리 상승 막는다…국채·엔화·연준 ‘3중 카드’",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zMmJhYVVleDhFU0lMbnB6ajhvSG9RVlZZaHYxcVlaOEoySkF1bFBERGtNbVZHYkQtTWVveF91bjRRVWFHSm9kdW9kUzZWX290SlHSAVNBVV95cUxPUHc5N1JlTmltanZhQTk3eGcxQ3oxUEU2ZS1BM0l1WEhRTEYxNTlMOXlQaFptMXItWHZ2dGc4aklxMHFOQW9ZZjEzUy1fdkZXbTd0MA?oc=5",
-   "source": "서울경제",
-   "time": "08/11 10:00",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "[포토] 코스피 하락, 원/달러 환율 상승 출발",
@@ -87,11 +71,27 @@
    "strength": 1
   },
   {
+   "title": "7월 국고채 금리, 환율 상승·외국인 매도에 전반적 상승",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10VXdsS3FITjJiSWhtVDZwSTF2b3ZQTGVkLTYwQy1UNGlVTVhvS2hwVWdlakFraTNkSlFLc2RRWU9uZDZzSG1XeXc1SndBVUFkTmEyRFk0MklmN3PSAWBBVV95cUxOa0NwYWJObFJ1dGpoVVRPdlY5MjYxbnR6V3dYdDJFeF9CWlRGRHViX3lIbE1WQmlrb3Q3cUlRZ3dUcUduNkNWeWRHS1Q5NmdJOE1YZ25kOGRfOEh5VmJvVWY?oc=5",
+   "source": "연합뉴스",
+   "time": "08/10 10:48",
+   "dir": "up",
+   "strength": 2
+  },
+  {
    "title": "\"환율 하락도 코스닥 유리...이번 주도 코스닥 상승 전망\"",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aFRRMmgwRG9IaXZIUDJfc3I5bTFrT2U1SDE2c21kd09pWjZQV05QSVpqeWNXQlVCSndYSzZYOXpKWHkzVTQwNTg4dEtteHI1UFNGaVdacnpIMzNGS0E?oc=5",
    "source": "YTN",
    "time": "08/09 07:21",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nNEpUclZPeFh3THJlUGZvdkRBRDdkX0xLV1R3dl9yS1JBbm5NV1VQYkRBVlRlVElPTEZYOEZsZjYxUDlONEQ5b2RlcFpoQ1U0Mm15a0xDTUhtOGfSAWBBVV95cUxQbW5qRTBXRFh1MldhX21xQkJtRFZNWHZJbng4c3dSckIzaDNFcnhqUmpqUno2cWVxQ2dlTE1lNmc0TkpXZVdINTA3cjhoMFBFM0wxcEI3Nk5QTUU4VzZvb2o?oc=5",
+   "source": "연합뉴스",
+   "time": "08/09 05:51",
+   "dir": "up",
    "strength": 1
   }
  ]
