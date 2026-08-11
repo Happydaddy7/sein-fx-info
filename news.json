@@ -1,26 +1,26 @@
 {
- "updated": "2026-08-11 19:40",
+ "updated": "2026-08-12 07:49",
  "summary": {
   "up": 8,
-  "down": 2,
-  "neutral": 0
+  "down": 1,
+  "neutral": 1
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 8 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "원·달러 환율 급락에 희비 엇갈리는 제약·바이오",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SSENyMVVmRUwyUEcyUGFpLTc5S0F6UW5hRzZ0WTBMUjdrSTlCbWJpbDJ1eVc1M0VMSk1xUHZJckRRWmRyejFKTDlULW1rVWljTVc5ZXlJR0RpdHJCSGtBMFdQa2E?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "08/11 17:34",
-   "dir": "down",
-   "strength": 1
+   "title": "짐 비앙코 \"연준이 패닉해야 채권시장 패닉 멈춰…금리 올려야\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10cHNMaXJvQTR5LTM0YklLQnVITzlqTXNGbkk4c0IwaGU4bzVBVTNBeERQTENHcEJEMFJsa2U3YkktcnNINExNQ0hodUVqLVNPaFNNTzNsUFZNUHIwb0d5WmFtYWF3c1JkdFJYazhiNXg?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/12 05:42",
+   "dir": "neutral",
+   "strength": 0
   },
   {
    "title": "[외환] '엔화 강세·네고 출회'에 하락…1,410원대 중반 |",
@@ -35,6 +35,14 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMjBYUXpQZEpyOE56S04ybGFuZU9PMkRvTms1bjdJRGZCYlh4S1dqUlhKU3hISlhNRW91ZHNkZjlFQkprWjBnaTZnaGFMbHNwdGV1X1B5WHhiTV9ZU3hkR9IBeEFVX3lxTE5EYldMWFl1NmM5Q1gwUURDeTZaRVJaRmU0NGp6dTdxOHZ6ZWRnZU5kRS1jbUJwdE53ZEdoZXFnSTRXeDE1emUzMlZyRXlLV3BSY3lvbzBEeWFacF8xczRCTDdDQU5COE1EbEVmZlhKZWdHRFJ3NEtEVQ?oc=5",
    "source": "뉴시스",
    "time": "08/11 10:40",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[포토] 코스피 하락, 원/달러 환율 상승 출발",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CbzJNUDdpalNkd2M3NWllTDBzc1l1dC1XdjlQWEwzdV9FejBsZWt5Sjh1T0hsY0tFZHdEcnpoQUVHLWRLRGV0WnpRSlNoVGwyU2tVVDhTWnJwaFhZWV9DTQ?oc=5",
+   "source": "아시아경제",
+   "time": "08/11 09:28",
    "dir": "up",
    "strength": 1
   },
@@ -85,14 +93,6 @@
    "time": "08/10 11:16",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "7월 국고채 금리, 환율 상승·외국인 매도에 전반적 상승",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10VXdsS3FITjJiSWhtVDZwSTF2b3ZQTGVkLTYwQy1UNGlVTVhvS2hwVWdlakFraTNkSlFLc2RRWU9uZDZzSG1XeXc1SndBVUFkTmEyRFk0MklmN3PSAWBBVV95cUxOa0NwYWJObFJ1dGpoVVRPdlY5MjYxbnR6V3dYdDJFeF9CWlRGRHViX3lIbE1WQmlrb3Q3cUlRZ3dUcUduNkNWeWRHS1Q5NmdJOE1YZ25kOGRfOEh5VmJvVWY?oc=5",
-   "source": "연합뉴스",
-   "time": "08/10 10:48",
-   "dir": "up",
-   "strength": 2
   }
  ]
 }
