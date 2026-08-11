@@ -1,24 +1,40 @@
 {
- "updated": "2026-08-11 07:41",
+ "updated": "2026-08-11 09:52",
  "summary": {
-  "up": 7,
-  "down": 0,
-  "neutral": 3
+  "up": 9,
+  "down": 1,
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 0).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "[뉴욕환시] 유가 급등에 달러 강세…엔, '개입 효과' 지우며 급락",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rX1RRMWxpVFJBX1N5bklvRGxiUkdQWUFyVWU1NHd3Mnp0QTVJRWR4SzlHT0ZHbnpCNDB1aVVTYkVCcjRlOWxVSFJ4M1N2Zy1sNi0tR0dMb2p2MDhNcW9hUVFyNGRhM0F5U3l1NHROcnQ?oc=5",
+   "title": "[포토] 코스피 하락, 원/달러 환율 상승 출발",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CbzJNUDdpalNkd2M3NWllTDBzc1l1dC1XdjlQWEwzdV9FejBsZWt5Sjh1T0hsY0tFZHdEcnpoQUVHLWRLRGV0WnpRSlNoVGwyU2tVVDhTWnJwaFhZWV9DTQ?oc=5",
+   "source": "아시아경제",
+   "time": "08/11 09:28",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "'연준 매파' 해맥 \"금리 인상 '몇번' 필요…어디서 끝날지 몰라\"(상보)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xOVVLU0pOZDNReGVpdE1QTVhQM0lUZUJ3dFNsVXRfSTlBd29DbXNLcnBDVi1ySkN6RlA4Ny12dVBWVU1ENk9sMVdRR0tLM1U0clJoUzV1T3R2b2hwTm5XNVVza1ZNN29STjJ3eFNGMFA?oc=5",
    "source": "연합인포맥스",
-   "time": "08/11 07:34",
+   "time": "08/11 09:18",
+   "dir": "up",
+   "strength": 3
+  },
+  {
+   "title": "[뉴욕환시] 유가 급등에 달러 강세…엔, '개입 효과' 지우며 급락 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiYm9fUXhyVzVVOEo1V19MaTQ3amFsOTNhT0g3aGFod2NfQU5oY3U0V0xJSnJoMmVwVXB0M2hlRUVQdXNYdmdPWm9saXllZmYxX3daTG9ESjJDbFpWMm9CM25yYkhRZkl4bDZFUEJyMTlwZjFp?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/11 07:38",
    "dir": "up",
    "strength": 1
   },
@@ -29,30 +45,6 @@
    "time": "08/11 06:09",
    "dir": "up",
    "strength": 3
-  },
-  {
-   "title": "現 환율 유지땐 1인당 GDP 첫 '4만달러'",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sTFpkRDIyTERZdVA5cGo2bzBOcnV0UXVTYnhBSGxhbTFmWjR2Z0thV1hMRGpPNnVnaTZzSkxtUlBYNmNkRHZIOHEyd0w1N1pMemc?oc=5",
-   "source": "매일경제 마켓",
-   "time": "08/10 17:54",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "연말 환율 중앙값 1천371원",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwSGRFamNwTjljOFNySmQ0aEhaWXl0SXZFMC1kUWhLM1c0Wk1ITEZtYXFDOUxkTFp5M0VaYkZqazgtd3Z3VWhScGVienp4MXhKMm800gFYQVVfeXFMTUJWSUk1QlJFbFpTbVhNQzIyako0UkJVd1RhdkpXWW9XTWN3d1JwYVBmcmV1djE0bWt5U1kzVy0zV185Nms2MUN5dy1FdGhjcDI4TS1seEt5Mg?oc=5",
-   "source": "SBS Biz",
-   "time": "08/10 17:16",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "저가 결제 수요에 반등한 원·달러 환율 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NdzZUSVdhLWJwR1hLc1M4bzRRUEt5eDktRUtkQlVaZHN6SGo2OTg3a09seldQcmxGZmVrY3VvTEF1X1AwSXF1N2kzVU12enNwdUHSAVNBVV95cUxNeHp5d195ay1mZktVTWpoLTNEcGFGSnhsczRSc0x1U0dGUWhYMTByU0V5bGU5QXpsaEpuVVd5dkl4TXIwMEQ0TEtUTE1QRjJOQWUtSQ?oc=5",
-   "source": "서울경제",
-   "time": "08/10 16:51",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "기준금리 인상에 채권시장 위축… 국고채 금리↑채권 발행·거래량↓ - 머니투데이",
@@ -85,6 +77,14 @@
    "time": "08/10 10:48",
    "dir": "up",
    "strength": 2
+  },
+  {
+   "title": "\"환율 하락도 코스닥 유리...이번 주도 코스닥 상승 전망\"",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93aFRRMmgwRG9IaXZIUDJfc3I5bTFrT2U1SDE2c21kd09pWjZQV05QSVpqeWNXQlVCSndYSzZYOXpKWHkzVTQwNTg4dEtteHI1UFNGaVdacnpIMzNGS0E?oc=5",
+   "source": "YTN",
+   "time": "08/09 07:21",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "환율 1,600원 향하다 1,300원대 눈앞…변동성 금융위기 후 최고",
