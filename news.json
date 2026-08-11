@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-11 17:42",
+ "updated": "2026-08-11 19:40",
  "summary": {
   "up": 8,
   "down": 2,
@@ -35,14 +35,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMjBYUXpQZEpyOE56S04ybGFuZU9PMkRvTms1bjdJRGZCYlh4S1dqUlhKU3hISlhNRW91ZHNkZjlFQkprWjBnaTZnaGFMbHNwdGV1X1B5WHhiTV9ZU3hkR9IBeEFVX3lxTE5EYldMWFl1NmM5Q1gwUURDeTZaRVJaRmU0NGp6dTdxOHZ6ZWRnZU5kRS1jbUJwdE53ZEdoZXFnSTRXeDE1emUzMlZyRXlLV3BSY3lvbzBEeWFacF8xczRCTDdDQU5COE1EbEVmZlhKZWdHRFJ3NEtEVQ?oc=5",
    "source": "뉴시스",
    "time": "08/11 10:40",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[포토] 코스피 하락, 원/달러 환율 상승 출발",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CbzJNUDdpalNkd2M3NWllTDBzc1l1dC1XdjlQWEwzdV9FejBsZWt5Sjh1T0hsY0tFZHdEcnpoQUVHLWRLRGV0WnpRSlNoVGwyU2tVVDhTWnJwaFhZWV9DTQ?oc=5",
-   "source": "아시아경제",
-   "time": "08/11 09:28",
    "dir": "up",
    "strength": 1
   },
@@ -83,6 +75,14 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iLW50TGlhVjZubmRpNVlUc3lqdHJia1BheHY3b3BrMDhCN1U0NDlOT3FDbFJ0TjZlVjE5QjRtZUFVb2dfaGhDeHVPRmNSTlE4NXFmTjNHNUJiRWFqcllCRGpfOGtTWFQzQmxWRkhtTWc?oc=5",
    "source": "연합인포맥스",
    "time": "08/10 12:17",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준, 7월 고용 쇼크로 '금리 인상' 카드 치운 건 아니다",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pMlJnY3lZRHNPenBrOVJvbDdXZW1NRFpuTUNwY09SZllkQlQzNFhLZUJWNjJROFlncWtKSXN1Qlo2SjJnU0trbGdkSnRwUXpaa1I4NUdpQ0dTWEJ1d01kUkEzYXRCS0lNajVJZlQ1WmY?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/10 11:16",
    "dir": "up",
    "strength": 1
   },
