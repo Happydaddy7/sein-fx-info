@@ -1,26 +1,34 @@
 {
- "updated": "2026-08-12 07:49",
+ "updated": "2026-08-12 09:58",
  "summary": {
   "up": 8,
-  "down": 1,
-  "neutral": 1
+  "down": 2,
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 1).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "짐 비앙코 \"연준이 패닉해야 채권시장 패닉 멈춰…금리 올려야\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10cHNMaXJvQTR5LTM0YklLQnVITzlqTXNGbkk4c0IwaGU4bzVBVTNBeERQTENHcEJEMFJsa2U3YkktcnNINExNQ0hodUVqLVNPaFNNTzNsUFZNUHIwb0d5WmFtYWF3c1JkdFJYazhiNXg?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/12 05:42",
-   "dir": "neutral",
-   "strength": 0
+   "title": "유가 뛰고 엔화 약세인데…달러·원 환율은 1410원대 초반 하락",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYjZMOWRsUG1xa204OXlPWkxYVVJma1hKTU1BemNrUkdXV0dPZ0VYZEpYd3hDNHkxX0YtU2xzS1VDM3BHTU1lbGRVOEJOLU1xdlZrYlNfcXJrOTDSAWBBVV95cUxNaFotOVd0QzE3ZFRwdGxFM05mZFlTaEZCQmotbnEzNmQ0QWVTVUx2VGxHSDFYem5COW1IWk1iY1pzenYwbXNiZGxaSWxCdnhBNXgwcld4Tk8zcTNDUnJhQ2Q?oc=5",
+   "source": "뉴스1",
+   "time": "08/12 09:32",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 환율 급락에 희비 엇갈리는 제약·바이오",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SSENyMVVmRUwyUEcyUGFpLTc5S0F6UW5hRzZ0WTBMUjdrSTlCbWJpbDJ1eVc1M0VMSk1xUHZJckRRWmRyejFKTDlULW1rVWljTVc5ZXlJR0RpdHJCSGtBMFdQa2E?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "08/11 17:34",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "[외환] '엔화 강세·네고 출회'에 하락…1,410원대 중반 |",
@@ -55,10 +63,10 @@
    "strength": 3
   },
   {
-   "title": "[뉴욕환시] 유가 급등에 달러 강세…엔, '개입 효과' 지우며 급락",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rX1RRMWxpVFJBX1N5bklvRGxiUkdQWUFyVWU1NHd3Mnp0QTVJRWR4SzlHT0ZHbnpCNDB1aVVTYkVCcjRlOWxVSFJ4M1N2Zy1sNi0tR0dMb2p2MDhNcW9hUVFyNGRhM0F5U3l1NHROcnQ?oc=5",
+   "title": "[뉴욕환시] 유가 급등에 달러 강세…엔, '개입 효과' 지우며 급락 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiYm9fUXhyVzVVOEo1V19MaTQ3amFsOTNhT0g3aGFod2NfQU5oY3U0V0xJSnJoMmVwVXB0M2hlRUVQdXNYdmdPWm9saXllZmYxX3daTG9ESjJDbFpWMm9CM25yYkhRZkl4bDZFUEJyMTlwZjFp?oc=5",
    "source": "연합인포맥스",
-   "time": "08/11 07:34",
+   "time": "08/11 07:38",
    "dir": "up",
    "strength": 1
   },
@@ -79,20 +87,12 @@
    "strength": 1
   },
   {
-   "title": "ING \"美 고용, 연준 금리 인상에 심각한 의문 제기\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iLW50TGlhVjZubmRpNVlUc3lqdHJia1BheHY3b3BrMDhCN1U0NDlOT3FDbFJ0TjZlVjE5QjRtZUFVb2dfaGhDeHVPRmNSTlE4NXFmTjNHNUJiRWFqcllCRGpfOGtTWFQzQmxWRkhtTWc?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/10 12:17",
+   "title": "7월 국고채 금리, 환율 상승·외국인 매도에 전반적 상승",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10VXdsS3FITjJiSWhtVDZwSTF2b3ZQTGVkLTYwQy1UNGlVTVhvS2hwVWdlakFraTNkSlFLc2RRWU9uZDZzSG1XeXc1SndBVUFkTmEyRFk0MklmN3PSAWBBVV95cUxOa0NwYWJObFJ1dGpoVVRPdlY5MjYxbnR6V3dYdDJFeF9CWlRGRHViX3lIbE1WQmlrb3Q3cUlRZ3dUcUduNkNWeWRHS1Q5NmdJOE1YZ25kOGRfOEh5VmJvVWY?oc=5",
+   "source": "연합뉴스",
+   "time": "08/10 10:48",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준, 7월 고용 쇼크로 '금리 인상' 카드 치운 건 아니다",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pMlJnY3lZRHNPenBrOVJvbDdXZW1NRFpuTUNwY09SZllkQlQzNFhLZUJWNjJROFlncWtKSXN1Qlo2SjJnU0trbGdkSnRwUXpaa1I4NUdpQ0dTWEJ1d01kUkEzYXRCS0lNajVJZlQ1WmY?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/10 11:16",
-   "dir": "up",
-   "strength": 1
+   "strength": 2
   }
  ]
 }
