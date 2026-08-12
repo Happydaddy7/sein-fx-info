@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 19:49",
+ "updated": "2026-08-13 07:47",
  "summary": {
   "up": 7,
   "down": 3,
@@ -14,6 +14,14 @@
   ]
  },
  "items": [
+  {
+   "title": "힘 빠진 연준 매파, 9월 금리 인상론 후퇴 양상....美 7월 근원물가 전월비 0.2%↑…",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xdGJGZnJDZ2lGbDlpdVFuNVFRRjNDekptcnpZNERfMlM5RFhzak14SXNUdDdpcXVfcDZvTC0yYmFnMC1CcFJrbFI4N3VhWl9WeUdFc3FjOW9ZZw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/13 06:50",
+   "dir": "up",
+   "strength": 3
+  },
   {
    "title": "유가 뛰고 엔화 약세인데…달러·원 환율은 1410원대 초반 하락",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYjZMOWRsUG1xa204OXlPWkxYVVJma1hKTU1BemNrUkdXV0dPZ0VYZEpYd3hDNHkxX0YtU2xzS1VDM3BHTU1lbGRVOEJOLU1xdlZrYlNfcXJrOTDSAWBBVV95cUxNaFotOVd0QzE3ZFRwdGxFM05mZFlTaEZCQmotbnEzNmQ0QWVTVUx2VGxHSDFYem5COW1IWk1iY1pzenYwbXNiZGxaSWxCdnhBNXgwcld4Tk8zcTNDUnJhQ2Q?oc=5",
@@ -44,14 +52,6 @@
    "source": "연합인포맥스",
    "time": "08/11 13:19",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "연준서 커지는 금리 인상론…해맥 \"한 차례로는 부족\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMjBYUXpQZEpyOE56S04ybGFuZU9PMkRvTms1bjdJRGZCYlh4S1dqUlhKU3hISlhNRW91ZHNkZjlFQkprWjBnaTZnaGFMbHNwdGV1X1B5WHhiTV9ZU3hkR9IBeEFVX3lxTE5EYldMWFl1NmM5Q1gwUURDeTZaRVJaRmU0NGp6dTdxOHZ6ZWRnZU5kRS1jbUJwdE53ZEdoZXFnSTRXeDE1emUzMlZyRXlLV3BSY3lvbzBEeWFacF8xczRCTDdDQU5COE1EbEVmZlhKZWdHRFJ3NEtEVQ?oc=5",
-   "source": "뉴시스",
-   "time": "08/11 10:40",
-   "dir": "up",
    "strength": 1
   },
   {
@@ -87,10 +87,10 @@
    "strength": 3
   },
   {
-   "title": "기준금리 인상에 채권시장 위축… 국고채 금리↑채권 발행·거래량↓ - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xWU93TzlHWnhTZ0doY1h4VjlSUEhXWHRQNlk1QjVyMlFhZ3lXTUZhMFluS2k0X1V2RzFUQUpKdnIwVnFVMXhGeXV6X2lXcm5lcXk2aUozS0dHU2hTR0Rsd1RhM3JBNXl10gFuQVVfeXFMTU03ZWczdG5MNTVObzVnd19uRXBhZlo0V3o5WHU5T3FuYjVQZVI2M3RvV19rTWJNOUVrY3p1S1ltZkpFMHJkc1B0bUIyQk5La2lpLUFhcnB0M1N4RnBqN1RHbzcyY0tpTzhrakZMUFE?oc=5",
-   "source": "머니투데이",
-   "time": "08/10 15:42",
+   "title": "엔화 개입·감축 신호·연준 옹호…美 장기금리와의 전쟁 [글로벌 모닝 브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KVU1hX3hlcnhOVjR5LUl0NkdRQjFkRmpqUmdIWWE2M3JoT1N6OUhVNENyLWVlYXVMRTZoc0VXdnphRFpmWjVFRlpnVDZYYnQ3S0HSAVNBVV95cUxQcFotLVRGTl9QMk13Y3JFV3h3Nm1XQTl6aVo2X1g3TkNyMmRvSEJEQUdxYlc3NlpTZXgyY0VLZTZsdDRMdklXNnphUVM3c1E5MFhHVQ?oc=5",
+   "source": "서울경제",
+   "time": "08/11 06:00",
    "dir": "up",
    "strength": 1
   }
