@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-12 09:58",
+ "updated": "2026-08-12 12:53",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -21,6 +21,14 @@
    "time": "08/12 09:32",
    "dir": "up",
    "strength": 1
+  },
+  {
+   "title": "SK하이닉스 ADR이 불붙인 달러 매도…달러 약세 어디까지",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VWTRBZXMyaFB6aXp1UlJTY1E0RXlaenZ1MmlFemZINW9oU2xPVWxxTW5vLVNVLW5mRGEzYzh6TkV1cUdGbHhidm9pMEpGdXNTYkFTcA?oc=5",
+   "source": "매일경제",
+   "time": "08/12 09:12",
+   "dir": "down",
+   "strength": 2
   },
   {
    "title": "원·달러 환율 급락에 희비 엇갈리는 제약·바이오",
@@ -77,14 +85,6 @@
    "time": "08/11 06:09",
    "dir": "up",
    "strength": 3
-  },
-  {
-   "title": "기준금리 인상에 채권시장 위축… 국고채 금리↑채권 발행·거래량↓ - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xWU93TzlHWnhTZ0doY1h4VjlSUEhXWHRQNlk1QjVyMlFhZ3lXTUZhMFluS2k0X1V2RzFUQUpKdnIwVnFVMXhGeXV6X2lXcm5lcXk2aUozS0dHU2hTR0Rsd1RhM3JBNXl10gFuQVVfeXFMTU03ZWczdG5MNTVObzVnd19uRXBhZlo0V3o5WHU5T3FuYjVQZVI2M3RvV19rTWJNOUVrY3p1S1ltZkpFMHJkc1B0bUIyQk5La2lpLUFhcnB0M1N4RnBqN1RHbzcyY0tpTzhrakZMUFE?oc=5",
-   "source": "머니투데이",
-   "time": "08/10 15:42",
-   "dir": "up",
-   "strength": 1
   },
   {
    "title": "7월 국고채 금리, 환율 상승·외국인 매도에 전반적 상승",
