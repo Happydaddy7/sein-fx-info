@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 12:53",
+ "updated": "2026-08-12 14:22",
  "summary": {
   "up": 7,
   "down": 3,
@@ -55,14 +55,6 @@
    "strength": 1
   },
   {
-   "title": "[포토] 코스피 하락, 원/달러 환율 상승 출발",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CbzJNUDdpalNkd2M3NWllTDBzc1l1dC1XdjlQWEwzdV9FejBsZWt5Sjh1T0hsY0tFZHdEcnpoQUVHLWRLRGV0WnpRSlNoVGwyU2tVVDhTWnJwaFhZWV9DTQ?oc=5",
-   "source": "아시아경제",
-   "time": "08/11 09:28",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "'연준 매파' 해맥 \"금리 인상 '몇번' 필요…어디서 끝날지 몰라\"(상보)",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xOVVLU0pOZDNReGVpdE1QTVhQM0lUZUJ3dFNsVXRfSTlBd29DbXNLcnBDVi1ySkN6RlA4Ny12dVBWVU1ENk9sMVdRR0tLM1U0clJoUzV1T3R2b2hwTm5XNVVza1ZNN29STjJ3eFNGMFA?oc=5",
    "source": "연합인포맥스",
@@ -71,10 +63,10 @@
    "strength": 3
   },
   {
-   "title": "[뉴욕환시] 유가 급등에 달러 강세…엔, '개입 효과' 지우며 급락 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiYm9fUXhyVzVVOEo1V19MaTQ3amFsOTNhT0g3aGFod2NfQU5oY3U0V0xJSnJoMmVwVXB0M2hlRUVQdXNYdmdPWm9saXllZmYxX3daTG9ESjJDbFpWMm9CM25yYkhRZkl4bDZFUEJyMTlwZjFp?oc=5",
+   "title": "[뉴욕환시] 유가 급등에 달러 강세…엔, '개입 효과' 지우며 급락",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rX1RRMWxpVFJBX1N5bklvRGxiUkdQWUFyVWU1NHd3Mnp0QTVJRWR4SzlHT0ZHbnpCNDB1aVVTYkVCcjRlOWxVSFJ4M1N2Zy1sNi0tR0dMb2p2MDhNcW9hUVFyNGRhM0F5U3l1NHROcnQ?oc=5",
    "source": "연합인포맥스",
-   "time": "08/11 07:38",
+   "time": "08/11 07:34",
    "dir": "up",
    "strength": 1
   },
@@ -87,12 +79,20 @@
    "strength": 3
   },
   {
-   "title": "7월 국고채 금리, 환율 상승·외국인 매도에 전반적 상승",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10VXdsS3FITjJiSWhtVDZwSTF2b3ZQTGVkLTYwQy1UNGlVTVhvS2hwVWdlakFraTNkSlFLc2RRWU9uZDZzSG1XeXc1SndBVUFkTmEyRFk0MklmN3PSAWBBVV95cUxOa0NwYWJObFJ1dGpoVVRPdlY5MjYxbnR6V3dYdDJFeF9CWlRGRHViX3lIbE1WQmlrb3Q3cUlRZ3dUcUduNkNWeWRHS1Q5NmdJOE1YZ25kOGRfOEh5VmJvVWY?oc=5",
-   "source": "연합뉴스",
-   "time": "08/10 10:48",
+   "title": "기준금리 인상에 채권시장 위축… 국고채 금리↑채권 발행·거래량↓ - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xWU93TzlHWnhTZ0doY1h4VjlSUEhXWHRQNlk1QjVyMlFhZ3lXTUZhMFluS2k0X1V2RzFUQUpKdnIwVnFVMXhGeXV6X2lXcm5lcXk2aUozS0dHU2hTR0Rsd1RhM3JBNXl10gFuQVVfeXFMTU03ZWczdG5MNTVObzVnd19uRXBhZlo0V3o5WHU5T3FuYjVQZVI2M3RvV19rTWJNOUVrY3p1S1ltZkpFMHJkc1B0bUIyQk5La2lpLUFhcnB0M1N4RnBqN1RHbzcyY0tpTzhrakZMUFE?oc=5",
+   "source": "머니투데이",
+   "time": "08/10 15:42",
    "dir": "up",
-   "strength": 2
+   "strength": 1
+  },
+  {
+   "title": "ING \"美 고용, 연준 금리 인상에 심각한 의문 제기\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iLW50TGlhVjZubmRpNVlUc3lqdHJia1BheHY3b3BrMDhCN1U0NDlOT3FDbFJ0TjZlVjE5QjRtZUFVb2dfaGhDeHVPRmNSTlE4NXFmTjNHNUJiRWFqcllCRGpfOGtTWFQzQmxWRkhtTWc?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/10 12:17",
+   "dir": "up",
+   "strength": 1
   }
  ]
 }
