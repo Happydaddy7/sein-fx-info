@@ -1,19 +1,27 @@
 {
- "updated": "2026-08-13 14:37",
+ "updated": "2026-08-13 16:09",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "BofA \"美 7월 CPI 둔화에도 연준 3차례 금리 인상 전망 유지\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLQkVvLVQ1T0g2bzh0eE9lRmxCSU00S3ZpRnpSejVnSVkyOHNpbmRQMkdXZlEzUl92V09wd1dnTjVzMzZLTmhpNWxjdWdsZmItaHB2T0Y3NTAzaV9keUVzbFlYeFZna2wtRWNGaU0zeTg?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/13 12:33",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "채권분석가가 본 AI투자…\"연준 금리 인상에 가장 먼저 유탄\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QTENPVTFIRUF1NmpHWTI4YU1tT1hsT3JjVy1TU3pmRF84bmpsYjUtcmxjWVNhM1kxM09VcVRfQnA1RjBYd0toMFNOaXlkTWpES1FqMzFTZzM1Y3VOLXdaSkZxNVNRcTRkeURZd19TRWE?oc=5",
@@ -31,12 +39,12 @@
    "strength": 1
   },
   {
-   "title": "힘 빠진 연준 매파, 9월 금리 인상론 후퇴 양상....美 7월 근원물가 전월비 0.2%↑…",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xdGJGZnJDZ2lGbDlpdVFuNVFRRjNDekptcnpZNERfMlM5RFhzak14SXNUdDdpcXVfcDZvTC0yYmFnMC1CcFJrbFI4N3VhWl9WeUdFc3FjOW9ZZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/13 06:50",
+   "title": "美 7월 근원물가 전월비 0.2%↑…연준 매파, 9월 앞두고 한발 밀렸다",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGEwUzhNUmJsU25hMHlnczlwSkx5NWNSTVdoampfOFRNTEdPbUtwNHZpVTVjajl5WVRMejQ4UHk1RGlzdGlxdHEtSmxET2MxSENOY0lBa1ljS0NBZ1Y3bNIBeEFVX3lxTE5JZTJzeGNmNHJ3QkdCRWxibXNUcGJuYmdlSE9KUDBfeGZubEQtVzNvb0VjTUZUT1ZRRUZYbWZyYnc0NEZCcS1RRGlYOTdPdjZ5cWJfZV90LS1WYnphQ1JjZk9hNWxkdVNwd2pLcWVOYXcyXzZXMGZYNg?oc=5",
+   "source": "뉴시스",
+   "time": "08/13 06:00",
    "dir": "up",
-   "strength": 3
+   "strength": 2
   },
   {
    "title": "환율 나흘째 1,410원대…수출기업 달러 매도·저가 매수 팽팽",
@@ -67,14 +75,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SSENyMVVmRUwyUEcyUGFpLTc5S0F6UW5hRzZ0WTBMUjdrSTlCbWJpbDJ1eVc1M0VMSk1xUHZJckRRWmRyejFKTDlULW1rVWljTVc5ZXlJR0RpdHJCSGtBMFdQa2E?oc=5",
    "source": "MTN 머니투데이방송",
    "time": "08/11 17:34",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[외환] '엔화 강세·네고 출회'에 하락…1,410원대 중반 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51V21Wc0ZoaXVycklxTkZkWGJsQVRoWFd0MUNnRVNvZnY1ZEpSaFREZVdrT1p1eThYYTRNSkhKQXliY1ZfTFNsVUltV0U3RUpvSTIzYlRiRWtVaXk4dk1WVWNpZXBFQjZkN1NROVV2bjNIX204?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/11 13:19",
    "dir": "down",
    "strength": 1
   },
