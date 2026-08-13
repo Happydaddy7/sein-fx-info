@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13 10:00",
+ "updated": "2026-08-13 12:58",
  "summary": {
   "up": 7,
   "down": 3,
@@ -14,6 +14,22 @@
   ]
  },
  "items": [
+  {
+   "title": "환율 하락 속 원화 변동성은 더 커져, 세계 최고 수준",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlMTZqd2JjekY0Y1Mzb3hyOTVjb0xSOXF5ZWk5cGhQdUhZQ0VmbXRyRERsbGpVOGEwem1iSjVWcXJXTWxmTnAtWldiSkxWQmpMZmZqT1ZEbUp6aHZOdTkxQWw5Qnl6Zm5ENnlkQTRpVlptZw?oc=5",
+   "source": "한겨레",
+   "time": "08/13 12:00",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "채권분석가가 본 AI투자…\"연준 금리 인상에 가장 먼저 유탄\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QTENPVTFIRUF1NmpHWTI4YU1tT1hsT3JjVy1TU3pmRF84bmpsYjUtcmxjWVNhM1kxM09VcVRfQnA1RjBYd0toMFNOaXlkTWpES1FqMzFTZzM1Y3VOLXdaSkZxNVNRcTRkeURZd19TRWE?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/13 10:13",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "[뉴욕환시] 달러 상승…美 물가 안도감 가린 호르무즈 불확실성 |",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91WmEzM2NBVXVTc2hkYmRmY0xXQ3IwZXd2eGo1MGZyUnJ6ZExTQUhDUzdOaHhVZm80cG5OR3F5WGk1SjhGV3ZoRC1FWGRBQUhmUDl1c2VZb3NlclAzalVDUkZRNlhvUXlxbTQ3VVZxRjBJcTBk?oc=5",
@@ -39,11 +55,19 @@
    "strength": 2
   },
   {
-   "title": "유가 뛰고 엔화 약세인데…달러·원 환율은 1410원대 초반 하락",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MYjZMOWRsUG1xa204OXlPWkxYVVJma1hKTU1BemNrUkdXV0dPZ0VYZEpYd3hDNHkxX0YtU2xzS1VDM3BHTU1lbGRVOEJOLU1xdlZrYlNfcXJrOTDSAWBBVV95cUxNaFotOVd0QzE3ZFRwdGxFM05mZFlTaEZCQmotbnEzNmQ0QWVTVUx2VGxHSDFYem5COW1IWk1iY1pzenYwbXNiZGxaSWxCdnhBNXgwcld4Tk8zcTNDUnJhQ2Q?oc=5",
-   "source": "뉴스1",
-   "time": "08/12 09:32",
+   "title": "“물가가 더 문제”…연준서 매파 목소리 커졌다",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZdFNwTWhUU3NfT0JBQXRfRmM5aFI1dV9QM2p2N3B3VzBxdWd1WUt4dGp4SEpydDdHamxlbW1uUm50enNXLTRmcjAyc2UtU0ltQVHSAVNBVV95cUxPMThSeHRsVEZ4YlY2UmhrQ3VJQTF1bjZIOUJVUDZVTGlTRWVaMS01R0UwOUtRc05ES1hENXEwenpBYkdsUlN1UXZXdXgzS01OQVQwdw?oc=5",
+   "source": "서울경제",
+   "time": "08/12 17:55",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 나흘째 1,410원대…수출기업 달러 매도·저가 매수 팽팽",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kbGVoSmllYUxhQ0phb1h3LVFnSjlTemplZi1uWDNfZk01Z2lBUHFfRUwxcGdjazJsaDNvOXhoXzN2VGlSbUU0U2FrVzI2Yk1OaFFFOWJiQjhFUG_SAWBBVV95cUxPTTNGVlJVSm9pcURneG9kZXJWS1NSYUNZUGh1ZlVFUnFLNk5VMzRmbHRfSU5qS1liMHR3MXp0OWJ4N1B2eFExZS1kbXVkeHNYdl9JTVhxTUFOVkUzbXJBVUg?oc=5",
+   "source": "연합뉴스",
+   "time": "08/12 16:01",
+   "dir": "down",
    "strength": 1
   },
   {
@@ -53,30 +77,6 @@
    "time": "08/12 09:12",
    "dir": "down",
    "strength": 2
-  },
-  {
-   "title": "원·달러 환율 급락에 희비 엇갈리는 제약·바이오",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SSENyMVVmRUwyUEcyUGFpLTc5S0F6UW5hRzZ0WTBMUjdrSTlCbWJpbDJ1eVc1M0VMSk1xUHZJckRRWmRyejFKTDlULW1rVWljTVc5ZXlJR0RpdHJCSGtBMFdQa2E?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "08/11 17:34",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[외환] '엔화 강세·네고 출회'에 하락…1,410원대 중반 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51V21Wc0ZoaXVycklxTkZkWGJsQVRoWFd0MUNnRVNvZnY1ZEpSaFREZVdrT1p1eThYYTRNSkhKQXliY1ZfTFNsVUltV0U3RUpvSTIzYlRiRWtVaXk4dk1WVWNpZXBFQjZkN1NROVV2bjNIX204?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/11 13:19",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[포토] 코스피 하락, 원/달러 환율 상승 출발",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CbzJNUDdpalNkd2M3NWllTDBzc1l1dC1XdjlQWEwzdV9FejBsZWt5Sjh1T0hsY0tFZHdEcnpoQUVHLWRLRGV0WnpRSlNoVGwyU2tVVDhTWnJwaFhZWV9DTQ?oc=5",
-   "source": "아시아경제",
-   "time": "08/11 09:28",
-   "dir": "up",
-   "strength": 1
   },
   {
    "title": "'연준 매파' 해맥 \"금리 인상 '몇번' 필요…어디서 끝날지 몰라\"(상보)",
