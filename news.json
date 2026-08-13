@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-13 07:47",
+ "updated": "2026-08-13 10:00",
  "summary": {
   "up": 7,
   "down": 3,
@@ -15,12 +15,28 @@
  },
  "items": [
   {
+   "title": "[뉴욕환시] 달러 상승…美 물가 안도감 가린 호르무즈 불확실성 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91WmEzM2NBVXVTc2hkYmRmY0xXQ3IwZXd2eGo1MGZyUnJ6ZExTQUhDUzdOaHhVZm80cG5OR3F5WGk1SjhGV3ZoRC1FWGRBQUhmUDl1c2VZb3NlclAzalVDUkZRNlhvUXlxbTQ3VVZxRjBJcTBk?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/13 07:27",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "힘 빠진 연준 매파, 9월 금리 인상론 후퇴 양상....美 7월 근원물가 전월비 0.2%↑…",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xdGJGZnJDZ2lGbDlpdVFuNVFRRjNDekptcnpZNERfMlM5RFhzak14SXNUdDdpcXVfcDZvTC0yYmFnMC1CcFJrbFI4N3VhWl9WeUdFc3FjOW9ZZw?oc=5",
    "source": "파이낸셜뉴스",
    "time": "08/13 06:50",
    "dir": "up",
    "strength": 3
+  },
+  {
+   "title": "美 7월 근원물가 전월비 0.2%↑…연준 매파, 9월 앞두고 한발 밀렸다",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KdGEwUzhNUmJsU25hMHlnczlwSkx5NWNSTVdoampfOFRNTEdPbUtwNHZpVTVjajl5WVRMejQ4UHk1RGlzdGlxdHEtSmxET2MxSENOY0lBa1ljS0NBZ1Y3bNIBeEFVX3lxTE5JZTJzeGNmNHJ3QkdCRWxibXNUcGJuYmdlSE9KUDBfeGZubEQtVzNvb0VjTUZUT1ZRRUZYbWZyYnc0NEZCcS1RRGlYOTdPdjZ5cWJfZV90LS1WYnphQ1JjZk9hNWxkdVNwd2pLcWVOYXcyXzZXMGZYNg?oc=5",
+   "source": "뉴시스",
+   "time": "08/13 06:00",
+   "dir": "up",
+   "strength": 2
   },
   {
    "title": "유가 뛰고 엔화 약세인데…달러·원 환율은 1410원대 초반 하락",
@@ -71,28 +87,12 @@
    "strength": 3
   },
   {
-   "title": "[뉴욕환시] 유가 급등에 달러 강세…엔, '개입 효과' 지우며 급락",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rX1RRMWxpVFJBX1N5bklvRGxiUkdQWUFyVWU1NHd3Mnp0QTVJRWR4SzlHT0ZHbnpCNDB1aVVTYkVCcjRlOWxVSFJ4M1N2Zy1sNi0tR0dMb2p2MDhNcW9hUVFyNGRhM0F5U3l1NHROcnQ?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/11 07:34",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "'연준 매파' 해맥 \"금리 인상 '몇번' 필요…어디서 끝날지 몰라\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvZmhQa2ROa3dybzJyZFl3bkNVTGVEX2dlOXgycjZTSlFpNEJoaHJoX0kzNDd0c2Nraks4TFVaNnE0VlNYc3YwdkNLRDVNUVlrSU9WM0lUSFBDQWhycnBCaFE4RE5tejFadkdUTE1wSEo?oc=5",
    "source": "연합인포맥스",
    "time": "08/11 06:09",
    "dir": "up",
    "strength": 3
-  },
-  {
-   "title": "엔화 개입·감축 신호·연준 옹호…美 장기금리와의 전쟁 [글로벌 모닝 브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KVU1hX3hlcnhOVjR5LUl0NkdRQjFkRmpqUmdIWWE2M3JoT1N6OUhVNENyLWVlYXVMRTZoc0VXdnphRFpmWjVFRlpnVDZYYnQ3S0HSAVNBVV95cUxQcFotLVRGTl9QMk13Y3JFV3h3Nm1XQTl6aVo2X1g3TkNyMmRvSEJEQUdxYlc3NlpTZXgyY0VLZTZsdDRMdklXNnphUVM3c1E5MFhHVQ?oc=5",
-   "source": "서울경제",
-   "time": "08/11 06:00",
-   "dir": "up",
-   "strength": 1
   }
  ]
 }
