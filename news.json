@@ -1,27 +1,19 @@
 {
- "updated": "2026-08-14 07:48",
+ "updated": "2026-08-14 09:59",
  "summary": {
-  "up": 6,
-  "down": 3,
-  "neutral": 1
+  "up": 8,
+  "down": 2,
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 3).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
-  {
-   "title": "환율 널뛰기에 中企 셈법 복잡…\"소기업일수록 환리스크 대응 취약\"",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qc29oMC1nOEVEeE1tbG9nUXJfWFAteHBPVTBFX2NvbXZpdXFkMS1uVGNfQlpYMl9PU21FNDZnZ0J0RHh4T2tNaWZiNlZjaDdTZG8ycGlQRW9ZcGJj0gFiQVVfeXFMTUI1ejZRa0NwTkJWTmJvNVM0Qnc3bVFFZ0hDUTRPZ1RuWnV6UTE5bU1tRWYzSWd4NEJlelpwekVJZTM2ZGFoRGVpb01mX2k4T2gzbjloMzAzMzZkbDU5eDBiQ2c?oc=5",
-   "source": "뉴스1",
-   "time": "08/14 06:05",
-   "dir": "neutral",
-   "strength": 0
-  },
   {
    "title": "원·달러 환율, 사흘 만에 반등…결제수요·달러 강세 영향 [김혜란의 FX]",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VMy15cUNOcG1CNTFZVExIcGxQYWFrak1ETHlhNVdrZkNCTHRBdGhaNTRWTDFXZmpnN04zN2p4U0Q5blFtdWktS1FzeFBRRndLd0HSAVNBVV95cUxOMVlfdlUwQ1EybW40ZFJWZmlmcXlHVDZsbmg2T2g0YzdlZkp2ODhGTFc1U3JjUkUzZ0lILXZHekI2R1d3Z1NHeG54ZG02R0RGS0dsbw?oc=5",
@@ -35,6 +27,22 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kWExmT19VQlp4a0xHZTlUSVY0Nk1YQlNENWhmZkllSkp5VWJfaW04ampYZnd4bTlZUUhGYjYwdjVUdURydmY5cGR3NXB3TnRQMXc?oc=5",
    "source": "매일경제 마켓",
    "time": "08/13 16:07",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "BofA \"美 7월 CPI 둔화에도 연준 3차례 금리 인상 전망 유지\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLQkVvLVQ1T0g2bzh0eE9lRmxCSU00S3ZpRnpSejVnSVkyOHNpbmRQMkdXZlEzUl92V09wd1dnTjVzMzZLTmhpNWxjdWdsZmItaHB2T0Y3NTAzaV9keUVzbFlYeFZna2wtRWNGaU0zeTg?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/13 12:33",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "채권분석가가 본 AI투자…\"연준 금리 인상에 가장 먼저 유탄\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QTENPVTFIRUF1NmpHWTI4YU1tT1hsT3JjVy1TU3pmRF84bmpsYjUtcmxjWVNhM1kxM09VcVRfQnA1RjBYd0toMFNOaXlkTWpES1FqMzFTZzM1Y3VOLXdaSkZxNVNRcTRkeURZd19TRWE?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/13 10:13",
    "dir": "up",
    "strength": 1
   },
@@ -60,14 +68,6 @@
    "source": "서울경제",
    "time": "08/12 17:55",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 나흘째 1,410원대…수출기업 달러 매도·저가 매수 팽팽",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kbGVoSmllYUxhQ0phb1h3LVFnSjlTemplZi1uWDNfZk01Z2lBUHFfRUwxcGdjazJsaDNvOXhoXzN2VGlSbUU0U2FrVzI2Yk1OaFFFOWJiQjhFUG_SAWBBVV95cUxPTTNGVlJVSm9pcURneG9kZXJWS1NSYUNZUGh1ZlVFUnFLNk5VMzRmbHRfSU5qS1liMHR3MXp0OWJ4N1B2eFExZS1kbXVkeHNYdl9JTVhxTUFOVkUzbXJBVUg?oc=5",
-   "source": "연합뉴스",
-   "time": "08/12 16:01",
-   "dir": "down",
    "strength": 1
   },
   {
