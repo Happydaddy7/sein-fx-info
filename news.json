@@ -1,22 +1,46 @@
 {
- "updated": "2026-08-14 17:56",
+ "updated": "2026-08-14 19:47",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 6 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
+   "title": "“기준금리 인상 사이클 진입”…주담대 자본규제 겹쳐 더 오를 듯",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYZG9xWDc5YlprbmFqakJLT2FhR1QtbUVtRkJ1QTZvMUVaVm52ZnMtWU94YmJjd3N1NmxJVlRaYlNyTVZ4ZEx4aGZhWXJ1RzlUa0E?oc=5",
+   "source": "서울경제",
+   "time": "08/14 17:58",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 물가 우려 완화에 달러 약세…환율 이번주 내내 1410원대",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRENBYVZ2MFlxQUlxTjFNNXpndmVyZHFicy10OTU5elgwd3J3c1M4Yk5BLTR3X0tqQmFIQ1NDNTNmMmhoZ1VBbV9XeTlVSWZvek1Z0gFYQVVfeXFMUFh6RkdyUTdKUHJWbUZTdEV2Uml5MWxybFg1Vjd1SVNqT25oNnFVWjFtQ1VwX2hOdU5MNG1EdThZWFAwelY3alVUcXdPRnRDV0ZmU0RqaWZnUA?oc=5",
+   "source": "SBS Biz",
+   "time": "08/14 16:42",
+   "dir": "down",
+   "strength": 2
+  },
+  {
+   "title": "되살아난 외국인 매수세…美 연준 '금리인상 3표' 의사록 초점 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVQ1R6TFJOaE01UXRYZG5VWUNVS2V5Z19hQldHNDREUjNBZmRGanRIcHhyTmU2Z2R6U2hRWFMzcXdSLWc4NnFRLTlQUWowTGlBTlliNzFPeUM4V0VJM3JSRXo3ZV95aVVYSWNkS0pB0gFuQVVfeXFMUFVDVHpMUk5oTTVRdFhkblVZQ1VLZXlnX2FCV0c0NERSM0FmZEZqdEhweHJOZTZnZHpTaFFYUzNxd1ItZzg2cVEtOVBRajBMaUFOWWI3MU95QzhXRUkzclJFejdlX3lpVVhJY2RLSkE?oc=5",
+   "source": "머니투데이",
+   "time": "08/14 16:29",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "미국 인플레 우려 완화에 달러 약세…환율 6거래일째 1,410원대",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aMTJramNCMkpJeHZYSGJta3VBY0hsYWVxVmwzMWhTR21zNTljcENLc2pKb0lwZzR1NU5EWVBJMUVPanpObEU5X2JhaUNRSWtHM0d6TnVaY0VBZC1oMldkU9IBYEFVX3lxTE1aMTJramNCMkpJeHZYSGJta3VBY0hsYWVxVmwzMWhTR21zNTljcENLc2pKb0lwZzR1NU5EWVBJMUVPanpObEU5X2JhaUNRSWtHM0d6TnVaY0VBZC1oMldkUw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55U1ZNa0RpVEVKR0xYbVJveEZqT0ExSmY0STRyOGNlWmstdExhNkVqWHlRZS1weUNrUy1PV0NvZU1hcVQ2eFdUNFlzN3c5OEJqWjBYcl9LOW1mbUnSAWBBVV95cUxNWjEya2pjQjJKSXh2WEhibWt1QWNIbGFlcVZsMzFoU0dtczU5Y3BDS3NqSm9JcGc0dTVORFlQSTFFT2p6TmxFOV9iYWlDUUlrRzNHek51WmNFQWQtaDJXZFM?oc=5",
    "source": "연합뉴스",
    "time": "08/14 15:46",
    "dir": "down",
@@ -43,30 +67,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kWExmT19VQlp4a0xHZTlUSVY0Nk1YQlNENWhmZkllSkp5VWJfaW04ampYZnd4bTlZUUhGYjYwdjVUdURydmY5cGR3NXB3TnRQMXc?oc=5",
    "source": "매일경제 마켓",
    "time": "08/13 16:07",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "BofA \"美 7월 CPI 둔화에도 연준 3차례 금리 인상 전망 유지\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLQkVvLVQ1T0g2bzh0eE9lRmxCSU00S3ZpRnpSejVnSVkyOHNpbmRQMkdXZlEzUl92V09wd1dnTjVzMzZLTmhpNWxjdWdsZmItaHB2T0Y3NTAzaV9keUVzbFlYeFZna2wtRWNGaU0zeTg?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/13 12:33",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "채권분석가가 본 AI투자…\"연준 금리 인상에 가장 먼저 유탄\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QTENPVTFIRUF1NmpHWTI4YU1tT1hsT3JjVy1TU3pmRF84bmpsYjUtcmxjWVNhM1kxM09VcVRfQnA1RjBYd0toMFNOaXlkTWpES1FqMzFTZzM1Y3VOLXdaSkZxNVNRcTRkeURZd19TRWE?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/13 10:13",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[뉴욕환시] 달러 상승…美 물가 안도감 가린 호르무즈 불확실성 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91WmEzM2NBVXVTc2hkYmRmY0xXQ3IwZXd2eGo1MGZyUnJ6ZExTQUhDUzdOaHhVZm80cG5OR3F5WGk1SjhGV3ZoRC1FWGRBQUhmUDl1c2VZb3NlclAzalVDUkZRNlhvUXlxbTQ3VVZxRjBJcTBk?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/13 07:27",
    "dir": "up",
    "strength": 1
   },
