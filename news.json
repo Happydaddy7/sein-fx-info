@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14 16:06",
+ "updated": "2026-08-14 17:56",
  "summary": {
   "up": 8,
   "down": 2,
@@ -14,6 +14,14 @@
   ]
  },
  "items": [
+  {
+   "title": "미국 인플레 우려 완화에 달러 약세…환율 6거래일째 1,410원대",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aMTJramNCMkpJeHZYSGJta3VBY0hsYWVxVmwzMWhTR21zNTljcENLc2pKb0lwZzR1NU5EWVBJMUVPanpObEU5X2JhaUNRSWtHM0d6TnVaY0VBZC1oMldkU9IBYEFVX3lxTE1aMTJramNCMkpJeHZYSGJta3VBY0hsYWVxVmwzMWhTR21zNTljcENLc2pKb0lwZzR1NU5EWVBJMUVPanpObEU5X2JhaUNRSWtHM0d6TnVaY0VBZC1oMldkUw?oc=5",
+   "source": "연합뉴스",
+   "time": "08/14 15:46",
+   "dir": "down",
+   "strength": 2
+  },
   {
    "title": "美 7월 CPI 둔화에도...BofA “연준 3차례 금리 인상 전망”",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VX05jUHItSmkzdjJ2dXZ6OXlFY1c4bTE3bTZvdnFUNUQ1TklLLXZGc3JFSV9lVkdUazRTTkJ1cjBIVVdTWndzeHNaWmVsRmM?oc=5",
@@ -55,6 +63,14 @@
    "strength": 1
   },
   {
+   "title": "[뉴욕환시] 달러 상승…美 물가 안도감 가린 호르무즈 불확실성 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91WmEzM2NBVXVTc2hkYmRmY0xXQ3IwZXd2eGo1MGZyUnJ6ZExTQUhDUzdOaHhVZm80cG5OR3F5WGk1SjhGV3ZoRC1FWGRBQUhmUDl1c2VZb3NlclAzalVDUkZRNlhvUXlxbTQ3VVZxRjBJcTBk?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/13 07:27",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "힘 빠진 연준 매파, 9월 금리 인상론 후퇴 양상....美 7월 근원물가 전월비 0.2%↑…",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xdGJGZnJDZ2lGbDlpdVFuNVFRRjNDekptcnpZNERfMlM5RFhzak14SXNUdDdpcXVfcDZvTC0yYmFnMC1CcFJrbFI4N3VhWl9WeUdFc3FjOW9ZZw?oc=5",
    "source": "파이낸셜뉴스",
@@ -69,22 +85,6 @@
    "time": "08/13 06:00",
    "dir": "up",
    "strength": 2
-  },
-  {
-   "title": "“물가가 더 문제”…연준서 매파 목소리 커졌다",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZdFNwTWhUU3NfT0JBQXRfRmM5aFI1dV9QM2p2N3B3VzBxdWd1WUt4dGp4SEpydDdHamxlbW1uUm50enNXLTRmcjAyc2UtU0ltQVHSAVNBVV95cUxPMThSeHRsVEZ4YlY2UmhrQ3VJQTF1bjZIOUJVUDZVTGlTRWVaMS01R0UwOUtRc05ES1hENXEwenpBYkdsUlN1UXZXdXgzS01OQVQwdw?oc=5",
-   "source": "서울경제",
-   "time": "08/12 17:55",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 나흘째 1,410원대…수출기업 달러 매도·저가 매수 팽팽",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kbGVoSmllYUxhQ0phb1h3LVFnSjlTemplZi1uWDNfZk01Z2lBUHFfRUwxcGdjazJsaDNvOXhoXzN2VGlSbUU0U2FrVzI2Yk1OaFFFOWJiQjhFUG_SAWBBVV95cUxPTTNGVlJVSm9pcURneG9kZXJWS1NSYUNZUGh1ZlVFUnFLNk5VMzRmbHRfSU5qS1liMHR3MXp0OWJ4N1B2eFExZS1kbXVkeHNYdl9JTVhxTUFOVkUzbXJBVUg?oc=5",
-   "source": "연합뉴스",
-   "time": "08/12 16:01",
-   "dir": "down",
-   "strength": 1
   },
   {
    "title": "SK하이닉스 ADR이 불붙인 달러 매도…달러 약세 어디까지",
