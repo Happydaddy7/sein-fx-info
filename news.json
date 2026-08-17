@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-17 17:29",
+ "updated": "2026-08-17 19:20",
  "summary": {
-  "up": 3,
+  "up": 2,
   "down": 0,
-  "neutral": 7
+  "neutral": 8
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 3 vs 하락 0).",
+   "상승요인 우세 (상승 2 vs 하락 0).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -63,18 +63,18 @@
    "strength": 0
   },
   {
-   "title": "[글로벌 경제지표] 美연준 FOMC 의사록 관건…월마트 실적 주목",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vallObndaMUVXNWdOdmVZdnRhcWxoR0tob2pnOV9mVVJBRUp2Rzk3dl9NNmFXYVYyQXJEWEtwSzVEX2E1Tm1XLU9obDdSU3laLVRN0gFYQVVfeXFMT2hWV1NfMW5SSW9SQi1hVUJTRVFmMWw3eUdWak1hTFpMbWd2dGstalBFY050N2gta1JSOHRfd2JyOURBdzVLY0s4VXA3RTE1WUYwNkF2cXJNdw?oc=5",
-   "source": "SBS Biz",
-   "time": "08/16 07:00",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "[뉴욕마켓워치] 소비가 부진해도 금리가 오르네…주식·채권·달러 '트리플 약세'",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ub0tKaWFlOFhDMEtmMEppc2taNkVsX0JBa2JHUUpqQW9NZmZnaXVsRVdYVWY0eXo4QTFwa0xqbTYxX2t2LWhDYkFBTUxxb0xua2Jwb0VXSENzY0VzbW5fdmtKOGlHRVluVmU0MkJ4MlU?oc=5",
    "source": "연합인포맥스",
    "time": "08/15 08:10",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "1600원 넘보던 환율, 150원 급락… 對美투자 늘면 다시 뛸 수도",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SZFZkS2tQSmVWb2t0MEtRaF8wSlJwV0t1SHhIMWN1cTVhYUN6ZEczcmhCX1I5SldmcDBteENma0pCUjJaRFZtamprUV9HZFlvZWZJaFBOdGdEdkNRZ0kyNjdnN2hKY2p3TGx2VmdKMk9iazhXLWfSAWZBVV95cUxONDhBc1dLeXVpakMwT2VUTmJ2WkRhTlNGSG1JTHEwM0gyMDRwcVRKbjVwSjhNQWU4WVlsaUM1WGo0MUJVVk45YW1udnE4bVctMlBweWw1NGJEMm5YU1V5MUZidEVVTHc?oc=5",
+   "source": "동아일보",
+   "time": "08/15 01:40",
    "dir": "neutral",
    "strength": 0
   },
@@ -87,12 +87,12 @@
    "strength": 1
   },
   {
-   "title": "“기준금리 인상 사이클 진입”…주담대 자본규제 겹쳐 더 오를 듯",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYZG9xWDc5YlprbmFqakJLT2FhR1QtbUVtRkJ1QTZvMUVaVm52ZnMtWU94YmJjd3N1NmxJVlRaYlNyTVZ4ZEx4aGZhWXJ1RzlUa0E?oc=5",
-   "source": "서울경제",
-   "time": "08/14 17:58",
-   "dir": "up",
-   "strength": 1
+   "title": "미 달러화 약세…연준 금리인상 베팅 약화 속 파운드 강세",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1idkV5QmhwQ19CWGZDWmhXYVFReDlOQ0pfNTNPSDg2dFM0amlwQk1xczk5cTBoeTUxR3FCQ2d2bHU2NWc4Z1Vpam1YU1N3djV2enVoWGtRZVpDY0dsUWc4WTNvbzY0c1h0cUF2RndkT1c?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/14 22:38",
+   "dir": "neutral",
+   "strength": 0
   }
  ]
 }
