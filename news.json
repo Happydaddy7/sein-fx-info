@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-17 19:20",
+ "updated": "2026-08-18 07:28",
  "summary": {
-  "up": 2,
+  "up": 1,
   "down": 0,
-  "neutral": 8
+  "neutral": 6
  },
  "outlook": {
-  "dir": "up",
+  "dir": "neutral",
   "lines": [
-   "상승요인 우세 (상승 2 vs 하락 0).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "상승·하락 요인 혼재 (상승 1 vs 하락 0).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
@@ -67,30 +67,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ub0tKaWFlOFhDMEtmMEppc2taNkVsX0JBa2JHUUpqQW9NZmZnaXVsRVdYVWY0eXo4QTFwa0xqbTYxX2t2LWhDYkFBTUxxb0xua2Jwb0VXSENzY0VzbW5fdmtKOGlHRVluVmU0MkJ4MlU?oc=5",
    "source": "연합인포맥스",
    "time": "08/15 08:10",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "1600원 넘보던 환율, 150원 급락… 對美투자 늘면 다시 뛸 수도",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SZFZkS2tQSmVWb2t0MEtRaF8wSlJwV0t1SHhIMWN1cTVhYUN6ZEczcmhCX1I5SldmcDBteENma0pCUjJaRFZtamprUV9HZFlvZWZJaFBOdGdEdkNRZ0kyNjdnN2hKY2p3TGx2VmdKMk9iazhXLWfSAWZBVV95cUxONDhBc1dLeXVpakMwT2VUTmJ2WkRhTlNGSG1JTHEwM0gyMDRwcVRKbjVwSjhNQWU4WVlsaUM1WGo0MUJVVk45YW1udnE4bVctMlBweWw1NGJEMm5YU1V5MUZidEVVTHc?oc=5",
-   "source": "동아일보",
-   "time": "08/15 01:40",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "美 소매판매 부진에 달러화 지난 5월 이후 최저…연준 금리 인상 기대 후퇴│Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54TVQtdGFIQkkxeGVCR0FCOXBENlM5YkhWVHJLc25DMUF0bHZpcDhKVEZmckJxa1gwRVFTeGtDWUk0ckUzQU4wbWpfTTlQQjlhWjEzR3Q1eVBIYU0?oc=5",
-   "source": "중앙일보",
-   "time": "08/14 22:49",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미 달러화 약세…연준 금리인상 베팅 약화 속 파운드 강세",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1idkV5QmhwQ19CWGZDWmhXYVFReDlOQ0pfNTNPSDg2dFM0amlwQk1xczk5cTBoeTUxR3FCQ2d2bHU2NWc4Z1Vpam1YU1N3djV2enVoWGtRZVpDY0dsUWc4WTNvbzY0c1h0cUF2RndkT1c?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/14 22:38",
    "dir": "neutral",
    "strength": 0
   }
