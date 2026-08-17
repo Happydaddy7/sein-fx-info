@@ -1,19 +1,27 @@
 {
- "updated": "2026-08-17 15:30",
+ "updated": "2026-08-17 17:29",
  "summary": {
-  "up": 2,
-  "down": 2,
-  "neutral": 6
+  "up": 3,
+  "down": 0,
+  "neutral": 7
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 2 vs 하락 2).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 3 vs 하락 0).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "[외환] 원/달러 환율 5.3원 내린 1,413.0원(15:30 기준가)",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QRVlKMks3R3FVSHVScUtDN3NmLVF4bzY4YzRvaTVNOTJPa2RMNHYyYkJ2eE9WRkU2SjVHN2U2ejNOUkEyZDR4NUlLVjZ5bjBvVUE?oc=5",
+   "source": "매일경제 마켓",
+   "time": "08/17 15:34",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "버핏·버리 경고 이어졌다…김영익 \"美 증시 과열, 연준 10월 금리 내릴 수도\"",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVlQxZzBqYlRwa3MyaDdmcTZyTkpSVk1JMjhtWktEdmlKcXM4dWxLSUxWbnVqb244ZkNDckp5LWQ4aUppbGN4R3haMWRQZnJ6MFRwWlJzcXZVMHFSUTI0VNIBeEFVX3lxTE9nWnRqSGdqMlZaWTRXUGFIZXdiWVMxYXZMTElmcEUtRk5VdW13Y2FGUXFnMmh3eTdiZlFObks3VDhJWFFZd1BYcVA2emZDNkVOYThjVXpwTjJIS3l1cDBYRi0wZ1E1V2JYQ09LNnVmZ1I5TWVMY0l3YQ?oc=5",
@@ -79,20 +87,12 @@
    "strength": 1
   },
   {
-   "title": "달러 당 원화값, 6거래일째 1,410원대…인플레 우려 완화에 달러 약세",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WeEVGOFBBQkozM3dhcXpsNVdHbXhMYmVRZ3lwaEl5TkZfb1dsUXpTUjBUdFBGMWROTDNPWm9UaFcxSVRWOFpJTV9oR3Qzc3NFemw2SDNuQUczZlh2am41WTg3aDZ1aWV1?oc=5",
-   "source": "매일경제TV",
-   "time": "08/14 17:03",
-   "dir": "down",
-   "strength": 2
-  },
-  {
-   "title": "美 물가 우려 완화에 달러 약세…환율 이번주 내내 1410원대",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRENBYVZ2MFlxQUlxTjFNNXpndmVyZHFicy10OTU5elgwd3J3c1M4Yk5BLTR3X0tqQmFIQ1NDNTNmMmhoZ1VBbV9XeTlVSWZvek1Z0gFYQVVfeXFMUFh6RkdyUTdKUHJWbUZTdEV2Uml5MWxybFg1Vjd1SVNqT25oNnFVWjFtQ1VwX2hOdU5MNG1EdThZWFAwelY3alVUcXdPRnRDV0ZmU0RqaWZnUA?oc=5",
-   "source": "SBS Biz",
-   "time": "08/14 16:42",
-   "dir": "down",
-   "strength": 2
+   "title": "“기준금리 인상 사이클 진입”…주담대 자본규제 겹쳐 더 오를 듯",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYZG9xWDc5YlprbmFqakJLT2FhR1QtbUVtRkJ1QTZvMUVaVm52ZnMtWU94YmJjd3N1NmxJVlRaYlNyTVZ4ZEx4aGZhWXJ1RzlUa0E?oc=5",
+   "source": "서울경제",
+   "time": "08/14 17:58",
+   "dir": "up",
+   "strength": 1
   }
  ]
 }
