@@ -1,19 +1,35 @@
 {
- "updated": "2026-08-18 09:34",
+ "updated": "2026-08-18 11:45",
  "summary": {
-  "up": 0,
+  "up": 1,
   "down": 0,
-  "neutral": 6
+  "neutral": 9
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 0 vs 하락 0).",
+   "상승·하락 요인 혼재 (상승 1 vs 하락 0).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "[올댓차이나] 위안화 기준치 1달러=6.7905위안…0.047% 절하",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wcUZWa21xUFhvV2pBRm1BTU5RbWdVekdIc0JxTzlKZzN1V21BbHNScm84R1MyalhjMkJsdFBnSUhtQWJfdC15OW9sMmluUlFOdDNkMjJnS084NThLSzgxSdIBeEFVX3lxTE4zRzV6c25jdm40emw0blAzQm1ScXB2YlJJWHZILU5FeTNJQ0pvbk1BdlI4dkU1aENDdG1Fel9aMU96MHFqTU41aC02LWVDLXB3bVh4dERrQWcyd2VHODcwWU5za0tDX1AzamRWZWx6Vy1sUWFmcWtHdQ?oc=5",
+   "source": "뉴시스",
+   "time": "08/18 11:37",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "치솟는 美 국채금리에 원·달러 오를까…1410원대 등락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55OXc1MjdwdVNPLXdjZ1lMdGR4LUtmbHJSSzNzdUN6VTJScVBDOUcxdHc3NXlZTkVHeUFHMHo0RWVjVTcwaURyWUNNeFJyQUpUQXpGN1dPODBCMmRTUlRBRQ?oc=5",
+   "source": "뉴시스",
+   "time": "08/18 09:47",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "[속보]원·달러 환율, 오전 9시 1415.0원",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xMDdMdjhjUTlQSXZUU05OWmVQbjhGU3BjS0I1akZES3k5cVZ2NF9MRFNKdVBwTm10Z3ZVbXBuSERhS1pmQWF2UGhjR296aUU1TTdHTmxhU2FsZm1wTC0yMNIBeEFVX3lxTFBPQS12SXBpVXU5N1FyMlFOWUdySWRVcXFBSXhhdUViZjlBM2JyVzdhMEZQNDRsSzNiWW96ZDI2UU1OMXFGdDN4VEE1VThEVDg3ZHY0bHRTZU5iMVlfS1ZsRUtxbVdsYkVZblMwUVctb3dWVWdzcWprZQ?oc=5",
@@ -39,6 +55,14 @@
    "strength": 0
   },
   {
+   "title": "“달러 쌀 때 바꿔두자”…달러 환전·예금 러시",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oM0tTcGFZQ3B6T0NYeklOV3JVblRKU251UkozejFUOXFaVzlfbWFKV25Fam4zTi1oN3N6Uld1N01TOEdHZnFTYW5fWTUzQkpJblVMWmtjR3JJZHZ6Q2xlZ0MxZnhXLVFzY3NockVEXzJ5TWtyNWZYbmdiOA?oc=5",
+   "source": "이데일리TV",
+   "time": "08/17 14:53",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
    "title": "버핏·버리 경고 이어졌다…김영익 \"美 증시 과열, 연준 10월 금리 내릴 수도\"",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVlQxZzBqYlRwa3MyaDdmcTZyTkpSVk1JMjhtWktEdmlKcXM4dWxLSUxWbnVqb244ZkNDckp5LWQ4aUppbGN4R3haMWRQZnJ6MFRwWlJzcXZVMHFSUTI0VNIBeEFVX3lxTE9nWnRqSGdqMlZaWTRXUGFIZXdiWVMxYXZMTElmcEUtRk5VdW13Y2FGUXFnMmh3eTdiZlFObks3VDhJWFFZd1BYcVA2emZDNkVOYThjVXpwTjJIS3l1cDBYRi0wZ1E1V2JYQ09LNnVmZ1I5TWVMY0l3YQ?oc=5",
    "source": "뉴시스",
@@ -48,17 +72,25 @@
   },
   {
    "title": "올해 중 최저치 찍은 원·달러 환율…더 떨어질까",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMjNGcEJNMzlsZXdNQ3E4Sm83S3doWFh0MWRpUUN5NzNUN0RveXBXUHJmamtieGtCOEJJd0dzZUJxanRZaTVkOGdNdFlsVjV0a0dGZFJkU01nREVja2NDOQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMjNGcEJNMzlsZXdNQ3E4Sm83S3doWFh0MWRpUUN5NzNUN0RveXBXUHJmamtieGtCOEJJd0dzZUJxanRZaTVkOGdNdFlsVjV0a0dGZFJkU01nREVja2NDOdIBeEFVX3lxTFBaNHg2ejY1MVNyZHJwMEF5aUY3Y3Vyd2doYkNfQXhseGlNZ3ZUVDZJNWhYRHFYUkpRMVhCRXRZMzJuVWhyNndkNHJFMlpnWlZOaVJoN1h6b0ZsRjVUZzhGT0NBR19SR2V1enZnNGdzVWdHX3cwM3U5Mg?oc=5",
    "source": "뉴시스",
    "time": "08/17 06:00",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "원·달러 1400원 초반 박스권 전망…“수출·법인세 수급에 하단 탐색”",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyLS1QemFWM2J3eFNVS2RPMXlSbDQ0bEJJUW1CekRvNUQtckxBTk9SNlNFTE1rUzZGLXU1MGlLMFpXR25LRnBIOWt1TkFsamsyejB0TnpnakdMb1EyNlV0ZXRfc1Q?oc=5",
-   "source": "서울경제TV",
-   "time": "08/16 08:56",
+   "title": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYlVDeUdHSGZMTWZPNW9DM2lFclNkNHlIR0oxblpSYTh2RTVpOHRLNXc1NEhGd2Q1M0tTckRyRFJfbjRrek9pSGNvVVFKeHQwZ2lSVw?oc=5",
+   "source": "매일경제",
+   "time": "08/16 23:05",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "\"엔화 지금 몰아서 사면 안 된다\"…28년 만의 미일 개입엔 이유 있다",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85TTBiNS1ZZmdoLUs2V3RZNk1MTEMtWnRuUUQwRWFiRnhDZ3VNSTRfd3dBb3BDR2FHNGhjTG5lRjBwMWplQ2REZzdMX252MXVOR3BRNllPQkE0MzBUcVJmX9IBeEFVX3lxTE9oem5SSElpVmp3NzNUNUtaQ2JZYk9pUTdLQUpObFRGaWlfblFHa1RjNEZqSUVtNHlRb2xTdzJKSzJWTC0tdkpVeTdzQmJ6ejlSNWdYZmdKMEY3dGRCZUxnLXRIUFlQUFpSZHNGRzh4VjYxTHRhX1lQZQ?oc=5",
+   "source": "뉴시스",
+   "time": "08/16 17:12",
    "dir": "neutral",
    "strength": 0
   }
