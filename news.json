@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 13:23",
+ "updated": "2026-08-18 15:22",
  "summary": {
   "up": 1,
   "down": 0,
@@ -14,6 +14,14 @@
   ]
  },
  "items": [
+  {
+   "title": "시타델 \"연준, 인플레 대응에 소극적…美장기금리 급등 부추겨\"",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oekVVQ25XM2F0Z3VabG5HSVlCYjl0TndoWWJrT09LYXY1OVlla1NCbVk3cTluVnk1V0JlMk43a19TOS10djAzUk5nalc4RTVHRXlNdXhHaTBrS2t2VWE0eFlEcnI1dFHSAWxBVV95cUxPVkJQWFdvSlFjMmVYZllHa3lhaTNERjJvQXo4bXNMMEd3NG1yeWwxRlMybG4tVVp3a2lqdThnUTFKUWVkeW1RTmp6YmNzWXdHX2VjNkkwZDJmRThvYzlMQndRMTVBekZiVTlCRDk?oc=5",
+   "source": "뉴스1",
+   "time": "08/18 14:30",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "[中경제, 두 개의 실험실⑥] 국경 넘는 위안화…'원화의 국제화'에 던지는 질문",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRUFGeHphUnVWemFmXzFxWF80eW9WTG1uSmlPMXdXanFJRElaMnIwMzJ5VTBBRExBT2NmUXo1Mlo5aVFPaWNHY1p5TUN6LXZJSFpRdFl0bGxfSkEyZE5iZmFGd2RNVzI3V016VGYtNWU?oc=5",
@@ -67,14 +75,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QRVlKMks3R3FVSHVScUtDN3NmLVF4bzY4YzRvaTVNOTJPa2RMNHYyYkJ2eE9WRkU2SjVHN2U2ejNOUkEyZDR4NUlLVjZ5bjBvVUE?oc=5",
    "source": "매일경제 마켓",
    "time": "08/17 15:34",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "“달러 쌀 때 바꿔두자”…달러 환전·예금 러시",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oM0tTcGFZQ3B6T0NYeklOV3JVblRKU251UkozejFUOXFaVzlfbWFKV25Fam4zTi1oN3N6Uld1N01TOEdHZnFTYW5fWTUzQkpJblVMWmtjR3JJZHZ6Q2xlZ0MxZnhXLVFzY3NockVEXzJ5TWtyNWZYbmdiOA?oc=5",
-   "source": "이데일리TV",
-   "time": "08/17 14:53",
    "dir": "neutral",
    "strength": 0
   },
