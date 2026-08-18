@@ -1,19 +1,35 @@
 {
- "updated": "2026-08-18 19:16",
+ "updated": "2026-08-19 07:28",
  "summary": {
-  "up": 1,
-  "down": 1,
-  "neutral": 8
+  "up": 2,
+  "down": 3,
+  "neutral": 5
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 1 vs 하락 1).",
+   "상승·하락 요인 혼재 (상승 2 vs 하락 3).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "기준금리 올랐는데 예금금리는 뚝···저축은행 “예금? 굳이…”",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlY4U0FrbS1UUktsQWZ2a0JyX0tlWkdLVlMyYjBWUmxtekQ1WlR3VWtuMHZETkdQSEZ4SlJCNVN1amgwN3RIX2hfMXBZSlU2NTdUR081elU4dGY0OEpKNlZ0eTA3UThBa2d2aHRVelFySURMN1NNMDlMQmk0YXNoRDBiRVVpVXB0LUFuU3pXQmJ2b1lHRHBUdmlMc0pDM0w2M01yOHFtYk13d9IBX0FVX3lxTE1zMGJHLVJ3NWJjR3Y4LWpDMWFGeWNLT2RrMjVubktYd3hXdlFTaXBBWS1HNWJQbUVSYXhadE43dVktaFUxNWUyZVE3Q01PRlVNYk9aU0YxS3prRWhLdW9n?oc=5",
+   "source": "경향신문",
+   "time": "08/19 06:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "환율 하락을 보는 양면적 시각[MT시평/오건영] - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1taU5qdTNxYi1ZZEUtQWl2Zng2VzJ2UFJyaHhEbTZtd1c2NFg0d2M1ejNPNVVPbFhXbThsREN6T0hYZmthTTEzc3NNU00tQmJvNEhNb0tRZVBMRDlEbDYtTXpZaDdEeWtwXzRR0gFwQVVfeXFMT3RmWENQei1XN3Mta2hQVnVLblNHaVZ2Wk84M2U5eXROaEE4R3BWd2pMRTRXSjh5THRqT01vQ1pEVmRlYnc0SWVmLTUtUU5VVmpMdjVrc2ROdEJ4amdvaExGRmZhaXBJZ3VUNUFQX3dBNw?oc=5",
+   "source": "머니투데이",
+   "time": "08/19 02:00",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "원/달러 환율 10개월 만에 최저…1300원대 열리나 - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oa0ljVmNvXzk3cW5zTUttM0d1LTV5elJsbjd2RHF3T2RQb0hjWHhkTHluWVo5RHUwOUFNSHRON09DRnlMUnNxMW1fbHpvUlY0WkVwMHNZLUdIdDJrWVhISDNFOGxsWFpJdUNTdWtjdTnSAXBBVV95cUxPaGtJY1Zjb185N3Fuc01LbTNHdS01eXpSbG43dkRxd09kUG9IY1h4ZEx5bllaOUR1MDlBTUh0TjdPQ0Z5TFJzcTFtX2x6b1JWNFpFcDBzWS1HSHQya1lYSEgzRThsbFhaSXVDU3VrY3U5?oc=5",
@@ -21,6 +37,14 @@
    "time": "08/18 16:37",
    "dir": "neutral",
    "strength": 0
+  },
+  {
+   "title": "美 경기 둔화에 금리 인상 기대 후퇴…달러-원 환율 1411.8원(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsODZHbzJfbjhpT0I4QkRhTHFTRF9ZLTVXSnQzMGxDTlpLTjlyOTA5dUxPQUFUcTVwbFJFYnpGRjZrUWhWUkZxMEh0WUh3M1pCellsSm5mNTRLVVnSAWBBVV95cUxQNXBZcXo4M0RoeGtiZGpnVVhadEdTaUZvckROWHhIcV9EMTJ1Z2FVZldWc2dIUW9VYU40T0tJcWRDOW5nWEJ6QXZOc0tNU2hKdjN0aWp0TG1YZ200VHdiVE4?oc=5",
+   "source": "뉴스1",
+   "time": "08/18 16:20",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "달러-원 환율 1411.8원…10개월 만에 최저",
@@ -47,44 +71,20 @@
    "strength": 1
   },
   {
-   "title": "[속보]원·달러 환율, 1.2원 내린 1411.8원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UTJGenJSUWJqZVFsYnlpWmpvUld3a1pycGx2NXJVREo0Qy1xR1F6WENUWExKdzJOaDJ1SW1ScjFJdGM4enlmZm9GTkI2Y2dOLUM5OTlBTjhxQ1p0ZUIwbNIBeEFVX3lxTE0xV1Q1aWdNQVVEM3pmdTFORWhvLWxESkhzVEpfWXJIVFpTeG9YdjBGRWZ4blQwVkV5d0RwTTF1eDVsU3NFcVRzTGlqbklXT3lWeXhoMGNhaVlBZEtia0dvR254RFhYNTRZNG1ILXFseEhuZGlzWlE0Wg?oc=5",
+   "title": "원·달러 환율, 1.2원 내린 1411.8원 마감(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41aE1LZFpVYVFMelcwVWtodGVYTlJTT09oMFp1TW5YTlhBVjM3SlhDVVk4THJNNFVBdGhqTHQ2RDdWdGtyZjk5Ylo1SF94a3dOZDAybmw0X1FXdjgtS2FONdIBeEFVX3lxTE1NbWFnRnJWM2RlZXNhRWZyT1BkdklhWnNxNUdrV3dtdVE2UTRabXFwY3R5YjQzS2VHdGcwcURwNXE1R2FFUEpqM0RfQndCSzZZelRjdElZSU9oaWJnQm4wUWdRd0R2MDNoTTRhNVFBMHpNU0hIM2ZFVQ?oc=5",
    "source": "뉴시스",
-   "time": "08/18 15:31",
+   "time": "08/18 15:38",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "[외환] 원/달러 환율 1.2원 내린 1,411.8원(15:30 기준가)",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2QwdHk4WU5jUjFkcG9qWmpkV2luV3h3ek1UT0FBZ1VBaTE1cUY0bjJuMkNPMzRjTjZTelRFTzJINVVtV05YWEtJVURJLTdnZ1JZN1dTTm5FRmdqWVB6STYxQ1ZZUmJGUUI1MXpCaDNEWk52bzlOd3F2a3FLN3Npcw?oc=5",
-   "source": "한국경제TV",
-   "time": "08/18 15:30",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[中경제, 두 개의 실험실⑥] 국경 넘는 위안화…'원화의 국제화'에 던지는 질문",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRUFGeHphUnVWemFmXzFxWF80eW9WTG1uSmlPMXdXanFJRElaMnIwMzJ5VTBBRExBT2NmUXo1Mlo5aVFPaWNHY1p5TUN6LXZJSFpRdFl0bGxfSkEyZE5iZmFGd2RNVzI3V016VGYtNWU?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/18 13:05",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[올댓차이나] 위안화 기준치 1달러=6.7905위안…0.047% 절하",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wcUZWa21xUFhvV2pBRm1BTU5RbWdVekdIc0JxTzlKZzN1V21BbHNScm84R1MyalhjMkJsdFBnSUhtQWJfdC15OW9sMmluUlFOdDNkMjJnS084NThLSzgxSdIBeEFVX3lxTE4zRzV6c25jdm40emw0blAzQm1ScXB2YlJJWHZILU5FeTNJQ0pvbk1BdlI4dkU1aENDdG1Fel9aMU96MHFqTU41aC02LWVDLXB3bVh4dERrQWcyd2VHODcwWU5za0tDX1AzamRWZWx6Vy1sUWFmcWtHdQ?oc=5",
-   "source": "뉴시스",
-   "time": "08/18 11:37",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "치솟는 美 국채금리에 원·달러 오를까…1410원대 등락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55OXc1MjdwdVNPLXdjZ1lMdGR4LUtmbHJSSzNzdUN6VTJScVBDOUcxdHc3NXlZTkVHeUFHMHo0RWVjVTcwaURyWUNNeFJyQUpUQXpGN1dPODBCMmRTUlRBRdIBeEFVX3lxTE5OLVJCbW1NUE1sd3N2SXY5SFdUM3NmWnNTRXJtZjNTMjRBREhLNzdkTnVzX0lTaHYydUNGelUzclJJWWNtMUxJaHNWYmlmRnM2SHh3SGpDTjl5X256cG9OV08zOURRM3g2TldwX0Q5Skllb3lteVpLWA?oc=5",
-   "source": "뉴시스",
-   "time": "08/18 09:47",
-   "dir": "neutral",
-   "strength": 0
+   "title": "환율 하락에 달러·환전 예금 러시",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KOEQ0RURoNGs5NVBmNDA1Sng3NUJPZ3pHQTUxb3haYU5kMC1aT1o0SldCaExwWmhOZU1OM1NNNDNJOFhMSXZGSktFcw?oc=5",
+   "source": "뉴스1",
+   "time": "08/18 14:11",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
