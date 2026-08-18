@@ -1,19 +1,35 @@
 {
- "updated": "2026-08-18 07:28",
+ "updated": "2026-08-18 09:34",
  "summary": {
-  "up": 1,
+  "up": 0,
   "down": 0,
   "neutral": 6
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 1 vs 하락 0).",
+   "상승·하락 요인 혼재 (상승 0 vs 하락 0).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "[속보]원·달러 환율, 오전 9시 1415.0원",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xMDdMdjhjUTlQSXZUU05OWmVQbjhGU3BjS0I1akZES3k5cVZ2NF9MRFNKdVBwTm10Z3ZVbXBuSERhS1pmQWF2UGhjR296aUU1TTdHTmxhU2FsZm1wTC0yMNIBeEFVX3lxTFBPQS12SXBpVXU5N1FyMlFOWUdySWRVcXFBSXhhdUViZjlBM2JyVzdhMEZQNDRsSzNiWW96ZDI2UU1OMXFGdDN4VEE1VThEVDg3ZHY0bHRTZU5iMVlfS1ZsRUtxbVdsYkVZblMwUVctb3dWVWdzcWprZQ?oc=5",
+   "source": "뉴시스",
+   "time": "08/18 09:05",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[뉴욕마켓워치] 안 멈추는 장기금리…주식·채권·달러 이틀째 '트리플 약세'",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPWkhMeE1aUWFsVXZJVWo3YjU5UGdwU1I1QlhMMVlvRHhZY2paWGZrQkhPd2dpdDJrSmVoMWFXYXhLaUpmUlBXYVJ0Qy1xUm1GVGNHaDAxU3lMaEQ3WUFONGNSa29vck9XbDNWTUg2eEQ?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/18 08:10",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "[외환] 원/달러 환율 5.3원 내린 1,413.0원(15:30 기준가)",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QRVlKMks3R3FVSHVScUtDN3NmLVF4bzY4YzRvaTVNOTJPa2RMNHYyYkJ2eE9WRkU2SjVHN2U2ejNOUkEyZDR4NUlLVjZ5bjBvVUE?oc=5",
@@ -32,25 +48,9 @@
   },
   {
    "title": "올해 중 최저치 찍은 원·달러 환율…더 떨어질까",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMjNGcEJNMzlsZXdNQ3E4Sm83S3doWFh0MWRpUUN5NzNUN0RveXBXUHJmamtieGtCOEJJd0dzZUJxanRZaTVkOGdNdFlsVjV0a0dGZFJkU01nREVja2NDOdIBeEFVX3lxTFBaNHg2ejY1MVNyZHJwMEF5aUY3Y3Vyd2doYkNfQXhseGlNZ3ZUVDZJNWhYRHFYUkpRMVhCRXRZMzJuVWhyNndkNHJFMlpnWlZOaVJoN1h6b0ZsRjVUZzhGT0NBR19SR2V1enZnNGdzVWdHX3cwM3U5Mg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMjNGcEJNMzlsZXdNQ3E4Sm83S3doWFh0MWRpUUN5NzNUN0RveXBXUHJmamtieGtCOEJJd0dzZUJxanRZaTVkOGdNdFlsVjV0a0dGZFJkU01nREVja2NDOQ?oc=5",
    "source": "뉴시스",
    "time": "08/17 06:00",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYlVDeUdHSGZMTWZPNW9DM2lFclNkNHlIR0oxblpSYTh2RTVpOHRLNXc1NEhGd2Q1M0tTckRyRFJfbjRrek9pSGNvVVFKeHQwZ2lSVw?oc=5",
-   "source": "매일경제",
-   "time": "08/16 23:05",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "인하냐 인상이냐, 갈라진 연준의 속내 열린다 [8/17~8/21 투자캘린더]│Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rVDl0MElJa3czY3FwcTk3ci1lYjEwTVZfa3NtM3d2TExlUWpLakRONGdRMTljV0h3M0lhUVJjQnBnWTduNTNQeVh6WGpYUWJyaEVJdHhDeXNIMUU?oc=5",
-   "source": "중앙일보",
-   "time": "08/16 12:00",
    "dir": "neutral",
    "strength": 0
   },
@@ -59,14 +59,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyLS1QemFWM2J3eFNVS2RPMXlSbDQ0bEJJUW1CekRvNUQtckxBTk9SNlNFTE1rUzZGLXU1MGlLMFpXR25LRnBIOWt1TkFsamsyejB0TnpnakdMb1EyNlV0ZXRfc1Q?oc=5",
    "source": "서울경제TV",
    "time": "08/16 08:56",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[뉴욕마켓워치] 소비가 부진해도 금리가 오르네…주식·채권·달러 '트리플 약세'",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ub0tKaWFlOFhDMEtmMEppc2taNkVsX0JBa2JHUUpqQW9NZmZnaXVsRVdYVWY0eXo4QTFwa0xqbTYxX2t2LWhDYkFBTUxxb0xua2Jwb0VXSENzY0VzbW5fdmtKOGlHRVluVmU0MkJ4MlU?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/15 08:10",
    "dir": "neutral",
    "strength": 0
   }
