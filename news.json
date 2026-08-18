@@ -1,19 +1,59 @@
 {
- "updated": "2026-08-18 15:22",
+ "updated": "2026-08-18 17:22",
  "summary": {
-  "up": 1,
-  "down": 0,
-  "neutral": 9
+  "up": 2,
+  "down": 1,
+  "neutral": 7
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 1 vs 하락 0).",
+   "상승·하락 요인 혼재 (상승 2 vs 하락 1).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "美 경기 둔화에 금리 인상 기대 후퇴…달러-원 환율 1411.8원(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsODZHbzJfbjhpT0I4QkRhTHFTRF9ZLTVXSnQzMGxDTlpLTjlyOTA5dUxPQUFUcTVwbFJFYnpGRjZrUWhWUkZxMEh0WUh3M1pCellsSm5mNTRLVVnSAWBBVV95cUxQNXBZcXo4M0RoeGtiZGpnVVhadEdTaUZvckROWHhIcV9EMTJ1Z2FVZldWc2dIUW9VYU40T0tJcWRDOW5nWEJ6QXZOc0tNU2hKdjN0aWp0TG1YZ200VHdiVE4?oc=5",
+   "source": "뉴스1",
+   "time": "08/18 16:20",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원달러 환율 하락 마감",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IeGhkZFlyV2lrdElOaUNnUk55eVVFRk95SldxSVRPdnNJZjEtWllCT0liY0dGenVYZXphUURLemdWUDVLQThtYnBCUUZpRVFReVJBRlNkV3hxU0tSYTlFbg?oc=5",
+   "source": "뉴시스",
+   "time": "08/18 15:54",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[달러·원] 환율 1.2원 내린 1411.8원 (15:30 기준)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QdFhXV1NDTE5PeDA2QVN3bHludUkzSGFFd0V3bktsRE4xbVVxb2JJeFk3WDlfSFA2STlBLVh1ZjlnUVFkdUZ2M0cxcGo4OUREcHBKSW84NWo5MlnSAWBBVV95cUxOOVdjbnZ6Mld5cVgwZGZrRTJmbldnUjVMb2FWZFhSTDhwek9wdVZ6SDEzb2FMTmtZd2IxTWFQeEh3enl4eFVHVXJLMC1tdmQyRlhkcnBYSEljbk42Vy0yTWI?oc=5",
+   "source": "뉴스1",
+   "time": "08/18 15:31",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[속보]원·달러 환율, 1.2원 내린 1411.8원 마감",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UTJGenJSUWJqZVFsYnlpWmpvUld3a1pycGx2NXJVREo0Qy1xR1F6WENUWExKdzJOaDJ1SW1ScjFJdGM4enlmZm9GTkI2Y2dOLUM5OTlBTjhxQ1p0ZUIwbNIBeEFVX3lxTE0xV1Q1aWdNQVVEM3pmdTFORWhvLWxESkhzVEpfWXJIVFpTeG9YdjBGRWZ4blQwVkV5d0RwTTF1eDVsU3NFcVRzTGlqbklXT3lWeXhoMGNhaVlBZEtia0dvR254RFhYNTRZNG1ILXFseEhuZGlzWlE0Wg?oc=5",
+   "source": "뉴시스",
+   "time": "08/18 15:31",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[외환] 원/달러 환율 1.2원 내린 1,411.8원(15:30 기준가)",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2QwdHk4WU5jUjFkcG9qWmpkV2luV3h3ek1UT0FBZ1VBaTE1cUY0bjJuMkNPMzRjTjZTelRFTzJINVVtV05YWEtJVURJLTdnZ1JZN1dTTm5FRmdqWVB6STYxQ1ZZUmJGUUI1MXpCaDNEWk52bzlOd3F2a3FLN3Npcw?oc=5",
+   "source": "한국경제TV",
+   "time": "08/18 15:30",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "시타델 \"연준, 인플레 대응에 소극적…美장기금리 급등 부추겨\"",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oekVVQ25XM2F0Z3VabG5HSVlCYjl0TndoWWJrT09LYXY1OVlla1NCbVk3cTluVnk1V0JlMk43a19TOS10djAzUk5nalc4RTVHRXlNdXhHaTBrS2t2VWE0eFlEcnI1dFHSAWxBVV95cUxPVkJQWFdvSlFjMmVYZllHa3lhaTNERjJvQXo4bXNMMEd3NG1yeWwxRlMybG4tVVp3a2lqdThnUTFKUWVkeW1RTmp6YmNzWXdHX2VjNkkwZDJmRThvYzlMQndRMTVBekZiVTlCRDk?oc=5",
@@ -43,46 +83,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55OXc1MjdwdVNPLXdjZ1lMdGR4LUtmbHJSSzNzdUN6VTJScVBDOUcxdHc3NXlZTkVHeUFHMHo0RWVjVTcwaURyWUNNeFJyQUpUQXpGN1dPODBCMmRTUlRBRdIBeEFVX3lxTE5OLVJCbW1NUE1sd3N2SXY5SFdUM3NmWnNTRXJtZjNTMjRBREhLNzdkTnVzX0lTaHYydUNGelUzclJJWWNtMUxJaHNWYmlmRnM2SHh3SGpDTjl5X256cG9OV08zOURRM3g2TldwX0Q5Skllb3lteVpLWA?oc=5",
    "source": "뉴시스",
    "time": "08/18 09:47",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "하락한 원·달러환율",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KV2hHbnBGOWZBdkpqY3NHNk9Td1dlaW5lZnluQlBkZlUxNjEtSWd5MmdUR3Y3MVE3aEw1bmR3Z0VFTnhEVUxVbzVFWQ?oc=5",
-   "source": "뉴스1",
-   "time": "08/18 09:29",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[속보]원·달러 환율, 오전 9시 1415.0원",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xMDdMdjhjUTlQSXZUU05OWmVQbjhGU3BjS0I1akZES3k5cVZ2NF9MRFNKdVBwTm10Z3ZVbXBuSERhS1pmQWF2UGhjR296aUU1TTdHTmxhU2FsZm1wTC0yMNIBeEFVX3lxTFBPQS12SXBpVXU5N1FyMlFOWUdySWRVcXFBSXhhdUViZjlBM2JyVzdhMEZQNDRsSzNiWW96ZDI2UU1OMXFGdDN4VEE1VThEVDg3ZHY0bHRTZU5iMVlfS1ZsRUtxbVdsYkVZblMwUVctb3dWVWdzcWprZQ?oc=5",
-   "source": "뉴시스",
-   "time": "08/18 09:05",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[뉴욕마켓워치] 안 멈추는 장기금리…주식·채권·달러 이틀째 '트리플 약세'",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPWkhMeE1aUWFsVXZJVWo3YjU5UGdwU1I1QlhMMVlvRHhZY2paWGZrQkhPd2dpdDJrSmVoMWFXYXhLaUpmUlBXYVJ0Qy1xUm1GVGNHaDAxU3lMaEQ3WUFONGNSa29vck9XbDNWTUg2eEQ?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/18 08:10",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[외환] 원/달러 환율 5.3원 내린 1,413.0원(15:30 기준가)",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QRVlKMks3R3FVSHVScUtDN3NmLVF4bzY4YzRvaTVNOTJPa2RMNHYyYkJ2eE9WRkU2SjVHN2U2ejNOUkEyZDR4NUlLVjZ5bjBvVUE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "08/17 15:34",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "버핏·버리 경고 이어졌다…김영익 \"美 증시 과열, 연준 10월 금리 내릴 수도\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVlQxZzBqYlRwa3MyaDdmcTZyTkpSVk1JMjhtWktEdmlKcXM4dWxLSUxWbnVqb244ZkNDckp5LWQ4aUppbGN4R3haMWRQZnJ6MFRwWlJzcXZVMHFSUTI0VNIBeEFVX3lxTE9nWnRqSGdqMlZaWTRXUGFIZXdiWVMxYXZMTElmcEUtRk5VdW13Y2FGUXFnMmh3eTdiZlFObks3VDhJWFFZd1BYcVA2emZDNkVOYThjVXpwTjJIS3l1cDBYRi0wZ1E1V2JYQ09LNnVmZ1I5TWVMY0l3YQ?oc=5",
-   "source": "뉴시스",
-   "time": "08/17 11:43",
    "dir": "neutral",
    "strength": 0
   },
