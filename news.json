@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 11:45",
+ "updated": "2026-08-18 13:23",
  "summary": {
   "up": 1,
   "down": 0,
@@ -15,6 +15,14 @@
  },
  "items": [
   {
+   "title": "[中경제, 두 개의 실험실⑥] 국경 넘는 위안화…'원화의 국제화'에 던지는 질문",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRUFGeHphUnVWemFmXzFxWF80eW9WTG1uSmlPMXdXanFJRElaMnIwMzJ5VTBBRExBT2NmUXo1Mlo5aVFPaWNHY1p5TUN6LXZJSFpRdFl0bGxfSkEyZE5iZmFGd2RNVzI3V016VGYtNWU?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/18 13:05",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
    "title": "[올댓차이나] 위안화 기준치 1달러=6.7905위안…0.047% 절하",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wcUZWa21xUFhvV2pBRm1BTU5RbWdVekdIc0JxTzlKZzN1V21BbHNScm84R1MyalhjMkJsdFBnSUhtQWJfdC15OW9sMmluUlFOdDNkMjJnS084NThLSzgxSdIBeEFVX3lxTE4zRzV6c25jdm40emw0blAzQm1ScXB2YlJJWHZILU5FeTNJQ0pvbk1BdlI4dkU1aENDdG1Fel9aMU96MHFqTU41aC02LWVDLXB3bVh4dERrQWcyd2VHODcwWU5za0tDX1AzamRWZWx6Vy1sUWFmcWtHdQ?oc=5",
    "source": "뉴시스",
@@ -24,9 +32,17 @@
   },
   {
    "title": "치솟는 美 국채금리에 원·달러 오를까…1410원대 등락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55OXc1MjdwdVNPLXdjZ1lMdGR4LUtmbHJSSzNzdUN6VTJScVBDOUcxdHc3NXlZTkVHeUFHMHo0RWVjVTcwaURyWUNNeFJyQUpUQXpGN1dPODBCMmRTUlRBRQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55OXc1MjdwdVNPLXdjZ1lMdGR4LUtmbHJSSzNzdUN6VTJScVBDOUcxdHc3NXlZTkVHeUFHMHo0RWVjVTcwaURyWUNNeFJyQUpUQXpGN1dPODBCMmRTUlRBRdIBeEFVX3lxTE5OLVJCbW1NUE1sd3N2SXY5SFdUM3NmWnNTRXJtZjNTMjRBREhLNzdkTnVzX0lTaHYydUNGelUzclJJWWNtMUxJaHNWYmlmRnM2SHh3SGpDTjl5X256cG9OV08zOURRM3g2TldwX0Q5Skllb3lteVpLWA?oc=5",
    "source": "뉴시스",
    "time": "08/18 09:47",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "하락한 원·달러환율",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KV2hHbnBGOWZBdkpqY3NHNk9Td1dlaW5lZnluQlBkZlUxNjEtSWd5MmdUR3Y3MVE3aEw1bmR3Z0VFTnhEVUxVbzVFWQ?oc=5",
+   "source": "뉴스1",
+   "time": "08/18 09:29",
    "dir": "neutral",
    "strength": 0
   },
@@ -71,28 +87,12 @@
    "strength": 0
   },
   {
-   "title": "올해 중 최저치 찍은 원·달러 환율…더 떨어질까",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByMjNGcEJNMzlsZXdNQ3E4Sm83S3doWFh0MWRpUUN5NzNUN0RveXBXUHJmamtieGtCOEJJd0dzZUJxanRZaTVkOGdNdFlsVjV0a0dGZFJkU01nREVja2NDOdIBeEFVX3lxTFBaNHg2ejY1MVNyZHJwMEF5aUY3Y3Vyd2doYkNfQXhseGlNZ3ZUVDZJNWhYRHFYUkpRMVhCRXRZMzJuVWhyNndkNHJFMlpnWlZOaVJoN1h6b0ZsRjVUZzhGT0NBR19SR2V1enZnNGdzVWdHX3cwM3U5Mg?oc=5",
-   "source": "뉴시스",
-   "time": "08/17 06:00",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYlVDeUdHSGZMTWZPNW9DM2lFclNkNHlIR0oxblpSYTh2RTVpOHRLNXc1NEhGd2Q1M0tTckRyRFJfbjRrek9pSGNvVVFKeHQwZ2lSVw?oc=5",
    "source": "매일경제",
    "time": "08/16 23:05",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "\"엔화 지금 몰아서 사면 안 된다\"…28년 만의 미일 개입엔 이유 있다",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85TTBiNS1ZZmdoLUs2V3RZNk1MTEMtWnRuUUQwRWFiRnhDZ3VNSTRfd3dBb3BDR2FHNGhjTG5lRjBwMWplQ2REZzdMX252MXVOR3BRNllPQkE0MzBUcVJmX9IBeEFVX3lxTE9oem5SSElpVmp3NzNUNUtaQ2JZYk9pUTdLQUpObFRGaWlfblFHa1RjNEZqSUVtNHlRb2xTdzJKSzJWTC0tdkpVeTdzQmJ6ejlSNWdYZmdKMEY3dGRCZUxnLXRIUFlQUFpSZHNGRzh4VjYxTHRhX1lQZQ?oc=5",
-   "source": "뉴시스",
-   "time": "08/16 17:12",
-   "dir": "neutral",
-   "strength": 0
   }
  ]
 }
