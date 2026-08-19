@@ -1,72 +1,80 @@
 {
- "updated": "2026-08-19 19:17",
+ "updated": "2026-08-20 07:28",
  "summary": {
-  "up": 2,
-  "down": 1,
-  "neutral": 7
+  "up": 3,
+  "down": 2,
+  "neutral": 5
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 2 vs 하락 1).",
+   "상승·하락 요인 혼재 (상승 3 vs 하락 2).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "교보證 \"달러-원, 연내 1,350원까지 하락 후 완만히 반등할 것\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mZVJiWHFleUMxNm1udldrWGRWYmdPUDYzQkstSFUtbGhSYjdYVHFZZWZKb3ppb3F2QndLTERSSGJnUVFkbFBnU2VzeGN1aWxxcFZ2ZGh5RWNvS3JwN1JHUFJEUkJZbjV1UE9BRXhWdEk?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/19 19:03",
+   "title": "美 30년물 5%대인데 원화 강세…환율 공식 깨졌다 [Pick코노미]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yYzFTal9aTVBxd3BfRUhlVVU1NXNxdjUzUnVLMDJZcUdyNmE1NW5TRjhfLWVuLVNiTVJvUUczTF9FRVhyRzRtSzJmaXFIeElRS0E?oc=5",
+   "source": "서울경제",
+   "time": "08/20 06:29",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "트럼프 \"연준, 경제 호조에도 금리 안 내려\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTa3BDaEU4b1ZGY1lJZ3NLTnZ5N1dkaGNOa1c5NDVscGdtU00xR1JZdDZUNVgyc0w0R1JzbTV1TkxoeEZfbXBMUXRXVkxMRktDVDlvbGZqWEFmdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/20 06:22",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "원·달러 환율, 한달 반만에 160원 급락",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fOTVNc00tVDA4ZHFGb0hhRTVqeGJ2aFpIY2FxS3JObXU3dENCS05HXzRWVEg1R0pFTHhlRWtjb1ZTNThlbFpYZnptMkdqb3RyM2FFc0tjNzRhZw?oc=5",
-   "source": "한국경제",
-   "time": "08/19 18:23",
+   "title": "7월 FOMC 의사록 “위원 다수, 물가 안 잡히면 금리 더 올려야”",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HY003elFKRVF5TzFEeEhJWGlLTlZOQjROcTJwZUVUSXFGY1ZPR2ZjVDZhM3FYcGpKa2dDcEFmdC16dmVzRmUwNHBJbUlZRERGc1R4clFR?oc=5",
+   "source": "헤럴드경제",
+   "time": "08/20 06:08",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PQU9XOFR3S3ZoRVNHTzVsS19oSzJaRUZRNHNUNlFPUU9aVjFuUGdFQlpNOVZJdkJWeW9waW5MRTJ6WnZYOGwyZGppWU8wNkQzdVVveEQzaFFGTVFfUHc?oc=5",
-   "source": "YTN",
-   "time": "08/19 18:08",
-   "dir": "neutral",
-   "strength": 0
+   "title": "美연준, '추가 긴축' 경고…워시는 회의 축소 의견 요청",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TOEhkWnlqX1hmVFI2S3g3LVFvSzgwbmlEWG9JYk5vV1R2QTc1OEg3b2Z2WmltYnQ2NVF6ZVp4VXN3aTR0MWlTM1E3dk53V09BclRV0gFYQVVfeXFMT1hRUDRaUjd3WUd1bTFfdG9xTmtDaGNQWkhEZkdrdmU1M0pxbWV4S21FSjIyMmNCQmxsYzJXX3AzS25rcmwwcE1UbmNFNlhLcFp3cEE5dXQyUg?oc=5",
+   "source": "SBS Biz",
+   "time": "08/20 06:01",
+   "dir": "up",
+   "strength": 1
   },
   {
-   "title": "증시 약세에도 환율 1300원대…달러 버티는데 원화는 왜 강해졌나",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iUDViY2tFek9FUnRZMHo4c0VsTDhmV0JoQnNxUFJRQmJEQ0hRTHFLeVVfZXo3bTNraDlLY2NiVnRPYTBUcGxfVzhTLUtNeWdXeUFLbdIBWkFVX3lxTE5kejBGUjNaWlM2NXlaYklmSXVRYXNBcXBIV0FxZ0JLUUZyc2JfMk9qRUJjU1dYWmUwc0lPM3ZSVC1NajF0SzJpU3ZQZnotb0d1dXlaazhpS2Y0Zw?oc=5",
-   "source": "뉴스1",
-   "time": "08/19 17:59",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "美금리 동결 기대에 원화 1300원대 반등",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45QVV6WTV3V1NGSG8yQUJwMFNWeTFFSXo1THlhU18tSFBsVkpONWp4UGN4dkgxQjEtbDFtM0lSRHYwaVZ1VTQ5Y08xci1wb2VoOHc?oc=5",
-   "source": "매일경제 마켓",
-   "time": "08/19 17:47",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5",
-   "source": "한겨레",
-   "time": "08/19 17:44",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "환율 다시 1300원대로... 11개월 만에 내려왔다",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3J5aFlMdW1ldjVCMDNyam9DbzgyMTJaZGxUek5WN3dXMnBWWG4zUG9jZ1BJRUtMZUtaWC01Wk9YQXpPcDNzRWFONnh0c2dULTdRQV9aVlFRX2IyNU1FeGFrTmRpY2Fpd2NiRXhfMjdBNDhGdnRuYWhNRFlaekNRMGtfSzdWVTIxektNU1BR?oc=5",
+   "title": "“물가 안 잡히면 금리 더 올려야”…연준 내부 ‘인상론’ 예상보다 강했다",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdG5YYnk1bWdwMjZFTmMzeW5yUUR0Qk0xbnZ3MXZaT29wM1M3dGIyUkRqX2RieWNNU2Y2MEtWVXExVml0ekgxaDZpTTNMNGs5Nk9DUUdYTkFGNG85WmVZV1A1dWsxbzJnNjNaZXNBZ1hPQlBlREdVNkhCYWdEZ2lodmRsdm4tR2hI?oc=5",
    "source": "조선일보",
-   "time": "08/19 17:11",
+   "time": "08/20 05:33",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "7월 FOMC 의사록 \"위원 다수, 물가 안 내려가면 금리인상 언급\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtdXRBdTZyVTdGYXo3S0NEMkdfYlZfRGNSTl82YXNGaXVjYXdGUXpvekszdjkyYVNnS1oyMEJlODh2eFNRZDRZcDRFTkxaNEI5TjI2RWdPNVkwR0XSAWBBVV95cUxPMFJxV0pSSGNkbTVRNU1YSi01OUVUZVVEbG9rTF85TzJrTFdyanltbER3by03MUI1VG1ya3k4b2NHTEd4SUEtbW84OGw3d3VOekpidHk3bmZIWms2aG9OX3U?oc=5",
+   "source": "연합뉴스",
+   "time": "08/20 04:29",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "7월 연준 의사록 공개…“인플레이션 지속 시 추가 긴축 불가피”",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kZ25CNHZPQnZQeVFGdGdnQVlJOFVQWm1ycGRjNXpmWVQyWU1pQnBKYklWNGpmNG8wQTlwVzIyN1RtZzFWalUwQ081OVM5VVRjZkNhOFJDbnrSAV5BVV95cUxOQnlWTVBhWFp4LWpuTlh0aEpYQlZEMjBhcEpXVFVxT1NKa0FCTEpkUnJVWmFsdXZIdnpjN2hXUUF3WG1iUWo5N0FwU2dVQ0Rqa0lMU2J4TGhlWDluYWVB?oc=5",
+   "source": "뉴스1",
+   "time": "08/20 03:34",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "\"물가 안 잡히면 금리 올린다\"…美 연준, 추가 인상 경고",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qdUFPNTNnTFVBQ2FjN1ltRUtRWHNPem5mNnRJOFJfY2MxVC0xYVNiS0dtaG8yMHRsLTRJUlVqdG9ObUVzckViOGh2eEYtYTVRaklNMU5qRUxsQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/20 03:29",
    "dir": "neutral",
    "strength": 0
   },
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGclAzanpUZVNDN094R0Y2ak5ORHZQc3UyWml6cUtCSlZoTkdBeUE0NmJZRFdPOWVCN2NEM3h0SGlRRjBfWU9PNkFSQlVXZVphNXdqWER5azlKUGPSAWBBVV95cUxPbnNKQUVBRXRtUjk3aWQwV2YxbGxvSFNIUDlGdWpjdVFRbVdkT0JONWFCWkx4SnBMeWJlSExadHpJNHZCcmJvb2hDZ2lqS0JYeTJsZnFGSEFfLUhYWXk4WEU?oc=5",
    "source": "연합뉴스",
    "time": "08/19 08:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "영끌·빚투에 가계빚 사상 첫 2000조…기준금리 인상땐 치명타",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UYlVDeUdHSGZMTWZPNW9DM2lFclNkNHlIR0oxblpSYTh2RTVpOHRLNXc1NEhGd2Q1M0tTckRyRFJfbjRrek9pSGNvVVFKeHQwZ2lSVw?oc=5",
-   "source": "매일경제",
-   "time": "08/16 23:05",
    "dir": "up",
    "strength": 1
   }
