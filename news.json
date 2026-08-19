@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 17:22",
+ "updated": "2026-08-19 19:17",
  "summary": {
   "up": 2,
   "down": 1,
@@ -15,34 +15,58 @@
  },
  "items": [
   {
-   "title": "코스피 5.8% 급락…원·달러 환율, 10개월여 만에 1,300원 대로",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5cWF3bDQ0bndBc0VfcHdHWHNva3k4d3g4TFhaQ2JtZkd1bkNNRjllR3B3UXB3TEtVT3VUa1luOXFTRnZEN1J3Wkd3RWlUZzVaN1ptR044V3c1a3JsRGItanp6WjJrQQ?oc=5",
-   "source": "KBS 뉴스",
-   "time": "08/19 17:14",
+   "title": "교보證 \"달러-원, 연내 1,350원까지 하락 후 완만히 반등할 것\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mZVJiWHFleUMxNm1udldrWGRWYmdPUDYzQkstSFUtbGhSYjdYVHFZZWZKb3ppb3F2QndLTERSSGJnUVFkbFBnU2VzeGN1aWxxcFZ2ZGh5RWNvS3JwN1JHUFJEUkJZbjV1UE9BRXhWdEk?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/19 19:03",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "원-달러 환율 11개월 만에 1300원대로…코스피는 5% 급락, 6500선 무너져",
+   "title": "원·달러 환율, 한달 반만에 160원 급락",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fOTVNc00tVDA4ZHFGb0hhRTVqeGJ2aFpIY2FxS3JObXU3dENCS05HXzRWVEg1R0pFTHhlRWtjb1ZTNThlbFpYZnptMkdqb3RyM2FFc0tjNzRhZw?oc=5",
+   "source": "한국경제",
+   "time": "08/19 18:23",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "코스피 5.8% 폭락...환율, 10달 만에 1,300원대 진입",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PQU9XOFR3S3ZoRVNHTzVsS19oSzJaRUZRNHNUNlFPUU9aVjFuUGdFQlpNOVZJdkJWeW9waW5MRTJ6WnZYOGwyZGppWU8wNkQzdVVveEQzaFFGTVFfUHc?oc=5",
+   "source": "YTN",
+   "time": "08/19 18:08",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "증시 약세에도 환율 1300원대…달러 버티는데 원화는 왜 강해졌나",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iUDViY2tFek9FUnRZMHo4c0VsTDhmV0JoQnNxUFJRQmJEQ0hRTHFLeVVfZXo3bTNraDlLY2NiVnRPYTBUcGxfVzhTLUtNeWdXeUFLbdIBWkFVX3lxTE5kejBGUjNaWlM2NXlaYklmSXVRYXNBcXBIV0FxZ0JLUUZyc2JfMk9qRUJjU1dYWmUwc0lPM3ZSVC1NajF0SzJpU3ZQZnotb0d1dXlaazhpS2Y0Zw?oc=5",
+   "source": "뉴스1",
+   "time": "08/19 17:59",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "美금리 동결 기대에 원화 1300원대 반등",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45QVV6WTV3V1NGSG8yQUJwMFNWeTFFSXo1THlhU18tSFBsVkpONWp4UGN4dkgxQjEtbDFtM0lSRHYwaVZ1VTQ5Y08xci1wb2VoOHc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "08/19 17:47",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5",
    "source": "한겨레",
-   "time": "08/19 16:58",
+   "time": "08/19 17:44",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "원·달러 환율, 11개월 만에 '마의 1400원' 깨져 (상보)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ST1RlcmpuTjh3WFN3Rk13bHVCQXZpR2hQNGM4ZDhYek02dzc2N29rTmhoOG5zTzRZdWxlbUVVNENYb0xrcDZmY29NQ1ltRUNXVzNoSFJYdG5VUWZKVmlRUg?oc=5",
-   "source": "아시아경제",
-   "time": "08/19 16:52",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원/달러 환율 1,300원대로…11개월 만에 최저(종합2보)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tUGpZZG1RZGVvRlIxUmVwWmRNOWEyT29rSWtfaHZzRWVWWUZTdENpX0VnQmt2WGpDLXFnNjA5RS1mZ3FzQWc3clgzamp3bVJOZzBCRXREczhhRk3SAWBBVV95cUxQay12OE9XR0lNa0x3UGp2ano5bkRNN3QyV3QyTDNxSllTb0RoNy1zRUJ1Yk9aTFFfNENFZ3ZwR0hsYWxjdXBBRi1NQmdIYThUUmJNYlBKZkdiUXMyZUFURUc?oc=5",
-   "source": "연합뉴스",
-   "time": "08/19 16:30",
+   "title": "환율 다시 1300원대로... 11개월 만에 내려왔다",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3J5aFlMdW1ldjVCMDNyam9DbzgyMTJaZGxUek5WN3dXMnBWWG4zUG9jZ1BJRUtMZUtaWC01Wk9YQXpPcDNzRWFONnh0c2dULTdRQV9aVlFRX2IyNU1FeGFrTmRpY2Fpd2NiRXhfMjdBNDhGdnRuYWhNRFlaekNRMGtfSzdWVTIxektNU1BR?oc=5",
+   "source": "조선일보",
+   "time": "08/19 17:11",
    "dir": "neutral",
    "strength": 0
   },
@@ -53,30 +77,6 @@
    "time": "08/19 16:03",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "원-달러 환율 장중 1300원대로…지난해 10월 이후 처음",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zUHdqT3UtTTBsN1dSbnlGMURZdHBXbmJiZjhyTnFKNTJpS3V2c3pDLTR0RmFBd2NGdmQ4Wl8xd0pmZ3UtMkwwUGVuTmNIUFQ4NGFfVF9sQktCWDh1bVY3X3JsOWQxR2wwVXZIZ1Q2cXd4Zw?oc=5",
-   "source": "한겨레",
-   "time": "08/19 16:01",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "데이터센터 불안에 코스피 급락과 달러‑원 환율 연저점까지 이시각 주요뉴스",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nXzNIU0dtWUZiOXVpSXhaakplRVpINEdreHlXVFN3ZVI1aC1MNGE0VHNHVDdyU09ocFZWVDk4QU5ZWmhTWDlONGFkSV80aDNxNnd6enNfSXdzVHpoTU5wUTNoUEFxMklkMXM5WmFhM3nSAXRBVV95cUxPMzFySlhrdndmcHVMWk92UHhZVHBiemNBQlNZQ2c5aWtNeExOQ21ObEdXYU83QXVXV19YR3pMbzFDMmlCTU85dkVQcGgwR2pfLS00WUtZMWtobEQxalM2ejBOMGNMeFM4NG1Qd2d1MXh3aUtLNA?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/19 15:52",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·달러 환율, 1300원대 마감…약 11개월만(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JLUdfTzIxUFlWYUF6a0N5MnNPcS0yUWYzdHl1cXRKaU90QWVDLUVucmZoQTB0NU5YYnh2M1lsVWVudHFIMWdzX3ZZUjhUUDRMWmR3aWhUQldGUXJsVklHQtIBeEFVX3lxTFByLUtZX21GekpwanlzYnZPaHNOV0YxbWgzVkkzS0dvZV9RUW1lLVp3cHR1M01JaVdMXzBxdFFHOHZuWE9mMjB3di1RbHo5Ung3aTVRWEw1SEZwS3IwYk5pZnZJelU0TURVRDNPS1NpemdoS0VEV2RRMA?oc=5",
-   "source": "뉴시스",
-   "time": "08/19 15:45",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "기준금리 인상 한 달, 초장기채만 무너졌다…\"정책보다 수급\"",
