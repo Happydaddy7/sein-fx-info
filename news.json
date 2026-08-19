@@ -1,58 +1,74 @@
 {
- "updated": "2026-08-19 11:48",
+ "updated": "2026-08-19 13:25",
  "summary": {
   "up": 2,
-  "down": 3,
-  "neutral": 5
+  "down": 2,
+  "neutral": 6
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 2 vs 하락 3).",
+   "상승·하락 요인 혼재 (상승 2 vs 하락 2).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "금융지주 반기보고서로 엿본 달러-원 전망은 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tY3VOUnpzS3FkNDZ6Xy1xeUJxdUhrUU1wbnRDa29zWWVoMHdscEE2OXROcWtMbVVxcGZGT0RSc0Z5WE92Y3lqWU9yMmNMM0ppSDZNUGJrUlUzRWJDbVpJZGxSODItbjNPV0VqZ3FRRXk3VW9l?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/19 09:45",
+   "title": "[속보] 고공행진하던 환율 드디어…10개월 반 만에 1,300원대",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZanR0emdubkVqYldVSUVjN1d5VTdhVk54elo0cDRTUC12QUNTSHJabGdqamdYUjFXMHA2eEdSTTQwS1ZBWlhaWm9ZNUkxUmNPYWVvQTdTcTl4VTRRYXdNS095SmZNd0xyUDNvdUVreUF3NTJkX3JZ?oc=5",
+   "source": "한국경제TV",
+   "time": "08/19 12:47",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "iM증권 “한은, 8월 금통위서 기준금리 추가 인상 전망...기조적 물가 압력 여전” [오늘 나온 보고서]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wS1VZRXRDTVdQZ0V3UThMbkVrYk0tS1ZrdXN0RDVoN3RaMGJCRjAwRjJrRFRiRnJWOXp2eWtnT3h1RG9BeVJJT1FPZkxkc1d4ZHc?oc=5",
-   "source": "매일경제 마켓",
-   "time": "08/19 09:26",
+   "title": "[속보] 원/달러 환율 1400원 붕괴…10개월 반 만에 1300원대 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DUnBVSkhhWlowNnpJaTFITF9USS1Iczk3Q2VaLUdNSkdVMXZFRjJHWl9ycm56VTlDSm1OZ3A0Tk5JdTJVRmdVcG9LTUV5MnVrS18tSnhxQUVCTUJZZXlhWTM3ZWdLRTJEWVIw0gFwQVVfeXFMUFdWRFE2V3FGMlB5VXhUZU9yME5pUVNOeFg0Tmdnd1pVZDVmbENwRjhpR1ZpMnM0S1c4Y2RWWFNyeDE2cUxnc21ZNDFEd0MtT1k2WENlU0RYM1k5X3VqMEpLZDFSU2hBLU9mWnNuUkNXbQ?oc=5",
+   "source": "머니투데이",
+   "time": "08/19 12:42",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "[속보]원·달러 환율, 오전 9시 1413.5원",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vWndvUUNZS0gxVndiRDBfOFpSLTdkT2Z6TlJxR1hKU1pSRU5WVWotSS1yNXNRNlhhM2dkaWc1bjI5Wnc2RFNNdFVnUDhvSWRGVWZmSUtJLWxhb3NJcUcwU9IBeEFVX3lxTFA5ZzF4bmN4dnlZRndPNVhUekV4RWVXalEtV0RYV3VvRE1HdGRIZFNTMjdsUUFvZlk0TWtraUR3Vmh1dktsSlN3MW5NWGNhVmY4R3MxUmtLNG9UUE5Hd0Q0RzlwU015V0ZlMTBfV3JqWWVhRkdZWnBKRw?oc=5",
-   "source": "뉴시스",
-   "time": "08/19 09:05",
+   "title": "달러-원 환율 10개월 반 만에 1300원 대로 하락",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RSUc5RG1lN0RtQmpvOVZBc3k5OXdXUDd0aC1uZzBubmFfeGZqbHFsTHhqbzhJY1RhWmFVX1RRQnJTZDZ2TlRja2lGOC1WUFVVbUVZ0gFYQVVfeXFMUGRlTmh4TmNlbklvdll4Zk12RzFSSlRmRTNlRUV3Qlh2REh3WVhMYXZ5TXdnYnBPQUVRSUtLb000RkhBZXpIczA2Z3hCVm9na3lJdnpCN3Ntaw?oc=5",
+   "source": "SBS Biz",
+   "time": "08/19 12:09",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "연준의 피할 수 없는 금리인상 기조 그 문제를 해결할 유일한 돌파구",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUUNXMFhiQzM5bzlhd2Z4NGVEUWg3QVB3THdUU1hSbnViUm9qM0pndW1oTk42dlpFbTJrWE9vVHM4dlVhckEyeWJ6OGtVR0VtZFVzNmJyQkdMUjUxMXhVOXVlNTZTTVdycmpidE44LU3SAXRBVV95cUxQYW9aM0VvaXZVM0JPaXlIRTRSVHVLSU5DUE9BbWhqWkg1WXVOUEFub0ZacU5vOUc0ZFhGRnE1R2UzR3hoS0tSV3ZiYjJOS0NRbEFsd1VyUzNEOWJlUkpyQm0tMEV3bk9HVmdmZ0ZXQk90MjRaRw?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/19 08:57",
+   "title": "美금리 동결 우세·수출 네고에…환율 10개월 반 만에 1,300원대",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbWVQMlFnczJnQzg1a2xQa0dzbFJoRDVBMURvcWQtc0I1TXZLOERndEloRkZkTi10Y1NtU25QZWJMTmpHcmJHUzcxd2ZmZ3BtWHNXYzh4M003SmfSAWBBVV95cUxPR2ZLNExETWJVdVl6Z2JnSHh0N1hKTm4wVlA5dDd6U2g2bU45MFZTTWpCNVRDREgwQUZHZHBsZ2lQZlctNVZjeHB5UW4yd1RfWE5lUlpEZ1o3Z0QwRGwzTFU?oc=5",
+   "source": "연합뉴스",
+   "time": "08/19 12:06",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "원·달러 환율 숨고르기…\"1300원대 재진입 시도\" [클릭e종목]",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81S3pwOFFDVzJfTVhNOEVoRnJJczRSVXM1dFktQ0hiSUtkRlBBNFA0bEpWdks2bk9Vemk5OW1pSUpiSVM2aUtmNV9sSW5VQmhFRGNLSnNjS3NRT01fOHlRNQ?oc=5",
-   "source": "아시아경제",
-   "time": "08/19 07:20",
+   "title": "[속보] “이게 얼마만인가”…원/달러 환율 1300원 대로 하락",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3bUJFWnc0QWNTTTFIS1hTR1ZWaU81OXJkYXowYWJSbnpoa2dTV2ZHTzhaRmFlQjVFeS1aTVBPTlhsWi1HT0ZsN3Mtb29CUVFQeDNvdA?oc=5",
+   "source": "매일경제",
+   "time": "08/19 12:06",
    "dir": "neutral",
    "strength": 0
+  },
+  {
+   "title": "[속보] 美금리 동결 우세…원·달러 환율, 10개월 반 만에 1300원대",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsUnI1MEpueWNmbEVsUF9fYjBOSVdXVW9jVFRjN2tLbmVMSDNxVmJFZzk2bG1GX2Q3NkJwc3c2Um9CckNyUzNsME1vd1FzaHhmZ3ZSQmFUWHVuQzROVjRjVmdR?oc=5",
+   "source": "미주중앙일보",
+   "time": "08/19 12:04",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "기준금리 인상 한 달, 초장기채만 무너졌다…\"정책보다 수급\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGclAzanpUZVNDN094R0Y2ak5ORHZQc3UyWml6cUtCSlZoTkdBeUE0NmJZRFdPOWVCN2NEM3h0SGlRRjBfWU9PNkFSQlVXZVphNXdqWER5azlKUGPSAWBBVV95cUxPbnNKQUVBRXRtUjk3aWQwV2YxbGxvSFNIUDlGdWpjdVFRbVdkT0JONWFCWkx4SnBMeWJlSExadHpJNHZCcmJvb2hDZ2lqS0JYeTJsZnFGSEFfLUhYWXk4WEU?oc=5",
+   "source": "연합뉴스",
+   "time": "08/19 08:00",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "환율 하락을 보는 양면적 시각[MT시평/오건영] - 머니투데이",
@@ -63,26 +79,10 @@
    "strength": 1
   },
   {
-   "title": "美 경기 둔화에 금리 인상 기대 후퇴…달러-원 환율 1411.8원(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsODZHbzJfbjhpT0I4QkRhTHFTRF9ZLTVXSnQzMGxDTlpLTjlyOTA5dUxPQUFUcTVwbFJFYnpGRjZrUWhWUkZxMEh0WUh3M1pCellsSm5mNTRLVVnSAWBBVV95cUxQNXBZcXo4M0RoeGtiZGpnVVhadEdTaUZvckROWHhIcV9EMTJ1Z2FVZldWc2dIUW9VYU40T0tJcWRDOW5nWEJ6QXZOc0tNU2hKdjN0aWp0TG1YZ200VHdiVE4?oc=5",
-   "source": "뉴스1",
-   "time": "08/18 16:20",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "원달러 환율 하락 마감",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IeGhkZFlyV2lrdElOaUNnUk55eVVFRk95SldxSVRPdnNJZjEtWllCT0liY0dGenVYZXphUURLemdWUDVLQThtYnBCUUZpRVFReVJBRlNkV3hxU0tSYTlFbg?oc=5",
    "source": "뉴시스",
    "time": "08/18 15:54",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "환율 하락에 달러·환전 예금 러시",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KOEQ0RURoNGs5NVBmNDA1Sng3NUJPZ3pHQTUxb3haYU5kMC1aT1o0SldCaExwWmhOZU1OM1NNNDNJOFhMSXZGSktFcw?oc=5",
-   "source": "뉴스1",
-   "time": "08/18 14:11",
    "dir": "down",
    "strength": 1
   },
