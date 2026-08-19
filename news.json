@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 07:28",
+ "updated": "2026-08-19 09:34",
  "summary": {
   "up": 2,
   "down": 3,
@@ -14,6 +14,22 @@
   ]
  },
  "items": [
+  {
+   "title": "[속보]원·달러 환율, 오전 9시 1413.5원",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vWndvUUNZS0gxVndiRDBfOFpSLTdkT2Z6TlJxR1hKU1pSRU5WVWotSS1yNXNRNlhhM2dkaWc1bjI5Wnc2RFNNdFVnUDhvSWRGVWZmSUtJLWxhb3NJcUcwU9IBeEFVX3lxTFA5ZzF4bmN4dnlZRndPNVhUekV4RWVXalEtV0RYV3VvRE1HdGRIZFNTMjdsUUFvZlk0TWtraUR3Vmh1dktsSlN3MW5NWGNhVmY4R3MxUmtLNG9UUE5Hd0Q0RzlwU015V0ZlMTBfV3JqWWVhRkdZWnBKRw?oc=5",
+   "source": "뉴시스",
+   "time": "08/19 09:05",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "연준의 피할 수 없는 금리인상 기조 그 문제를 해결할 유일한 돌파구",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUUNXMFhiQzM5bzlhd2Z4NGVEUWg3QVB3THdUU1hSbnViUm9qM0pndW1oTk42dlpFbTJrWE9vVHM4dlVhckEyeWJ6OGtVR0VtZFVzNmJyQkdMUjUxMXhVOXVlNTZTTVdycmpidE44LU3SAXRBVV95cUxQYW9aM0VvaXZVM0JPaXlIRTRSVHVLSU5DUE9BbWhqWkg1WXVOUEFub0ZacU5vOUc0ZFhGRnE1R2UzR3hoS0tSV3ZiYjJOS0NRbEFsd1VyUzNEOWJlUkpyQm0tMEV3bk9HVmdmZ0ZXQk90MjRaRw?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/19 08:57",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "기준금리 올랐는데 예금금리는 뚝···저축은행 “예금? 굳이…”",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlY4U0FrbS1UUktsQWZ2a0JyX0tlWkdLVlMyYjBWUmxtekQ1WlR3VWtuMHZETkdQSEZ4SlJCNVN1amgwN3RIX2hfMXBZSlU2NTdUR081elU4dGY0OEpKNlZ0eTA3UThBa2d2aHRVelFySURMN1NNMDlMQmk0YXNoRDBiRVVpVXB0LUFuU3pXQmJ2b1lHRHBUdmlMc0pDM0w2M01yOHFtYk13d9IBX0FVX3lxTE1zMGJHLVJ3NWJjR3Y4LWpDMWFGeWNLT2RrMjVubktYd3hXdlFTaXBBWS1HNWJQbUVSYXhadE43dVktaFUxNWUyZVE3Q01PRlVNYk9aU0YxS3prRWhLdW9n?oc=5",
@@ -55,28 +71,12 @@
    "strength": 0
   },
   {
-   "title": "원·달러 환율 1411.8원 마감…10개월 만 최저",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HMTBDTUI4V2EtOVc1bmhmYVN5NmEtRHFROXdMTG54XzFIN1o3TUwtVEVvOTdWelM1YWE4R0g0WnljemdZWGJRWkJxTDRIUk9yT3BHcFY3Z1VlUQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/18 16:01",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "원달러 환율 하락 마감",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IeGhkZFlyV2lrdElOaUNnUk55eVVFRk95SldxSVRPdnNJZjEtWllCT0liY0dGenVYZXphUURLemdWUDVLQThtYnBCUUZpRVFReVJBRlNkV3hxU0tSYTlFbg?oc=5",
    "source": "뉴시스",
    "time": "08/18 15:54",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "원·달러 환율, 1.2원 내린 1411.8원 마감(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41aE1LZFpVYVFMelcwVWtodGVYTlJTT09oMFp1TW5YTlhBVjM3SlhDVVk4THJNNFVBdGhqTHQ2RDdWdGtyZjk5Ylo1SF94a3dOZDAybmw0X1FXdjgtS2FONdIBeEFVX3lxTE1NbWFnRnJWM2RlZXNhRWZyT1BkdklhWnNxNUdrV3dtdVE2UTRabXFwY3R5YjQzS2VHdGcwcURwNXE1R2FFUEpqM0RfQndCSzZZelRjdElZSU9oaWJnQm4wUWdRd0R2MDNoTTRhNVFBMHpNU0hIM2ZFVQ?oc=5",
-   "source": "뉴시스",
-   "time": "08/18 15:38",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "환율 하락에 달러·환전 예금 러시",
