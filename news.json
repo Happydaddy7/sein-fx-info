@@ -1,42 +1,66 @@
 {
- "updated": "2026-08-20 07:28",
+ "updated": "2026-08-20 09:34",
  "summary": {
-  "up": 3,
-  "down": 2,
+  "up": 2,
+  "down": 3,
   "neutral": 5
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 3 vs 하락 2).",
+   "상승·하락 요인 혼재 (상승 2 vs 하락 3).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "美 30년물 5%대인데 원화 강세…환율 공식 깨졌다 [Pick코노미]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yYzFTal9aTVBxd3BfRUhlVVU1NXNxdjUzUnVLMDJZcUdyNmE1NW5TRjhfLWVuLVNiTVJvUUczTF9FRVhyRzRtSzJmaXFIeElRS0E?oc=5",
-   "source": "서울경제",
-   "time": "08/20 06:29",
+   "title": "원·달러 환율, 오전 9시 1389.3원",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wOXkyd2tfNFBWQ0U5bWJQMjliRGJvWWFhYk1XM3UyeVkyelI3TllNZ1BabnZ1MHBQSVBGWnl0Uzh1bWdRMURIaW1QZ2R6SWZqVmxQU2s4VHVrbGotRkpvUdIBeEFVX3lxTFAxdFVhZlhmMk01M0x0VDlWakZ4cm5mZVhaclRJYXVMdFhCZ0d4V29iNk5YTDdwZnR5RVo5Smo4bDZ6U05wSm1ON3hzRTJjQW1RRlZuWGlRT1AwWV9ROUVtX3g2bzBPcFdiMldDMUNzUzdnd1dlSWtOQw?oc=5",
+   "source": "뉴시스",
+   "time": "08/20 09:22",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "트럼프 \"잘나갈 때 금리 내려야\" vs 연준 \"아니 더 올려야\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mRnhtb2JXa1oxTkpKQ2VRMTBTUlJpSFlDUVZWN2RlV3pzaDFvaDhEb05kWEtkUVZHaGNCb1Q3dUphVE9TcnE2b2RMRHJKZFhOLWxjTVJWeUFpZw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/20 09:19",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "환율 10개월여 만에 1300원대로…\"추가 하방 압력 가능\" [분석+]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VOGdJTlFOQ0dZbXc4RnVCTW44UFlPeHZxUVR3c3FjbkhjNGhWXy1HWXlXZndXU204R1hkdmxHaXVZeG1KRlJ4Z0dJbjBrUGFVTFpBejgtRmdEZw?oc=5",
+   "source": "한국경제",
+   "time": "08/20 09:08",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[속보]원·달러 환율, 오전 9시 1389.3원",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYUk1LLUNUdW40ZFM0cFk4X01jS09sRXdFOWpEaHNDVS1lUmpnMGI3X200UDlCcy11OGdaY3hiTU5FeHAxYzBEZGhVUXBOU1hpQUVXZWZ1U0NLckhMVVd0R9IBeEFVX3lxTE5aNHpDSVBoXzZvaFFKV3lPYV9NZmhUX1NmYlV4aW5LN19jZ2JZTWV1eXBGLUw3T1lrSURNdVNPZlJBdTAzd0FXRXBWT0ZRbFgwNHBwOXVBeGxZS2VKU0ZTblB1UENReGJXN2V1QXpIa19uMnJMcWszMw?oc=5",
+   "source": "뉴시스",
+   "time": "08/20 09:05",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "1400원 밑으로 내려온 환율...\"1350원까지 더 떨어진다\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40allEbG95eTFqSVkzdk9HSkh1RENhbkprMGppWE5WNFhDY2s1enNsVGlVSEFEQXpYYWdBbHFzZ3poRlhnUmpUQnh2NTRkeWlxZmZJZlE2WlVKZw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/20 08:53",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "트럼프 \"경제 좋은데\" 금리 인하 또 압박…연준 '인상 신호'에 불만 폭발 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IbFlyb3FnUTZxRThrRmRjdXE2YUNTdHVELXJHTEFnSlBBcDJteVNFcTJiMDRVUG1QN1I3VHdsVmFYX2NhQnpoUlh6M1RFcVgyVk00V19GdENIdlJ4T0wtOGppblQyVVl30gFuQVVfeXFMTkw5RlZSVGhHOEtPdmQ0UEMtdU01eGQ4YU5qRzBuUkwtS2ZtQkxCSXVER1lKVGZRcDZscUNSZGVEdG1EQXlnTkVEOVZWY3BrbXVpZ1FaQU4xekxDZzJRQ2g2Y3FTWDRQbEx2ZEE2c3c?oc=5",
+   "source": "머니투데이",
+   "time": "08/20 07:53",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "트럼프 \"연준, 경제 호조에도 금리 안 내려\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTa3BDaEU4b1ZGY1lJZ3NLTnZ5N1dkaGNOa1c5NDVscGdtU00xR1JZdDZUNVgyc0w0R1JzbTV1TkxoeEZfbXBMUXRXVkxMRktDVDlvbGZqWEFmdw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/20 06:22",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "7월 FOMC 의사록 “위원 다수, 물가 안 잡히면 금리 더 올려야”",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HY003elFKRVF5TzFEeEhJWGlLTlZOQjROcTJwZUVUSXFGY1ZPR2ZjVDZhM3FYcGpKa2dDcEFmdC16dmVzRmUwNHBJbUlZRERGc1R4clFR?oc=5",
-   "source": "헤럴드경제",
-   "time": "08/20 06:08",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "美연준, '추가 긴축' 경고…워시는 회의 축소 의견 요청",
@@ -47,36 +71,12 @@
    "strength": 1
   },
   {
-   "title": "“물가 안 잡히면 금리 더 올려야”…연준 내부 ‘인상론’ 예상보다 강했다",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdG5YYnk1bWdwMjZFTmMzeW5yUUR0Qk0xbnZ3MXZaT29wM1M3dGIyUkRqX2RieWNNU2Y2MEtWVXExVml0ekgxaDZpTTNMNGs5Nk9DUUdYTkFGNG85WmVZV1A1dWsxbzJnNjNaZXNBZ1hPQlBlREdVNkhCYWdEZ2lodmRsdm4tR2hI?oc=5",
-   "source": "조선일보",
-   "time": "08/20 05:33",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "7월 FOMC 의사록 \"위원 다수, 물가 안 내려가면 금리인상 언급\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtdXRBdTZyVTdGYXo3S0NEMkdfYlZfRGNSTl82YXNGaXVjYXdGUXpvekszdjkyYVNnS1oyMEJlODh2eFNRZDRZcDRFTkxaNEI5TjI2RWdPNVkwR0XSAWBBVV95cUxPMFJxV0pSSGNkbTVRNU1YSi01OUVUZVVEbG9rTF85TzJrTFdyanltbER3by03MUI1VG1ya3k4b2NHTEd4SUEtbW84OGw3d3VOekpidHk3bmZIWms2aG9OX3U?oc=5",
-   "source": "연합뉴스",
-   "time": "08/20 04:29",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "7월 연준 의사록 공개…“인플레이션 지속 시 추가 긴축 불가피”",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kZ25CNHZPQnZQeVFGdGdnQVlJOFVQWm1ycGRjNXpmWVQyWU1pQnBKYklWNGpmNG8wQTlwVzIyN1RtZzFWalUwQ081OVM5VVRjZkNhOFJDbnrSAV5BVV95cUxOQnlWTVBhWFp4LWpuTlh0aEpYQlZEMjBhcEpXVFVxT1NKa0FCTEpkUnJVWmFsdXZIdnpjN2hXUUF3WG1iUWo5N0FwU2dVQ0Rqa0lMU2J4TGhlWDluYWVB?oc=5",
    "source": "뉴스1",
    "time": "08/20 03:34",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "\"물가 안 잡히면 금리 올린다\"…美 연준, 추가 인상 경고",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qdUFPNTNnTFVBQ2FjN1ltRUtRWHNPem5mNnRJOFJfY2MxVC0xYVNiS0dtaG8yMHRsLTRJUlVqdG9ObUVzckViOGh2eEYtYTVRaklNMU5qRUxsQQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/20 03:29",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "주가 급락에도 환율 하락…원/달러 환율, 11개월만에 1300원대로 - 머니투데이",
@@ -87,11 +87,11 @@
    "strength": 1
   },
   {
-   "title": "기준금리 인상 한 달, 초장기채만 무너졌다…\"정책보다 수급\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGclAzanpUZVNDN094R0Y2ak5ORHZQc3UyWml6cUtCSlZoTkdBeUE0NmJZRFdPOWVCN2NEM3h0SGlRRjBfWU9PNkFSQlVXZVphNXdqWER5azlKUGPSAWBBVV95cUxPbnNKQUVBRXRtUjk3aWQwV2YxbGxvSFNIUDlGdWpjdVFRbVdkT0JONWFCWkx4SnBMeWJlSExadHpJNHZCcmJvb2hDZ2lqS0JYeTJsZnFGSEFfLUhYWXk4WEU?oc=5",
-   "source": "연합뉴스",
-   "time": "08/19 08:00",
-   "dir": "up",
+   "title": "트럼프, 연준에 금리 인하 압박…“인플레 너무 두려워해”[1일1트]",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jVVVUVmZxd1VzSDctVEdIT2JWQUFzVHotZnpnWmlKRmFKVXlGVXBXeDdWYXdWX3NHc19SWThmNDZrVU5OX2c0NnZjS0hZUDNtUXA0dTAxOEEwQ21sQzRYQw?oc=5",
+   "source": "헤럴드경제 미주판",
+   "time": "08/19 15:39",
+   "dir": "down",
    "strength": 1
   }
  ]
