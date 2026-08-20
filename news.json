@@ -1,17 +1,98 @@
 {
- "updated": "2026-08-20 13:24",
+ "updated": "2026-08-20 15:24",
  "summary": {
-  "up": 0,
-  "down": 0,
-  "neutral": 0
+  "up": 3,
+  "down": 3,
+  "neutral": 4
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 0 vs 하락 0).",
+   "상승·하락 요인 혼재 (상승 3 vs 하락 3).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
- "items": []
+ "items": [
+  {
+   "title": "영상원·달러 환율 1397원…10개월 만에 1400원 아래로",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ualVMRHhmRVJzLU1POVB0Tm41RWp2NDFaQWtJa3ZDTWR3UnI4Y0lHZ0pFeFpkb19KZ2hPN3paYUlqMGdYQW9wRjZmZGUzcDZLZlUyaENXVlhMZW15cUFNcWNkZTd2Zw?oc=5",
+   "source": "서울경제",
+   "time": "08/20 13:37",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율 하락",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XaUxCTzl0NnZweDVnVjZnZE1KM3FLUWtBajBXazRlZHFGZVg5Nm5Ca24yQmFBd3JGWlRLSV84aXA1NDhONU5JSGo0U0NldW5KME5lbERCV0ZCU0ktMk9mZ05ackt4Zw?oc=5",
+   "source": "뉴시스",
+   "time": "08/20 13:35",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[헤럴드pic] 11개월 만에 1300원선 내려온 원/달러 환율",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdnoyT2U0U21DN0RobGhjOTBKcl9QcW9NSC13X0x0bWtYQW9HRERiSzVnZFVGZjM0aFhDT1hNcTcyQlZzdnc0Wkl4eHp3aVM5dnViX19R?oc=5",
+   "source": "헤럴드경제",
+   "time": "08/20 13:25",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율 1,300원대로… 11개월 만에 최저",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GdTcwT2JJZWlIa0FOSnhOR2hOeUJDRThWMHhxX0FDVDlfUjBRZUNSellNNGEtNlhGaXlraGs2dkVuQ2FrdEF1Q1ltdTVxeGJqT29Dam9pVDVsczRmWDVr?oc=5",
+   "source": "미주한국일보",
+   "time": "08/20 12:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[올댓차이나] 위안화 기준치 1달러=6.7808위안…0.068%↑·3년6개월 만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zSXJtSnVEcnRCX09VN3dKUUxvMUljVVAzVnNGZ3o0NWZlRTdXeHJpaEFBekp6OW5EZEJYakNZOXFTRW1aRW5Ya1BqbThvVGNNYm5SSWYtLVZBdE1CSjNLQdIBeEFVX3lxTFBUQzZOYUwxVlFIUnJwV3Q1TnZXNkYxNnNwRDFyWVBOZXVHSm9EWnd2WWlTQTJRTF9fRHJiVnp6SjlaS3lRVUZ6ODkycXM0RXhnSi1KeGliLUdMbGhKaHdSQ2pZbFZTOFg2WUFxeVlMVXBaUllOeVZPUA?oc=5",
+   "source": "뉴시스",
+   "time": "08/20 11:30",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "트럼프 \"경제 좋은데\" 금리 인하 또 압박…연준 '인상 신호'에 불만 폭발 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IbFlyb3FnUTZxRThrRmRjdXE2YUNTdHVELXJHTEFnSlBBcDJteVNFcTJiMDRVUG1QN1I3VHdsVmFYX2NhQnpoUlh6M1RFcVgyVk00V19GdENIdlJ4T0wtOGppblQyVVl30gFuQVVfeXFMTkw5RlZSVGhHOEtPdmQ0UEMtdU01eGQ4YU5qRzBuUkwtS2ZtQkxCSXVER1lKVGZRcDZscUNSZGVEdG1EQXlnTkVEOVZWY3BrbXVpZ1FaQU4xekxDZzJRQ2g2Y3FTWDRQbEx2ZEE2c3c?oc=5",
+   "source": "머니투데이",
+   "time": "08/20 07:53",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "美연준, '추가 긴축' 경고…워시는 회의 축소 의견 요청",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TOEhkWnlqX1hmVFI2S3g3LVFvSzgwbmlEWG9JYk5vV1R2QTc1OEg3b2Z2WmltYnQ2NVF6ZVp4VXN3aTR0MWlTM1E3dk53V09BclRV0gFYQVVfeXFMT1hRUDRaUjd3WUd1bTFfdG9xTmtDaGNQWkhEZkdrdmU1M0pxbWV4S21FSjIyMmNCQmxsYzJXX3AzS25rcmwwcE1UbmNFNlhLcFp3cEE5dXQyUg?oc=5",
+   "source": "SBS Biz",
+   "time": "08/20 06:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "FOMC 7월 의사록 “위원 다수, 물가 안내려가면 금리 인상 언급”",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wU1FpM3pPX01sUVZoRW52b3hBYTRrc2RBbDBfUFBVREc0Z0NlT1pRQ1V6TmtUS0lVVThqbEczbHZFSWZjLW5CV0EyR0MwS1B2UHc?oc=5",
+   "source": "서울경제",
+   "time": "08/20 05:28",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "주가 급락에도 환율 하락…원/달러 환율, 11개월만에 1300원대로 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JNHQ1N2xlWm9USnNiM3RMZHBZUzF5QWhIb1FIVmd4bVlQb3pVcTRCVFdrcDgxcmlUYlhNMmJCYmFqbThldmZ2QUJDUW80aC1Hb0YxUVBKNXpucDgwRmJLU3lDbFVfNGVEVEZJ0gFwQVVfeXFMTkExT2VXNGJFZHBRTDZMZE1tMWl0bmYwQjZqZ0o3blQ5T2FwcHI5MjkwMUh3QmRNZGZESXBzVFhLRHloRWFiYWpUNDNIQ0RnOHlhckRnaDhDal9IYnR5WjctcmVwMjVkQ2lGRmM2ZUx4Vw?oc=5",
+   "source": "머니투데이",
+   "time": "08/19 16:03",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "기준금리 인상 한 달, 초장기채만 무너졌다…\"정책보다 수급\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGclAzanpUZVNDN094R0Y2ak5ORHZQc3UyWml6cUtCSlZoTkdBeUE0NmJZRFdPOWVCN2NEM3h0SGlRRjBfWU9PNkFSQlVXZVphNXdqWER5azlKUGPSAWBBVV95cUxPbnNKQUVBRXRtUjk3aWQwV2YxbGxvSFNIUDlGdWpjdVFRbVdkT0JONWFCWkx4SnBMeWJlSExadHpJNHZCcmJvb2hDZ2lqS0JYeTJsZnFGSEFfLUhYWXk4WEU?oc=5",
+   "source": "연합뉴스",
+   "time": "08/19 08:00",
+   "dir": "up",
+   "strength": 1
+  }
+ ]
 }
