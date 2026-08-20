@@ -1,56 +1,40 @@
 {
- "updated": "2026-08-20 09:34",
+ "updated": "2026-08-20 11:47",
  "summary": {
-  "up": 2,
+  "up": 4,
   "down": 3,
-  "neutral": 5
+  "neutral": 3
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 2 vs 하락 3).",
+   "상승·하락 요인 혼재 (상승 4 vs 하락 3).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "원·달러 환율, 오전 9시 1389.3원",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wOXkyd2tfNFBWQ0U5bWJQMjliRGJvWWFhYk1XM3UyeVkyelI3TllNZ1BabnZ1MHBQSVBGWnl0Uzh1bWdRMURIaW1QZ2R6SWZqVmxQU2s4VHVrbGotRkpvUdIBeEFVX3lxTFAxdFVhZlhmMk01M0x0VDlWakZ4cm5mZVhaclRJYXVMdFhCZ0d4V29iNk5YTDdwZnR5RVo5Smo4bDZ6U05wSm1ON3hzRTJjQW1RRlZuWGlRT1AwWV9ROUVtX3g2bzBPcFdiMldDMUNzUzdnd1dlSWtOQw?oc=5",
+   "title": "[올댓차이나] 위안화 기준치 1달러=6.7808위안…0.068%↑·3년6개월 만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zSXJtSnVEcnRCX09VN3dKUUxvMUljVVAzVnNGZ3o0NWZlRTdXeHJpaEFBekp6OW5EZEJYakNZOXFTRW1aRW5Ya1BqbThvVGNNYm5SSWYtLVZBdE1CSjNLQdIBeEFVX3lxTFBUQzZOYUwxVlFIUnJwV3Q1TnZXNkYxNnNwRDFyWVBOZXVHSm9EWnd2WWlTQTJRTF9fRHJiVnp6SjlaS3lRVUZ6ODkycXM0RXhnSi1KeGliLUdMbGhKaHdSQ2pZbFZTOFg2WUFxeVlMVXBaUllOeVZPUA?oc=5",
    "source": "뉴시스",
-   "time": "08/20 09:22",
+   "time": "08/20 11:30",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "트럼프 \"잘나갈 때 금리 내려야\" vs 연준 \"아니 더 올려야\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mRnhtb2JXa1oxTkpKQ2VRMTBTUlJpSFlDUVZWN2RlV3pzaDFvaDhEb05kWEtkUVZHaGNCb1Q3dUphVE9TcnE2b2RMRHJKZFhOLWxjTVJWeUFpZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/20 09:19",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "환율 10개월여 만에 1300원대로…\"추가 하방 압력 가능\" [분석+]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VOGdJTlFOQ0dZbXc4RnVCTW44UFlPeHZxUVR3c3FjbkhjNGhWXy1HWXlXZndXU204R1hkdmxHaXVZeG1KRlJ4Z0dJbjBrUGFVTFpBejgtRmdEZw?oc=5",
-   "source": "한국경제",
-   "time": "08/20 09:08",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[속보]원·달러 환율, 오전 9시 1389.3원",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYUk1LLUNUdW40ZFM0cFk4X01jS09sRXdFOWpEaHNDVS1lUmpnMGI3X200UDlCcy11OGdaY3hiTU5FeHAxYzBEZGhVUXBOU1hpQUVXZWZ1U0NLckhMVVd0R9IBeEFVX3lxTE5aNHpDSVBoXzZvaFFKV3lPYV9NZmhUX1NmYlV4aW5LN19jZ2JZTWV1eXBGLUw3T1lrSURNdVNPZlJBdTAzd0FXRXBWT0ZRbFgwNHBwOXVBeGxZS2VKU0ZTblB1UENReGJXN2V1QXpIa19uMnJMcWszMw?oc=5",
+   "title": "원·달러, 11개월 만에 1300원대 '뚝'…증권가가 꼽은 수혜주는",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zUkc2dHRqUUVTbm9RUG9XdUkyZUYtTTF3NzNLRm1DdHJ5OG4zYUdtZ3dfWG1KeGpqRFNyVWtJR3JTQy1qMmtHeWZvM3hnQ3lieFRQZDFURDBsQURMa2VRUdIBeEFVX3lxTE03b0F3WVhvdWxQQzE4bjFaMVF1Yld0cGtuM21DSWtHRUwwdzJSa2xGd0M3cTQtWUx2UmhDWnBoVjEzQndTRnJvdmFEeG5jWEQ2dS10djUzWnc3YlNRcDQxTWNPaUh1QVU4OHFoVUhhckx3bkIwa3EweQ?oc=5",
    "source": "뉴시스",
-   "time": "08/20 09:05",
+   "time": "08/20 11:18",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "1400원 밑으로 내려온 환율...\"1350원까지 더 떨어진다\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40allEbG95eTFqSVkzdk9HSkh1RENhbkprMGppWE5WNFhDY2s1enNsVGlVSEFEQXpYYWdBbHFzZ3poRlhnUmpUQnh2NTRkeWlxZmZJZlE2WlVKZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/20 08:53",
+   "title": "美재무 개입에 장기 국채금리 내렸지만…\"연준의 금리인상 압박은 ↑\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuRDFVMmRnZEF1VGdrRVZuQUpzTUNSZ3RXZi16cWVkaVVLZVpNcDg3MlBfQ0x6aDNMTnUzSkl5eWt3YWFtdjVCLVlxTVhsLXp1TU9XRnJtaE91SndnY1FkedIBeEFVX3lxTFBnQlhNVkp6blhESzRnNjhwRUtWanpodGdJVk5HektHNGs5QzRidDFkbG1QU3F4MnlzOGlXWU42am9Oa2R3SXZvU1FITTAyZXI0M3FNM05kR1Q2VkRlZjAwYUZLZ0Nadmp1LXQ3WHBjWTYzX2FhTGpmLQ?oc=5",
+   "source": "뉴시스",
+   "time": "08/20 10:06",
    "dir": "neutral",
    "strength": 0
   },
@@ -67,6 +51,14 @@
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TOEhkWnlqX1hmVFI2S3g3LVFvSzgwbmlEWG9JYk5vV1R2QTc1OEg3b2Z2WmltYnQ2NVF6ZVp4VXN3aTR0MWlTM1E3dk53V09BclRV0gFYQVVfeXFMT1hRUDRaUjd3WUd1bTFfdG9xTmtDaGNQWkhEZkdrdmU1M0pxbWV4S21FSjIyMmNCQmxsYzJXX3AzS25rcmwwcE1UbmNFNlhLcFp3cEE5dXQyUg?oc=5",
    "source": "SBS Biz",
    "time": "08/20 06:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "FOMC 7월 의사록 “위원 다수, 물가 안내려가면 금리 인상 언급”",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wU1FpM3pPX01sUVZoRW52b3hBYTRrc2RBbDBfUFBVREc0Z0NlT1pRQ1V6TmtUS0lVVThqbEczbHZFSWZjLW5CV0EyR0MwS1B2UHc?oc=5",
+   "source": "서울경제",
+   "time": "08/20 05:28",
    "dir": "up",
    "strength": 1
   },
@@ -92,6 +84,14 @@
    "source": "헤럴드경제 미주판",
    "time": "08/19 15:39",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "기준금리 인상 한 달, 초장기채만 무너졌다…\"정책보다 수급\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGclAzanpUZVNDN094R0Y2ak5ORHZQc3UyWml6cUtCSlZoTkdBeUE0NmJZRFdPOWVCN2NEM3h0SGlRRjBfWU9PNkFSQlVXZVphNXdqWER5azlKUGPSAWBBVV95cUxPbnNKQUVBRXRtUjk3aWQwV2YxbGxvSFNIUDlGdWpjdVFRbVdkT0JONWFCWkx4SnBMeWJlSExadHpJNHZCcmJvb2hDZ2lqS0JYeTJsZnFGSEFfLUhYWXk4WEU?oc=5",
+   "source": "연합뉴스",
+   "time": "08/19 08:00",
+   "dir": "up",
    "strength": 1
   }
  ]
