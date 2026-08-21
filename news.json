@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 17:25",
+ "updated": "2026-08-21 19:18",
  "summary": {
   "up": 1,
   "down": 9,
@@ -47,6 +47,14 @@
    "strength": 1
   },
   {
+   "title": "코스피, 원달러 환율 하락 출발",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MaGdLeDFyVnNIaXl6cUVrbmQ3czlqVXB0ejhZTzJ0WlRFNVNmZ1hqaDBxZHVLeXctR1B2cF9fbDg5TlVyYTNKcXpaZw?oc=5",
+   "source": "뉴스1",
+   "time": "08/21 09:21",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "美 국채 바이백에 연준 셈법 복잡…“시장 신호 흐리고 금리 인상 압력”｜Global Money Club",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuY0xlUVpENVB4THUyd3Jpem5RUWpjeGltc0lpMG5XMVlGek5wN2tkWFdoRjlsZXF0S2ZXWXhadzE1MzJhTlo1VjYxdzB3eTh3SDFSaHJGZzcyUTA?oc=5",
    "source": "중앙일보",
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91UDdHZFdpY3MwODB4SjRoVF9ONXRfTDEzM2ViS0lqSlFnUURZRUM1d2hlUmdHdUl5bWMwVnk4RHUwMWF6bUtGZ015eVIyTVVwLVhabnUwanN4VmI1N2ZscWpfWWY3OGJVZzhR0gFwQVVfeXFMUHlYLXp1TGJGTkwtV1hSRktJcjVLdXhoejQxZU03Tk5PM2lSZ2NRLVZHSWdpZ0gxMk5VZW4tdmJXLXlhRDQtMzZXV1NFdmRveEZma1ZMZ09HNjdGNFVTZEE0ZjBsYWY4WERrZ2xpR1JLNA?oc=5",
    "source": "머니투데이",
    "time": "08/20 16:19",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율, 이틀 연속 1300원대…수출업체 달러 매도·弱달러 지속",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVmk0UFpoV1ZqSlhSamx4MXhaMFAxVmpfMk82TUZ1bncwUHNySXZRenc0eloydHlIQ1F0RHhxZXFBS2VJbWQ0MjFfQW9ibHJ5NU9HdzZPMGcyZ0F4RnlXZg?oc=5",
-   "source": "아시아경제",
-   "time": "08/20 16:12",
    "dir": "down",
    "strength": 1
   }
