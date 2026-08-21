@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 13:27",
+ "updated": "2026-08-21 15:25",
  "summary": {
   "up": 2,
   "down": 8,
@@ -79,18 +79,18 @@
    "strength": 1
   },
   {
-   "title": "원·달러 환율, 이틀 연속 1300원대…수출업체 달러 매도·弱달러 지속",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVmk0UFpoV1ZqSlhSamx4MXhaMFAxVmpfMk82TUZ1bncwUHNySXZRenc0eloydHlIQ1F0RHhxZXFBS2VJbWQ0MjFfQW9ibHJ5NU9HdzZPMGcyZ0F4RnlXZg?oc=5",
-   "source": "아시아경제",
-   "time": "08/20 16:12",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "원·달러 환율 장중 1380원대 중반까지…수출 네고·달러 약세",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVV85NWpoNlVHeGhSUTRzTHd3NDEzWmotOHlaQkpOeWZaSkViQVY1RDhYcmRKbUVzU0w0VWtRSWFkMzZ3ZXBpU3pjOF9GUzlHZVdaTWo2VERKUQ?oc=5",
    "source": "파이낸셜뉴스",
    "time": "08/20 16:03",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "수출업체 달러 매도·약달러…환율 1,390원대 초반",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CekFKVDNXQVNBanJNcDRCRVdHUzNmUGJCN2FPWW1lZElhVEd5Z2g2MkFrbk9JLVZoWWM0aF9WdDRlY3dZV2ZjRVpPQ1d0OE9rckRQVERhS092MVZLZldaWdIBYEFVX3lxTE5CekFKVDNXQVNBanJNcDRCRVdHUzNmUGJCN2FPWW1lZElhVEd5Z2g2MkFrbk9JLVZoWWM0aF9WdDRlY3dZV2ZjRVpPQ1d0OE9rckRQVERhS092MVZLZldaWQ?oc=5",
+   "source": "연합뉴스",
+   "time": "08/20 15:52",
    "dir": "down",
    "strength": 1
   }
