@@ -1,96 +1,96 @@
 {
- "updated": "2026-08-21 19:18",
+ "updated": "2026-08-24 07:26",
  "summary": {
-  "up": 1,
-  "down": 9,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
-  "dir": "down",
+  "dir": "up",
   "lines": [
-   "하락요인 우세 (하락 9 vs 상승 1).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승요인 우세 (상승 7 vs 하락 3).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "美 국채금리 쇼크에도 연준 매파 \"시장 정상, 인플레 잡아야\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MdmZVT0JaeEpmTmJRUWRiWW94TG5fRlB4dTcycGJnNWc1S09qUkd0bm5ZdXF5MlE1TEk5S0VsV2ZwYkJ4UF9aUkIzeExPNmRLOXBxM0t3MXVOdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "08/24 07:06",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "연준 인사 \"미·캐나다 갈등에 인플레 장기화 우려\"...금리 인상 필요성 시사",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pWVVBX2FOY3M2aF9pb3RncGJ6eGtFeF9nQ3hTNUs2cHlPRFR3NHoycDY2VFpZMnYzeW5LMDNHeXhDbkdCQjQ1MVQ5aW14bnNXX3l3Z1pkY3dXdk11SXc?oc=5",
+   "source": "YTN",
+   "time": "08/24 06:21",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美연준 매파 인사, 국채금리 급등에도 “시장 정상…물가에 집중”",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tc1l3aDYtZVpQQVQ5TUEzRUU2a2p4U2pacGxWRVZuV2VxZHJ3dGJVQVRsZjYyaVJTYko5bjJTYlRMOGstNUxENVhGSDVMTmw5ZklTdzRB?oc=5",
+   "source": "헤럴드경제",
+   "time": "08/24 06:05",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "미 연준 매파 인사, 국채 금리 급등에도 \"시장 잘 작동\"",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pRE80dXkwQ0pVYnhOdjM1VUl1ZTJvd3NpbXBlak90S0EyWEZJcXd6blRRZjdmSzl6cGh3algtci1nRlVYV2dLQkh6UWhNSFM0b3FYNzIyaHJMUVM2aFE?oc=5",
+   "source": "YTN",
+   "time": "08/24 04:52",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "기업 달러 순매도 작년의 3.7배… 환율 하락세 1300원대로",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5",
+   "source": "동아일보",
+   "time": "08/24 00:30",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[사설] 기준금리 연 3%로 오를 듯…긴축의 시대 대비를",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6MUJvbjNnRUxjaHUzR1Y1X1BRdXhDcXBPbDYwLWFFMjZMQlBUTHZpaVdQWkxRM24yTlR1MXczcU5MYXRpdGxCMTlCN01LdzlVZ3VKZXc3dmVjdw?oc=5",
+   "source": "한국경제",
+   "time": "08/23 17:32",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tMC1ZQjRndURiM2d6Y1ZYTDNEZ2RQV3p5bnpaemU1dlVFRUNVbVVnN1U0SV9JMjhBeWZHVGtmZHA3ZzYxM2FPWUp2ZFdac0c3Z0diUDNlcWdPalhiWkVVYjVabFJxRlU?oc=5",
+   "source": "연합뉴스TV",
+   "time": "08/23 13:39",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5",
+   "source": "경향신문",
+   "time": "08/23 10:49",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "日, 2분기 외화예금 급증…엔화 약세에 28년만 증가폭 최대",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CTXBuUEFwV3hNal9TdkRzUHZkTFdqOWhMTDhEU1NMaGlRVk9hN0dGTEZIUkxkUTkxMnYtWWNqWHpqNlpMMm9jZ2ozWXcxVW5wNHdwVzR3QzNrUXFxZHBnS9IBYEFVX3lxTE1CTXBuUEFwV3hNal9TdkRzUHZkTFdqOWhMTDhEU1NMaGlRVk9hN0dGTEZIUkxkUTkxMnYtWWNqWHpqNlpMMm9jZ2ozWXcxVW5wNHdwVzR3QzNrUXFxZHBnSw?oc=5",
+   "source": "연합뉴스",
+   "time": "08/21 19:21",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "원/달러 6일째 하락…주주환원·'원화 강세 베팅'에 장중 1380원선 - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoenZfRUtxcjNEM1FSSjVucTNQdHdBaFZUcnVlY3FvVDhZQ3ZaVFVqcl9WZ3c3MlhlenUxVHZwTnFQckxScjNlcmhHc0dTV2ZxdGVwdjh1aDJ4R1UtX0FuYnNxNXRXc0xIWWdF0gFwQVVfeXFMTU5jMFd6bl9GMk5PbF9XUklQS0k1U3RLX0VKN19oSXhpNW9SX1VmbC0tamtBaTdDS09SMGkwd05zdk8wVVJRYzE3MGFXOVlfNGdLR1ItY1VDSGY4RDI4NW9YakN3aFJ6WEpabXFJaEhCXw?oc=5",
    "source": "머니투데이",
    "time": "08/21 16:29",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율 6일째 하락…‘원화 강세 베팅’에 연저점 또 경신 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SUTB0cVFGaDVYQWp3QThaOEJ1U1dvZWVMV19lQnpjQnB6dDhBZU1hZHRHYnJtNHdUQTJaQmFHWGRzSVJwMVNqeW9ZOXRCZlpjWFE?oc=5",
-   "source": "서울경제",
-   "time": "08/21 16:19",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "대신證 \"달러-원 연내 1,350원까지 하락…달러 매도 우위\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TYV9TaU92cGNCQ2N6V21QXzVQRHJBWE9jQzBlZGlndjlVTnVFUHRsMmdnUTdGTXY5M0tjOGstNjZiOTFFNnJrdTVIOGQxY0NIN3RmZWZ2OGxjc29oSDQyaDJmRzlzeEg2bGlIU2hIOVA?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/21 12:39",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "기업 달러 매도에 떨어진 원·달러…1380원대 등락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yeVYxZnI3Q1hveGpiNEZMOTdQMHpsanVKOF9Xbm1Lc0pMSjY2bk03aDYtbWREMkY3ckVSQnVaVDU4bks1d0xxeFRDSEo1S1NFWmZRTEpjRVVUYWhhNWltdtIBeEFVX3lxTFBKWExQVlo3aUZ6c2pSSXQxdnhaVkk0d0prS1JWZXEtbThtd1ZWZ244ZVBxalZUX2JYMmxzOTNFZzlMU2o1YW1MbWZtSVFWYlVrMDFYVk0waUNKbm5ZVmFPeDNRUG0zU3NyUnZiYVhjV25rbWRiWDBXVw?oc=5",
-   "source": "뉴시스",
-   "time": "08/21 10:01",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "코스피, 원달러 환율 하락 출발",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MaGdLeDFyVnNIaXl6cUVrbmQ3czlqVXB0ejhZTzJ0WlRFNVNmZ1hqaDBxZHVLeXctR1B2cF9fbDg5TlVyYTNKcXpaZw?oc=5",
-   "source": "뉴스1",
-   "time": "08/21 09:21",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美 국채 바이백에 연준 셈법 복잡…“시장 신호 흐리고 금리 인상 압력”｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuY0xlUVpENVB4THUyd3Jpem5RUWpjeGltc0lpMG5XMVlGek5wN2tkWFdoRjlsZXF0S2ZXWXhadzE1MzJhTlo1VjYxdzB3eTh3SDFSaHJGZzcyUTA?oc=5",
-   "source": "중앙일보",
-   "time": "08/21 02:45",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 국채 바이백 확대에 달러 약세 압력…씨티, 3개월 전망 하향｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSmM5X29aMENBaE02S0NVUE1BT1A1T0ZieFlwal9LT0FZNEVFTFg4VmtKOGF0aHpiZFBhYlY0MU1SQWlZM1poV0FhcUZfcTZuVUkxRE9tVzhxMzQ?oc=5",
-   "source": "중앙일보",
-   "time": "08/21 02:18",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "달러 약세에 귀해진 귀금속 … 금값·은값 줄줄이 오른다",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xaWhFMjhCR0ktaDFzZXl3NVBrTW14ang0cjFYaHNBNUNNbnloTHRiZW9aQ3ZUSVE1Y2FtMWZWOGs1eTJPa2J4RENqcF9jbmpET1E?oc=5",
-   "source": "매일경제 마켓",
-   "time": "08/20 18:02",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율 5거래일 연속 하락…“원화 강세, 국민연금 환헤지 향방이 변수” [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ERUtzZEgtcDRvVjNzNl9RNDl3SGpuLU1FcDY4RW5YbFZYM0ctOFU5QXM3YjdhVW40VEUyWm5sV3BCQlh2MUd4NDNFZUQyTnRRbVE?oc=5",
-   "source": "서울경제",
-   "time": "08/20 16:57",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "1400원 무너지자 달러 매도 가속…환율, 11개월 만에 최저 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91UDdHZFdpY3MwODB4SjRoVF9ONXRfTDEzM2ViS0lqSlFnUURZRUM1d2hlUmdHdUl5bWMwVnk4RHUwMWF6bUtGZ015eVIyTVVwLVhabnUwanN4VmI1N2ZscWpfWWY3OGJVZzhR0gFwQVVfeXFMUHlYLXp1TGJGTkwtV1hSRktJcjVLdXhoejQxZU03Tk5PM2lSZ2NRLVZHSWdpZ0gxMk5VZW4tdmJXLXlhRDQtMzZXV1NFdmRveEZma1ZMZ09HNjdGNFVTZEE0ZjBsYWY4WERrZ2xpR1JLNA?oc=5",
-   "source": "머니투데이",
-   "time": "08/20 16:19",
    "dir": "down",
    "strength": 1
   }
