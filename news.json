@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 07:26",
+ "updated": "2026-08-24 09:36",
  "summary": {
   "up": 7,
   "down": 3,
@@ -14,6 +14,14 @@
   ]
  },
  "items": [
+  {
+   "title": "[포토] 코스피, 원/달러 환율 하락 출발",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sczRuYWxkRmpaZFlsSXBGMl9WQVpOR05MWldsb0NhTkN2c3YxSHZTTFo0QXpNekRuWFBoVEE0c2xGWXZfdDNYOGdRX0k3TmliWmw3d2NMVWd2WGVJOUx0dw?oc=5",
+   "source": "아시아경제",
+   "time": "08/24 09:25",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "美 국채금리 쇼크에도 연준 매파 \"시장 정상, 인플레 잡아야\"",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MdmZVT0JaeEpmTmJRUWRiWW94TG5fRlB4dTcycGJnNWc1S09qUkd0bm5ZdXF5MlE1TEk5S0VsV2ZwYkJ4UF9aUkIzeExPNmRLOXBxM0t3MXVOdw?oc=5",
@@ -47,19 +55,19 @@
    "strength": 2
   },
   {
+   "title": "美연준 매파 인사, 국채금리 급등에도 \"시장 잘 가고 있다\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpZVJkb05jUEUwWjFOc3FXM2tNN1JMSlRZYU5CNnhPQnNyOUtjN3h1a0l3LVlzc2lFamwySnJvRFhmTHJ2dzZZWHFOdjZ2MHhDTHRRNER2dzMwNXPSAWBBVV95cUxOY2JoN1NRYmk5VWhIX0Yxc0FPaEtQQWgwWGNXTERJZ0tXZnh0VzZrZjB0LWpOeVpzWUQ4UUthNklDYmhEY1BMZHBmQVZZRHI2blc4WGtadU1PRnVRbDg5SGs?oc=5",
+   "source": "연합뉴스",
+   "time": "08/24 02:52",
+   "dir": "up",
+   "strength": 2
+  },
+  {
    "title": "기업 달러 순매도 작년의 3.7배… 환율 하락세 1300원대로",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTzBVTjJlU3lveWVrNm0zeWtmUTQ2b1E3a29GTHhLYlhSWEZtaHBSYlU1TWhGRWpaNVg4Z2lmZzZqNS1pOEpYaEFBbWFJQWxkQnZxWTBLZ1JtSzBMZDJMMW5sWU9QbVpOQUpjV3J6UTQ2bzlySFHSAWZBVV95cUxOSHNXLTFkZ3dtdy1BMjlaTWd4eDNCY01lM1IzMldQdWVlQUFqQ09OSFJDWnJ4Q0g1bzBqOG44Q2VpVlVXbXNKSHdhWVhqSHJaQXYwUEdiVkpzQ3psR3NPWEEySmg4YUE?oc=5",
    "source": "동아일보",
    "time": "08/24 00:30",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[사설] 기준금리 연 3%로 오를 듯…긴축의 시대 대비를",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6MUJvbjNnRUxjaHUzR1Y1X1BRdXhDcXBPbDYwLWFFMjZMQlBUTHZpaVdQWkxRM24yTlR1MXczcU5MYXRpdGxCMTlCN01LdzlVZ3VKZXc3dmVjdw?oc=5",
-   "source": "한국경제",
-   "time": "08/23 17:32",
-   "dir": "up",
    "strength": 1
   },
   {
@@ -71,26 +79,18 @@
    "strength": 1
   },
   {
-   "title": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5",
-   "source": "경향신문",
-   "time": "08/23 10:49",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "日, 2분기 외화예금 급증…엔화 약세에 28년만 증가폭 최대",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CTXBuUEFwV3hNal9TdkRzUHZkTFdqOWhMTDhEU1NMaGlRVk9hN0dGTEZIUkxkUTkxMnYtWWNqWHpqNlpMMm9jZ2ozWXcxVW5wNHdwVzR3QzNrUXFxZHBnS9IBYEFVX3lxTE1CTXBuUEFwV3hNal9TdkRzUHZkTFdqOWhMTDhEU1NMaGlRVk9hN0dGTEZIUkxkUTkxMnYtWWNqWHpqNlpMMm9jZ2ozWXcxVW5wNHdwVzR3QzNrUXFxZHBnSw?oc=5",
-   "source": "연합뉴스",
-   "time": "08/21 19:21",
+   "title": "환율 1300원대 내려오자 ‘달러 사재기’…환차손 우려 커진 해외주식 투자는 주춤",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjI4QU90QlkwZmhnTDF5bHo3OVJQUUxrbENzVXNIZ3A0MV9aNWVJSlFjNERUOWc5T1oxZjhraURReXZlbEpiOHFrR2g2UW13SnJvckYxNzlFdnBXMzVTMUU4VXZqRFpaUmx1T0Z6VHJIQk9BUlY4M2VsMm1UWFl4alVYMFdacHVDT0dSaWRB?oc=5",
+   "source": "조선일보",
+   "time": "08/23 11:24",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "원/달러 6일째 하락…주주환원·'원화 강세 베팅'에 장중 1380원선 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoenZfRUtxcjNEM1FSSjVucTNQdHdBaFZUcnVlY3FvVDhZQ3ZaVFVqcl9WZ3c3MlhlenUxVHZwTnFQckxScjNlcmhHc0dTV2ZxdGVwdjh1aDJ4R1UtX0FuYnNxNXRXc0xIWWdF0gFwQVVfeXFMTU5jMFd6bl9GMk5PbF9XUklQS0k1U3RLX0VKN19oSXhpNW9SX1VmbC0tamtBaTdDS09SMGkwd05zdk8wVVJRYzE3MGFXOVlfNGdLR1ItY1VDSGY4RDI4NW9YakN3aFJ6WEpabXFJaEhCXw?oc=5",
-   "source": "머니투데이",
-   "time": "08/21 16:29",
+   "title": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5",
+   "source": "경향신문",
+   "time": "08/23 10:49",
    "dir": "down",
    "strength": 1
   }
