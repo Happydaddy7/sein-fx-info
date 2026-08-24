@@ -1,41 +1,33 @@
 {
- "updated": "2026-08-24 19:26",
+ "updated": "2026-08-25 07:30",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 5,
+  "down": 5,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
+   "상승요인 우세 (상승 5 vs 하락 5).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
+   "title": "美 국채 바이백은 ‘금융 억압’…시타델 “달러 약세·물가 자극 경고”｜Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PTmNKZGVhUGlVRkozdkpqNV9idF9uSmh5VGcwcldMdzExYXpnalFRbjN5MzhZZkVrN0lOVjI1NVViYmR6UVZKUzVndFRBcEUtZm9weXVKZXMtV0k?oc=5",
+   "source": "중앙일보",
+   "time": "08/25 00:26",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "고환율 시대 끝나나…장중 1380원 밑으로 7거래일 연속 하락 - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kZHdfc1o0YUVIRjM4RlRMbWlIN2QwMjhmeXRIdE5EcTBxbWo1Wmp5dVZaWjNWZ2oyYlpHS1l5LTlnd3N6dEZDbnhtV2FoMG05aVVsOVZJd08wNnNoOG45TlFCSWYwWXI2dklv0gFwQVVfeXFMUHd1a1RMUFJXeWs3Z0o4STJWN2FiS3BPMGEzcmFfWkEwUV81RC1veS1wSkVWaHpnVTJWMDRIdzdLd2w4OHk3c1FkVGZmUXYxY1hOTkxfZG1aOXlnOWRlMktGNlUtdy1yZlF4RnhBNUlsMw?oc=5",
    "source": "머니투데이",
    "time": "08/24 16:38",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "엔화 약세 지속",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93eldEQXJCbEhfZEtSWlozSDZrNml4aVhxcHViV0l6OTRwTlBURXpnWjNKU3p4azJfZy1od0hqN1RWeVZzSVhuaXY3dw?oc=5",
-   "source": "뉴스1",
-   "time": "08/24 15:51",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원화 강세 지속",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ESDJZalJQUURibWFJM3hOQnhwMDdNOWRHWEotRm1PZ0hLUHhnSXA2bkttRU9aMzI0SjFPbzdwRzFHQ3NTYnBKTlVfdw?oc=5",
-   "source": "뉴스1",
-   "time": "08/24 15:51",
-   "dir": "down",
    "strength": 1
   },
   {
@@ -61,6 +53,14 @@
    "time": "08/24 12:50",
    "dir": "down",
    "strength": 2
+  },
+  {
+   "title": "[포토] 코스피, 원/달러 환율 하락 출발",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sczRuYWxkRmpaZFlsSXBGMl9WQVpOR05MWldsb0NhTkN2c3YxSHZTTFo0QXpNekRuWFBoVEE0c2xGWXZfdDNYOGdRX0k3TmliWmw3d2NMVWd2WGVJOUx0dw?oc=5",
+   "source": "아시아경제",
+   "time": "08/24 09:25",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "美 국채금리 쇼크에도 연준 매파 \"시장 정상, 인플레 잡아야\"",
