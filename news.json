@@ -1,19 +1,27 @@
 {
- "updated": "2026-08-24 13:33",
+ "updated": "2026-08-24 15:34",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 6 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "원/달러 장중 1370원대…수출기업 달러 매도에 11개월 내 최저 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LamtIcWxuLS15V3gwc0dOVks3T0tVejBxYVJJeXQtOFY2Yl9Yd0xPanJsN0xYYlRqSE5KZXNNc2swQ1huS2NiMlZSM1JsLW9mSG5qZnRfazNEN1lrS3dqRlpIT3F2aWN1clFB0gFwQVVfeXFMTVFicjlBSlR4dlBlRU1ZU3lfdzl6RnlBc0JOamVucE5MdlJZSUhVT0xWRlZGZmtlOWxqV3kzbFRuay1FSXlzMnZMS1JzZ19mRmhiVkVQb0d0MDFudnVNazQySHh5VkxOUE50aW1mN0t2cQ?oc=5",
+   "source": "머니투데이",
+   "time": "08/24 13:37",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "1500원→1300원 환율 급락…그 뒤엔 수출기업 달러 매도 71% 급증 [머니뭐니]",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vekNaUVFYaVMzdVFEVVNrY2haUWNGdlFlbnNlV1h3M0xfWi1KVTdHTkFzUDc3RVQwdFhQT2ljamFnY0NiR2w2SzFWZE9pUC1oLWU4dFpB?oc=5",
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tMC1ZQjRndURiM2d6Y1ZYTDNEZ2RQV3p5bnpaemU1dlVFRUNVbVVnN1U0SV9JMjhBeWZHVGtmZHA3ZzYxM2FPWUp2ZFdac0c3Z0diUDNlcWdPalhiWkVVYjVabFJxRlU?oc=5",
    "source": "연합뉴스TV",
    "time": "08/23 13:39",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 1300원대 내려오자 ‘달러 사재기’…환차손 우려 커진 해외주식 투자는 주춤",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjI4QU90QlkwZmhnTDF5bHo3OVJQUUxrbENzVXNIZ3A0MV9aNWVJSlFjNERUOWc5T1oxZjhraURReXZlbEpiOHFrR2g2UW13SnJvckYxNzlFdnBXMzVTMUU4VXZqRFpaUmx1T0Z6VHJIQk9BUlY4M2VsMm1UWFl4alVYMFdacHVDT0dSaWRB?oc=5",
-   "source": "조선일보",
-   "time": "08/23 11:24",
    "dir": "up",
    "strength": 1
   }
