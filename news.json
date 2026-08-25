@@ -1,16 +1,16 @@
 {
- "updated": "2026-08-25 13:27",
+ "updated": "2026-08-25 15:25",
  "summary": {
-  "up": 5,
-  "down": 5,
+  "up": 4,
+  "down": 6,
   "neutral": 0
  },
  "outlook": {
-  "dir": "up",
+  "dir": "neutral",
   "lines": [
-   "상승요인 우세 (상승 5 vs 하락 5).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "상승·하락 요인 혼재 (상승 4 vs 하락 6).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
@@ -19,6 +19,14 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TUo1YVV1MU96eWQzcmtvWEUxQ0QzUUtOREN4VEJLMVZqMTNQbmJ0WHp5Y0ZGSHJuMDlzcDVkRVZrZHpyVl9NNV93OTJCN3hEd3hzWVlzUE0xbW_SAWBBVV95cUxQYlowX2ZSS2VZVkphanVaZERxV1R3VUJQN1ptMnZQSEpVajdGWTZWbHRiMlJDcTY4WnpDNl9KRVlSbkwtcGE4anhkTHJDYXVEV0NleTk3Q09kNjFSc1NqSzg?oc=5",
    "source": "연합뉴스",
    "time": "08/25 08:24",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "9월 BSI 102…추석 특수·환율 안정에 내수 전망도 '기지개'",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjY1lrck1iQUZfMGF3UmFJUi1MeHZMNzhjZDB0aTZfa0MzQ3VOYTYzd0szUnNhb213OU0xeXJpTG5Vcmtwd0k2Q0lSTFByQlRYemUzNDNrOUJBTGlMQmphSg?oc=5",
+   "source": "아시아경제",
+   "time": "08/25 06:00",
    "dir": "down",
    "strength": 1
   },
@@ -69,14 +77,6 @@
    "time": "08/24 07:06",
    "dir": "up",
    "strength": 2
-  },
-  {
-   "title": "연준 인사 \"미·캐나다 갈등에 인플레 장기화 우려\"...금리 인상 필요성 시사",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pWVVBX2FOY3M2aF9pb3RncGJ6eGtFeF9nQ3hTNUs2cHlPRFR3NHoycDY2VFpZMnYzeW5LMDNHeXhDbkdCQjQ1MVQ5aW14bnNXX3l3Z1pkY3dXdk11SXc?oc=5",
-   "source": "YTN",
-   "time": "08/24 06:21",
-   "dir": "up",
-   "strength": 1
   },
   {
    "title": "美연준 매파 인사, 국채금리 급등에도 “시장 정상…물가에 집중”",
