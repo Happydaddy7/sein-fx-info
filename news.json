@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25 17:28",
+ "updated": "2026-08-25 19:20",
  "summary": {
   "up": 3,
   "down": 7,
@@ -14,14 +14,6 @@
   ]
  },
  "items": [
-  {
-   "title": "반도체 주주환원 기대에 환율 급락했는데…\"반도체 기업 원화 충분\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVT0pubmJIUjZMalYxWVBHbmd1NzN6Tng5TjdjN3F3WDBzUlF0eV9fcUpKb2pNblVVdk9jQ1doYm1mQTBDODRIalhNdmxmck4zX1hpOGRURnJBdw?oc=5",
-   "source": "한국경제",
-   "time": "08/25 17:23",
-   "dir": "down",
-   "strength": 1
-  },
   {
    "title": "원화 강세 숨 고르기…원·달러 8거래일 만에 상승 [김혜란의 FX]",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tYnlINklNOWZRbVRkQ3hQZEtEWnZRTmRzaGdoLXVJOGhvQjdzZ29tWC1NUk9xbl95cDFKbkVmM3FVYmZrbTFXLU5jZGlxeHYzRmc?oc=5",
@@ -71,6 +63,14 @@
    "strength": 1
   },
   {
+   "title": "[포토] 코스피, 원/달러 환율 하락 출발",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sczRuYWxkRmpaZFlsSXBGMl9WQVpOR05MWldsb0NhTkN2c3YxSHZTTFo0QXpNekRuWFBoVEE0c2xGWXZfdDNYOGdRX0k3TmliWmw3d2NMVWd2WGVJOUx0dw?oc=5",
+   "source": "아시아경제",
+   "time": "08/24 09:25",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "美 국채금리 쇼크에도 연준 매파 \"시장 정상, 인플레 잡아야\"",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MdmZVT0JaeEpmTmJRUWRiWW94TG5fRlB4dTcycGJnNWc1S09qUkd0bm5ZdXF5MlE1TEk5S0VsV2ZwYkJ4UF9aUkIzeExPNmRLOXBxM0t3MXVOdw?oc=5",
    "source": "파이낸셜뉴스",
@@ -87,10 +87,10 @@
    "strength": 2
   },
   {
-   "title": "美연준 매파 인사, 국채금리 급등에도 \"시장 잘 가고 있다\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpZVJkb05jUEUwWjFOc3FXM2tNN1JMSlRZYU5CNnhPQnNyOUtjN3h1a0l3LVlzc2lFamwySnJvRFhmTHJ2dzZZWHFOdjZ2MHhDTHRRNER2dzMwNXPSAWBBVV95cUxOY2JoN1NRYmk5VWhIX0Yxc0FPaEtQQWgwWGNXTERJZ0tXZnh0VzZrZjB0LWpOeVpzWUQ4UUthNklDYmhEY1BMZHBmQVZZRHI2blc4WGtadU1PRnVRbDg5SGs?oc=5",
-   "source": "연합뉴스",
-   "time": "08/24 02:52",
+   "title": "미 연준 매파 인사, 국채 금리 급등에도 \"시장 잘 작동\"",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pRE80dXkwQ0pVYnhOdjM1VUl1ZTJvd3NpbXBlak90S0EyWEZJcXd6blRRZjdmSzl6cGh3algtci1nRlVYV2dLQkh6UWhNSFM0b3FYNzIyaHJMUVM2aFE?oc=5",
+   "source": "YTN",
+   "time": "08/24 04:52",
    "dir": "up",
    "strength": 2
   }
