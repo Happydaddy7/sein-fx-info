@@ -1,19 +1,43 @@
 {
- "updated": "2026-08-25 15:25",
+ "updated": "2026-08-25 17:28",
  "summary": {
-  "up": 4,
-  "down": 6,
+  "up": 3,
+  "down": 7,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "down",
   "lines": [
-   "상승·하락 요인 혼재 (상승 4 vs 하락 6).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "하락요인 우세 (하락 7 vs 상승 3).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
+  {
+   "title": "반도체 주주환원 기대에 환율 급락했는데…\"반도체 기업 원화 충분\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVT0pubmJIUjZMalYxWVBHbmd1NzN6Tng5TjdjN3F3WDBzUlF0eV9fcUpKb2pNblVVdk9jQ1doYm1mQTBDODRIalhNdmxmck4zX1hpOGRURnJBdw?oc=5",
+   "source": "한국경제",
+   "time": "08/25 17:23",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "원화 강세 숨 고르기…원·달러 8거래일 만에 상승 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tYnlINklNOWZRbVRkQ3hQZEtEWnZRTmRzaGdoLXVJOGhvQjdzZ29tWC1NUk9xbl95cDFKbkVmM3FVYmZrbTFXLU5jZGlxeHYzRmc?oc=5",
+   "source": "서울경제",
+   "time": "08/25 16:14",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "국내기업 경기전망 6개월 만에 ‘긍정적’…환율 안정·추석 특수",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90NnNwWHE0dFRNYzVxRlZDX3pEOGs5aG05Q0tHMWdFRGRpT0RIa0ZhblhPWjVMaGxsb0dEc203clo2M2U2SHA4Ni0tUHVKNDJJal81ajNOcWtEcUtnS2xXemlMUFQ?oc=5",
+   "source": "서울경제TV",
+   "time": "08/25 10:00",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "한투증권 \"조선, 3분기 환율 하락에 삼성重 제외 영업이익률↓\"",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TUo1YVV1MU96eWQzcmtvWEUxQ0QzUUtOREN4VEJLMVZqMTNQbmJ0WHp5Y0ZGSHJuMDlzcDVkRVZrZHpyVl9NNV93OTJCN3hEd3hzWVlzUE0xbW_SAWBBVV95cUxQYlowX2ZSS2VZVkphanVaZERxV1R3VUJQN1ptMnZQSEpVajdGWTZWbHRiMlJDcTY4WnpDNl9KRVlSbkwtcGE4anhkTHJDYXVEV0NleTk3Q09kNjFSc1NqSzg?oc=5",
@@ -23,27 +47,11 @@
    "strength": 1
   },
   {
-   "title": "9월 BSI 102…추석 특수·환율 안정에 내수 전망도 '기지개'",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjY1lrck1iQUZfMGF3UmFJUi1MeHZMNzhjZDB0aTZfa0MzQ3VOYTYzd0szUnNhb213OU0xeXJpTG5Vcmtwd0k2Q0lSTFByQlRYemUzNDNrOUJBTGlMQmphSg?oc=5",
-   "source": "아시아경제",
-   "time": "08/25 06:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "美 국채 바이백은 ‘금융 억압’…시타델 “달러 약세·물가 자극 경고”｜Global Money Club",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PTmNKZGVhUGlVRkozdkpqNV9idF9uSmh5VGcwcldMdzExYXpnalFRbjN5MzhZZkVrN0lOVjI1NVViYmR6UVZKUzVndFRBcEUtZm9weXVKZXMtV0k?oc=5",
    "source": "중앙일보",
    "time": "08/25 00:26",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "고환율 시대 끝나나…장중 1380원 밑으로 7거래일 연속 하락 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kZHdfc1o0YUVIRjM4RlRMbWlIN2QwMjhmeXRIdE5EcTBxbWo1Wmp5dVZaWjNWZ2oyYlpHS1l5LTlnd3N6dEZDbnhtV2FoMG05aVVsOVZJd08wNnNoOG45TlFCSWYwWXI2dklv0gFwQVVfeXFMUHd1a1RMUFJXeWs3Z0o4STJWN2FiS3BPMGEzcmFfWkEwUV81RC1veS1wSkVWaHpnVTJWMDRIdzdLd2w4OHk3c1FkVGZmUXYxY1hOTkxfZG1aOXlnOWRlMktGNlUtdy1yZlF4RnhBNUlsMw?oc=5",
-   "source": "머니투데이",
-   "time": "08/24 16:38",
-   "dir": "up",
    "strength": 1
   },
   {
@@ -59,14 +67,6 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LamtIcWxuLS15V3gwc0dOVks3T0tVejBxYVJJeXQtOFY2Yl9Yd0xPanJsN0xYYlRqSE5KZXNNc2swQ1huS2NiMlZSM1JsLW9mSG5qZnRfazNEN1lrS3dqRlpIT3F2aWN1clFB0gFwQVVfeXFMTVFicjlBSlR4dlBlRU1ZU3lfdzl6RnlBc0JOamVucE5MdlJZSUhVT0xWRlZGZmtlOWxqV3kzbFRuay1FSXlzMnZMS1JzZ19mRmhiVkVQb0d0MDFudnVNazQySHh5VkxOUE50aW1mN0t2cQ?oc=5",
    "source": "머니투데이",
    "time": "08/24 13:37",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[포토] 코스피, 원/달러 환율 하락 출발",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sczRuYWxkRmpaZFlsSXBGMl9WQVpOR05MWldsb0NhTkN2c3YxSHZTTFo0QXpNekRuWFBoVEE0c2xGWXZfdDNYOGdRX0k3TmliWmw3d2NMVWd2WGVJOUx0dw?oc=5",
-   "source": "아시아경제",
-   "time": "08/24 09:25",
    "dir": "down",
    "strength": 1
   },
