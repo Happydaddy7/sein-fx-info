@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27 12:00",
+ "updated": "2026-08-27 14:33",
  "summary": {
   "up": 5,
   "down": 5,
@@ -15,6 +15,22 @@
  },
  "items": [
   {
+   "title": "신현송 \"달러-원 환율, 외환수급 개선·달러 약세에 1,300원 후반으로 큰 폭 하락\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81NTFsLWl5ZjB6eG1OSHNOS1ZkazRHVGhMdWU2dnctR3ozVS1KYW1oM1Vlc2UzUFA1SVE1aU45ajJReXF6RVpkUjVTaTVONER5ZHRqc0t6Z1lhRTFzUXpBXzJ3Y3VwcGxZRU85UkwwT0rSAXRBVV95cUxOSmx4aDZTWGRWUWhkNzRhbm5sRkVrOVBTU0JyZFB1ZUM1VlVydTA4TXZDUGZLdU04elFLQlRteUcxWlYxQUpHalhhYUx3cXA0OGxrWHlLcU1zNHB4dkFpQmY1REdDcV85ZTd1SDNvYlZLR0FyLQ?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/27 13:15",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "한은 금통위 \"달러-원 환율 큰 폭 하락…외환수급 개선·달러 약세\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JZHJwOExPM0Q4eWZZTGI2aElieFNIVlFnYlFYcTNMTFFuR0xMUU1STXZBaVctWnMzX2I3QmNtelFXZE9aXzF4SFViRWNUaV9CTXFJc3Z4MGRIY1AxcGd5UVZtU1ZWdF9XWmhScUw3eVHSAXRBVV95cUxPZFZ4N241YnJic2pqcmhqRGVRMUI2OEtQQlFDRGlvRmVUbG85anh2VXBmbXpXQUQ4M29SQkw0R1pPSmpCRkhwMTgtVnBpRUNXeElMTEZsSWVtTndFVDJsb2J4c0I3ck1pM1piNkFMVGJqVURQcA?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/27 12:34",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "[속보]신현송 \"원·달러 환율 수준 아직 높아, 원화 강세 여지 있어\"",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vVXliZHZCeG5fVVptNHZ6REpVeGxxVzhVamZ4R3dFMFpsdVRUeU1ocFAzTi1laFhuUmZtRHJlWnlIN3ZROW1lWTZwZWR4N3B3UlIzVzRSY3MxSk5rRXRBWNIBeEFVX3lxTE9KWFpIQmVsQkZxSlROOHRxQlFPVkVKNUs3bUlBS09pZ2N2eTgwb0NDM041V2UxYzA5Q2FhRW1HeHphNEhVNVRHeWNHTXQzTzhyaW02M1dyXzZyUWtnQUhUZEhpMi1XaEh6UnNpYURNTWVWNXVLQTNRag?oc=5",
    "source": "뉴시스",
@@ -28,6 +44,14 @@
    "source": "연합뉴스",
    "time": "08/27 10:45",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "“엔화 저평가됐다”…호주 2위 연기금이 달러 약세·엔화강세에 베팅한 이유는?",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5valJ3VjI4ZkIyY3c5ak56UHd1NjJ4LUQtYzdvTEQ1UEZjVDdNVHF2V20wU1Fac1dpV3kySzlqOFNaZWVlUzR1MFYtLTNuT2JTcFE?oc=5",
+   "source": "매일경제",
+   "time": "08/27 10:42",
+   "dir": "down",
    "strength": 1
   },
   {
@@ -48,9 +72,17 @@
   },
   {
    "title": "한은, 기준금리 3%로 연속 인상…물가 우려에 긴축 속도(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41QzExWnhWREQyZXdpZUp1bDEwd3NKRWN1OE1tcmk1eGhudXJ4UzB1blFyRDk3RW1IOHJlelJhMUdfXzNLYUY4WkJYeEEyWm9mbm0zVFhaek82Z3fSAWBBVV95cUxQZlZ3RGRfSWpUYUsyTUY2YkRXU2trMkNsaURLblh0S05hTE1oS2hkMEdNN3B4aGxHUjRFVzVhemJ2RG9jR19sX0E4UnZCZ0c2MGs1eUpKRVRvNElfSENMMWk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmVndEZF9JalRhSzJNRjZiRFdTa2syQ2xpREtuWHRLTmFMTWhLaGQwR003cHhobEdSNEVXNWF6YnZEb2NHX2xfQThSdkJnRzYwazV5SkpFVG80SV9IQ0wxadIBYEFVX3lxTFBmVndEZF9JalRhSzJNRjZiRFdTa2syQ2xpREtuWHRLTmFMTWhLaGQwR003cHhobEdSNEVXNWF6YnZEb2NHX2xfQThSdkJnRzYwazV5SkpFVG80SV9IQ0wxaQ?oc=5",
    "source": "연합뉴스",
    "time": "08/27 09:52",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[속보]한은 두 달 연속 기준금리 인상, 연 2.75%→3%로",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVFoxckxWa3U2T05GZXRpdXVKd2pjLTR6U2h1V1dNRGhIeWtUOXZLRWpFbjY0M1BsUlFhaU0yZ0hlWHM5LXBtWUxVSS13Z3RZU2lFOVlwSWtOd9IBX0FVX3lxTE91eE9HeHp5TFJreTJzZU9EUThYbUYxcDhUTk0yXy1XNDFZR1o0VHJrX25QWmV1ZmZkb2h0UVMwWWZFVXdRUEY0YjJFNVlLVnRrSHVDRV9FemN5d3VndVdr?oc=5",
+   "source": "경향신문",
+   "time": "08/27 09:50",
    "dir": "up",
    "strength": 1
   },
@@ -59,38 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GLWEyWFRMR0dfSHQzckxMWUpReXV5YU1OTUtBWk54U245b0JxN0cyeTlRRXNyc3lMeld0bTFSLU5mck9CR3VGaFppOFpNS3hwVmhaX2prTkcyZw?oc=5",
    "source": "파이낸셜뉴스",
    "time": "08/27 08:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "울프리서치 연준 금리인상 가능성 낮아…美경제지표 완화될 것",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94cF93WmdJQkpEWHU2T1c3cG1fNWowREJUakNfZmExd2tTV2lPUHZIUUExanM5elZxYzlwU0hUQ0FjeHdYd1M2RzZYbGVzSEdPeWRJ0gFYQVVfeXFMT1I4XzZRd253RThBdmdHSjBHbzBVTV9haEE1SFRpY1pDaUdGYnptX19JNUJyUjFIR1ltZDAybEdHLVl2bmlESjg0NHBkNU1hamNxclVhOEl4QQ?oc=5",
-   "source": "SBS Biz",
-   "time": "08/27 06:42",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원/달러 환율 장 초반 1,510원 넘어…금융위기 후 최고",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwMGRoSFEwT0xqdFhtYVhsbFZxTWdmOVI5anBrb29jVWZlRWltV09YVktobVVkaVBIQzg0X1RVLUp0MW90bU5BTUgxeGNWaVFpd3c?oc=5",
-   "source": "매일경제 마켓",
-   "time": "08/25 16:54",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 1,380원대 후반으로 상승…수출업체 달러 매도는 지속",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIcXpVMkZtdWJPRGpMZ0x3eDQyUkptY3V4U0F2MlNydTA3Q3dtMm53U2JPcC1RQzlqMVdTVkxBZGxmR0UyZThRUXFaOHFhV09ONFFNVElUT3hTQjjSAWBBVV95cUxOMVpodkZPRURrMk5adGZFMUMzVE1sRlBHVHhnR0JMTVFMYjVoRFdVbDZmUml1TTQ4bkg0ZUwwbTlVVWp6NjFHdlJ3Uk92MVkwOWJjRVdMNDB1WkJoV3dVNXM?oc=5",
-   "source": "연합뉴스",
-   "time": "08/25 16:10",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美 국채 바이백은 ‘금융 억압’…시타델 “달러 약세·물가 자극 경고”｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PTmNKZGVhUGlVRkozdkpqNV9idF9uSmh5VGcwcldMdzExYXpnalFRbjN5MzhZZkVrN0lOVjI1NVViYmR6UVZKUzVndFRBcEUtZm9weXVKZXMtV0k?oc=5",
-   "source": "중앙일보",
-   "time": "08/25 00:26",
    "dir": "down",
    "strength": 1
   }
