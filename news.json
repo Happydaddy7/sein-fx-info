@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31 11:07",
+ "updated": "2026-08-31 19:12",
  "summary": {
   "up": 8,
   "down": 2,
@@ -15,11 +15,51 @@
  },
  "items": [
   {
+   "title": "원화 강세에…외화 환전·예금 급증",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZZXc1RFlCaGtLWGUzam5iZHphZmVLck5aT0MwNEdVRzQ0aFY5aWVvMVdNZnFzUUhYVTJ2dE9CRXg4UmRvUldnajRRSHRzcFhFaDlmTVRVQzB6UQ?oc=5",
+   "source": "한국경제",
+   "time": "08/31 17:48",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "매파 연준에 화들짝...9월 금리인상 확률 63% 껑충, 금값은 '뚝'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SkNkODRvOHBkU1ZDYVN2UVFxemJwbTZIa1I3dXJoUm9zR1NuQmw1dXFXOW1JV2puSklISmN6NS03WU5fdTZfNnZUeHlWRGd3aGRWcGJPUFRNS1BXMXc?oc=5",
+   "source": "YTN",
+   "time": "08/31 14:48",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "미 연준 매파 발언에 반도체주 휘청…전문가 \"AI 경제성 여전해 투자 위축 없다\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LSnRpcGZpX3lUdWhEaU03cHJWclJ0UTB3T3o3c1lTeTJWcGpVOUlPZERoWDZPN252MDFwb1BCWUh3NEE1bjh4azNvZzgwMVc3MEZvUmdvZWgwTzBNaXJxa9IBeEFVX3lxTE5Fc2ZJN0J5VW56aTllV1NhcG9NaFoyODRuT2pFUFktbk0xUnUyQVpxQVdMSkE0cVQxdlByanlwbWdMMEp2SWtRdks2d2NtRHdHNXp1UjIzM2ZqWUpidmdWTnpSVmdodU5hbW1vRnF3dDJPVGxuMklfTA?oc=5",
+   "source": "뉴시스",
+   "time": "08/31 11:30",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "'매파 워시' 후폭풍…하락하던 달러, 다시 강세 전환? [지금이뉴스]",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FYU1lVGYtUFhZS1hUdWNkOHZDci1QRDlMSnh5UmptTGRUYTdBeXlhaFE3ZDVHZGx4TDRqQlpoOTJtT091WTk3MWJfVVR2SW4zYVVDbmJTQWdSdFg0VXc?oc=5",
+   "source": "YTN",
+   "time": "08/31 11:16",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "[윤시윤의 각도] 환율 하락은 '안정'인가…쏠림의 기준을 묻다",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUTVKdTR2MmRCZXByTEp2aWMyanhzYWVGZXVUbUYzczYxWFZiVVhGZlc1c1ExVTg3NEhqSVhqYTVhdjRyMjhLa3paVlgwYW9wUUZwa3N4d3BxeGNheWZlcTZJeXF2aHcyYTBXbG1aY0s?oc=5",
    "source": "연합인포맥스",
    "time": "08/31 10:11",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "코스피, 美 연준 의장 ‘매파’ 발언에 2.58% 하락 출발",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkFUcEI5YXVVYy1BV2N3MG9WTzZwYXUtcWV5bG9IVDZwMURxcHBjWG5kUVF6alAxVThNQXd0dHNEZFdTYVlnVWtzN1g1b2t0NXlsaGhaeUxBRGgwZm1uRmlqRTQ3RDlMeVZ1VlBGQV80UGludkR5N3VjR0V0a256LQ?oc=5",
+   "source": "조선일보",
+   "time": "08/31 09:36",
+   "dir": "up",
    "strength": 1
   },
   {
@@ -39,14 +79,6 @@
    "strength": 1
   },
   {
-   "title": "[속보] 코스피, 美 연준 의장 ‘매파’ 발언에 2.58% 하락 출발",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkFUcEI5YXVVYy1BV2N3MG9WTzZwYXUtcWV5bG9IVDZwMURxcHBjWG5kUVF6alAxVThNQXd0dHNEZFdTYVlnVWtzN1g1b2t0NXlsaGhaeUxBRGgwZm1uRmlqRTQ3RDlMeVZ1VlBGQV80UGludkR5N3VjR0V0a256LQ?oc=5",
-   "source": "조선일보",
-   "time": "08/31 09:07",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "연준 의장, 잭슨홀서 매파 본색···“9월 금리 인상 가능성 커져”[글로벌 모닝 브리핑]",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xWXRJQ1lONFZ6VzV6Mmo4ckhKQkNDdVVMR2FObm9aU3NGazZUSXBaVm5kMW5CV0xnRUNTNGZqdml4elVKbEhMY1VKVXNuTHBUc1E?oc=5",
    "source": "서울경제",
@@ -59,38 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dmoyYUl4NF9SMU5COGFYdE1QTl9CNjBGUy1tcFBqQmdKeU8yVVBCUzhyNnF1SUNkUWVUYVBRN0tLVzIzRm5WWWxFbThnWmxpdHkxNEtNT0dTQQ?oc=5",
    "source": "파이낸셜뉴스",
    "time": "08/30 15:34",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VQnkyall4bHhWNTJzZTJwdGc5Y1d6eFNpTXBBWGxhOGkyWWJMTFh1Y0Q0UmZhbXB4ay1FaTdiMmhuTnpmMkJwYjlFV2RGdk5kWFJQRHdmLXZTVE3SAWBBVV95cUxNMDE5NmNGZlRab2VJV1pacjVrVnVYWDZwZXVZUW1jMkNrR0czazktam9hbDBnUmY0MzBiV3l5N1NmZ1Jmcjh3YlNMRUtqWS13azI2c1A2WkIyeWhZcVZER3c?oc=5",
-   "source": "연합뉴스",
-   "time": "08/30 05:53",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "기준금리 인상에 주담대 오르나...이자 부담도 커져",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVbWFwUDNZNUNLcXpvQlZ3R0NXZWY4SDUydFI2NHVfbTlfNWd5WTk5cXQxbkFPMUlkQjFOa2RZajRYekUyMlJUWUdYWHg1dVYyRU5jSmVDbDlxMTI4VFRtajg1RWlwajVad2tPZVRoMA?oc=5",
-   "source": "YTN",
-   "time": "08/29 22:20",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "1,550원서 1,370원대로…’고환율’ 흐름 꺾이나",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZVlhQUMwaFctbXMzdmRaa2dtVGxTeklDTWFRd2RId2gzUXJkbUM2VmlWMDlyQl9LNmVobUljN01uS3lFYmEtZmNzQVo4LXc3TFI0ZTVxR1R6bEdMUzZfMlZpNjRNNTQ?oc=5",
-   "source": "연합뉴스TV",
-   "time": "08/29 19:11",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NcnJ5cUNmSHo1MWl4TXRrVVY2SW9YQ1V2MllUdnkwb1J4T3RXQmdnVGpTalFmd3NpcDVtb2YyZHZlQkdZWkZQc0ZidmVJWUJsZ3FCTzRfV2pITVFIcGc?oc=5",
-   "source": "YTN",
-   "time": "08/29 12:50",
    "dir": "up",
    "strength": 1
   }
