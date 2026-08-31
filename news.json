@@ -1,19 +1,51 @@
 {
- "updated": "2026-08-31 09:18",
+ "updated": "2026-08-31 11:07",
  "summary": {
-  "up": 9,
-  "down": 1,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 9 vs 하락 1).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "[윤시윤의 각도] 환율 하락은 '안정'인가…쏠림의 기준을 묻다",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUTVKdTR2MmRCZXByTEp2aWMyanhzYWVGZXVUbUYzczYxWFZiVVhGZlc1c1ExVTg3NEhqSVhqYTVhdjRyMjhLa3paVlgwYW9wUUZwa3N4d3BxeGNheWZlcTZJeXF2aHcyYTBXbG1aY0s?oc=5",
+   "source": "연합인포맥스",
+   "time": "08/31 10:11",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "\"물가 우려\" 워시 매파적 발언에…원·달러, 1380원대 턱밑",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NM082MWtoYlZCTU1aY0dlN1FOVF9nbzV5bWs2YjNhejdoWEExQkVWdXRRcWM2cmVpTUk4aHh1SDY5WV9uUDEzbmp3cUJRN25Ebm5RNU50YVM5QUg1bkVjONIBeEFVX3lxTFByZ1BWRTFXYjBRMUM5NTJ1ZkZENTRnREFQRmExMnhPeDQ4NkZTclJjOW5QM05lNWNZcFEzZnpTczYzdlJsZnkyZUZYeV9MdzRqRk1aVFIzbHZ2UnF0SXdBY3Jvb2VjNXQzMHllZXRpQ1dzUlFOSzM0Yg?oc=5",
+   "source": "뉴시스",
+   "time": "08/31 09:27",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "워시 매파 발언에 달러화 강세…달러·원 환율 1380원 근접",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kRy1kQjN5VTRlMWphRVBlSVVWTi1KWDJkZDVaZ2hqb0RFaHZfaGdtQXVQd243SGxyZ2szT3FSdWk2em5YZE1DaDJTVHdDWm0wd2d0SVRBSkpLQlHSAWBBVV95cUxPQ2JvTVROT2Y2MzEwWERWNDB0MnFOaGk5QWt6akd1RlRkOWozc3ZPVkVXeXpWY1BJRDZ1YjVBWHdnYmZweE02ZGVHN05lWHl3YXJEY0FnS3NKXzlBZU5RcEI?oc=5",
+   "source": "뉴스1",
+   "time": "08/31 09:24",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[속보] 코스피, 美 연준 의장 ‘매파’ 발언에 2.58% 하락 출발",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkFUcEI5YXVVYy1BV2N3MG9WTzZwYXUtcWV5bG9IVDZwMURxcHBjWG5kUVF6alAxVThNQXd0dHNEZFdTYVlnVWtzN1g1b2t0NXlsaGhaeUxBRGgwZm1uRmlqRTQ3RDlMeVZ1VlBGQV80UGludkR5N3VjR0V0a256LQ?oc=5",
+   "source": "조선일보",
+   "time": "08/31 09:07",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "연준 의장, 잭슨홀서 매파 본색···“9월 금리 인상 가능성 커져”[글로벌 모닝 브리핑]",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xWXRJQ1lONFZ6VzV6Mmo4ckhKQkNDdVVMR2FObm9aU3NGazZUSXBaVm5kMW5CV0xnRUNTNGZqdml4elVKbEhMY1VKVXNuTHBUc1E?oc=5",
@@ -21,14 +53,6 @@
    "time": "08/31 05:30",
    "dir": "up",
    "strength": 2
-  },
-  {
-   "title": "근원물가 2%대 중반 되면 ‘가격 도미노 인상’…기준금리 인상 뒷받침",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xbExMaFdDaVQ0TU4ta3lNWTFWRHFWTF9fMmdxOFY4Y0Qtb0RSYVl1T2Q1cDhzUGE3bzZsVzIzbGNCLUNGTE1xd08yZFUxVGc2QUtYekpKaTVIUXhCMC02eFJHVVJDWjdiMUgtU3dUREV3UQ?oc=5",
-   "source": "한겨레",
-   "time": "08/30 18:54",
-   "dir": "up",
-   "strength": 1
   },
   {
    "title": "'금리 인상' 군불 뗀 美 연준, 9월 FOMC에서 트럼프와 충돌?",
@@ -67,30 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NcnJ5cUNmSHo1MWl4TXRrVVY2SW9YQ1V2MllUdnkwb1J4T3RXQmdnVGpTalFmd3NpcDVtb2YyZHZlQkdZWkZQc0ZidmVJWUJsZ3FCTzRfV2pITVFIcGc?oc=5",
    "source": "YTN",
    "time": "08/29 12:50",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미 연준 “물가지표 여전히 우려”…추가 긴축 시사에 뉴욕 증시 하락",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MUtPdldTMS1EYU1zMUN1OXU5ZmZ5ZWdFV3lraE5yd1I5bGVsQkU3TnRJNlB2Q3d1dmJjUmRWQjQtdUdaVFQwS1k2dWZRNWN1dGt3OUsxbE5NbHhSdHdNS0U0Vjh4eHM?oc=5",
-   "source": "한겨레",
-   "time": "08/29 11:01",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준의장 “해야할 일 있다”…9월 금리 인상론 무게",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zVmJYRC1tbWJHeXV3NXVmOE1VeFcweDh0TDROeF8tcGNUY19uNUp6Mk9CU1JCMjliVkU2VFBrNXFWeGNaSmlleXF4NkZzUS1rOTRHMEc0UTdRSE9Yc1cyT2VGMU8yM1VYRzlDU0VLaWxFMEHSAWZBVV95cUxQOHA5RHFoOW9WWTQwRVpWTGtPNW9qcUNiY3VRMzQ5NGtXTF9nb2RrdlZwNkYyNklhSFdjeFo2NkxGWmRnUlZFRVEzQzg2TFlKWHM5TEM1RlllbXpqQkdKYzEwcmQtckE?oc=5",
-   "source": "동아일보",
-   "time": "08/29 09:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxLUI4dzk3S0lhdjBUVjNuT3dqNjFMeWpxeVVSS1lacGJGZVVmQ0lvT3dRUldUbm03TWtxUHBjcHVlN1YzekFZLXU5RVl3MS1JcUtxcGZMQ2lxQk0?oc=5",
-   "source": "KBS 뉴스",
-   "time": "08/29 06:52",
    "dir": "up",
    "strength": 1
   }
