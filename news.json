@@ -1,96 +1,96 @@
 {
- "updated": "2026-08-29 04:43",
+ "updated": "2026-08-31 09:18",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 9,
+  "down": 1,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "워시 \"연준, 필요하면 더 할 일 있다\"‥금리 인상 베팅 급등",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02Q1FncDlJYW1id09vSF9OajNRVlJsT28ta1o4Zko0OVFzWk1fS29WVzNmRkptaGFkdndiRlBEYjRMZEVXcXY4VTAxMkY4RWpxV3R1aFBZRGRpWHRkWnViT0xyMVpTam4tVmZGY0dCdFExeXA00gF0QVVfeXFMTjVOU0JvN3JpQjdKMGNOblBmWWI0OHlXM0tDdlkyUkhxeENiQjRwbi1QMlF0cEFOZkp5V0diVXBKQXdhc1RiNko1Wk5IWF95RWw4TENONDRnMjMydzdBbHVkNFpzVE9fZUdUTHpHeERkVEtHYnE?oc=5",
-   "source": "MBC 뉴스",
-   "time": "08/29 04:16",
+   "title": "연준 의장, 잭슨홀서 매파 본색···“9월 금리 인상 가능성 커져”[글로벌 모닝 브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xWXRJQ1lONFZ6VzV6Mmo4ckhKQkNDdVVMR2FObm9aU3NGazZUSXBaVm5kMW5CV0xnRUNTNGZqdml4elVKbEhMY1VKVXNuTHBUc1E?oc=5",
+   "source": "서울경제",
+   "time": "08/31 05:30",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "근원물가 2%대 중반 되면 ‘가격 도미노 인상’…기준금리 인상 뒷받침",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xbExMaFdDaVQ0TU4ta3lNWTFWRHFWTF9fMmdxOFY4Y0Qtb0RSYVl1T2Q1cDhzUGE3bzZsVzIzbGNCLUNGTE1xd08yZFUxVGc2QUtYekpKaTVIUXhCMC02eFJHVVJDWjdiMUgtU3dUREV3UQ?oc=5",
+   "source": "한겨레",
+   "time": "08/30 18:54",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "\"시장 예상 뒤집혔다\" 연준 9월 금리 인상 확률 반반",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0QS1MbkJrR3JCcGxWaFBKWWVudDdzZ2dsVzVIZG9ZejkxeERERDBaMDA5X3lzTmR5VWpsQVpTTmN6VlBxUk8zUkFiU1hPWWJjVUxMd1RPV250dw?oc=5",
+   "title": "'금리 인상' 군불 뗀 美 연준, 9월 FOMC에서 트럼프와 충돌?",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dmoyYUl4NF9SMU5COGFYdE1QTl9CNjBGUy1tcFBqQmdKeU8yVVBCUzhyNnF1SUNkUWVUYVBRN0tLVzIzRm5WWWxFbThnWmxpdHkxNEtNT0dTQQ?oc=5",
    "source": "파이낸셜뉴스",
-   "time": "08/29 03:37",
+   "time": "08/30 15:34",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "워시 연준의장 \"美 물가지표 더욱 우려\"…추가 긴축 시사(종합2보)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00cWpTYXBJQUdJekFHdWxYRTdLRVdIQzFLX1ZMdy16S1prVlExWnE2eWstNEl1aEtZdWM3Q0NWSWhWQjdHcUZXY2gxVEVuNGRXbVhWRVRFVEJhelHSAWBBVV95cUxQOW9mYXhaX2FsUEFBRFFjMFYza0Z1NlQ2UG5YSHZmQjc5d3RaaDRLUkdMUEpvcE1aNWRSYThqYzFzTVExWF9DV05rTGtvNnZkZm9IWGtWeGsxVWNwRk5EX0g?oc=5",
+   "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VQnkyall4bHhWNTJzZTJwdGc5Y1d6eFNpTXBBWGxhOGkyWWJMTFh1Y0Q0UmZhbXB4ay1FaTdiMmhuTnpmMkJwYjlFV2RGdk5kWFJQRHdmLXZTVE3SAWBBVV95cUxNMDE5NmNGZlRab2VJV1pacjVrVnVYWDZwZXVZUW1jMkNrR0czazktam9hbDBnUmY0MzBiV3l5N1NmZ1Jmcjh3YlNMRUtqWS13azI2c1A2WkIyeWhZcVZER3c?oc=5",
    "source": "연합뉴스",
-   "time": "08/29 02:36",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "워시 연준의장 \"美인플레 우려스러워\"…추가 긴축 가능성(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYUhYVk5UVlVJNUQ2STRDUmhEOVVVQWZzOFBNZHRjWHZ2bTk1c19ManNqTGtxN3k5U1EzcHh0VmRaX0ppbWNKTlpJZWtDSUVHN1FxQ0lhODlLS3FoTERia9IBeEFVX3lxTE5lTERnaFRtNmJpRVFOQ0xVLTI2S0VZZU9HNi1qSnFnUU8yV3B5RDJybmplTjFkTHlFOVBPelhELXhuM2IxS1hzTnJzSVFvZEptZlMxRUp5SnRaYmlZTVZXVk9mNDBFYjFIY2xFTUpzVFpSeC1IbzdJTQ?oc=5",
-   "source": "뉴시스",
-   "time": "08/29 02:11",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "워시 연준 의장, 고물가 우려...금리 인상 필요 시사",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PRmFhYVA5UTYyelA4Mm9MakR0YXFOLTlQdDFGdHlJNk1NQWFvTEg0dFFPTTZ0ZnhyMnhDdk9GUF9keW45alh2ZjRtMXRWZDhyS0p1Y1NJeHg0Ul9tb0E?oc=5",
-   "source": "YTN",
-   "time": "08/29 00:18",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 급락, 연중 최저치",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81U3BuZVVZMlhMVUZ4WEFLNjllOUd6WXlvT3FfblVGQXBtTVdoMlhVNUgxLWJlRURyeVBXRmlKOV9senRBbjE2TFVaTQ?oc=5",
-   "source": "뉴스1",
-   "time": "08/28 15:24",
+   "time": "08/30 05:53",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "잭슨홀 첫날, 美연준 이사들 잇달아 매파 발언…\"인플레 여전히 높아\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUV2FILXVzd0FVdDBJX1RlSzdOejdOaFFoeWwyaFl4WTMyRWdNUlYxVU1xeWtHblJ2cktBN3N0cVBYMDFHQ1p6X0hVZGd1ZkpIN2N5SHhBWjNrTEdxVW1zTNIBeEFVX3lxTFBDMXQ0ZkFQRU5hNXI4ZWVLaGxXNXB1eWZ4WDNIT3RpWVFoNzJzM1pmMmNKdGFpXzVDcVFlYTJNdVMtOFJZX01aZ0cyM1VQUExDbDNxVlp3MnJxZVkyb0x4cUs1YkRLMzdOTFl4TFV5ZzBobG82eGVINQ?oc=5",
-   "source": "뉴시스",
-   "time": "08/28 10:40",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "시장은 달러 약세에 베팅하기 시작했지만 \"저는 다르게 봅니다\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzOHlQYjFpNUNwdXVCTS15ejQ3WjNrc2ozbFJHdjB2d3h2QVNwNTd1YmFuSVdmOXBTNjh5bDdoanIwVFNzX0ctcWtBRklGdk1TMU9EQThZN3pUWGQyMG1uMzZWVDMxMHlYVkRDOFlCX2Y?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/28 08:55",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "연준 덮친 물가 경계감...금리 인상 '이견'",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pcHd2dEFpQTRGdWVOTzdHa1BfN2Nlb3RaSEZ5TkIwUjRrVHJiN1FyOTFQQWxtYXdjTUtHOHRQVmlKWGJrWTNuVTR0cFhPdXMyUWZ1d3RYWGNRYy1fV2k5bUFlaWJnZzE1WHpkRXFsYw?oc=5",
+   "title": "기준금리 인상에 주담대 오르나...이자 부담도 커져",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVbWFwUDNZNUNLcXpvQlZ3R0NXZWY4SDUydFI2NHVfbTlfNWd5WTk5cXQxbkFPMUlkQjFOa2RZajRYekUyMlJUWUdYWHg1dVYyRU5jSmVDbDlxMTI4VFRtajg1RWlwajVad2tPZVRoMA?oc=5",
    "source": "YTN",
-   "time": "08/28 08:44",
+   "time": "08/29 22:20",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "미 달러화 강세…연준 연내 금리 인상 기대감",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTjFRMm5hUDVSSFdWNVVYVXU2VWtSWGFnNVVybFE3cm9tRWVDNjJHM0JFTVRVY3hUX3o5MHJvVHpDRF9qdWJnd2IxQW5lODI1ZzgySWhiWVhYcmVNVU9uU1pmcVpJZk84TVBEZVFyVUY?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/27 23:01",
+   "title": "1,550원서 1,370원대로…’고환율’ 흐름 꺾이나",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUZVlhQUMwaFctbXMzdmRaa2dtVGxTeklDTWFRd2RId2gzUXJkbUM2VmlWMDlyQl9LNmVobUljN01uS3lFYmEtZmNzQVo4LXc3TFI0ZTVxR1R6bEdMUzZfMlZpNjRNNTQ?oc=5",
+   "source": "연합뉴스TV",
+   "time": "08/29 19:11",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "워시 연준 의장, 금리 인상 가능성 시사...힘 받는 9월 인상론",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NcnJ5cUNmSHo1MWl4TXRrVVY2SW9YQ1V2MllUdnkwb1J4T3RXQmdnVGpTalFmd3NpcDVtb2YyZHZlQkdZWkZQc0ZidmVJWUJsZ3FCTzRfV2pITVFIcGc?oc=5",
+   "source": "YTN",
+   "time": "08/29 12:50",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "미 연준 “물가지표 여전히 우려”…추가 긴축 시사에 뉴욕 증시 하락",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MUtPdldTMS1EYU1zMUN1OXU5ZmZ5ZWdFV3lraE5yd1I5bGVsQkU3TnRJNlB2Q3d1dmJjUmRWQjQtdUdaVFQwS1k2dWZRNWN1dGt3OUsxbE5NbHhSdHdNS0U0Vjh4eHM?oc=5",
+   "source": "한겨레",
+   "time": "08/29 11:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준의장 “해야할 일 있다”…9월 금리 인상론 무게",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zVmJYRC1tbWJHeXV3NXVmOE1VeFcweDh0TDROeF8tcGNUY19uNUp6Mk9CU1JCMjliVkU2VFBrNXFWeGNaSmlleXF4NkZzUS1rOTRHMEc0UTdRSE9Yc1cyT2VGMU8yM1VYRzlDU0VLaWxFMEHSAWZBVV95cUxQOHA5RHFoOW9WWTQwRVpWTGtPNW9qcUNiY3VRMzQ5NGtXTF9nb2RrdlZwNkYyNklhSFdjeFo2NkxGWmRnUlZFRVEzQzg2TFlKWHM5TEM1RlllbXpqQkdKYzEwcmQtckE?oc=5",
+   "source": "동아일보",
+   "time": "08/29 09:30",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "미 연준 의장 “물가 우려스럽다”…시장은 “금리 인상 가능성↑”",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxLUI4dzk3S0lhdjBUVjNuT3dqNjFMeWpxeVVSS1lacGJGZVVmQ0lvT3dRUldUbm03TWtxUHBjcHVlN1YzekFZLXU5RVl3MS1JcUtxcGZMQ2lxQk0?oc=5",
+   "source": "KBS 뉴스",
+   "time": "08/29 06:52",
    "dir": "up",
    "strength": 1
   }
