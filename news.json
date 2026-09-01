@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-31 19:12",
+ "updated": "2026-09-01 10:07",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -47,34 +47,10 @@
    "strength": 1
   },
   {
-   "title": "[윤시윤의 각도] 환율 하락은 '안정'인가…쏠림의 기준을 묻다",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VUTVKdTR2MmRCZXByTEp2aWMyanhzYWVGZXVUbUYzczYxWFZiVVhGZlc1c1ExVTg3NEhqSVhqYTVhdjRyMjhLa3paVlgwYW9wUUZwa3N4d3BxeGNheWZlcTZJeXF2aHcyYTBXbG1aY0s?oc=5",
-   "source": "연합인포맥스",
-   "time": "08/31 10:11",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "코스피, 美 연준 의장 ‘매파’ 발언에 2.58% 하락 출발",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkFUcEI5YXVVYy1BV2N3MG9WTzZwYXUtcWV5bG9IVDZwMURxcHBjWG5kUVF6alAxVThNQXd0dHNEZFdTYVlnVWtzN1g1b2t0NXlsaGhaeUxBRGgwZm1uRmlqRTQ3RDlMeVZ1VlBGQV80UGludkR5N3VjR0V0a256LQ?oc=5",
    "source": "조선일보",
    "time": "08/31 09:36",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"물가 우려\" 워시 매파적 발언에…원·달러, 1380원대 턱밑",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NM082MWtoYlZCTU1aY0dlN1FOVF9nbzV5bWs2YjNhejdoWEExQkVWdXRRcWM2cmVpTUk4aHh1SDY5WV9uUDEzbmp3cUJRN25Ebm5RNU50YVM5QUg1bkVjONIBeEFVX3lxTFByZ1BWRTFXYjBRMUM5NTJ1ZkZENTRnREFQRmExMnhPeDQ4NkZTclJjOW5QM05lNWNZcFEzZnpTczYzdlJsZnkyZUZYeV9MdzRqRk1aVFIzbHZ2UnF0SXdBY3Jvb2VjNXQzMHllZXRpQ1dzUlFOSzM0Yg?oc=5",
-   "source": "뉴시스",
-   "time": "08/31 09:27",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "워시 매파 발언에 달러화 강세…달러·원 환율 1380원 근접",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kRy1kQjN5VTRlMWphRVBlSVVWTi1KWDJkZDVaZ2hqb0RFaHZfaGdtQXVQd243SGxyZ2szT3FSdWk2em5YZE1DaDJTVHdDWm0wd2d0SVRBSkpLQlHSAWBBVV95cUxPQ2JvTVROT2Y2MzEwWERWNDB0MnFOaGk5QWt6akd1RlRkOWozc3ZPVkVXeXpWY1BJRDZ1YjVBWHdnYmZweE02ZGVHN05lWHl3YXJEY0FnS3NKXzlBZU5RcEI?oc=5",
-   "source": "뉴스1",
-   "time": "08/31 09:24",
    "dir": "up",
    "strength": 1
   },
@@ -87,10 +63,34 @@
    "strength": 2
   },
   {
+   "title": "[하현옥의 세계경제전망] 미국, 장기국채 금리 상승 막으려다 달러 약세 맞는다",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ITmIwOVVibDRhV0ZEdWRSVWhxelVvWlV5OVVDcXRJNjhuLUpoWHRfdGluaUt5NWpPVDVBYUM1WlZSWUxTckMzSzFWNDNKcDJKemxLLVdB?oc=5",
+   "source": "중앙일보",
+   "time": "08/31 00:16",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "'금리 인상' 군불 뗀 美 연준, 9월 FOMC에서 트럼프와 충돌?",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dmoyYUl4NF9SMU5COGFYdE1QTl9CNjBGUy1tcFBqQmdKeU8yVVBCUzhyNnF1SUNkUWVUYVBRN0tLVzIzRm5WWWxFbThnWmxpdHkxNEtNT0dTQQ?oc=5",
    "source": "파이낸셜뉴스",
    "time": "08/30 15:34",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHd9IBYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHdw?oc=5",
+   "source": "연합뉴스",
+   "time": "08/30 05:53",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "기준금리 인상에 주담대 오르나...이자 부담도 커져",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVbWFwUDNZNUNLcXpvQlZ3R0NXZWY4SDUydFI2NHVfbTlfNWd5WTk5cXQxbkFPMUlkQjFOa2RZajRYekUyMlJUWUdYWHg1dVYyRU5jSmVDbDlxMTI4VFRtajg1RWlwajVad2tPZVRoMA?oc=5",
+   "source": "YTN",
+   "time": "08/29 22:20",
    "dir": "up",
    "strength": 1
   }
