@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01 10:07",
+ "updated": "2026-09-01 11:27",
  "summary": {
   "up": 7,
   "down": 3,
@@ -15,10 +15,26 @@
  },
  "items": [
   {
-   "title": "원화 강세에…외화 환전·예금 급증",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZZXc1RFlCaGtLWGUzam5iZHphZmVLck5aT0MwNEdVRzQ0aFY5aWVvMVdNZnFzUUhYVTJ2dE9CRXg4UmRvUldnajRRSHRzcFhFaDlmTVRVQzB6UQ?oc=5",
-   "source": "한국경제",
-   "time": "08/31 17:48",
+   "title": "은행주, 韓 두달 연속 금리 인상, 美 연준 ‘매파적’ 기조에 강세",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaC1qV3BwZ2tPUzUxOHB6ekxQYmt6VVQwVXZ4RWoybVh3YWx2STZkakdSdTZQTWVDLVNXOFFfV2RqTnFicFVOVkp3cnIybzcwUGhLb2ZXbzNVcTdqM0ZiWFk3bE1zWHM0aHFpdjFXS1M1ZDhsSnlXY2ZPTDRPbEdrNA?oc=5",
+   "source": "조선일보",
+   "time": "09/01 09:03",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "트럼프 \"미국 금리 세계에서 가장 낮아야\"…연준 금리 인하 압박",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jeWxLSmNTMUJfRWlVcnI0VFpiSzlGcFNNYVdvdEpUVmhLaU9RaHE0UUc0N0l5TmpnTmktWVdlbDRaUkp4NDRMY2NLenZDTmpXTWZQazdpWFhpdmszc2UxZXc4QVJyODFUU0FZQTkxdGlUTnPSAXNBVV95cUxNY3lsS0pjUzFCX0VpVXJyNFRaYks5RnBTTWFXb3RKVFZoS2lPUWhxNFFHNDdJeU5qZ05pLVlXZWw0WlJKeDQ0TGNjS3p2Q05qV01mUGs3aVhYaXZrM3NlMWV3OEFScjgxVFNBWUE5MXRpVE5z?oc=5",
+   "source": "한국일보",
+   "time": "09/01 07:33",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "강달러·약엔인데 원화 강세…환율 공식 바꾼 ‘한국 성수기’",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yR2NmdkR1dUgtWWIzWHFxSi1ja0RReXI1aHRDZXdsOHVaTHZtZW13Y0I4NVRCdV9Jb0NPRmJqNlNrRUdKTS1qS3UxVlNDZjRtbkNZMURR?oc=5",
+   "source": "중앙일보",
+   "time": "09/01 00:02",
    "dir": "down",
    "strength": 1
   },
@@ -29,14 +45,6 @@
    "time": "08/31 14:48",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "미 연준 매파 발언에 반도체주 휘청…전문가 \"AI 경제성 여전해 투자 위축 없다\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LSnRpcGZpX3lUdWhEaU03cHJWclJ0UTB3T3o3c1lTeTJWcGpVOUlPZERoWDZPN252MDFwb1BCWUh3NEE1bjh4azNvZzgwMVc3MEZvUmdvZWgwTzBNaXJxa9IBeEFVX3lxTE5Fc2ZJN0J5VW56aTllV1NhcG9NaFoyODRuT2pFUFktbk0xUnUyQVpxQVdMSkE0cVQxdlByanlwbWdMMEp2SWtRdks2d2NtRHdHNXp1UjIzM2ZqWUpidmdWTnpSVmdodU5hbW1vRnF3dDJPVGxuMklfTA?oc=5",
-   "source": "뉴시스",
-   "time": "08/31 11:30",
-   "dir": "up",
-   "strength": 2
   },
   {
    "title": "'매파 워시' 후폭풍…하락하던 달러, 다시 강세 전환? [지금이뉴스]",
@@ -63,14 +71,6 @@
    "strength": 2
   },
   {
-   "title": "[하현옥의 세계경제전망] 미국, 장기국채 금리 상승 막으려다 달러 약세 맞는다",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ITmIwOVVibDRhV0ZEdWRSVWhxelVvWlV5OVVDcXRJNjhuLUpoWHRfdGluaUt5NWpPVDVBYUM1WlZSWUxTckMzSzFWNDNKcDJKemxLLVdB?oc=5",
-   "source": "중앙일보",
-   "time": "08/31 00:16",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "'금리 인상' 군불 뗀 美 연준, 9월 FOMC에서 트럼프와 충돌?",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dmoyYUl4NF9SMU5COGFYdE1QTl9CNjBGUy1tcFBqQmdKeU8yVVBCUzhyNnF1SUNkUWVUYVBRN0tLVzIzRm5WWWxFbThnWmxpdHkxNEtNT0dTQQ?oc=5",
    "source": "파이낸셜뉴스",
@@ -88,7 +88,7 @@
   },
   {
    "title": "기준금리 인상에 주담대 오르나...이자 부담도 커져",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVbWFwUDNZNUNLcXpvQlZ3R0NXZWY4SDUydFI2NHVfbTlfNWd5WTk5cXQxbkFPMUlkQjFOa2RZajRYekUyMlJUWUdYWHg1dVYyRU5jSmVDbDlxMTI4VFRtajg1RWlwajVad2tPZVRoMA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nYWE3TU04RkZRczZBSVNfMEh1Sk55b2FTTmV5UGFwRWhTTGVQRXpDLWp0Uy13dFBCak1LZHhISzZxbThIMG0xNlFqTTl2RW5VX1hYY0hlYVRRal9kVkE?oc=5",
    "source": "YTN",
    "time": "08/29 22:20",
    "dir": "up",
