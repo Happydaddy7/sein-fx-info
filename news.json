@@ -1,19 +1,27 @@
 {
- "updated": "2026-09-01 11:27",
+ "updated": "2026-09-01 17:58",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 6 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "\"환율 1300원대 하락…'내수주·원화 강세 수혜주 눈여겨봐야\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wVW5rWlpnbUdsN1dKbWpxQk5fVmdtbzFCSUdHYXFvUC01ckFJSkNsM1h2dk83akV2TzRwOTNpZGtkS3Y1VXVILXRoS2p3b3EzZUgwZng4ZDdXX1dUVTlYSA?oc=5",
+   "source": "뉴시스",
+   "time": "09/01 11:30",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "은행주, 韓 두달 연속 금리 인상, 美 연준 ‘매파적’ 기조에 강세",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaC1qV3BwZ2tPUzUxOHB6ekxQYmt6VVQwVXZ4RWoybVh3YWx2STZkakdSdTZQTWVDLVNXOFFfV2RqTnFicFVOVkp3cnIybzcwUGhLb2ZXbzNVcTdqM0ZiWFk3bE1zWHM0aHFpdjFXS1M1ZDhsSnlXY2ZPTDRPbEdrNA?oc=5",
@@ -35,6 +43,14 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yR2NmdkR1dUgtWWIzWHFxSi1ja0RReXI1aHRDZXdsOHVaTHZtZW13Y0I4NVRCdV9Jb0NPRmJqNlNrRUdKTS1qS3UxVlNDZjRtbkNZMURR?oc=5",
    "source": "중앙일보",
    "time": "09/01 00:02",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "환율 13개월 만에 1,360원대로 하락…달러 매도 몰려(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3TmF5bjlLNjBucnF2THhJZDRRVVY2bFFSbkJLYnRKcUluODVTTVl0LUMxcTlzcjJ4Z1FCNldZZWRQSVROekZJS3dSMGFtQ2RCWUE?oc=5",
+   "source": "매일경제 마켓",
+   "time": "08/31 16:44",
    "dir": "down",
    "strength": 1
   },
@@ -75,22 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dmoyYUl4NF9SMU5COGFYdE1QTl9CNjBGUy1tcFBqQmdKeU8yVVBCUzhyNnF1SUNkUWVUYVBRN0tLVzIzRm5WWWxFbThnWmxpdHkxNEtNT0dTQQ?oc=5",
    "source": "파이낸셜뉴스",
    "time": "08/30 15:34",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHd9IBYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHdw?oc=5",
-   "source": "연합뉴스",
-   "time": "08/30 05:53",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "기준금리 인상에 주담대 오르나...이자 부담도 커져",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nYWE3TU04RkZRczZBSVNfMEh1Sk55b2FTTmV5UGFwRWhTTGVQRXpDLWp0Uy13dFBCak1LZHhISzZxbThIMG0xNlFqTTl2RW5VX1hYY0hlYVRRal9kVkE?oc=5",
-   "source": "YTN",
-   "time": "08/29 22:20",
    "dir": "up",
    "strength": 1
   }
