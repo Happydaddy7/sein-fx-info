@@ -386,16 +386,33 @@
     1362,
     1387
    ],
+   "actual": 1362.56,
+   "hit": false,
+   "dir_hit": null,
+   "actual_on": "2026-09-02"
+  },
+  {
+   "made_on": "2026-09-02",
+   "base_rate": 1362.56,
+   "dir": "up",
+   "today_band": [
+    1360,
+    1370
+   ],
+   "week_band": [
+    1356,
+    1379
+   ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-09-02 21:21",
+ "updated": "2026-09-03 08:55",
  "summary": {
-  "scored": 22,
+  "scored": 23,
   "hit": 13,
-  "hit_rate": 59,
+  "hit_rate": 57,
   "dir_scored": 16,
   "dir_hit": 11,
   "dir_rate": 69
