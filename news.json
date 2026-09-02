@@ -1,19 +1,27 @@
 {
- "updated": "2026-09-02 08:53",
+ "updated": "2026-09-02 10:48",
  "summary": {
-  "up": 5,
-  "down": 5,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 6 vs 하락 4).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "\"인플레 안 꺾이면 금리 인상\"…美연준 잇단 매파 발언 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ncTVBbU84TDlPRXJOSzBJYlJ6bUFudlhNSmZBanNSbmlVUUl5RHRYY3lkSHItX2lDb1pZWFNfTTI0Zm03Q2ZwVTFla1JtZFczWnhxZHFFbm4yYktadklCMjlyNXhuQ0FsVHUwSGZES0g4a2FkU3fSAXtBVV95cUxQT1VRbTZCaGpwM0R4ZFN4UkpobW9kTk1lZ2JNUVJDMmJ4aWo3LWU4ZmJ6QVBYdG5iZHMxcGU1Mkh2TDY4eW9DNU1laWdDYnlBUXU1bmZpSktldFR6ZVpXNGpDT2s5V3dsSzB4eFB5U09tOEx5ZFhFc1l0QnM?oc=5",
+   "source": "머니투데이",
+   "time": "09/02 08:37",
+   "dir": "up",
+   "strength": 2
+  },
   {
    "title": "\"원·달러 1300원 초반 간다는데\"…韓수출기업들 '고환율 특수' 끝났나",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nVEZUSzNhc3JfNDhzblNmQ0hLZnc2WnJobTY2bV81eU1QREdvWm9VVnFYUjExbDlsTlZjNTRxZjlKWmszeHBwbjlKT29HRkZvWFU3MzVNZjdkOFo4QVlobdIBeEFVX3lxTFA5WU5nZGVadGRHakxPdHc5VUM1Z0pHVGIwV3plRUZac0UxN1hPOWNTUWowNEZDUVdKSzhLUE9zZkRjbzZjdmYtamIwcUVWdWtCal9mdlpqNUhycE8yTjdlTGV3b3ZWWXdVY2o3dno2UkNPLV9yT1FMbQ?oc=5",
@@ -23,27 +31,11 @@
    "strength": 1
   },
   {
-   "title": "바 美연준 이사 \"인플레이션 완화 안 되면 금리 단호히 올려야\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CS3h4UmI4WjBGYjNYVEcyQ0lxZGt0SktQWm8wSVVwcmVRVVRyemlHaVI1ZTJqNFN5c3c4VTIxWjVEWjBlSHFCdTJaSVBsMzAzb2ItTFN3RlpnVmvSAWBBVV95cUxQOVV6SXZ5enI5a0J2ZVQ1Wi1rWVRwaFMtSHFhLV9OaFo2My1YcllEQmJ1eWY1dXJ6eUw2amtWUVo2TFZ2Z1doUjQyR0lOV2QySkF0MUhxdEhSTGc0akU5VnI?oc=5",
-   "source": "연합뉴스",
-   "time": "09/01 23:34",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "연준과 싸우지 말라는데…9월 금리 인상시 美 증시 운명은?[오미주] - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zMDFtT0hUMVZXMUZRMV9ZS1djeW9ienc0RG5DSHZrTmtfQkJDekZzU1REbWNCUTJzRi1QVjhrT2tCRUMtSVhkM0ZWWVhfS2lGakY4cy1HOWJEOUQ2TVpyV3ZVTlhheERB0gFuQVVfeXFMUFliZ0R1eVpLSDRwbnR1ZUVxdjh3M3JhakxKeGttZ215OUEyMHAzMW5BcTdWUWpwWWNqZVI2ZE9BblNhZ2NJODRIOU14MkFLckpGZGVMZ2ZmRWVSWEllYWtqaGtQSFFvTzI4ZWRtWkE?oc=5",
-   "source": "머니투데이",
-   "time": "09/01 18:05",
+   "title": "바 연준 이사 \"인플레 안 꺾이면 금리 인상 단호히 나서야\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yTG82bUpYb3ZyZFlWSzVBTkIwLW8tWXBOY00zaUo3MGlSTmJvSi1rcXhnR1RBei1leVlwM204ZDNocTdBWmdQQktWY0IwQUZ0UzZieEhOSGY3QQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "09/01 22:57",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"환율 1300원대 하락…'내수주·원화 강세 수혜주 눈여겨봐야\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wVW5rWlpnbUdsN1dKbWpxQk5fVmdtbzFCSUdHYXFvUC01ckFJSkNsM1h2dk83akV2TzRwOTNpZGtkS3Y1VXVILXRoS2p3b3EzZUgwZng4ZDdXX1dUVTlYSNIBeEFVX3lxTE0yUWVlQ1AxNFlFNXotZktvOW8taXZQczhLMHpqX004elJTR25NNnhuMi15ZWtLdVI5M0JOX1FmQnFuQTVQd0FYZXdWQnA0SnhlSUFzTlVLV0Z4aDI4NGNuOWJIcWU1YWZtZUxyWTRGdXA5T1RVeTNEWQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/01 11:30",
-   "dir": "down",
    "strength": 1
   },
   {
@@ -87,11 +79,19 @@
    "strength": 1
   },
   {
-   "title": "'금리 인상' 군불 뗀 美 연준, 9월 FOMC에서 트럼프와 충돌?",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dmoyYUl4NF9SMU5COGFYdE1QTl9CNjBGUy1tcFBqQmdKeU8yVVBCUzhyNnF1SUNkUWVUYVBRN0tLVzIzRm5WWWxFbThnWmxpdHkxNEtNT0dTQQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "08/30 15:34",
+   "title": "연준 의장, 잭슨홀서 매파 본색···“9월 금리 인상 가능성 커져”[글로벌 모닝 브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xWXRJQ1lONFZ6VzV6Mmo4ckhKQkNDdVVMR2FObm9aU3NGazZUSXBaVm5kMW5CV0xnRUNTNGZqdml4elVKbEhMY1VKVXNuTHBUc1E?oc=5",
+   "source": "서울경제",
+   "time": "08/31 05:30",
    "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "[하현옥의 세계경제전망] 미국, 장기국채 금리 상승 막으려다 달러 약세 맞는다",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LcWZJWnZ5bW4xdWdfRE1fUkJrLWxsQ1JKaUxTYnV0SjZRZGFrdlBTa0xaZ0FnWkFIMVBlc1U1NnN2SmoxaHIxVGs4by1BOU1Malp1Rjd4d3BVQndpQjVjTjd3?oc=5",
+   "source": "미주중앙일보",
+   "time": "08/31 00:16",
+   "dir": "down",
    "strength": 1
   }
  ]
