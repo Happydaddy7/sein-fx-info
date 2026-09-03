@@ -1,19 +1,27 @@
 {
- "updated": "2026-09-03 10:54",
+ "updated": "2026-09-03 15:37",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "SG \"연준, 3회 금리 인상 전망…동결 유지 필요성 낮아져\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qY1VBX3BLOGpKa2s1Q3h0OURZNHFRcTVKZXRjYWNjMmxUWHVsWVFCeVVET1dzOVNJWVd2QzRyQmVDQnRWOExxaEM2VXJyQ2JwMjl2bHBQYU1wNWZBcTNKYnR4ZF9VT09aRFV4bzVVWEQ?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/03 11:37",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "연준 '실세' 뉴욕 연은 총재, 기준금리 인상 신중론",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fTmRyb2RLLWE2VzA3V0tsaW1GRVNUeDJkM2RFdHAzeFFuYWtpODU2MnIta3lyVG1oc2JIY2dJa1RhNHlZRFZHRGt0RjBUaDZGODJFVVFReGNXR0YweHc?oc=5",
@@ -47,19 +55,11 @@
    "strength": 2
   },
   {
-   "title": "\"원·달러 1300원 초반 간다는데\"…韓수출기업들 '고환율 특수' 끝났나",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nVEZUSzNhc3JfNDhzblNmQ0hLZnc2WnJobTY2bV81eU1QREdvWm9VVnFYUjExbDlsTlZjNTRxZjlKWmszeHBwbjlKT29HRkZvWFU3MzVNZjdkOFo4QVlobdIBeEFVX3lxTFA5WU5nZGVadGRHakxPdHc5VUM1Z0pHVGIwV3plRUZac0UxN1hPOWNTUWowNEZDUVdKSzhLUE9zZkRjbzZjdmYtamIwcUVWdWtCal9mdlpqNUhycE8yTjdlTGV3b3ZWWXdVY2o3dno2UkNPLV9yT1FMbQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/02 06:00",
+   "title": "마이클 바 연준 이사 \"인플레 둔화 불충분하면 금리 인상해야\"",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3eU9KQ2FGWERsTFJ4ZXBDNi0wMkU4M0dtemRmSUJ2U3VNWFNVUGxENUFoWGFaUkdTSFpjZnM0eFBWMnVTV29uS0lIVlZUckFtQzVCRWc5MkNiWkxsc3BmTHM0b1U?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "09/02 01:26",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원화 환율 하락하자 엇갈린 美 ETF 투자 수익률",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHpBYjBSTjR1TEM2UnlsWk0wZkpnYjQySU5pQWJsVGN5RzQ0Z0hKdzRwc3dEUzhWYUxYQ3BiVWVGMmdZRkFzNWpZS2Z4ZThSeG83RkVqTUk3RTlBNVVIOXNLWnZZTTl4VWFjQVpwSVBBWDExd3Z2YmdEdkQ1cG84RTBVYXhIV2JoOExpUUlR?oc=5",
-   "source": "조선일보",
-   "time": "09/02 00:35",
-   "dir": "down",
    "strength": 1
   },
   {
@@ -71,10 +71,10 @@
    "strength": 1
   },
   {
-   "title": "바 연준 이사 \"인플레 안 꺾이면 금리 인상 단호히 나서야\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yTG82bUpYb3ZyZFlWSzVBTkIwLW8tWXBOY00zaUo3MGlSTmJvSi1rcXhnR1RBei1leVlwM204ZDNocTdBWmdQQktWY0IwQUZ0UzZieEhOSGY3QQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "09/01 22:57",
+   "title": "연준과 싸우지 말라는데…9월 금리 인상시 美 증시 운명은?[오미주] - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zMDFtT0hUMVZXMUZRMV9ZS1djeW9ienc0RG5DSHZrTmtfQkJDekZzU1REbWNCUTJzRi1QVjhrT2tCRUMtSVhkM0ZWWVhfS2lGakY4cy1HOWJEOUQ2TVpyV3ZVTlhheERB0gFuQVVfeXFMUFliZ0R1eVpLSDRwbnR1ZUVxdjh3M3JhakxKeGttZ215OUEyMHAzMW5BcTdWUWpwWWNqZVI2ZE9BblNhZ2NJODRIOU14MkFLckpGZGVMZ2ZmRWVSWEllYWtqaGtQSFFvTzI4ZWRtWkE?oc=5",
+   "source": "머니투데이",
+   "time": "09/01 18:05",
    "dir": "up",
    "strength": 1
   },
