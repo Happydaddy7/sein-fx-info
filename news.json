@@ -1,26 +1,26 @@
 {
- "updated": "2026-09-03 08:55",
+ "updated": "2026-09-03 10:54",
  "summary": {
-  "up": 5,
+  "up": 7,
   "down": 3,
-  "neutral": 2
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 5 vs 하락 3).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "\"美경제 괜찮지만 물가는 걱정\"…연준 베이지북 9월 금리 '안갯속'",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96MElIZVVnMEhJY29aM1N3d0s4TW1jRzgtVXpBSkxPZFVnYnYzeEVfczg3bDVUQWpLdzV3WlZvUjduVmNPRy1taFRpUVZOdWhFRkVPZENxSWVmaHRjWldXRERoN05CXzDSAWxBVV95cUxNa2RydEd3ZDRzalBjSURJQ0F4Z0RFNFdrX0dnQm8wWFdnTk1sUDFLc0xiOTRvcEk5YUZGbnd4ODBLd1ZMTHE4RjZaRUVZWVljSUdrYzRFNzNmX2tNdkpRUzNENk4wSG5IZ0NtMHc?oc=5",
-   "source": "뉴스1",
-   "time": "09/03 07:11",
-   "dir": "neutral",
-   "strength": 0
+   "title": "연준 '실세' 뉴욕 연은 총재, 기준금리 인상 신중론",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fTmRyb2RLLWE2VzA3V0tsaW1GRVNUeDJkM2RFdHAzeFFuYWtpODU2MnIta3lyVG1oc2JIY2dJa1RhNHlZRFZHRGt0RjBUaDZGODJFVVFReGNXR0YweHc?oc=5",
+   "source": "YTN",
+   "time": "09/03 08:32",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "캐나다, 대미 관세전쟁 속 기준금리 7회 연속 2.25%로 동결",
@@ -39,20 +39,20 @@
    "strength": 1
   },
   {
-   "title": "원·달러 환율 1.7원 내린 1368.7원(오후 3시30분 기준)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nTndiWXhfWDJ2ZTJsd29zV3J1cEtmSjRIcTVVRDZsdWhvaU9vSGZ2Q01Md0dwUnNreXQwLXYxLWJhM0MtRmRkb1FTWUZ3X18wVjdNc19lYUJ6a3pmSjFpeQ?oc=5",
-   "source": "아시아경제",
-   "time": "09/02 15:32",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "\"인플레 안 꺾이면 금리 인상\"…美연준 잇단 매파 발언 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ncTVBbU84TDlPRXJOSzBJYlJ6bUFudlhNSmZBanNSbmlVUUl5RHRYY3lkSHItX2lDb1pZWFNfTTI0Zm03Q2ZwVTFla1JtZFczWnhxZHFFbm4yYktadklCMjlyNXhuQ0FsVHUwSGZES0g4a2FkU3fSAXtBVV95cUxQT1VRbTZCaGpwM0R4ZFN4UkpobW9kTk1lZ2JNUVJDMmJ4aWo3LWU4ZmJ6QVBYdG5iZHMxcGU1Mkh2TDY4eW9DNU1laWdDYnlBUXU1bmZpSktldFR6ZVpXNGpDT2s5V3dsSzB4eFB5U09tOEx5ZFhFc1l0QnM?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTQ0lyZjg1VGhqdGYyUjFGUG12S0IzcjhXb3FRYmYxY1dyLVBoeGR2OVJYdkF1UUwtekhwOFgxWmUtSzBSR0F1RTJJSkZBaFlHWTMtTi1YaGlUaG52SG5EWlppWDR2NGFo0gFuQVVfeXFMTU5vZ2l0c3N6QUpIVUt3dDI2R0dTTC0wWS03dHhnZF9FRkdZNGY0bGFQVGpQZTFMM2Z2VHZpaXlWWmdOQ2lGRGNQaUxLMG1CeEotaFpqUVc1RXVTckxzTWUzU2R4bXFqR2xvU0NlLVE?oc=5",
    "source": "머니투데이",
    "time": "09/02 08:37",
    "dir": "up",
    "strength": 2
+  },
+  {
+   "title": "\"원·달러 1300원 초반 간다는데\"…韓수출기업들 '고환율 특수' 끝났나",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nVEZUSzNhc3JfNDhzblNmQ0hLZnc2WnJobTY2bV81eU1QREdvWm9VVnFYUjExbDlsTlZjNTRxZjlKWmszeHBwbjlKT29HRkZvWFU3MzVNZjdkOFo4QVlobdIBeEFVX3lxTFA5WU5nZGVadGRHakxPdHc5VUM1Z0pHVGIwV3plRUZac0UxN1hPOWNTUWowNEZDUVdKSzhLUE9zZkRjbzZjdmYtamIwcUVWdWtCal9mdlpqNUhycE8yTjdlTGV3b3ZWWXdVY2o3dno2UkNPLV9yT1FMbQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/02 06:00",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "원화 환율 하락하자 엇갈린 美 ETF 투자 수익률",
@@ -79,19 +79,19 @@
    "strength": 1
   },
   {
-   "title": "연준과 싸우지 말라는데…9월 금리 인상시 美 증시 운명은?[오미주] - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zMDFtT0hUMVZXMUZRMV9ZS1djeW9ienc0RG5DSHZrTmtfQkJDekZzU1REbWNCUTJzRi1QVjhrT2tCRUMtSVhkM0ZWWVhfS2lGakY4cy1HOWJEOUQ2TVpyV3ZVTlhheERB0gFuQVVfeXFMUFliZ0R1eVpLSDRwbnR1ZUVxdjh3M3JhakxKeGttZ215OUEyMHAzMW5BcTdWUWpwWWNqZVI2ZE9BblNhZ2NJODRIOU14MkFLckpGZGVMZ2ZmRWVSWEllYWtqaGtQSFFvTzI4ZWRtWkE?oc=5",
-   "source": "머니투데이",
-   "time": "09/01 18:05",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "트럼프 \"미국 금리 세계에서 가장 낮아야\"…연준 금리 인하 압박",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hbWJUdVh0MS1yRHpZM3VZYnJmelM3ZzB0bGtpUWN2UUdsRVQ4c3ZBNlU5VElEZ2VnaGF0Y1NwU0tlNnVaUWtGMUlUUlNlWjQySE9LLWlwRHl5T01sUENYV2JlcXZCZHNNZWstc1hB0gFzQVVfeXFMTWN5bEtKY1MxQl9FaVVycjRUWmJLOUZwU01hV290SlRWaEtpT1FocTRRRzQ3SXlOamdOaS1ZV2VsNFpSSng0NExjY0t6dkNOaldNZlBrN2lYWGl2azNzZTFldzhBUnI4MVRTQVlBOTF0aVROcw?oc=5",
    "source": "한국일보",
    "time": "09/01 07:33",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[경제톡톡] 한국은행 2달 연속 금리 인상…자산 배분 전략은?",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXNnB0aDM1UlBpVnlDcUtMU1dsWU5OYWIwbGdMRHU1VW5BaTlIelF6UWZnbzU2RGduV1Jqem1EWFlVQ29QM1RJNmJHYXFONTZmVUxlUFRwRmVMWDNpWm1jMTVGdi1Cdw?oc=5",
+   "source": "KBS 뉴스",
+   "time": "08/31 19:35",
+   "dir": "up",
    "strength": 1
   }
  ]
