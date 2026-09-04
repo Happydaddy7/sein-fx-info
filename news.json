@@ -1,42 +1,74 @@
 {
- "updated": "2026-09-04 15:41",
+ "updated": "2026-09-04 21:19",
  "summary": {
-  "up": 2,
-  "down": 5,
-  "neutral": 3
+  "up": 1,
+  "down": 4,
+  "neutral": 5
  },
  "outlook": {
   "dir": "down",
   "lines": [
-   "하락요인 우세 (하락 5 vs 상승 2).",
+   "하락요인 우세 (하락 4 vs 상승 1).",
    "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
    "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "원·달러 환율 8.9원 내린 1350.4원(오후 3시30분 기준)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42QUhJREhFWERPQ0JkbWQtdGV6Z0c3ZEwxUl9RcHE3akY2UXJycmVYREZzWXJ1WUMzeW45Tk9TTHFtMGgxTVdoSXNlaXd3ZzBrTlJqbGR0Umo5TzJIWUtXVQ?oc=5",
-   "source": "아시아경제",
-   "time": "09/04 15:34",
+   "title": "기준금리는 하나인데…예금·대출금리 왜 제각각 바뀔까 [최소한의 금융상식]",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RRGUtNTBaSFpXWkF1T2JrMWFfOFZaeXpscGlubFlwdHNXeDJZaU45OHBkWXdQMXY2RUVPWlhYWERqd3FqLS1sbUZiVEtkU2c?oc=5",
+   "source": "매일경제",
+   "time": "09/04 18:08",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "[속보]원·달러 환율, 8.9원 내린 1350.4원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UHhkMmFxdGNBTHVxLUpkQ1Z4Qk5QV2tqZlM2WTRuNUFyZ0JwdkVoNjdZV21wSnU5SDJaaktLWVh3TzF1MzBnUUxPOF9RelFwYjNpRGl2LUxQMjROU0xCSdIBeEFVX3lxTE80d1dOYUZFZ1ZfZDNJUjhmSXNUaURhb0ZsRkRUMzFScXUwVzlJeXJpc3hUUXU1TGpEUkxFWGxCMmp3cms0R2dHV3hZcGNQVkRsQ2dsaVQtaU5OVy1QMTR3ZF85NEVueG5ZSllTM1JGN0p0Y2hURG5vag?oc=5",
+   "title": "\"환율 1200원대 가나\"... 14개월 만에 장중 1340원대 하락",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDaG9UZnBMSEtuMDdwQkRmN1FBQ0NWRWlpVWVDTGpsM2pFUEZIMU5uV0J6NmE4eXdSSjNLZUNIQUd5QnJ1M2lkQTJvblI1WmFMZWdzUk4tNWE2Zw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "09/04 17:31",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[퇴근길머니] 원·달러 환율 1,340원대…이름 같다고 '용혜인 테마주'?",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoRkJKZ1pNVUtiVHpYc2U5M2VrMjJaTm9YZG5VUFRIT2pQTXZGWHJhaUhJR2dFRlJxQXctT0pwT3FTRnpMUEQ0TXhkVEZ0REhVRGYtRjN4S3U4U3fSAWBBVV95cUxQems5RlI1MVduSkZDeDZGYmFBOTdEY2pxM0J0NGRaVVlSakxNNHNqLU9GSjczN0syR3BhLTBZSFk3WnB0bHVrREFUTEtlcUxLTnk2cDNoSUIySDlYM1hkMEs?oc=5",
+   "source": "연합뉴스",
+   "time": "09/04 17:28",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원/달러 환율 3거래일 연속 하락…장중 1,340원대로",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pZm1VV2VKMmNWWHBGLVBGWUxVY3BNbUpzS1dHaTktdXhvYUZWemw3Qk1uZkxRakpyU3BuYk1kYS05MzRLNTNmMWtrMUtwRXIxWlV3LWdUUjhaQUE5ZjFqb3JHd3RxbDg?oc=5",
+   "source": "연합뉴스TV",
+   "time": "09/04 17:28",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[포토] 원달러 환율 장중 1340원대로 하락",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBka3FZakZYZ2RTY0VWTWNKWFAzOW9XQzljanlKbVk0TVoyaTlLV3FZOHNGUDBqbHhOaDFEajRndm1IQ25TMEc3SEpVNGZYclUwZWNkTlQtc1NhZw?oc=5",
+   "source": "한국경제",
+   "time": "09/04 17:14",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "엔화 강세에…원/달러 환율 14개월 만에 장중 1,340원대로",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGV2RGRk5lRW44bW95VTBlV3dFRkNiUTBHNjNyTEtyVHdKVktPOWlBZERPaDFVS21yY3NhTHBJazMwN3dTV1ROODFERUFaa2RhOXNnd2NPN1RnS0HSAWBBVV95cUxNb3F4TUsxZFduLUNPdDFWSkdLN2gwRGtST25JejdjVHZKeVR0RHFsa1RJN0FWbkdfcjR5cHk1SjlNcXBEdHZ6cUkwZ3RiaXY2b1duekQwdkpVdWxVZ2ZGZzE?oc=5",
+   "source": "연합뉴스",
+   "time": "09/04 15:56",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "원달러 환율 하락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JLVM5ei1zd2R5LVVnQjNyd2NEMVRMdDZNUVc1TzR3eGdfRXNrb2FZUWJ1ZTB1MWFjTnlqYUF4ejVuSHViYWp5eUo4R2xtY0hSWmVqU2RQdU1EcnFiWjhSUQ?oc=5",
    "source": "뉴시스",
-   "time": "09/04 15:32",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "AI·40조달러 美부채에 높아지는 중립금리…美국채금리 상승 압력",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ValJSaGo4QnAtZVJtcW4zdVMwbXFtX3A1bXEwSVJXY1RPRWtEWjJMNmJ4Z1V4SFYzMjdZQUZtT0FwUHhpV19vc01sc25BNnBvWmxvV1BhY1ZvS3VNakZnODVmS3Fpa2vSAWxBVV95cUxNQng4bE1odjhjTWhRcnA0NWIxdm00NS0tOVUtY05GWUFPckcyZmRFZWZyb3RyTE1FcGtzQjB1ODJEbm1YQUsxZjVNeFV5NkNDSDVoYWFhSG9kZjYzWWIyZUFtcmgzYnhIbENwYWQ?oc=5",
-   "source": "뉴스1",
-   "time": "09/04 10:53",
-   "dir": "neutral",
-   "strength": 0
+   "time": "09/04 15:55",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "강달러에도 원화 강세… 반도체 수출 호조에 ‘환율 상식’ 깨졌다",
@@ -55,43 +87,11 @@
    "strength": 1
   },
   {
-   "title": "달러 약세의 숨은 뇌관…해외 투자자 환헤지 ‘역대 최저’｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bG5hRUc2SHlvd2hEalRyT2M5X2tmMk80OU9DQkl3UFRHdVZzSGZweVYwM2NjNlI3V0pVek50a0tFTFpaVjZwX09NTHptSFM4c1NjZVRoWkJKSkk?oc=5",
-   "source": "중앙일보",
-   "time": "09/03 10:01",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "외환보유액 한 달 새 143억달러 급증…외화예수금 늘고 달러 약세 효과",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96Q21fa1B5THplMTI4bkp1S3Z0eWRZSWxMTGxMeExRbnp1T3VxazFRc0g1MmJWQnNCRGx0Q3hXMV9nNnZSNW5RN1dTQ2dZRTNXZF9WYXk4X0taSmJXY3FZZEVaUjA?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "09/03 06:04",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "은행주, 韓 두달 연속 금리 인상, 美 연준 ‘매파적’ 기조에 강세",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaC1qV3BwZ2tPUzUxOHB6ekxQYmt6VVQwVXZ4RWoybVh3YWx2STZkakdSdTZQTWVDLVNXOFFfV2RqTnFicFVOVkp3cnIybzcwUGhLb2ZXbzNVcTdqM0ZiWFk3bE1zWHM0aHFpdjFXS1M1ZDhsSnlXY2ZPTDRPbEdrNA?oc=5",
-   "source": "조선일보",
-   "time": "09/02 16:00",
-   "dir": "up",
-   "strength": 2
-  },
-  {
    "title": "대구 기업 86% \"기준금리 인상, 경영에 부정적\"",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwTnBnMmxoOHVmYjI3WkZ4Q3lqb0tNTTZ3eGNpYzA0MWhqamZkdGVDQTZLalAwcXZhbEJSQkFzcmpVanB1a1QteFZEeXc?oc=5",
    "source": "대구MBC",
    "time": "09/02 15:46",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "바 美연준 이사 \"인플레이션 완화 안 되면 금리 단호히 올려야\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5VXpJdnl6cjlrQnZlVDVaLWtZVHBoUy1IcWEtX05oWjYzLVhyWURCYnV5ZjV1cnp5TDZqa1ZRWjZMVnZnV2hSNDJHSU5XZDJKQXQxSHF0SFJMZzRqRTlWctIBYEFVX3lxTFA5VXpJdnl6cjlrQnZlVDVaLWtZVHBoUy1IcWEtX05oWjYzLVhyWURCYnV5ZjV1cnp5TDZqa1ZRWjZMVnZnV2hSNDJHSU5XZDJKQXQxSHF0SFJMZzRqRTlWcg?oc=5",
-   "source": "연합뉴스",
-   "time": "09/01 23:34",
-   "dir": "down",
    "strength": 1
   }
  ]
