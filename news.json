@@ -1,24 +1,56 @@
 {
- "updated": "2026-09-07 08:38",
+ "updated": "2026-09-07 10:41",
  "summary": {
-  "up": 5,
-  "down": 5,
+  "up": 4,
+  "down": 6,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "down",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "하락요인 우세 (하락 6 vs 상승 4).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
+  {
+   "title": "'관세 전쟁'에 이어 환율까지…트럼프 \"캐나다달러 불균형 용납 못해\" - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qLVdBNjdBMTUyWUlJVjlGSDMyM2JfZm5tUWF2TS1UU0VqM3pYakZYMWFUblUtXzJaVl82dFpZbkttcGwxUWZSQUdlTV9MRFlISkhkajJHOW1YMXRfVzJ4OXFvYV9zYWNp0gFuQVVfeXFMT2V0Z0dsWlJsenlkZTkxM0l5UGY4UVJtd2QwZmQ5RGtQd1NCSXNqeWhTNEotTi1RN2lrRnFyLUtCV1ZGQUVQN2tPNzc4Mkc3SUVKdkp3RTAzcG5GOURzN0ZSRlNIdEFFRDFtaUt3Qnc?oc=5",
+   "source": "머니투데이",
+   "time": "09/07 10:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "유안타증권 \"완성차, 환율 급락 타격 4분기에 본격화\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03c2lIcEl1b0NZOFFQVzh5VTkxUmg5SUhVbERVdjZuOU1ETVE3Z1FpaXNwZllGdjR6OTZsNjJkRDREUjRRc2J5MVo4akxlM3h6SlNSeGhyNmlQeTTSAWBBVV95cUxPdWZyUHVXLWo0eXdyUUJzakc1ZVJfVU1SUVE4a2JKM3VDZ2JEU0hCS00wellDX2hSTldyTy0xZzlDOTh1cnd5Z2Qzc0NsZ0tPdWx4WFhHV01lQVMtTUpxS08?oc=5",
+   "source": "연합뉴스",
+   "time": "09/07 08:26",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "환율 하락에 업종별 주가 희비…항공·철강 ‘활짝’ 자동차·조선 ‘우울’",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XT0pDNFd0eHBMbkV1VEttWXVWM21UeFhpWmprOVdJcmxxcEY4M2NCZ2JVT0NMcFFuNVhXQXNqTFBFRzl5MTN3MzNKeVBUMk9US0NlWFdUandHQdIBX0FVX3lxTE9EdHJtX2ZQcDdobVE2MVRRQU5uVl96a1lYNDVyV0JtUnFZei05Y3BHMnF4b0dzZFRmWU44R1dYdk9EdWF3S2UzVjY5LVJEbldkLVl0YjdOdjRqUjYwVTNv?oc=5",
    "source": "경향신문",
    "time": "09/06 20:27",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "환율 하락에 업종별 희비 교차…항공·철강 웃고 자동차는 울상",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1peENQYWx3Nk04S0xtVC1ncHREdHphaFptd0FTOTl2R19CaE91djEwcnZnMmZvUmNmSGZ0M0tzV1dlNEthaU52d3VCQVNKMmhfYV9KWW9YUk83M2JrU0s3Wnc2a3l5NVE?oc=5",
+   "source": "연합뉴스TV",
+   "time": "09/06 09:54",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "환율 하락에 업종별 희비…항공·철강 웃고 자동차는 울상",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JdXlTZnhTZzJOemJFRF9OdWl2X1ZXRWJKMmRMbnNZUG00WVdkdElkU2swN2d6THNRUHJwTTVsb01wMldZcm5RcHpTZlVnc2FSaEZMOURFZnlwV0nSAWBBVV95cUxNeTJaZXFBRm1kNWJXWkJCS1Q5SFM1Q25tM2k5OHJPbUFRTVlzZFVtNW04T1FreF9QOG4tTFZEUkZKdVNxMTFqdmhzSkpTRGRzZUtBVG9JdjNvWVNBdHdGSVM?oc=5",
+   "source": "연합뉴스",
+   "time": "09/06 06:10",
    "dir": "down",
    "strength": 1
   },
@@ -60,38 +92,6 @@
    "source": "조선일보",
    "time": "09/05 03:00",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "트럼프 \"연준, 금리 낮춰라…아니면 무역적자국과 교역 중단\"(상보)",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tZWVPZHB2WFladldMQ2hfQXFyNnI1V19ycUtzeUxRbF9na185NDZEanVtNkVvZUJYb01FX0QxOGJWY2kySWdKdHdMSFoydm1uckRiUFlYdTVyUnByN2ZzOTM4d2pHX01xTXBoN3RWcmI?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/05 00:56",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미국 ‘고용 서프라이즈’…연준 기준금리 인상 가능성 커지나",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlRXSUhmbHlPNHM3c3NmdEJlY3ZtQ1k5QkNGc09CNTVMbXR1TlJrN0d0dUI1cW5ZWFdkWFIzd3dxeURNZndTNEhNUTBoTTUtWFZCcVNSbGN4eDJRNXR3M1BlOTlpNHVxRlBOeDFPTHl1RzJvQWhrblZxSUp3YkttY1JOMDQyejNFSS1nTFV3?oc=5",
-   "source": "조선일보",
-   "time": "09/04 21:59",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원달러 환율 하락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JLVM5ei1zd2R5LVVnQjNyd2NEMVRMdDZNUVc1TzR3eGdfRXNrb2FZUWJ1ZTB1MWFjTnlqYUF4ejVuSHViYWp5eUo4R2xtY0hSWmVqU2RQdU1EcnFiWjhSUQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/04 15:55",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "달러 약세에 원·달러 환율 1350원선 붕괴",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xYWtvdU52bzFaU29EZV9DVlNsazZiTS02Z3NzbThGM2Vvb0hIUlc5V1E3NTdqQTFoZFYzMEFpQUVnd3NIWmFuVklVWQ?oc=5",
-   "source": "뉴스1",
-   "time": "09/04 15:52",
-   "dir": "down",
    "strength": 1
   }
  ]
