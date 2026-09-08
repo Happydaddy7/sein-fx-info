@@ -1,19 +1,35 @@
 {
- "updated": "2026-09-08 09:04",
+ "updated": "2026-09-08 10:52",
  "summary": {
-  "up": 0,
+  "up": 2,
   "down": 7,
-  "neutral": 3
+  "neutral": 1
  },
  "outlook": {
   "dir": "down",
   "lines": [
-   "하락요인 우세 (하락 7 vs 상승 0).",
+   "하락요인 우세 (하락 7 vs 상승 2).",
    "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
    "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
+  {
+   "title": "원·달러 환율 하락에 외국인 자금 유입…달라진 투자 기회 잡으려면",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tN0IwdjA0N19WU2tzUlctQnNwcFAtLW94SEhyMEI1Y1VNZ3U0eVF2d0RsOG0xQlI2RFhJUERLYXZNUm4xQkY4UXNSaXJGOEtDOFZHQ2x2U25WWFhFaERfTg?oc=5",
+   "source": "아시아경제",
+   "time": "09/08 10:19",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "UBS, 美 연준 금리 전망 '동결→2회 인상' 수정",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3Q1kzMy01aTctQTVaVGFLMk9MTExWdUpkbkRrTHBoSFN4S0V3MmtON0E4UDJNSHFQb2taZlJMZ1M1bk5na19jRmZjSUd3TU5fUS1wdUFwajUxdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "09/08 10:02",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미]",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHbEF6Z2szampDXy1OZjNORWV5RlltWEVIUXBfUEZFRjNjdUotYkFHb1ktUkllY0xqblRRUVgtSkZTR1lfNnpiNEd2cTB0ajJwZlHSAVNBVV95cUxObkFUeF9VTWN5clBmSmpSdVJkN29uM0ZHVDEzRW9RTTdZWG9CZVhQREZac0hJRE54eTVRaEN0OWZZQXNqbEZKek96VEFWUjdyeTRYTQ?oc=5",
@@ -23,42 +39,18 @@
    "strength": 1
   },
   {
-   "title": "환율 1340원… 12년간 막힌 ‘국민소득 4만달러 클럽’ 보인다",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DeTlERnJXakdGT1psZ3NVcWNNVklHbW9FSWlOenJPWkVxWV81cmxscEo0T0NoSklPcEhFVVdsbnNTMm53eWNodEFkeVA3U3JLMVJsaC10S3hvYjVHaFMyUWxtVDdjNEhJNTEyb0R2V0stbDY3VmfSAWZBVV95cUxQOXFUN1BBbVA2SEN5OEtNOUNicV92YW5QNGpBc3JQVDkwRkpWajBSX0RrQXk4bHRwUGZvMGVRZGpMXzA3TTZZWDRYQzFtV1hVbGZoRlJUeVF4djZGSnRYemtxcDlQOWc?oc=5",
-   "source": "동아일보",
-   "time": "09/08 04:30",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "달러 살 때? 팔 때? …전문가 \"3년 평균치 밑돌면 매수해야\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBeGU5U2NlVjJ1TnZXcjYzcXpTMlNLRlhMSGF2c1VkWUQ3djVaQzh5UkltSWpyMDdKZ2gyZHdpajNKZENXWS1vWnJxMUtjYmdTemszSWJxRlBzVEVHM0owQ9IBeEFVX3lxTE5aTzRVRnRsQmpXSS11b1ZUcDJKanlVTEZuLUozUHRpZlliekdaRmJEci04MUo0VEFNS3Z5aDBsZ1djdzQ1RmstOG0xN3k1NUpWZmJaeUdtQTlMQ0tkUW5JMlRnZ2pMc00wenJRZUpQUy1jeUEyNjdpMA?oc=5",
-   "source": "뉴시스",
-   "time": "09/07 22:03",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원-달러 1년11개월 만에 1340원대…어디까지 갈까",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MVW9BWTRacU1qbXB4dEV1S0RXRkw2c3V1ZElkNmhMRDJSNGR4Y0ZiLXVFbXFxZGJLdEEwNUo4dzlYSTRXSFJ6eDdGeGoxUzltRUMwSjB2b21XYUNJUkxFQjVuQk03b0M3Y1NiZ19BMzBXQQ?oc=5",
-   "source": "한겨레",
-   "time": "09/07 20:07",
-   "dir": "neutral",
-   "strength": 0
+   "title": "트럼프, 캐나다와 이번엔 환율 전쟁 \"美·캐나다 달러 불균형 용납 못한다\"",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHUDB0S2RDNWN5aTZIaF9xdjQxcWt2dHUyOWtqS21XUHNjSWFWR0d2aDVpaVJ3M3pRY2ZYb2d6c0lGUmgyb1huZ2RZXzhPZXR3N2c?oc=5",
+   "source": "매일경제",
+   "time": "09/07 18:01",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "환율 추가하락 전망에 도미노 달러 매도…당국, 당분간 속도조절",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qdkJSVkh5VDU4TnYwcjZ6OXVSLXVBMDl6dnd2SC1ucEwzV05pdlBURzRhU3Q2RDB5dEd6VUhCQVlUYjhrNnNKdkR4NVlmQTNEM0HSAVNBVV95cUxNRXp4a2pnZndycDR2MDZSMjdxaWZMS2ZYQXZ5ZV91LVV3d3ZGYkJUVklHa2NvV2NKTHo1NzNrNC1zdTB2bERybnozTWFDNENwZF94OA?oc=5",
    "source": "서울경제",
    "time": "09/07 17:48",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "반도체 호황에 환율 하락…1인당 국민소득 4만달러 보인다",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PX0FZQVhtQkdydDdWSkcwTUNSNlZ3ajRqeExMeFV0aXU0endjZ3k1Y0x5cHhISDNZcHhHbTZya09GUk44MWVnTzY1c21SQ1Buai1nenFPX2o0Yzljcy1kLTUwMTBGTVVZVFI4VDBXN0I0QTFMQXfSAWZBVV95cUxQOEJsNG5FVTVjX2xvZnVaNnRVZm1EYjFLem93WVFhS0FRdDg4Yk5OWFdzd1dmVndLcXBzS2RkV1ZtQ3hUYktjazYxenZGZFBBaGpCdHRLSEVmelVZUUxTdVFCakJvNUE?oc=5",
-   "source": "동아일보",
-   "time": "09/07 16:41",
    "dir": "down",
    "strength": 1
   },
@@ -92,6 +84,14 @@
    "source": "연합인포맥스",
    "time": "09/07 12:30",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "'관세 전쟁'에 이어 환율까지…트럼프 \"캐나다달러 불균형 용납 못해\" - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qLVdBNjdBMTUyWUlJVjlGSDMyM2JfZm5tUWF2TS1UU0VqM3pYakZYMWFUblUtXzJaVl82dFpZbkttcGwxUWZSQUdlTV9MRFlISkhkajJHOW1YMXRfVzJ4OXFvYV9zYWNp0gFuQVVfeXFMT2V0Z0dsWlJsenlkZTkxM0l5UGY4UVJtd2QwZmQ5RGtQd1NCSXNqeWhTNEotTi1RN2lrRnFyLUtCV1ZGQUVQN2tPNzc4Mkc3SUVKdkp3RTAzcG5GOURzN0ZSRlNIdEFFRDFtaUt3Qnc?oc=5",
+   "source": "머니투데이",
+   "time": "09/07 10:00",
+   "dir": "up",
    "strength": 1
   }
  ]
