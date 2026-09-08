@@ -1,42 +1,50 @@
 {
- "updated": "2026-09-08 21:21",
+ "updated": "2026-09-09 08:56",
  "summary": {
-  "up": 1,
-  "down": 6,
-  "neutral": 3
+  "up": 3,
+  "down": 7,
+  "neutral": 0
  },
  "outlook": {
   "dir": "down",
   "lines": [
-   "하락요인 우세 (하락 6 vs 상승 1).",
+   "하락요인 우세 (하락 7 vs 상승 3).",
    "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
    "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "원화값 어디까지 올라가요?…美중간선거까진 봐야하는 이유 [백석현의 환율노트]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mQnRYWVNVLTBvUm5saV8yUzNLRG1rTnFfd2w0MldaVlc1d0NTeWxXRzcyUzNnUHFWN0RCRGpaNGlSQVAxdlBYRVdlTE5xZmMxOWc?oc=5",
-   "source": "매일경제 마켓",
-   "time": "09/08 20:10",
-   "dir": "neutral",
-   "strength": 0
+   "title": "환율 급락 직격탄 맞은 K-라면株, 지금이 매수 기회?",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jM0VJcjZ6MllRTi1YRDZoZGhHcGtyc2ZDalB1RGViOGV5TEZsVHMxdHY2VDlVRjhtaUFYSGRyalpiREgxQ1ZEWmpfOGE2RmdmWWxJdlFqUGw3MFh5Z0RFc9IBeEFVX3lxTE1mbVp5VndsUW9IcnUtTU0wcWlVQ3dtS1I0dC0yUm52T09TLWQ1VnFtQjBIMVNPMVBqNFN2ZnB0YU9uY3pkZTBHZXZYRTFZMHd0S1F0QzJsUWJIVWZBaFpNMTRoT3pZa29rcXdKbEd4ZmlMQzRTc2dTaQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/09 07:00",
+   "dir": "down",
+   "strength": 1
   },
   {
-   "title": "원화 고공행진 계속…영업이익 떨어질라, 반도체·자동차 수출업체 ‘긴장’",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5cUtsYlhmdkdaUkVHRDJzZmRZOVRRTmVlOXZiaDNfNjJkZ29sZG44R3JEYVRWdWp3a1FqYUtWUTBLZ2pHNVhFN2Jxek1iZEg2ci1qWHBRRWhORTRPTUlqQ2lZeTA0ams?oc=5",
-   "source": "한겨레",
-   "time": "09/08 16:08",
-   "dir": "neutral",
-   "strength": 0
+   "title": "\"대안이 없다\"…달러 약세에도 S&P500 투자 유지해야 하는 이유",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LakU4cnk5dXJ5eXNsRXhaVFlKYTJlY3l6VEdVTThYa2x1ajliMV9RS3JBRmhqVjl5MERfTTVscDFlblI4TU13R0drM3ZLX1hGZC1pcS03T0tYOUwtUS1rTdIBeEFVX3lxTE5TTWI0Vm15T0xERjRvOFlHOGZUZXlNaFlNTGVxck05Y2tQM011d1haeTQ2cWVlOENWV1hZYkQxT0tFU3J3QUpjY1V2VVFZLVRRSjhCQWFHdllUMW5zSmJ2RTJLeloydXpHS3lrczBHRUJ2RXB5NVhWbA?oc=5",
+   "source": "뉴시스",
+   "time": "09/09 00:00",
+   "dir": "down",
+   "strength": 1
   },
   {
-   "title": "엔화 강세에도 유가 상승 등에 환율 상승…1,345.6원",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KdzNfVVpUdXRTU2pFZzlnT2JLbElXOVQwb0R3RklqTGh5MGhuc0dSaHRfa2ZISm5Ec1kxSlR1ZDRGakJ5RVlsZGNmVXUyaHNYZ0E?oc=5",
-   "source": "매일경제 마켓",
-   "time": "09/08 15:56",
-   "dir": "neutral",
-   "strength": 0
+   "title": "日 금리인상 가능성에 엔화 강세…원·달러 환율 추가 상승 막아 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1faGhQbVNLcHdlYkNJQk9lZVNPMVZVdHFoWG1Ma1k1WkJkZVZCUjljbDNXWGI3c3JTNFhWNDFMVU5CVGtLNUc0aC12NFk3YTYza1HSAVNBVV95cUxPMTFuYkI5ZUZTMi0zc1VJUTY3aWMxMWR0OXcwWDBtaU4wdHdpY3FwYXB5NjVCQmRySW54Nl9veERzREh0R0lTOWdlYV9oRmp2dWJlaw?oc=5",
+   "source": "서울경제",
+   "time": "09/08 21:17",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "금리·환율·전쟁까지…코스피 '1만선'까지 첩첩산중 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hanhUd0EtbXA5LXRwVlZzZ05ZWDlHYUVCbU5ZZXFoN21OWWVQSjdBY0VIb0pubFFfNUFrdWdQc0xWYWI1aXlNVHVnTUFPcTBCbUN3WXNjRVdubDNqVlNnbjQ1TmVMdW9I0gFuQVVfeXFMT0dCbXFuNkR0SmlpdXhGSlNJNXRnVHJRU1RlbDMyckRZczFnTW1EZy1rLXFUVmhLVTBFSWlKbzRnSU52YXEzUUpGZmxXeUVVaU5xZjliZ196NW5kZ1I2d3dnT25KNmc3ZFRnSlU2Nmc?oc=5",
+   "source": "머니투데이",
+   "time": "09/08 17:00",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "연준 금리 인상 가능성 속 UBS \"주식·금 장기적 투자 유효\" |",
@@ -55,14 +63,6 @@
    "strength": 1
   },
   {
-   "title": "원·달러 환율 하락에 외국인 자금 유입…달라진 투자 기회 잡으려면",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tN0IwdjA0N19WU2tzUlctQnNwcFAtLW94SEhyMEI1Y1VNZ3U0eVF2d0RsOG0xQlI2RFhJUERLYXZNUm4xQkY4UXNSaXJGOEtDOFZHQ2x2U25WWFhFaERfTg?oc=5",
-   "source": "아시아경제",
-   "time": "09/08 10:19",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미]",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHbEF6Z2szampDXy1OZjNORWV5RlltWEVIUXBfUEZFRjNjdUotYkFHb1ktUkllY0xqblRRUVgtSkZTR1lfNnpiNEd2cTB0ajJwZlHSAVNBVV95cUxObkFUeF9VTWN5clBmSmpSdVJkN29uM0ZHVDEzRW9RTTdZWG9CZVhQREZac0hJRE54eTVRaEN0OWZZQXNqbEZKek96VEFWUjdyeTRYTQ?oc=5",
    "source": "서울경제",
@@ -71,18 +71,18 @@
    "strength": 1
   },
   {
+   "title": "트럼프, 캐나다와 이번엔 환율 전쟁 \"美·캐나다 달러 불균형 용납 못한다\"",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHUDB0S2RDNWN5aTZIaF9xdjQxcWt2dHUyOWtqS21XUHNjSWFWR0d2aDVpaVJ3M3pRY2ZYb2d6c0lGUmgyb1huZ2RZXzhPZXR3N2c?oc=5",
+   "source": "매일경제",
+   "time": "09/07 18:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "환율 추가하락 전망에 도미노 달러 매도…당국, 당분간 속도조절",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qdkJSVkh5VDU4TnYwcjZ6OXVSLXVBMDl6dnd2SC1ucEwzV05pdlBURzRhU3Q2RDB5dEd6VUhCQVlUYjhrNnNKdkR4NVlmQTNEM0HSAVNBVV95cUxNRXp4a2pnZndycDR2MDZSMjdxaWZMS2ZYQXZ5ZV91LVV3d3ZGYkJUVklHa2NvV2NKTHo1NzNrNC1zdTB2bERybnozTWFDNENwZF94OA?oc=5",
    "source": "서울경제",
    "time": "09/07 17:48",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "국민연금, 환율 하락에 환 헤지 중단…매수 물량 포착(상보)",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVDFyZjBuT1B5YUVVeE5aRU9MeTIyOGdLWmt1ZVU2cEpSZl9IN0xFODZNb2h1RmlObHVTNVdvcldyelVMdkZLYmw5UFIyZU1WanRaSF9LQjMzUngxVVlmcHRYVUxBaXRtSklkRG9FajM?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/07 13:03",
    "dir": "down",
    "strength": 1
   },
