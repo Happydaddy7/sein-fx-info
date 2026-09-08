@@ -1,26 +1,50 @@
 {
- "updated": "2026-09-07 22:45",
+ "updated": "2026-09-08 09:04",
  "summary": {
-  "up": 3,
+  "up": 0,
   "down": 7,
-  "neutral": 0
+  "neutral": 3
  },
  "outlook": {
   "dir": "down",
   "lines": [
-   "하락요인 우세 (하락 7 vs 상승 3).",
+   "하락요인 우세 (하락 7 vs 상승 0).",
    "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
    "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "트럼프, 캐나다와 이번엔 환율 전쟁 \"美·캐나다 달러 불균형 용납 못한다\"",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHUDB0S2RDNWN5aTZIaF9xdjQxcWt2dHUyOWtqS21XUHNjSWFWR0d2aDVpaVJ3M3pRY2ZYb2d6c0lGUmgyb1huZ2RZXzhPZXR3N2c?oc=5",
-   "source": "매일경제",
-   "time": "09/07 18:01",
-   "dir": "up",
+   "title": "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHbEF6Z2szampDXy1OZjNORWV5RlltWEVIUXBfUEZFRjNjdUotYkFHb1ktUkllY0xqblRRUVgtSkZTR1lfNnpiNEd2cTB0ajJwZlHSAVNBVV95cUxObkFUeF9VTWN5clBmSmpSdVJkN29uM0ZHVDEzRW9RTTdZWG9CZVhQREZac0hJRE54eTVRaEN0OWZZQXNqbEZKek96VEFWUjdyeTRYTQ?oc=5",
+   "source": "서울경제",
+   "time": "09/08 06:00",
+   "dir": "down",
    "strength": 1
+  },
+  {
+   "title": "환율 1340원… 12년간 막힌 ‘국민소득 4만달러 클럽’ 보인다",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DeTlERnJXakdGT1psZ3NVcWNNVklHbW9FSWlOenJPWkVxWV81cmxscEo0T0NoSklPcEhFVVdsbnNTMm53eWNodEFkeVA3U3JLMVJsaC10S3hvYjVHaFMyUWxtVDdjNEhJNTEyb0R2V0stbDY3VmfSAWZBVV95cUxQOXFUN1BBbVA2SEN5OEtNOUNicV92YW5QNGpBc3JQVDkwRkpWajBSX0RrQXk4bHRwUGZvMGVRZGpMXzA3TTZZWDRYQzFtV1hVbGZoRlJUeVF4djZGSnRYemtxcDlQOWc?oc=5",
+   "source": "동아일보",
+   "time": "09/08 04:30",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "달러 살 때? 팔 때? …전문가 \"3년 평균치 밑돌면 매수해야\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBeGU5U2NlVjJ1TnZXcjYzcXpTMlNLRlhMSGF2c1VkWUQ3djVaQzh5UkltSWpyMDdKZ2gyZHdpajNKZENXWS1vWnJxMUtjYmdTemszSWJxRlBzVEVHM0owQ9IBeEFVX3lxTE5aTzRVRnRsQmpXSS11b1ZUcDJKanlVTEZuLUozUHRpZlliekdaRmJEci04MUo0VEFNS3Z5aDBsZ1djdzQ1RmstOG0xN3k1NUpWZmJaeUdtQTlMQ0tkUW5JMlRnZ2pMc00wenJRZUpQUy1jeUEyNjdpMA?oc=5",
+   "source": "뉴시스",
+   "time": "09/07 22:03",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원-달러 1년11개월 만에 1340원대…어디까지 갈까",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MVW9BWTRacU1qbXB4dEV1S0RXRkw2c3V1ZElkNmhMRDJSNGR4Y0ZiLXVFbXFxZGJLdEEwNUo4dzlYSTRXSFJ6eDdGeGoxUzltRUMwSjB2b21XYUNJUkxFQjVuQk03b0M3Y1NiZ19BMzBXQQ?oc=5",
+   "source": "한겨레",
+   "time": "09/07 20:07",
+   "dir": "neutral",
+   "strength": 0
   },
   {
    "title": "환율 추가하락 전망에 도미노 달러 매도…당국, 당분간 속도조절",
@@ -31,15 +55,7 @@
    "strength": 1
   },
   {
-   "title": "“수출 그대로인데 실적 확 깎인다고?”…환율 급락이 만든 삼전 ‘5조원 충격’",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kQWo1VUJBSjd0eTl0LUp6b2JkVDlGX1pUNFY0N0c0dHJOR1VSdzhoMnZib09GVWJvQWFacGZ0MEk2Sk9ROUVrQWxPWFBBYWhaY1Nseg?oc=5",
-   "source": "매일경제",
-   "time": "09/07 17:22",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "반도체 수출 호조로 원화 가치 상승…韓, 4만 달러 클럽 진입 기대",
+   "title": "반도체 호황에 환율 하락…1인당 국민소득 4만달러 보인다",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PX0FZQVhtQkdydDdWSkcwTUNSNlZ3ajRqeExMeFV0aXU0endjZ3k1Y0x5cHhISDNZcHhHbTZya09GUk44MWVnTzY1c21SQ1Buai1nenFPX2o0Yzljcy1kLTUwMTBGTVVZVFI4VDBXN0I0QTFMQXfSAWZBVV95cUxQOEJsNG5FVTVjX2xvZnVaNnRVZm1EYjFLem93WVFhS0FRdDg4Yk5OWFdzd1dmVndLcXBzS2RkV1ZtQ3hUYktjazYxenZGZFBBaGpCdHRLSEVmelVZUUxTdVFCakJvNUE?oc=5",
    "source": "동아일보",
    "time": "09/07 16:41",
@@ -48,9 +64,9 @@
   },
   {
    "title": "원·달러 환율 하락",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oQ3hWb2F2SnVLOXdoLUN0TjY3cVpRam50Smk3dmdyakt2QnlZNWc4Qm8yallQdEhfaWs2TzVkMVh2eHZxZU44ajNrOV91Zm04clFZektzSHFuMGxOWGRUYTJR?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsT0E1MG8xWXBEQ3g1Y0kydGRvMTN5MmV4NHZkYWpuREFNUzJkeTZVQnVLMGUwYkxueXNwYXBaTjRFTGV0Y0xCT3ktN1JsNTlJMjFKYjNXN0dRVVdYVVJ1Rw?oc=5",
    "source": "뉴시스",
-   "time": "09/07 16:11",
+   "time": "09/07 16:02",
    "dir": "down",
    "strength": 1
   },
@@ -76,22 +92,6 @@
    "source": "연합인포맥스",
    "time": "09/07 12:30",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "미 고용 급증에 금리 인상론 '솔솔'...트럼프, 연준 노골적 압박",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KaVVaek5iQnlXMlgtRW03dDVIVUZIQVQzNW5qcjA2SVRlRGt3X09hRWU5QWNqeFFVb0ZJdXpyY2ZEekdnUExlR2stdDNMMWd1VzJlUzZIMzlSQmpQQnc?oc=5",
-   "source": "YTN",
-   "time": "09/05 09:02",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "트럼프 “금리 안 내리면 무역적자 국가와 교역 중단”…연준 압박",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yRGExTFgtbEVITXFwcW9iZ0EtYjdZUTYtenphdU5TMzd2Qm1VY3ZXSVRYelByaW9oVjk3YXVtcFZPTDFkMWhQVU5GYzRxS0FfbHRIbk1SVkpYd0F2S0lsN09BaU9JRWVRMDZMQ0FFaw?oc=5",
-   "source": "한겨레",
-   "time": "09/05 08:48",
-   "dir": "up",
    "strength": 1
   }
  ]
