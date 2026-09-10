@@ -1,34 +1,50 @@
 {
- "updated": "2026-09-10 21:26",
+ "updated": "2026-09-11 08:51",
  "summary": {
   "up": 3,
-  "down": 7,
-  "neutral": 0
+  "down": 5,
+  "neutral": 2
  },
  "outlook": {
   "dir": "down",
   "lines": [
-   "하락요인 우세 (하락 7 vs 상승 3).",
+   "하락요인 우세 (하락 5 vs 상승 3).",
    "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
    "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "한은 \"대내외 여건 점검하며 기준금리 인상 속도 결정\"",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwQ1RRQk5md2h6eTdQcVhxWVdaalFWbjFyNV9zejlaR0lnSGwxd2tuY0xFajRxcVo0dTRKVlVBaWFlT2Jid2lWRFZrRUlOYTU1N2xsNEJkQVV3QU5UcHltYjNwQWw?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "09/10 17:34",
-   "dir": "up",
+   "title": "한투증권 \"하반기 환율 전망치 1,380원…기존 대비 40원 내려\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DRTMzRG84dHFoUExBTVQ3T1IzR3J5V1ZrRXBucjdTU0s1QnUzdjZVRUZVVHJReDh1WWFEb3ZveGNaMk5DQ0NWbG9zYXVqc3ZxeG1MNVZEM0doX2PSAWBBVV95cUxPOVYzR0ZDcXNLNFNvWGxWNDZ6ajdtSUgxMHdWbFNwQUlCSjVFVjFrcHkzUTRmWXJCMnlRaUdDNlc4STdXb0VtV212WDhyTXJxU3VoemhBR05lYVl6N1VQMDM?oc=5",
+   "source": "연합뉴스",
+   "time": "09/11 08:12",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "\"두 달 만에 220원 급락\" 롤러코스터 탄 원화, 무슨 일이[환율 등락, 문법 바뀌었다]①",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KeVRKUXRVNENpa0xBS1JVRmZEcHF2VkdGeVJjSHo1SXFOaXdNSUl5YTlRZzhJNWd6Z3ZOZ0FJOTRaN2NGQU8wSnBzcHhOWjFZcjFucTE0UVVPbVhvdF9wNA?oc=5",
+   "source": "아시아경제",
+   "time": "09/11 08:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "환율, 두 달 만에 220원 급락…원화 강세 이유 [1분 브리프]",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWktTaXpxVTV0MXRPVGdLVl82WWZQNGFBTHl5QUVaU2RCM0lfVE9DTHVDRW1TX2xpaFRVbkNzN3FLV2hpaGRpTFh0bFJpZWFOdVp0akttSlpLTjJZOGgtMA?oc=5",
+   "source": "아시아경제",
+   "time": "09/11 08:00",
+   "dir": "down",
    "strength": 1
   },
   {
-   "title": "국제유가 상승·엔화 강세…환율 3.1원 오른 1,339.2원",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kVk9PQjdyZDJaLUI2M1VCeVVzekpjZGNNOUlfUzM3OTdTNEI5d0ZGeUs2c0RtOFVkdE56TmJzUk9wQWJ6eFd6dXlnQkphSnpUV2FHbEk0V3lSNXVHWVJaQzVFX3NHNXo4bDBwZ29ESnpHSU5J?oc=5",
-   "source": "연합뉴스 한민족센터",
-   "time": "09/10 16:08",
-   "dir": "down",
-   "strength": 1
+   "title": "근원 PPI 예상 밑돌았지만…전쟁발 물가에 연준 ‘금리 인상’ 고심｜Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXelNkT2xWcEgtNnFZbHpBUWM3cklhcEtNN25HOURBWjBXdXF4SlJ2MGhhdTVhQklMVkFiX0pHRWRHYXFvQlI2aU5aWHBSQXNxd2pTNlBWZzZFdlE?oc=5",
+   "source": "중앙일보",
+   "time": "09/10 22:07",
+   "dir": "up",
+   "strength": 2
   },
   {
    "title": "한은 \"대내외 여건 따라 기준금리 인상 시기·속도 결정\"",
@@ -39,10 +55,10 @@
    "strength": 1
   },
   {
-   "title": "‘디올 백 100만원 할인 효과’…환율 하락에 면세점-백화점 ‘가격 역전’ 사라진다",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55MXNkTVUwYmwybWJvRy1NU1dBQnZEeUF4eDhmem5jNkUtTzlYNk5zTmhPcWNENVBZX2VLUFUxdThHTUFWR2I5eUJuSnpobWQtS0HSAVNBVV95cUxQemtVOC1HanhlVE9CODJYSy1GOXQ5REd3VlZqSElQdFEzU1dBR1k1NVNuSG15cFM4ZGQxRFNBUlE3c0x4SnRQV0dnWjZRT0x0N2xydw?oc=5",
-   "source": "서울경제",
-   "time": "09/10 06:00",
+   "title": "[재테크 풍향계]원화 강세에 주목받는 ETF는",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XUEFsdTZxMzBPYVV3Nl9uLVNEOEFETDZLN3ZPNHNJcGRjSGZKeTlCd3ppQ1FYSmR6X0IzUDM2OGtqcmg0cDZrMnoxZnByQjNsajFRS3VqcHZEcHF4UFpDaGhB?oc=5",
+   "source": "아시아경제",
+   "time": "09/10 07:31",
    "dir": "down",
    "strength": 1
   },
@@ -76,22 +92,6 @@
    "source": "연합인포맥스",
    "time": "09/08 12:52",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율 하락에 외국인 자금 유입…달라진 투자 기회 잡으려면",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tN0IwdjA0N19WU2tzUlctQnNwcFAtLW94SEhyMEI1Y1VNZ3U0eVF2d0RsOG0xQlI2RFhJUERLYXZNUm4xQkY4UXNSaXJGOEtDOFZHQ2x2U25WWFhFaERfTg?oc=5",
-   "source": "아시아경제",
-   "time": "09/08 10:19",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "환율 추가하락 전망에 연쇄 달러 매도 [Pick코노미]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHbEF6Z2szampDXy1OZjNORWV5RlltWEVIUXBfUEZFRjNjdUotYkFHb1ktUkllY0xqblRRUVgtSkZTR1lfNnpiNEd2cTB0ajJwZlHSAVNBVV95cUxObkFUeF9VTWN5clBmSmpSdVJkN29uM0ZHVDEzRW9RTTdZWG9CZVhQREZac0hJRE54eTVRaEN0OWZZQXNqbEZKek96VEFWUjdyeTRYTQ?oc=5",
-   "source": "서울경제",
-   "time": "09/08 06:00",
-   "dir": "down",
    "strength": 1
   }
  ]
