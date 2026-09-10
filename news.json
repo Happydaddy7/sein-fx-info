@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10 15:47",
+ "updated": "2026-09-10 21:26",
  "summary": {
   "up": 3,
   "down": 7,
@@ -15,19 +15,27 @@
  },
  "items": [
   {
+   "title": "한은 \"대내외 여건 점검하며 기준금리 인상 속도 결정\"",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwQ1RRQk5md2h6eTdQcVhxWVdaalFWbjFyNV9zejlaR0lnSGwxd2tuY0xFajRxcVo0dTRKVlVBaWFlT2Jid2lWRFZrRUlOYTU1N2xsNEJkQVV3QU5UcHltYjNwQWw?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "09/10 17:34",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "국제유가 상승·엔화 강세…환율 3.1원 오른 1,339.2원",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kVk9PQjdyZDJaLUI2M1VCeVVzekpjZGNNOUlfUzM3OTdTNEI5d0ZGeUs2c0RtOFVkdE56TmJzUk9wQWJ6eFd6dXlnQkphSnpUV2FHbEk0V3lSNXVHWVJaQzVFX3NHNXo4bDBwZ29ESnpHSU5J?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "time": "09/10 16:08",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "한은 \"대내외 여건 따라 기준금리 인상 시기·속도 결정\"",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12M0JzaTZlU3JIby1pbnlpQktlSEpnSW1CV21ibGFtTTZyZW5IY19CRVNkOTJveV9ZNkJHSVEtSkNKRXQtT0NfVkh0dHJtbkFlSnE3VE9Oc1JMMUd3WFNab9IBYEFVX3lxTE12M0JzaTZlU3JIby1pbnlpQktlSEpnSW1CV21ibGFtTTZyZW5IY19CRVNkOTJveV9ZNkJHSVEtSkNKRXQtT0NfVkh0dHJtbkFlSnE3VE9Oc1JMMUd3WFNabw?oc=5",
    "source": "연합뉴스",
    "time": "09/10 12:00",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[재테크 풍향계]원화 강세에 주목받는 ETF는",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XUEFsdTZxMzBPYVV3Nl9uLVNEOEFETDZLN3ZPNHNJcGRjSGZKeTlCd3ppQ1FYSmR6X0IzUDM2OGtqcmg0cDZrMnoxZnByQjNsajFRS3VqcHZEcHF4UFpDaGhB?oc=5",
-   "source": "아시아경제",
-   "time": "09/10 07:31",
-   "dir": "down",
    "strength": 1
   },
   {
@@ -84,14 +92,6 @@
    "source": "서울경제",
    "time": "09/08 06:00",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "트럼프, 캐나다와 이번엔 환율 전쟁 \"美·캐나다 달러 불균형 용납 못한다\"",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHUDB0S2RDNWN5aTZIaF9xdjQxcWt2dHUyOWtqS21XUHNjSWFWR0d2aDVpaVJ3M3pRY2ZYb2d6c0lGUmgyb1huZ2RZXzhPZXR3N2c?oc=5",
-   "source": "매일경제",
-   "time": "09/07 18:01",
-   "dir": "up",
    "strength": 1
   }
  ]
