@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-10 08:56",
+ "updated": "2026-09-10 10:54",
  "summary": {
-  "up": 1,
-  "down": 9,
+  "up": 2,
+  "down": 8,
   "neutral": 0
  },
  "outlook": {
   "dir": "down",
   "lines": [
-   "하락요인 우세 (하락 9 vs 상승 1).",
+   "하락요인 우세 (하락 8 vs 상승 2).",
    "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
    "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
@@ -87,11 +87,11 @@
    "strength": 1
   },
   {
-   "title": "환율 추가하락 전망에 도미노 달러 매도…당국, 당분간 속도조절",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qdkJSVkh5VDU4TnYwcjZ6OXVSLXVBMDl6dnd2SC1ucEwzV05pdlBURzRhU3Q2RDB5dEd6VUhCQVlUYjhrNnNKdkR4NVlmQTNEM0HSAVNBVV95cUxNRXp4a2pnZndycDR2MDZSMjdxaWZMS2ZYQXZ5ZV91LVV3d3ZGYkJUVklHa2NvV2NKTHo1NzNrNC1zdTB2bERybnozTWFDNENwZF94OA?oc=5",
-   "source": "서울경제",
-   "time": "09/07 17:48",
-   "dir": "down",
+   "title": "트럼프, 캐나다와 이번엔 환율 전쟁 \"美·캐나다 달러 불균형 용납 못한다\"",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHUDB0S2RDNWN5aTZIaF9xdjQxcWt2dHUyOWtqS21XUHNjSWFWR0d2aDVpaVJ3M3pRY2ZYb2d6c0lGUmgyb1huZ2RZXzhPZXR3N2c?oc=5",
+   "source": "매일경제",
+   "time": "09/07 18:01",
+   "dir": "up",
    "strength": 1
   }
  ]
