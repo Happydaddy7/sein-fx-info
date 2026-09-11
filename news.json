@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11 10:53",
+ "updated": "2026-09-11 15:46",
  "summary": {
   "up": 3,
   "down": 5,
@@ -15,26 +15,26 @@
  },
  "items": [
   {
-   "title": "미국 인플레 우려에…원/달러 환율 1,350원 육박",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pUkVLUVRvMzNraFRySjRaOUZ3NDk5dHB3dUN1UHNfcDJmR3lMUTlLWEFKbndLNnluTkRxdXZpRTdFMUFsZnZTRmtTUlE0UzJqS2F5ZlpxS3VJaVnSAWBBVV95cUxQNG1EMkhNVjVjeEhQRFM5RVhHYUxETFdqd2JHbmN4cV9vTm1IdkZ5WEUwUXp2ZzB1ak5TQl9YdXQyMkN2WE9hTGxoQ3ExcTRlZHhaTkVSU2xPaXA0cWNPa24?oc=5",
-   "source": "연합뉴스",
-   "time": "09/11 09:44",
+   "title": "[속보]원·달러 환율, 6.7원 오른 1345.9원 마감",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00S1p2WTRIVHJuTHN2cXQ0eVFmS0J5WXV1OUhLV3VIUjVRS3NUU3FLNzdXRDBmakpYaDlYZFNlUWlSYUJrUGpUc3MtSHYyUHpXRXB2N3BCNDExR2JsVThEMNIBeEFVX3lxTE44bElobzlZVEY1Tk9GWGRITURZanhCZTBORG1RZDlScmozNzJZVFU5dzZLYXFDVXVKZy1qa3AxUVlfS1o2LUEzZVpzZjk2Vmlxa2Y1YlA4ZHl4Mk85TFJJYm1HZFkzSC12UUx4ODhxR3pTWE9jOFpnRQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/11 15:39",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "서학개미 투자열기 식고, 외국인은 돌아오고…환율 더 내릴까",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1Y1JfX0laNVZwc1pDSG9pR1VCeDVnREdtTEVpY041dHNYNlljUkdEZk54Mk13RnhGWHNHbjZkODFDMURxc3B6TUVVVWU2anhja1JfWg?oc=5",
-   "source": "매일경제",
-   "time": "09/11 09:37",
+   "title": "원·달러 환율 6.7원 오른 1345.9원",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OSE9jTHd5ekI5amp5eE5sMi1qbWtOS2wyQkxWMC1HSDM1NUZ1SXZ0RC1tWEc1dVN4aUlsem5fQ0dndXNZR1M0MUNtRDY1VDYxNlBxa2Vrc0Z2UQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "09/11 15:36",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "환율, 두 달 만에 220원 급락…원화 강세 이유 [1분 브리프]",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWktTaXpxVTV0MXRPVGdLVl82WWZQNGFBTHl5QUVaU2RCM0lfVE9DTHVDRW1TX2xpaFRVbkNzN3FLV2hpaGRpTFh0bFJpZWFOdVp0akttSlpLTjJZOGgtMA?oc=5",
-   "source": "아시아경제",
-   "time": "09/11 08:00",
+   "title": "유가 100달러에 막힌 원화 강세…환율 다시 1350원 눈앞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjdllSNDlhS0hfbGcyLVBTSVJ6bk1aYmVkc0xvZ1hxR1J2ellZWFRaQTZQLWFpWHN0bXA4MGg4OHMwZ2ZoZjFKdTdPVDBuWVpWTDdCYU1ZM0VTcjdDejNFTmUtQ24?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "09/11 14:22",
    "dir": "down",
    "strength": 1
   },
@@ -47,8 +47,16 @@
    "strength": 2
   },
   {
+   "title": "한은 \"대내외 여건 점검하며 기준금리 인상 속도 결정\"",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwQ1RRQk5md2h6eTdQcVhxWVdaalFWbjFyNV9zejlaR0lnSGwxd2tuY0xFajRxcVo0dTRKVlVBaWFlT2Jid2lWRFZrRUlOYTU1N2xsNEJkQVV3QU5UcHltYjNwQWw?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "09/10 17:34",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "한은 \"대내외 여건 따라 기준금리 인상 시기·속도 결정\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlSGtqMnd1Qm1pREktRks3WXRvakp6enRiZXZWMXNDcEtSdWtlc3NOVUlRV2RMcGphU0gwaHNvSGQxRVZwZHkzeXh6UHVyS2hYNDNjb2hZUTJRLWvSAWBBVV95cUxNdjNCc2k2ZVNySG8taW55aUJLZUhKZ0ltQldtYmxhbU02cmVuSGNfQkVTZDkyb3lfWTZCR0lRLUpDSkV0LU9DX1ZIdHRybW5BZUpxN1RPTnNSTDFHd1hTWm8?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12M0JzaTZlU3JIby1pbnlpQktlSEpnSW1CV21ibGFtTTZyZW5IY19CRVNkOTJveV9ZNkJHSVEtSkNKRXQtT0NfVkh0dHJtbkFlSnE3VE9Oc1JMMUd3WFNab9IBYEFVX3lxTE12M0JzaTZlU3JIby1pbnlpQktlSEpnSW1CV21ibGFtTTZyZW5IY19CRVNkOTJveV9ZNkJHSVEtSkNKRXQtT0NfVkh0dHJtbkFlSnE3VE9Oc1JMMUd3WFNabw?oc=5",
    "source": "연합뉴스",
    "time": "09/10 12:00",
    "dir": "up",
@@ -79,19 +87,11 @@
    "strength": 1
   },
   {
-   "title": "엔화 강세에도 유가 상승 등에 환율 5거래일 만에 상승",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VcEV6X3o4UFFGQ3BYYkc3SER4RnV0UldsNW8yUVpXcnB4NWNOVHN3bFJiUzRVU01TOGRqdjhKa1dzX3FOcVF6WkF5X2Z5MjZfSmRXRnJOemFzUVlzUk1HLU0xN1hCS00?oc=5",
-   "source": "연합뉴스TV",
-   "time": "09/08 17:23",
+   "title": "\"대안이 없다\"…달러 약세에도 S&P500 투자 유지해야 하는 이유",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LakU4cnk5dXJ5eXNsRXhaVFlKYTJlY3l6VEdVTThYa2x1ajliMV9RS3JBRmhqVjl5MERfTTVscDFlblI4TU13R0drM3ZLX1hGZC1pcS03T0tYOUwtUS1rTdIBeEFVX3lxTE5TTWI0Vm15T0xERjRvOFlHOGZUZXlNaFlNTGVxck05Y2tQM011d1haeTQ2cWVlOENWV1hZYkQxT0tFU3J3QUpjY1V2VVFZLVRRSjhCQWFHdllUMW5zSmJ2RTJLeloydXpHS3lrczBHRUJ2RXB5NVhWbA?oc=5",
+   "source": "뉴시스",
+   "time": "09/09 00:00",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "연준 금리 인상 가능성 속 UBS \"주식·금 장기적 투자 유효\" |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zS3ZFOVppS2tfOWphTEZSbmxjcElPSUpnaW4xV0tSbmVTZklyeFp6aEl6RUh5dTJ4TThjNXZXb3lKSngycTcxdDQyRWpwaWRfdTRhaEdabXQ0YmZ4LVVnUWpJV3UwT2xUZ2g5dHVxTDRsa2g3?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/08 12:52",
-   "dir": "up",
    "strength": 1
   }
  ]
