@@ -1,32 +1,40 @@
 {
- "updated": "2026-09-11 15:46",
+ "updated": "2026-09-11 21:24",
  "summary": {
-  "up": 3,
-  "down": 5,
+  "up": 4,
+  "down": 4,
   "neutral": 2
  },
  "outlook": {
-  "dir": "down",
+  "dir": "neutral",
   "lines": [
-   "하락요인 우세 (하락 5 vs 상승 3).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승·하락 요인 혼재 (상승 4 vs 하락 4).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "[속보]원·달러 환율, 6.7원 오른 1345.9원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00S1p2WTRIVHJuTHN2cXQ0eVFmS0J5WXV1OUhLV3VIUjVRS3NUU3FLNzdXRDBmakpYaDlYZFNlUWlSYUJrUGpUc3MtSHYyUHpXRXB2N3BCNDExR2JsVThEMNIBeEFVX3lxTE44bElobzlZVEY1Tk9GWGRITURZanhCZTBORG1RZDlScmozNzJZVFU5dzZLYXFDVXVKZy1qa3AxUVlfS1o2LUEzZVpzZjk2Vmlxa2Y1YlA4ZHl4Mk85TFJJYm1HZFkzSC12UUx4ODhxR3pTWE9jOFpnRQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/11 15:39",
+   "title": "전쟁 장기화에 불안한 시장…코스피 내리고, 금리·환율 상승(종합2보)",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBadEgyc1dXZWxuXzRZdWJPR3NSMnBYMVltc0s0LVhacFltTlhRVHljNUVrVEN1N0JvMmtVRnBzOHh3eDlfN3Y3NU96Y3J6bTF6UFE?oc=5",
+   "source": "매일경제 마켓",
+   "time": "09/11 17:23",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "유가·美 국채금리 급등에…원/달러 환율 다시 1340원대 반등 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQY1JyNklHNF9vTS1DX3dkTjIxd05nU3ZWTjR0MXY0SExrU3BTLUdRNk94SGVoMm1QQWZaMEd5TWJYUE9zb0pNRUlkT2NhX0NZRno5cDdCbWZYNzRnQ2R0YjZWVmlvS2Z6alJR0gFwQVVfeXFMUEMzQ2JzaWpfUktTN2E3YTJHLVhTOGlYeVBVazZWbE15LVZHbjF2SkxHMmRBenNxcklEaWNjZENJeEQ2dDdjSzV5bjJGdDhPUndJc19QakhJcjZ5RDlZWWRfX05JZ09WanhIemoybDZRZw?oc=5",
+   "source": "머니투데이",
+   "time": "09/11 16:40",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "원·달러 환율 6.7원 오른 1345.9원",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OSE9jTHd5ekI5amp5eE5sMi1qbWtOS2wyQkxWMC1HSDM1NUZ1SXZ0RC1tWEc1dVN4aUlsem5fQ0dndXNZR1M0MUNtRDY1VDYxNlBxa2Vrc0Z2UQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "09/11 15:36",
+   "title": "고유가·미 금리인상 우려에…환율, 6.7원 오른 1,345.9원",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45VGxIYnVhd1gtOHRoNDdtNk9oRnBTZ0pFVlI4bG1oalNEUzVQQjM4SDBvTDh2YlBTWDl0ay14cDh3RFRncmNVbk12d2J6V2RmTHc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "09/11 16:32",
    "dir": "neutral",
    "strength": 0
   },
@@ -35,6 +43,22 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjdllSNDlhS0hfbGcyLVBTSVJ6bk1aYmVkc0xvZ1hxR1J2ellZWFRaQTZQLWFpWHN0bXA4MGg4OHMwZ2ZoZjFKdTdPVDBuWVpWTDdCYU1ZM0VTcjdDejNFTmUtQ24?oc=5",
    "source": "MTN 머니투데이방송",
    "time": "09/11 14:22",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "美 8월 CPI에 쏠린 눈…연준 3년 만의 금리 인상 가른다",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45OTdEcXNGQUp3c1p0eE5FM09tUlZfQmlaQ1dtZWxoczhtSjhtbE1yczZVR3AxMzZkRFFlYUlSN2xKQ2o0cTloRG1tY24tamxjWTYwcVRmMmxmX0pVc2UtOdIBeEFVX3lxTE5EOXI5dzZYMWdBUjdTcGRVbFZZOVVYVzBHUlcwX1l1cWtkUTR3bUxsTXdVTXBsT1hwS0hlSTBqUWJqVWR6cnVYbHJOSkptQm4xTXg0NXRZZDBsT19PMzlfeFhkOEY5RFF4cmlGZGE1RTlYc1V0NDM1eg?oc=5",
+   "source": "뉴시스",
+   "time": "09/11 11:38",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율, 두 달 만에 220원 급락…원화 강세 이유 [1분 브리프]",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWktTaXpxVTV0MXRPVGdLVl82WWZQNGFBTHl5QUVaU2RCM0lfVE9DTHVDRW1TX2xpaFRVbkNzN3FLV2hpaGRpTFh0bFJpZWFOdVp0akttSlpLTjJZOGgtMA?oc=5",
+   "source": "아시아경제",
+   "time": "09/11 08:00",
    "dir": "down",
    "strength": 1
   },
@@ -55,34 +79,10 @@
    "strength": 1
   },
   {
-   "title": "한은 \"대내외 여건 따라 기준금리 인상 시기·속도 결정\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12M0JzaTZlU3JIby1pbnlpQktlSEpnSW1CV21ibGFtTTZyZW5IY19CRVNkOTJveV9ZNkJHSVEtSkNKRXQtT0NfVkh0dHJtbkFlSnE3VE9Oc1JMMUd3WFNab9IBYEFVX3lxTE12M0JzaTZlU3JIby1pbnlpQktlSEpnSW1CV21ibGFtTTZyZW5IY19CRVNkOTJveV9ZNkJHSVEtSkNKRXQtT0NfVkh0dHJtbkFlSnE3VE9Oc1JMMUd3WFNabw?oc=5",
-   "source": "연합뉴스",
-   "time": "09/10 12:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "[재테크 풍향계]원화 강세에 주목받는 ETF는",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XUEFsdTZxMzBPYVV3Nl9uLVNEOEFETDZLN3ZPNHNJcGRjSGZKeTlCd3ppQ1FYSmR6X0IzUDM2OGtqcmg0cDZrMnoxZnByQjNsajFRS3VqcHZEcHF4UFpDaGhB?oc=5",
    "source": "아시아경제",
    "time": "09/10 07:31",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "환율, 유가 상승에도 기업 달러 매도에 9.5원 내린 1,336.1원",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SaWZqaGJFQnBjN0FfOFN3SHlWZGxEVFFfVXhKNEZsOVNkMzV5aURmUG9UTjdtWDMzeDRhbTZuSUFIcTJ4Vi01bFhnU3U1WFI5MXB5YVVPek9OU09ldUdXVdIBYEFVX3lxTE1SaWZqaGJFQnBjN0FfOFN3SHlWZGxEVFFfVXhKNEZsOVNkMzV5aURmUG9UTjdtWDMzeDRhbTZuSUFIcTJ4Vi01bFhnU3U1WFI5MXB5YVVPek9OU09ldUdXVQ?oc=5",
-   "source": "연합뉴스",
-   "time": "09/09 16:25",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "엔화강세·수출업체 달러 매도에 환율 1330원대…23개월 만에 최저 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41dnFyM1Jwd1Z3N2FDS2dUMWVHbmZTbm9RWUdnNUNWeFVyd2Vfc2c1dmc4dm9GTENKby1QYkNBeTM2MGxmQk8tbFo4N3JibFd3X3E1dTBTTVp5VE1TUWwtMHRLbS1RbE1YQUtZ0gFwQVVfeXFMTjl3enpGN3lPNG9tTUhDVnJrMmQ5QmVEWWRJWjUybnhPa0lsRUoyMXYzckxCb2FVZHJSeV8xZjZTWHJJY25MeWE3aWFaYmtfc00tWVRSdkJtTHZWbDNJRGxyZWppNUNqWmRRTUxfaU5GeA?oc=5",
-   "source": "머니투데이",
-   "time": "09/09 16:23",
    "dir": "down",
    "strength": 1
   },
