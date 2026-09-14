@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14 11:09",
+ "updated": "2026-09-14 18:20",
  "summary": {
   "up": 6,
   "down": 4,
@@ -14,6 +14,54 @@
   ]
  },
  "items": [
+  {
+   "title": "해외매출 커진 K푸드…원·달러 환율 하락에 음식株 '희비'",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFVmRKa0lhRmU0Qkt3cXBRMTRDaXJjRDdhVHR1YWd2VEM3bndPSHkzVk5tY1B1VDYwUXlScG5zTE4zdWM0TnE0UmR4ZXRGWmpUQVkxLWswN3NDQQ?oc=5",
+   "source": "한국경제",
+   "time": "09/14 16:56",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "유가 100달러·매파 연준 경계…원·달러 환율 1340원대 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XM2oyRWZIaXlvbkZfeGYzd01QRmt1QzhEVHBCU0M3ZGVvZFpMTTJsME15R1hpQ3NPRGhWNTFpcG5kSXNmSWs3N3JGd18tc1NkbnfSAVNBVV95cUxQdVpBT3JnbGhkbEI1d05pZ1JBTTViWk9CZk9LQnBNalVSVlJIVnFLY05hVkYwUG93VVVBUjhOM3RjVEdXM19vMUF6OF9pbHdVc05Ycw?oc=5",
+   "source": "서울경제",
+   "time": "09/14 16:30",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "200원 내린 환율, 美 긴축에 방향 틀까…한은도 추가 인상 압력 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HMmZ4ckQyZFA4MXVtRFJCbW05NC1jY2xlVzg1c2RoUWlscldHeXRoTnhfbGh0aUw1OEVaYTNGQkhkeVh1elhZY212VHZWTjdaZ1pBVjQ2WGJ2a3M0aGFDWEF6Y1IyN2VIOTJqXzh2TXlXNU15RUx2R9IBfkFVX3lxTE9yUTRYemJkYk5lbWhHTzhraEduUFlOOENKcGV3dmk1aHJFRlRzUGZVQldwWEVmdWRUUzg1ZjZJY1hhNmlFRWtQMGJNTU1qSXViUHg2NlZUeFZsNVJoekcwSTBhT2xsT2FNaDdIV21fLXE0MU5rd0Y5cDdWWl9qZw?oc=5",
+   "source": "머니투데이",
+   "time": "09/14 16:23",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "MUFG \"연준 금리 인상 전망 연내 2회로 수정\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UNUFldUg1ODhkbWRMR3czdXRZbGM0UzQxdWZtcU9icjN4WTJMMDZlUFNFSXlNOVl3dDR4QUczY1hiN3RLd2lWbVYteWhINEw3d2pwSi1IS3RtTXZTdkF0RDRnOEU5eTFkVm9yblAwSUY?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/14 13:38",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "QE \"연준 금리 동결 유력…비둘기파 배제 말아야\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tOGtUVHdYY2h3dFRhSWFWaXR2WUlWZ19YZ1ZneHlXcHRvZkR5Z3dOc2JseU4wS0tDUVB5aHp2ZktZWU55Y1hzTzBSRkVERWN3ZW8zaHlucktrc3Z4TGQtNmNJYXVzWlpGTmZMbEdNWVU?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/14 12:22",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "ING \"연준 전망 수정…9월 금리 인상하지만 연속은 아냐\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00QmJuallVZk1wVm5MU2c5N0twX2dvdnBoMDA5WFpjN193VFphRk5lZlBfa3RQV1E5MXRGcDRxX2JreXBVQmJCUzhtdDUxYUxDVmJWZlpnM1phbkxWX0VlRkNKZXd0OG5DQWpiQmN2aXc?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/14 12:22",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "[중립금리①] 한은 재추정 중…3% 기준금리, 긴축적인가",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSXhDU2ZHb2FxaXNNejVhb2FuNUFvUHdBbHJQejIzVFVSZExzTXQ1VTJvUHdTMEZ3Y01uUnV3anViaE05UE9panhwUFUyNHRLWEZNalU2N3JZbEhDbW9NX0FzUGotN2NwcjVkQVVvcHM?oc=5",
@@ -43,54 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uaDhPSkFtZ25fZHBsS2pUenFjOTVxbzJMRDRueEljMWc3TDRYRldnTXZHS1ctT0Qydnc3LWF6N0poNW9maXE0TjNTZXUtalVaOUpQSGI2MG1BWnl0dS03SlFCR2E?oc=5",
    "source": "서울경제TV",
    "time": "09/14 08:48",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[마켓 브리핑] 8월 CPI 예상치 상회…연준 금리 인상 가능성 무게",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FbjIxOGJPaGE5S05GMTZLNkNITTRIZ1VUSzNBay1iM2lWRmVYUnN6dW9idWkxNVJNbnVCTWQ4V0xTemdmcXlaMEpuU0NmYUkyOWZETTdfMUTSAVhBVV95cUxNRW4yMThiT2hhOUtORjE2SzZDSE00SGdVVEszQWstYjNpVkZlWFJzenVvYnVpMTVSTW51Qk1kOFdMU3pnZnF5WjBKblNDZmFJMjlmRE03XzFE?oc=5",
-   "source": "SBS Biz",
-   "time": "09/14 06:46",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "금리 인상 확률 87%인데…트럼프 \"낮춰야\" 연준 거듭 압박 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CODVmWW04TlB5TGhObTdiZ0tjdFNISU1oVzBkNmk5ZERJUWpyM3I5czR6akZmOXVlNGdxRnZuZ2ctNE9GR1RuakgydlgyMVZyRzBHaDlhZ0VBR282NWFzSU1RdXRocHZZ0gFuQVVfeXFMTVFXUURXdVNnYllqQXNXX1hNTWoza25TUzFKNEhHelcxS0l4ZnRoYmx1QUNhb2JTZlVmVDI2RmR5M0lTZU1IejRraWJ2NGJQaXFUU2VfU21oU0l5eGc2SlJRcG13UkZQaGdFWDg3VGc?oc=5",
-   "source": "머니투데이",
-   "time": "09/14 01:51",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "고유가·고물가 압박 지속…미국 연준, 9월 기준금리 인상 나서나",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RkcyNXVfcXJwd3dUNDlsVnhvalBzV3pJVHQ5Qi1CZnlBNnlib1ROaHoyZFlDMEg4WmtUYzdaQVZFU0MySFZmTm0wcXVtZl9UWEFGamJHenBnTXhoamx3SDhxTlhSUmFNa0dLN240R0l1dw?oc=5",
-   "source": "한겨레",
-   "time": "09/13 19:16",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "국내복귀계좌 'RIA' 연장 안한다... 환율 하락에 예정대로 연말 종료",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EbE1tWVM4RkpWcVlHcjFyUnFDZnBFanhOMm9Qd3c0N3h2Ml9VMnVOazc5NU5wb19hTGx4LTBBV2xSUXhERlE2cHZvTC03a2ZwblVsYjk4eXREUQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "09/13 18:12",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美연준, 고물가에 3년 만의 금리 인상 전망…시장 확률 87%",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yUjVsZ2t6Mk90NHpjOHNhX0QzV1RfcW9qUXVIY29Nd3NQQnhLY0NZRlNTdzJDc0tRb2duaHVqZTIzRFFfYWhBLUtieFJ1WTU5WS1pdG5nRVLSAV5BVV95cUxPTjhQYTJPZ2Nzd2RTQW1LYkw4OWVXUDVOa2d5WEk1dHVKaWpkd0NIdHdrQWItSnRJcjVkQkFPcXlLaGtqQXhPNDlKbG9MN2FfXzkyOG1DWHowcmIzSGRn?oc=5",
-   "source": "뉴스1",
-   "time": "09/13 13:45",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "서학개미의 변심?…환율 하락에도 이달 美증시 순매도 전환",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93RUhPay1SV3ZiUzhYM2o2UXJyU09zTXdZUHFLMTdSQk5nSHR2YWpEbFM2MGZKVVlUcWo1VnJYOTRrNlpFaDdBbDFFZVAzU0NYYVRwck85RHp4QlHSAWBBVV95cUxOalJkcGZjNDgzUkVZNmJub2x4OHNaUlUyMXFRRUIyY2MzTTAzM1VNdzlWWUFTUnVUNnNoTTduWU1SVjI4NnpOS1RET0pzcnlZRWtKYTJGMHp4YkFfRUZ6QVA?oc=5",
-   "source": "연합뉴스",
-   "time": "09/13 06:10",
    "dir": "down",
    "strength": 1
   }
