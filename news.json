@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15 18:01",
+ "updated": "2026-09-15 23:31",
  "summary": {
   "up": 9,
   "down": 1,
@@ -15,26 +15,42 @@
  },
  "items": [
   {
-   "title": "금통위원 다수, 기준금리 인상하며 \"물가 대응 바람직\"",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80ZHFBLW0zQkpKdHI5TDVBbVZWelU5S1FrODRRSkZCNHhvUm5HaE1BWUo5eG9jUy0tQ25ZaE0xRXFCOXpPejctTHlYSS1SY3NKbzluT3hVMEp3M19TTUxCeDNrWURTaGc?oc=5",
-   "source": "연합뉴스TV",
-   "time": "09/15 17:53",
+   "title": "美연준, 15일 3년만에 처음 금리 인상 가능성 90%",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1maWxTa0FmTnBGUVI1bXUtY1ZKUWRGbmJ1OTRYdFdZQS0wQVROOVhEQjJfdkZLVG1ROEdXRjVGdFBGTUxsbFg3emNNS3BOOXFlbWFUMXBFOFNfRnRycUZVR9IBeEFVX3lxTE55Y0RlQlhYMTNoQTlqSXNrSGJyM29tSENiaTlPQkRlb3p0OWE0eWMwdm1Bc0RPNFBvRUNJRTVrSzJHY1Q4c2EwUnhlM0lSNEo4Ymt2cExlSExNWjhJN3dsWlc1Y2VmeFhrMVZoMnJFd2k4M3c5SG9pYQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/15 20:36",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "美금리 우려·고유가에 원화 약세…원·달러 환율, 장중 1360원대(상보)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xTDR3OGVXcHd3OVhmeXZvWDhQeXprRWN0eTdrNnVhTTZIWTNqejJLbERid01ta0ZBdnZLdmRUX0cwNTN0cjBxdHkwREtZVVRTd2RzX1FKb3lhbWxXRy1JMQ?oc=5",
-   "source": "아시아경제",
-   "time": "09/15 17:09",
+   "title": "환율 하락에 8월 수출입물가 모두 내림세",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ydXh5U3BtWXNsclJIMXVpUXRlZU5wakZRc1A5RlNYSnlfTm9LZ3daRk1udkhOZnNHTmxaMVc4c1pVU3prdkdOYUl1czlhUzRhTUF6WTBSN2tWTzdlVGpvRVF6WmhqX1VqTUFYaFliYWFndw?oc=5",
+   "source": "한겨레",
+   "time": "09/15 19:34",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "美 금리·유가에 원화 약세…원·달러 환율 12원 넘게 상승 마감 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tTzFPUTBNUWJlUVNWMHBwYXBNUDVtVnpKUXhaR0dKRDlRZVRhUFp0UTJ6VDR3MmFOWGx3Q2Z2bnMxVDd2Wkt4cVpULU55dVYtQkHSAVNBVV95cUxQd3BNdDBpa2dJbXlBLU1YVUMzNUFQWFdKSF9WVUVsV0F5S0xTbnU0Znp5dXp2YmU3dHhNWXNDTHo1T2llY1ZBcHhiLUlMaW8wUlptMA?oc=5",
+   "source": "서울경제",
+   "time": "09/15 16:14",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "코스피, 美 국채금리·환율 급등에 0.8% 하락 마감",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXcHVHR2NBMkJfTUdSM3poNDBVYW1zellUSm9XdnZaY1BkVUl4TTBLaW1oYVpMN01UYS1JR1lvYUVaQXlZWnAxVXlpMk9qOGRuazhKV3FyQ242MUxQc1JTb1hmdXU?oc=5",
-   "source": "서울경제TV",
-   "time": "09/15 16:13",
+   "title": "원달러 환율 상승",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CV2ZqUF9JTU00M255ZVpUXzB5ZnhFUEJLZG9SZk1Xd3pIeVhHNWVrTWxQTXFBei0wb0pPOGNGZEpOUGI3aEFfbHlXVQ?oc=5",
+   "source": "뉴스1",
+   "time": "09/15 15:59",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "코스피 하락, 원달러 환율 상승",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04b1Q0dGR3RXJMQ2ZyempPVGcwX3o4dUJETEFnZmhFSm51XzdrcDhNUjJuOWl0eWpjb3kyU3ZXUW1yeVJjal9UbFNnQQ?oc=5",
+   "source": "뉴스1",
+   "time": "09/15 15:56",
    "dir": "up",
    "strength": 1
   },
@@ -44,14 +60,6 @@
    "source": "연합인포맥스",
    "time": "09/15 12:52",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"원자재 1500원대에 샀는데 팔 땐 1300원\" 환율 급락의 그림자…수출 대기업 3분기 '비상'",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96LVktSTNUbUxnbEI0RUJTOHdYOXZselZCeThJQnNRU2dhVHRaMXlfZ0VBRUZOVmNDN21ZdEtZVEZUZFVpVEdFYU5la0xQb18zZEw1SFN5OUx3amVwcWs2Ng?oc=5",
-   "source": "아시아경제",
-   "time": "09/15 11:00",
-   "dir": "down",
    "strength": 1
   },
   {
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rUFNmREhtNWhjRW05cmx1RVZ0ODkxbHA3VExvajhNRFc2a0d5S2tFQ3BfcWtlUDI0d2R3SnlDNUFMWXpteHdnaFNQYXdpYm10eXFMelBaUi1FR1llSGpiLUZGb0Y3ZXhIYnEtbmZLZm8?oc=5",
    "source": "연합인포맥스",
    "time": "09/15 09:48",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"연준 금리 인상, 물가 대응 의지 보여줘 증시에 긍정적\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41bzRPNHdGU2EzSnJ3WGhBcUdLNExKVDFPb2dKaUJzNkJVMGs4eW1IZmMwMFJIN2x3U1VpbW1iM0wxYlE1UTZ3WkVWZ0hMNTdPVjc3RDR5RGhtWFQ0d1hOTUtLWGtETTBvSnh3Q1NSNmI?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/15 08:58",
    "dir": "up",
    "strength": 1
   }
