@@ -1,32 +1,48 @@
 {
- "updated": "2026-09-15 09:24",
+ "updated": "2026-09-15 11:16",
  "summary": {
-  "up": 4,
-  "down": 6,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
-  "dir": "down",
+  "dir": "up",
   "lines": [
-   "하락요인 우세 (하락 6 vs 상승 4).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승요인 우세 (상승 7 vs 하락 3).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "[美 금리 5% 돌파] 야데니 \"연준 이달 금리 인상하면 장기금리 상승세 둔화할 듯\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LN3FEX2hKZFp1c09NWU05NHJ2OTRhVk5aRFBMVHoxN2FzSi05MHVYbzVVOU96OVVJVnVESHJscy1TNzYyZnhzbFFFcDA1U2ktcTIzc3BhX01YMFNaQThxaFVjY0dYc1l1aHNYTThDYzk?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/15 10:58",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준 3년 만의 금리인상 임박…워시 취임 후 첫 '긴축' 시험대",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kSmZTOEFYaG1GWXBLWV9RTDN6SmxLYXRaZVF5eDZtMU9hbTBmYnBjMGNVd2dyR2xjX1pTeERxbG13MEdzdGVjeWV3N0piQWsySmt3WGRsVEtzSV9DbEI4TzY5Ry1RY03SAWxBVV95cUxQTDdpLXVoS1dlM2NnZFY5RHlTTDlGNng5VkFUNlN5Z283TjExQ29xQWVMaFFHUllmQ2pjMTZ2Rld1YUd0MHo1VHQ4ZWdCOE9fbWpKSzJQQlhjWVBUbldhblAxVmYzOHFYNXE2OGU?oc=5",
+   "source": "뉴스1",
+   "time": "09/15 10:10",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "S&P500 선물, 연준 금리 인상 경계 속 상승…美 국채금리 혼조",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rUFNmREhtNWhjRW05cmx1RVZ0ODkxbHA3VExvajhNRFc2a0d5S2tFQ3BfcWtlUDI0d2R3SnlDNUFMWXpteHdnaFNQYXdpYm10eXFMelBaUi1FR1llSGpiLUZGb0Y3ZXhIYnEtbmZLZm8?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/15 09:48",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "원화 강세에 업종별 희비…은행·항공 '방긋' 자동차·식품 '울상' [종목+]",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxSExmSFdYSkplajBfdlU1dGduZHhrOWRzVHhSbGxFbWp4X2VhWnZ3ZEEyMzhiZWhaZGtNUGM3bXNnMzNHZHpXdk9pUGE5UVcwR1hheU55a1dsUQ?oc=5",
    "source": "한국경제",
    "time": "09/15 09:17",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "\"백화점보다 비싼데 왜 가요\" 했는데…환율 하락에 면세점 '반전'",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BOHNfQ3JNZzVVVkFxSFljMW5Qb1hrUkFHc25tSHgwZ1ROOC02WjZOc0ZQdC0wU2xlMjhkYzFCbGxCX2ZiOS1VV1ZPUU1wU2kyaGc2NlBhdHFWUQ?oc=5",
-   "source": "한국경제",
-   "time": "09/15 09:15",
    "dir": "down",
    "strength": 1
   },
@@ -63,10 +79,10 @@
    "strength": 1
   },
   {
-   "title": "환율 하락에 8월 수출물가 3.7%↓…3년8개월만 ‘최저’",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XZ1V4UjlhV0o2QkdLLTlzSlVEME9FRTI0T21xWnY5WFRid2M4SzJETWV2ZUVaSGNtVm1YR1p1UmljMjNfV2szR01TbWVtUkFac0xGU2hB?oc=5",
-   "source": "헤럴드경제",
-   "time": "09/15 06:38",
+   "title": "환율 하락에 8월 수출입물가 모두 내림세",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ydXh5U3BtWXNsclJIMXVpUXRlZU5wakZRc1A5RlNYSnlfTm9LZ3daRk1udkhOZnNHTmxaMVc4c1pVU3prdkdOYUl1czlhUzRhTUF6WTBSN2tWTzdlVGpvRVF6WmhqX1VqTUFYaFliYWFndw?oc=5",
+   "source": "한겨레",
+   "time": "09/15 07:31",
    "dir": "down",
    "strength": 1
   },
@@ -76,22 +92,6 @@
    "source": "YTN",
    "time": "09/15 06:33",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 하락에 8월 수출입물가 3.7%↓…3년8개월 만에 최저",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NaWdDakZpS01ZM2p0bDI2cGRiTUM0dFVsVjJzenZtV01BOEF1Nlh2S0lfTENKT09fT0xBSmdLSDV6MG43a1phY20tYjNtdEVRUENGQU5ieE1SUnM1R2JVUzRiZGo?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "09/15 06:23",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율 하락에…수출입물가 나란히 ↓",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CZXJvM1RqRktaak03WWdrQnMxUGQzXzBGVXd3d1ppNk44dk9jdmw5LWczMkg4WTExNFBxY3BIWnlpQklZZUVwa2hNUXV5UkFnNnRPUnlYcGtma2hmUC1IX0t0VGtRMk0?oc=5",
-   "source": "연합뉴스TV",
-   "time": "09/15 06:14",
-   "dir": "down",
    "strength": 1
   }
  ]
