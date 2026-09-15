@@ -1,96 +1,96 @@
 {
- "updated": "2026-09-15 01:02",
+ "updated": "2026-09-15 09:24",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 4,
+  "down": 6,
   "neutral": 0
  },
  "outlook": {
-  "dir": "up",
+  "dir": "down",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "하락요인 우세 (하락 6 vs 상승 4).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "해외매출 커진 K푸드…원·달러 환율 하락에 음식株 '희비'",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFVmRKa0lhRmU0Qkt3cXBRMTRDaXJjRDdhVHR1YWd2VEM3bndPSHkzVk5tY1B1VDYwUXlScG5zTE4zdWM0TnE0UmR4ZXRGWmpUQVkxLWswN3NDQQ?oc=5",
+   "title": "원화 강세에 업종별 희비…은행·항공 '방긋' 자동차·식품 '울상' [종목+]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxSExmSFdYSkplajBfdlU1dGduZHhrOWRzVHhSbGxFbWp4X2VhWnZ3ZEEyMzhiZWhaZGtNUGM3bXNnMzNHZHpXdk9pUGE5UVcwR1hheU55a1dsUQ?oc=5",
    "source": "한국경제",
-   "time": "09/14 16:56",
+   "time": "09/15 09:17",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "유가 100달러·매파 연준 경계…원·달러 환율 1340원대 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XM2oyRWZIaXlvbkZfeGYzd01QRmt1QzhEVHBCU0M3ZGVvZFpMTTJsME15R1hpQ3NPRGhWNTFpcG5kSXNmSWs3N3JGd18tc1NkbnfSAVNBVV95cUxQdVpBT3JnbGhkbEI1d05pZ1JBTTViWk9CZk9LQnBNalVSVlJIVnFLY05hVkYwUG93VVVBUjhOM3RjVEdXM19vMUF6OF9pbHdVc05Ycw?oc=5",
-   "source": "서울경제",
-   "time": "09/14 16:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "200원 내린 환율, 美 긴축에 방향 틀까…한은도 추가 인상 압력 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HMmZ4ckQyZFA4MXVtRFJCbW05NC1jY2xlVzg1c2RoUWlscldHeXRoTnhfbGh0aUw1OEVaYTNGQkhkeVh1elhZY212VHZWTjdaZ1pBVjQ2WGJ2a3M0aGFDWEF6Y1IyN2VIOTJqXzh2TXlXNU15RUx2R9IBfkFVX3lxTE9yUTRYemJkYk5lbWhHTzhraEduUFlOOENKcGV3dmk1aHJFRlRzUGZVQldwWEVmdWRUUzg1ZjZJY1hhNmlFRWtQMGJNTU1qSXViUHg2NlZUeFZsNVJoekcwSTBhT2xsT2FNaDdIV21fLXE0MU5rd0Y5cDdWWl9qZw?oc=5",
-   "source": "머니투데이",
-   "time": "09/14 16:23",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "MUFG \"연준 금리 인상 전망 연내 2회로 수정\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UNUFldUg1ODhkbWRMR3czdXRZbGM0UzQxdWZtcU9icjN4WTJMMDZlUFNFSXlNOVl3dDR4QUczY1hiN3RLd2lWbVYteWhINEw3d2pwSi1IS3RtTXZTdkF0RDRnOEU5eTFkVm9yblAwSUY?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/14 13:38",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "QE \"연준 금리 동결 유력…비둘기파 배제 말아야\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tOGtUVHdYY2h3dFRhSWFWaXR2WUlWZ19YZ1ZneHlXcHRvZkR5Z3dOc2JseU4wS0tDUVB5aHp2ZktZWU55Y1hzTzBSRkVERWN3ZW8zaHlucktrc3Z4TGQtNmNJYXVzWlpGTmZMbEdNWVU?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/14 12:22",
+   "title": "\"백화점보다 비싼데 왜 가요\" 했는데…환율 하락에 면세점 '반전'",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BOHNfQ3JNZzVVVkFxSFljMW5Qb1hrUkFHc25tSHgwZ1ROOC02WjZOc0ZQdC0wU2xlMjhkYzFCbGxCX2ZiOS1VV1ZPUU1wU2kyaGc2NlBhdHFWUQ?oc=5",
+   "source": "한국경제",
+   "time": "09/15 09:15",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "ING \"연준 전망 수정…9월 금리 인상하지만 연속은 아냐\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00QmJuallVZk1wVm5MU2c5N0twX2dvdnBoMDA5WFpjN193VFphRk5lZlBfa3RQV1E5MXRGcDRxX2JreXBVQmJCUzhtdDUxYUxDVmJWZlpnM1phbkxWX0VlRkNKZXd0OG5DQWpiQmN2aXc?oc=5",
+   "title": "\"연준 금리 인상, 물가 대응 의지 보여줘 증시에 긍정적\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41bzRPNHdGU2EzSnJ3WGhBcUdLNExKVDFPb2dKaUJzNkJVMGs4eW1IZmMwMFJIN2x3U1VpbW1iM0wxYlE1UTZ3WkVWZ0hMNTdPVjc3RDR5RGhtWFQ0d1hOTUtLWGtETTBvSnh3Q1NSNmI?oc=5",
    "source": "연합인포맥스",
-   "time": "09/14 12:22",
+   "time": "09/15 08:58",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "[중립금리①] 한은 재추정 중…3% 기준금리, 긴축적인가",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvSXhDU2ZHb2FxaXNNejVhb2FuNUFvUHdBbHJQejIzVFVSZExzTXQ1VTJvUHdTMEZ3Y01uUnV3anViaE05UE9panhwUFUyNHRLWEZNalU2N3JZbEhDbW9NX0FzUGotN2NwcjVkQVVvcHM?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/14 10:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[주간 뉴욕증시]연준 금리 인상 여부 촉각…유가·국채금리도 변수",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5STnJsTmhfWDFsaEFFV21NSGNzeThzVTFMTXZlMmVRZkpyeHhOY1dteWhWaDBKVlM3RmFWV3R2M013UVNCY1YzWWVWZEFILXpBWnBKdE5nc2xmY1ZsMWhjRWx0QzhTVkRwYXlndW14MEZRemZZcmh5NNIBeEFVX3lxTE5STnJsTmhfWDFsaEFFV21NSGNzeThzVTFMTXZlMmVRZkpyeHhOY1dteWhWaDBKVlM3RmFWV3R2M013UVNCY1YzWWVWZEFILXpBWnBKdE5nc2xmY1ZsMWhjRWx0QzhTVkRwYXlndW14MEZRemZZcmh5NA?oc=5",
-   "source": "뉴시스",
-   "time": "09/14 09:27",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미 연준 인상 경계에도 엔화 강세…달러·원 1340원대 중반 등락",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80czdBMlhIbUJlSlhRUDdnWlRtRXhqX0tZNjVBTV9RdzNlTVIwbHZOWFVtM25xblVuWkt4ZlFyZHhnMFpiZ1Z4NXNwazUzdmIxZFdyQWZUY2UybVXSAWBBVV95cUxQWEJobnpiTWwxVEN2UThDLXMtSjNsQ2V0ckJzUld0WGdBTC1XQktiMnVYamRRNDBIUERVZGRpNUQ2WVJsSUZWU1ZPUE1LeVNKaHNRaXpkRk9yLU5ibmhoUTM?oc=5",
-   "source": "뉴스1",
-   "time": "09/14 09:25",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원달러 환율 하락에도…서학개미, 9월 美주식 순매도 전환",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uaDhPSkFtZ25fZHBsS2pUenFjOTVxbzJMRDRueEljMWc3TDRYRldnTXZHS1ctT0Qydnc3LWF6N0poNW9maXE0TjNTZXUtalVaOUpQSGI2MG1BWnl0dS03SlFCR2E?oc=5",
+   "title": "환율 하락에 8월 수출물가 3.7%↓…3년 8개월 만에 최대 하락",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Mcl80azJtWFRYemtidUlnT3cwUFdPdFBjWDlqeFc2U2czUzhTeTNWZjR4Zm85MllhREFyVTJmNjZrN01GOTVWY2NzLU9mS29KT0pKZ2tCZ0taT1FnbzVpWnRhOGk?oc=5",
    "source": "서울경제TV",
-   "time": "09/14 08:48",
+   "time": "09/15 08:43",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "미 연준 금리 인상 베팅 90%로 상승",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8waFF6ZHdHdF9oQWY3T3RmYkwwalRLQUZBN2tKOXhsNFlzYkZaVWs3QVk1RURmM01meS1Wd19xLUZfOG55OXpjV2k0U25PSVNTRkdxTktrbXAxbjZIdDVLdVpuaXJsWXc?oc=5",
+   "source": "연합뉴스TV",
+   "time": "09/15 08:40",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 연준 금리 인상 가능성 83~90%로 상승",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vY2VCd3pNdGwtb1BZNENFTkdnRWpjNDVsd2liclZXRkRORGx6ellrd0wyTjhPN09QeDBnT0x2YjhtdlhSaDU1RTNQb1NkYkhCaUhwMFdteko5QQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "09/15 07:45",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 하락에 8월 수출물가 3.7%↓…3년8개월만 ‘최저’",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XZ1V4UjlhV0o2QkdLLTlzSlVEME9FRTI0T21xWnY5WFRid2M4SzJETWV2ZUVaSGNtVm1YR1p1UmljMjNfV2szR01TbWVtUkFac0xGU2hB?oc=5",
+   "source": "헤럴드경제",
+   "time": "09/15 06:38",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "연준 금리 인상 베팅 92.4%로 상승...월가도 인상 전망 동참",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zdUVLQjFQbmFfOV94RDJlS3haTVNCbW0xRTQ2ZXcteUZFTlo3U1RLSWhoVFl6UklfTm9ZV1QtNk56cjAxLXFDLWFLLTRmbGlYeXlSVG1zbXFKZWxSZGc?oc=5",
+   "source": "YTN",
+   "time": "09/15 06:33",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 하락에 8월 수출입물가 3.7%↓…3년8개월 만에 최저",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NaWdDakZpS01ZM2p0bDI2cGRiTUM0dFVsVjJzenZtV01BOEF1Nlh2S0lfTENKT09fT0xBSmdLSDV6MG43a1phY20tYjNtdEVRUENGQU5ieE1SUnM1R2JVUzRiZGo?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "09/15 06:23",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 환율 하락에…수출입물가 나란히 ↓",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CZXJvM1RqRktaak03WWdrQnMxUGQzXzBGVXd3d1ppNk44dk9jdmw5LWczMkg4WTExNFBxY3BIWnlpQklZZUVwa2hNUXV5UkFnNnRPUnlYcGtma2hmUC1IX0t0VGtRMk0?oc=5",
+   "source": "연합뉴스TV",
+   "time": "09/15 06:14",
    "dir": "down",
    "strength": 1
   }
