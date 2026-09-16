@@ -1,19 +1,43 @@
 {
- "updated": "2026-09-16 09:03",
+ "updated": "2026-09-16 11:09",
  "summary": {
-  "up": 9,
-  "down": 1,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 9 vs 하락 1).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "연준 3년만 금리 인상 임박…원화, 면역력 보여줄까",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5b0VGcHdWVEE0VTlrRFoxME15NFJob3RoMjZQNnVLRTh5eTk0NFQ3NDNnZk5YWDhrY25sNHBIRGVZZjNmMzY5TDdyT08td3E5U3dDZjJZSVJzb2VLN2RQVGw4X2xqVE9KMTJEbGwyWVQ?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/16 10:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "FOMC 경계·유가 급등에 달러·원 1365원…위험회피 확산",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BdmFicl9PUHNqdEhqaXhuRnc1YjNIVWhuMmc1SnZEaVFLOHBsQTFVbFBXcU11ZnRnaldzZW92dlpCaE5LX3A4SjF0YjFOZUVIWEQyTDlTUWVWYU3SAWBBVV95cUxQT1BuTXVaQTdxSFFNQllkQ1BCRmtUU1RibUZ0a1Q5WER5TVBNS3RxakFUVDVwbzVHTm9wamJvYldleUF2UFgwd3lmQ2NNY2NzNlpVck0wRm5FYnpmVjByck8?oc=5",
+   "source": "뉴스1",
+   "time": "09/16 09:25",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[특징주] 원화 강세에 K-푸드 관련주 장초반 약세",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CNktaajFRZHVla3dMQ1pUQkhpXzh1QWpzU2QtalZvYUxaMC1nSDVTM1pBT2tnVW9wY054ZjRVdDhtMXBEUVdLWHlJM0dSSFBXREZ3UFVWdXBtb1HSAWBBVV95cUxNVXg3bFlDRDhJNUR0SHhJdl9iNXM4TVdPNGVMd2Y1cnZ4Y3hpdElUSmN3SktUTzN1WmtHSzhkYUpEa1ZJcWJqTDRDMjBPbTRRNWtNYXFMbHBCRFB1RG45dGw?oc=5",
+   "source": "연합뉴스",
+   "time": "09/16 09:22",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "미 연준 금리 인상 유력한 FOMC...전운 감도는 워시·트럼프",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VMnE0T2FxM3FpbllfWHliQWhmU1RoOHBESDVxMGJMeHRvVEdVd1hHcmp0eXFSZE1JTU5nX1dWRDBrUnoycGlyTEZpaG5KSGxSRGE4UlU1enBuTjN4S2gxT0FicW5MRzZrOXkzTlp3cw?oc=5",
@@ -23,18 +47,10 @@
    "strength": 1
   },
   {
-   "title": "금리 인상에 90% 베팅…2008년 이후 연준, 시장 기대 어긴 적 없었다｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaQlZhUHhNZ1BkLUphVTZVN0hrSVVyekl1YkR0X1pydjF1YlFvOWpvRGR0OTVmN3JEVzIyVUJhS3E5WDllVmNrZWYzZUcySWsxTEk0R3J3UVpGbk0?oc=5",
-   "source": "중앙일보",
-   "time": "09/16 01:41",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "백악관 \"내일 연준 금리 인상하더라도 존중…나라면 반대표\" |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZ3BsNV9mYzhraWFMSjFtVFNLWDQ3RFMwRjB4enY4LVVMUXg4ZVFjbW9GWi1faVVsWG9YRmdneGdsRW45bHVTeDR3TXRKSDRMd1FISk9scWZvd2V1VXlUSm9sLVRRcnB4MWIwa0l5U25qWkJx?oc=5",
+   "title": "백악관 \"내일 연준 금리 인상하더라도 존중…나라면 반대표\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DSWY0RE9QdlA5cjFpbTRWb0RIX2RqcGVuU3dNY3ZQUWEzQ3BLWjhIRHZPU2NrX2JqNVdSN0lhcUlCcW41Y2pGN0FfenJiSDl1eUp5X05uTGh5R3k3YXdnNWYxU2FNQnZDX3dnRUZKeHY?oc=5",
    "source": "연합인포맥스",
-   "time": "09/16 00:07",
+   "time": "09/16 00:02",
    "dir": "up",
    "strength": 1
   },
@@ -44,6 +60,14 @@
    "source": "뉴시스",
    "time": "09/15 20:36",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 하락에 8월 수출입물가 모두 내림세",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ydXh5U3BtWXNsclJIMXVpUXRlZU5wakZRc1A5RlNYSnlfTm9LZ3daRk1udkhOZnNHTmxaMVc4c1pVU3prdkdOYUl1czlhUzRhTUF6WTBSN2tWTzdlVGpvRVF6WmhqX1VqTUFYaFliYWFndw?oc=5",
+   "source": "한겨레",
+   "time": "09/15 19:34",
+   "dir": "down",
    "strength": 1
   },
   {
@@ -63,35 +87,11 @@
    "strength": 1
   },
   {
-   "title": "코스피, 美 국채금리·환율 급등에 0.8% 하락 마감",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXcHVHR2NBMkJfTUdSM3poNDBVYW1zellUSm9XdnZaY1BkVUl4TTBLaW1oYVpMN01UYS1JR1lvYUVaQXlZWnAxVXlpMk9qOGRuazhKV3FyQ242MUxQc1JTb1hmdXU?oc=5",
-   "source": "서울경제TV",
-   "time": "09/15 16:13",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "원달러 환율 상승",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CV2ZqUF9JTU00M255ZVpUXzB5ZnhFUEJLZG9SZk1Xd3pIeVhHNWVrTWxQTXFBei0wb0pPOGNGZEpOUGI3aEFfbHlXVQ?oc=5",
    "source": "뉴스1",
    "time": "09/15 15:59",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "코스피 하락, 원달러 환율 상승",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04b1Q0dGR3RXJMQ2ZyempPVGcwX3o4dUJETEFnZmhFSm51XzdrcDhNUjJuOWl0eWpjb3kyU3ZXUW1yeVJjal9UbFNnQQ?oc=5",
-   "source": "뉴스1",
-   "time": "09/15 15:56",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[단독] 환율 급락에…기업들 사업전략 다시 짠다",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JOTM1Y0I2emFGaVZiZUZmTG5MVml6ZkNKUmZ6YU5ZTm55V2tnVk9OajhWaVNkenZCYkxrSFZDLW15RHdTV1RzWUZrUXVJQXNTdlFsUGc1el9CUQ?oc=5",
-   "source": "한국경제",
-   "time": "09/15 15:43",
-   "dir": "down",
    "strength": 1
   }
  ]
