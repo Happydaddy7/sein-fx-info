@@ -1,24 +1,56 @@
 {
- "updated": "2026-09-16 11:09",
+ "updated": "2026-09-16 17:54",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 9,
+  "down": 1,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "연준 3년만 금리 인상 임박…원화, 면역력 보여줄까",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5b0VGcHdWVEE0VTlrRFoxME15NFJob3RoMjZQNnVLRTh5eTk0NFQ3NDNnZk5YWDhrY25sNHBIRGVZZjNmMzY5TDdyT08td3E5U3dDZjJZSVJzb2VLN2RQVGw4X2xqVE9KMTJEbGwyWVQ?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/16 10:01",
+   "title": "美연준, 17일 새벽 '금리 인상' 유력…월가 \"몇 번 더 올리나\" 주목",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1YjZKYnZFa0Zkdm9jbkpMX2ljSXcxajgzX3docWNab1FhTFJ6VzRHMVlQQldmNjBfenByb1d4Y1hfYTA4LWpodHRMa1dvN2xHNkI1aGhpQTVZaFVWT2lXWHpR?oc=5",
+   "source": "뉴시스",
+   "time": "09/16 17:21",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원-달러 환율 5거래일 연속 상승…달러 강세로 돌아서나",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJWENEZFFMdjdVMFMtOWNBNElFajlSam14YVc1QzVKUnFLV3lJYWNiQ0swcEYyWnVhaVUyM3llSzNEb2NMSHQ2ZnFJUFZzRk13aGhFSmFuSnY3TmtIUXlFbzhoTXZMazA?oc=5",
+   "source": "한겨레",
+   "time": "09/16 17:15",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美금리 인상 우려·유가 급등에 환율 장중 1370원 돌파 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVc2drRkRtVG1WbHZIaUd3M2JaUDNOdUhPXzZQM2w5MnMzRjBOd09PVUxVbzdvWm1SWFBEaEY3OVRHUkQtSVg4OWlWcDMxT1ZjNlQ0Q2tsWXlNU0QyZnlaaTBObXJQT29hZ0Jn0gFwQVVfeXFMUEJETzZaWXVQSHkzMmh1LWxaWUxpNGJQQkt6WWhyWlNscklmQlVIY0tQQ2dzc3dwMXQyWS03QVMxN1FlR1FKdTluTkpGWWd2dmdHcDc3NnNVRXhfMGtoN0NkUVVSMmZIZVVCTEk5UktjUw?oc=5",
+   "source": "머니투데이",
+   "time": "09/16 16:29",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 환율 상승",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zSTdpWEN4Q3Z3TmUtTGRjNEN0cjlpcEItM3J5UGgzdWVmeXNQdGg5cGNSNjRzYjF5SnNCdFlndFpMem56emcwWlFRQ0p1d2dQOVdTVnRUbEllRHlDbUtqQg?oc=5",
+   "source": "뉴시스",
+   "time": "09/16 15:51",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "코스피·코스닥·원·달러 환율 상승",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdnoxbGctUXhLM3VQVnQ4TjVmV20zcnZaMDhDZkZGUzA5Y2V5TWUta3NOVENDcGgwRGdibEs2RmlLSGdLY0Y4MDkwYW5oSjRiZ0JTYkYtQjVVN0lwMFRtNQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/16 15:51",
    "dir": "up",
    "strength": 1
   },
@@ -40,34 +72,10 @@
   },
   {
    "title": "미 연준 금리 인상 유력한 FOMC...전운 감도는 워시·트럼프",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VMnE0T2FxM3FpbllfWHliQWhmU1RoOHBESDVxMGJMeHRvVEdVd1hHcmp0eXFSZE1JTU5nX1dWRDBrUnoycGlyTEZpaG5KSGxSRGE4UlU1enBuTjN4S2gxT0FicW5MRzZrOXkzTlp3cw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83S0haY2NjazJGMHEzWmdia2owMDZ4OVUxbi1CTHdUZFBUNTZWdVpsY0QtMDE2TERON3lqNk9MZElkUFlqbi0yaVhjS0g5bHYxUE1zY2tQaTVndlQxNWc?oc=5",
    "source": "YTN",
    "time": "09/16 07:07",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "백악관 \"내일 연준 금리 인상하더라도 존중…나라면 반대표\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DSWY0RE9QdlA5cjFpbTRWb0RIX2RqcGVuU3dNY3ZQUWEzQ3BLWjhIRHZPU2NrX2JqNVdSN0lhcUlCcW41Y2pGN0FfenJiSDl1eUp5X05uTGh5R3k3YXdnNWYxU2FNQnZDX3dnRUZKeHY?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/16 00:02",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美연준, 15일 3년만에 처음 금리 인상 가능성 90%",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1maWxTa0FmTnBGUVI1bXUtY1ZKUWRGbmJ1OTRYdFdZQS0wQVROOVhEQjJfdkZLVG1ROEdXRjVGdFBGTUxsbFg3emNNS3BOOXFlbWFUMXBFOFNfRnRycUZVR9IBeEFVX3lxTE55Y0RlQlhYMTNoQTlqSXNrSGJyM29tSENiaTlPQkRlb3p0OWE0eWMwdm1Bc0RPNFBvRUNJRTVrSzJHY1Q4c2EwUnhlM0lSNEo4Ymt2cExlSExNWjhJN3dsWlc1Y2VmeFhrMVZoMnJFd2k4M3c5SG9pYQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/15 20:36",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 하락에 8월 수출입물가 모두 내림세",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ydXh5U3BtWXNsclJIMXVpUXRlZU5wakZRc1A5RlNYSnlfTm9LZ3daRk1udkhOZnNHTmxaMVc4c1pVU3prdkdOYUl1czlhUzRhTUF6WTBSN2tWTzdlVGpvRVF6WmhqX1VqTUFYaFliYWFndw?oc=5",
-   "source": "한겨레",
-   "time": "09/15 19:34",
-   "dir": "down",
    "strength": 1
   },
   {
@@ -80,17 +88,9 @@
   },
   {
    "title": "美 금리·유가에 원화 약세…원·달러 환율 12원 넘게 상승 마감 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tTzFPUTBNUWJlUVNWMHBwYXBNUDVtVnpKUXhaR0dKRDlRZVRhUFp0UTJ6VDR3MmFOWGx3Q2Z2bnMxVDd2Wkt4cVpULU55dVYtQkHSAVNBVV95cUxQd3BNdDBpa2dJbXlBLU1YVUMzNUFQWFdKSF9WVUVsV0F5S0xTbnU0Znp5dXp2YmU3dHhNWXNDTHo1T2llY1ZBcHhiLUlMaW8wUlptMA?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3cE10MGlrZ0lteUEtTVhVQzM1QVBYV0pIX1ZVRWxXQXlLTFNudTRmenl1enZiZTd0eE1Zc0NMejVPaWVjVkFweGItSUxpbzBSWm0w0gFTQVVfeXFMUHdwTXQwaWtnSW15QS1NWFVDMzVBUFhXSkhfVlVFbFdBeUtMU251NGZ6eXV6dmJlN3R4TVlzQ0x6NU9pZWNWQXB4Yi1JTGlvMFJabTA?oc=5",
    "source": "서울경제",
    "time": "09/15 16:14",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원달러 환율 상승",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CV2ZqUF9JTU00M255ZVpUXzB5ZnhFUEJLZG9SZk1Xd3pIeVhHNWVrTWxQTXFBei0wb0pPOGNGZEpOUGI3aEFfbHlXVQ?oc=5",
-   "source": "뉴스1",
-   "time": "09/15 15:59",
    "dir": "up",
    "strength": 1
   }
