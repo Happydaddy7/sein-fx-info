@@ -1,19 +1,59 @@
 {
- "updated": "2026-09-17 17:59",
+ "updated": "2026-09-17 23:30",
  "summary": {
-  "up": 9,
-  "down": 1,
+  "up": 10,
+  "down": 0,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 9 vs 하락 1).",
+   "상승요인 우세 (상승 10 vs 하락 0).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "미 금리 올리자 환율 급등...한은, 연내 인상 나설까?",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84NXpxTDZkbm5vMG9NM3Z3WHRpSTZYZ1NvcWdQNGdoVWNOYUpZQmxxNFNnVzhrMGVJeEU4WHpqXzloamhOLTNoUVJlZ3ZCbE9DUm5iWWttMGhjaUFCZ3c?oc=5",
+   "source": "YTN",
+   "time": "09/17 22:44",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "달러 강세에 환율 1380원대로 급등…‘금리 선반영’ 주식·채권은 잠잠",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16LVc1dUhETkNNcDBRc2FuRzdrVmpDcmVJTVFDRWtZa2Z6MWx4ZWNDeDlzWnlGbTlDQU9FLXJUQkE3cHJmQlUtc2VnSHRPUHU3YWQyNG1ZUnpjay0yeUQ1ZkNmQzJmMzA?oc=5",
+   "source": "한겨레",
+   "time": "09/17 20:49",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "트럼프 반대에도 금리 인상‥'인플레 전쟁' 선언한 미국 연준",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkZHRoR0NXUUFiN250YjB1ek1oOHNXV3BmTjZ1dmI1SW4yQVRpckVrSWtZNV9icDdDLUpjTURzQ1d6bllFXzFzb1BuRk5sZjRxMExhVzRYTGVYZzBWV1ZLUlR2UF9hOG5SNFp3ZzZWcVM1bjlOQnQ4aNIBeEFVX3lxTFBuV3VVbFcxQ0Z3VXRRaTVZUkwzcmJnd0pyeTJBcl9pUFNCR2NSTzZfZkFERFJZcTBEZUlTMDVjbkM4RlEya3AzZHZ5ZkpMLXhQWlNUT0VhNWxRc1pERzhQZzVCc3BNQ1F0cWZlckktalUzNnNSMXJxSA?oc=5",
+   "source": "MBC 뉴스",
+   "time": "09/17 19:46",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "미 연준, 3년2개월 만에 금리 인상…워시 “물가 너무 높아”",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTZGR2eEp4M0RIdFctWVl3U01IMkN1YnBLYTltSmwycElGV0d2WU9kUzFILW5mRUhqSkljQXpXd2ZONUNSZ0FDLVdhaTJhYk1jX1pwZDhpTHdyT3dRR3JibHZiRVRDVG1WVXJKZWRtaw?oc=5",
+   "source": "한겨레",
+   "time": "09/17 18:26",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "긴축으로 돌아선 美 연준…한은 금리 셈법 ’복잡’",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FbHRFdVR4ZWlDNnRSUHF5a3R4WHRhc0lCdk5sNVYtSXFDbmNFZE5EM1ZrYVdTcGt3aGdaQ2Zxb01UaWxtQ1JqUzZpX1RqRkhSMUl3Y282SWxIenNxVy1wWFN4SFRldVE?oc=5",
+   "source": "연합뉴스TV",
+   "time": "09/17 18:16",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "연준 금리 인상에도 코스피 6700선 방어 마감",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTaG1iT0RfNnFfTk9pamZpcEdJTUVUbk13MFlBUVBpUHJYRGdYZnpLc1JnYXJCNWFxbzcxT21Ea2FGYlFsOW9vZlpZbE9URTJQR25zY3FDLUNQZVVnZElMNA?oc=5",
@@ -28,46 +68,6 @@
    "source": "한국일보",
    "time": "09/17 17:12",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 금리 인상에 환율 13.6원 급등…1382원 넘겨(상보)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBacGsySDRVazRSZU1kSGJXS0FUMEpEdGpYcVladURadFBNTDg0WmQtV1c3Wmx1RjNiQmlQc3I3SlAxaFRRX1B1RmVoV0NXWEo2V05nSEl5YlNsSnZyekxJZw?oc=5",
-   "source": "아시아경제",
-   "time": "09/17 16:38",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 금리 인상에 환율 1380원대…\"추세적 반등은 아냐\" - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GUHg5NU1NdTgyZTJ2ZXVYRnZ5TDlNZTBFejFXQkZWRURuNS05dkVHSmY4eXRkbnVSU3Z3dTNjaHdjUnJWODdzbVBBcTBjZmNDOW12QTJ2anlrVUNPeEVKXzlXUXI3c0RCSXk40gFwQVVfeXFMTlRZanZraDVXdTdhVXZ2R2xKbFYwbi01d0tkWUlXUi1qT3dzTk1vaWplWVRvSVJQcmNOQUNBbzU1NFBXVnltYzB3ckdTYmdFTnJhdWVJSmNJRlF0LXlmSUY0Q2dmVTBiaEtBSDNsb1R0Rw?oc=5",
-   "source": "머니투데이",
-   "time": "09/17 16:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준, 3년 2개월 만에 0.25%p 금리 인상…추가 인상 시사 [뉴스모아]",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tcndFclBzMWQzM2RzblVPRXhTUktpUzRXVGhyRk1JbnZXOXdvbDVHQUhKT09UOG0ySy0tVW5KRUd1eVljaXc0N1Z1YUJ2enE1QzI4bTllNHZTQ3U5Wnc?oc=5",
-   "source": "YTN",
-   "time": "09/17 15:42",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "매파적 연준에 달러 강세…원·달러, 13.6원 오른 1382.2원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lRGpnbDc3Q1RfZGdDUEgxbG5RVEFDOFlLMElvZUdGZktlSmk4NldrQ3hwVmIwRTFINHpyZThzOHlUMUw4T1pLbWpta2R5dVdoUzVSVUJCcmRnOXdnQlFQeQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/17 15:40",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "\"주식 돌아오고 원화 강해졌다\"…외국인 '셀 코리아' 완화 조짐",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nSjJDdnJ1c3AzbmltMmxXcURXblh4Y2pGRE5uS2o2SUFpYl9raFEwTXhkazRqZFJkTGhrc2xGSG5ob2FHaFFXZWNtT2pkc2pGOUFic3J5Qjktdw?oc=5",
-   "source": "한국경제",
-   "time": "09/17 14:56",
-   "dir": "down",
    "strength": 1
   },
   {
