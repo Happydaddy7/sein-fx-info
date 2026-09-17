@@ -1,98 +1,98 @@
 {
- "updated": "2026-09-16 23:26",
+ "updated": "2026-09-17 09:13",
  "summary": {
-  "up": 9,
-  "down": 1,
+  "up": 10,
+  "down": 0,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 9 vs 하락 1).",
+   "상승요인 우세 (상승 10 vs 하락 0).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "원-달러 환율 ‘달러 강세’ 재전환?…1368.6원, 5거래일 연속 상승",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJWENEZFFMdjdVMFMtOWNBNElFajlSam14YVc1QzVKUnFLV3lJYWNiQ0swcEYyWnVhaVUyM3llSzNEb2NMSHQ2ZnFJUFZzRk13aGhFSmFuSnY3TmtIUXlFbzhoTXZMazA?oc=5",
-   "source": "한겨레",
-   "time": "09/16 18:45",
+   "title": "연준 금리인상·워시 의장 매파 발언에 뉴욕증시 일제히 하락",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54U256NmZFY0IxWmJ3d0NDbzQ0WmZOS1FaWk9BOUFWQ2w0eE9US1c1RmQ0LUlpRC1pcDFET3BYUk51YS05VFFnajhfdzlxanNFQ01IN1hJaGdEVHhjUTRXVGJpano?oc=5",
+   "source": "서울경제TV",
+   "time": "09/17 08:40",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "美연준, 17일 새벽 '금리 인상' 유력…월가 \"몇 번 더 올리나\" 주목",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1YjZKYnZFa0Zkdm9jbkpMX2ljSXcxajgzX3docWNab1FhTFJ6VzRHMVlQQldmNjBfenByb1d4Y1hfYTA4LWpodHRMa1dvN2xHNkI1aGhpQTVZaFVWT2lXWHpR?oc=5",
-   "source": "뉴시스",
-   "time": "09/16 17:21",
+   "title": "美 금리 인상 후 환율 상승에 증권가 \"추세 전환은 아냐\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRU5wVDVkUGpqQVdab3FtMU5YekNxMS1GdWVVS01kRmNBUXN6RzFVT0owZ0U5SUpKa0YwOFBlMG9kT2hVS1NQUExWeUdjVGo3RGxmT3BuWlA4Zw?oc=5",
+   "source": "한국경제",
+   "time": "09/17 08:29",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "트럼프, 연준 금리 인상에 즉각 반발···“1% 이하로 신속하게 낮춰라”",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVhZbTAyYlkwX0djeUxiMWg4WVNHbXI3UWRJVVNFOHNmXzFoaWhJa0hZN1VKYmlQRW1NVFpROGpDTnJhTEZjRE1tUGJWTFlGb2JFNGhLazVzZlNpNVZGUFFQcklEM1lMMkV3d0l2RmZxOV9ZZGE3TVhjX09PUXZ3UEFENmd1M01aX2ZqVGpVaGk1Q3B0UklZOVRNQ0NrUW1RQjQ0UkFkZEFMQdIBX0FVX3lxTE5Oc05vYTMyQVhPZ0NnOXp4MHZDVUFFbXRrTFBxcmlYeEtSYVBHS0dPNWNWOXZSclFfNlNQQVJBbm5ZOVU5dDNWRFU2LVBWZUktamhUS1RvZUVjY0RXRUln?oc=5",
+   "source": "경향신문",
+   "time": "09/17 08:29",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "美금리 인상 우려·유가 급등에 환율 장중 1370원 돌파 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVc2drRkRtVG1WbHZIaUd3M2JaUDNOdUhPXzZQM2w5MnMzRjBOd09PVUxVbzdvWm1SWFBEaEY3OVRHUkQtSVg4OWlWcDMxT1ZjNlQ0Q2tsWXlNU0QyZnlaaTBObXJQT29hZ0Jn0gFwQVVfeXFMUEJETzZaWXVQSHkzMmh1LWxaWUxpNGJQQkt6WWhyWlNscklmQlVIY0tQQ2dzc3dwMXQyWS03QVMxN1FlR1FKdTluTkpGWWd2dmdHcDc3NnNVRXhfMGtoN0NkUVVSMmZIZVVCTEk5UktjUw?oc=5",
-   "source": "머니투데이",
-   "time": "09/16 16:29",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미국 FOMC 앞둔 코스피와 원달러 환율 상승",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QMlFvM1ZVYVNzaHN1cnlQNlg2cTcteENaa2ZvUnNpa1BNSWE4Y3hoQy1UbklQaDg0Q191ZElSUzBkcUYycUhxamZjRQ?oc=5",
-   "source": "뉴스1",
-   "time": "09/16 15:57",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율 상승",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zSTdpWEN4Q3Z3TmUtTGRjNEN0cjlpcEItM3J5UGgzdWVmeXNQdGg5cGNSNjRzYjF5SnNCdFlndFpMem56emcwWlFRQ0p1d2dQOVdTVnRUbEllRHlDbUtqQg?oc=5",
-   "source": "뉴시스",
-   "time": "09/16 15:51",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "코스피·코스닥·원·달러 환율 상승",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdnoxbGctUXhLM3VQVnQ4TjVmV20zcnZaMDhDZkZGUzA5Y2V5TWUta3NOVENDcGgwRGdibEs2RmlLSGdLY0Y4MDkwYW5oSjRiZ0JTYkYtQjVVN0lwMFRtNQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/16 15:51",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준 3년만 금리 인상 임박…원화, 면역력 보여줄까",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5b0VGcHdWVEE0VTlrRFoxME15NFJob3RoMjZQNnVLRTh5eTk0NFQ3NDNnZk5YWDhrY25sNHBIRGVZZjNmMzY5TDdyT08td3E5U3dDZjJZSVJzb2VLN2RQVGw4X2xqVE9KMTJEbGwyWVQ?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/16 10:01",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "1,360원대로 급등한 달러-원…\"매파 FOMC 땐 1,400원도 열어둬야\" |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RblpfT3ZsT3M1SjYzaFNTemtfcXR4bHRaS0VSVVFnMnV2VE1Tb2lLUHA5MU14MjM2WUNhWG9zMGJGazRpdHc3VUFzUW02d25YLVZYOUNTVENTc0c3RWVScndDUmFlc2pRQU5pZV9wTmk1SWhT?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/16 09:50",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "FOMC 경계·유가 급등에 달러·원 1365원…위험회피 확산",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BdmFicl9PUHNqdEhqaXhuRnc1YjNIVWhuMmc1SnZEaVFLOHBsQTFVbFBXcU11ZnRnaldzZW92dlpCaE5LX3A4SjF0YjFOZUVIWEQyTDlTUWVWYU3SAWBBVV95cUxQT1BuTXVaQTdxSFFNQllkQ1BCRmtUU1RibUZ0a1Q5WER5TVBNS3RxakFUVDVwbzVHTm9wamJvYldleUF2UFgwd3lmQ2NNY2NzNlpVck0wRm5FYnpmVjByck8?oc=5",
-   "source": "뉴스1",
-   "time": "09/16 09:25",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[특징주] 원화 강세에 K-푸드 관련주 장초반 약세",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CNktaajFRZHVla3dMQ1pUQkhpXzh1QWpzU2QtalZvYUxaMC1nSDVTM1pBT2tnVW9wY054ZjRVdDhtMXBEUVdLWHlJM0dSSFBXREZ3UFVWdXBtb1HSAWBBVV95cUxNVXg3bFlDRDhJNUR0SHhJdl9iNXM4TVdPNGVMd2Y1cnZ4Y3hpdElUSmN3SktUTzN1WmtHSzhkYUpEa1ZJcWJqTDRDMjBPbTRRNWtNYXFMbHBCRFB1RG45dGw?oc=5",
+   "title": "한투증권 \"미 금리인상 후 환율 상승했으나 추세 전환은 아냐\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrU3BxMWJFbVpDTlZxNG9tc3FqaHlaemxVclMwN0luQU9MSnN2T3RWRGFRc0x3a2ZhZDgzUE1hUzY5Q2Q3VzJzWWxkaXd6QmRXcDBNVm1UWl9WYknSAWBBVV95cUxQeF9EN2RxdEpEVVlYT1ZNOGFKa05LUTVQdUQ1blBLQ3pkQzltaHAzd19TTnJ1cmtBNHEwTTJEUU52T0xpZlEtT1k2TlJrd1gwX25ZcnBSX0JWMVFyVEZ0bEE?oc=5",
    "source": "연합뉴스",
-   "time": "09/16 09:22",
-   "dir": "down",
+   "time": "09/17 08:21",
+   "dir": "up",
    "strength": 1
+  },
+  {
+   "title": "미 연준, 3년2개월 만에 금리 인상…워시 “물가 너무 높아”",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTZGR2eEp4M0RIdFctWVl3U01IMkN1YnBLYTltSmwycElGV0d2WU9kUzFILW5mRUhqSkljQXpXd2ZONUNSZ0FDLVdhaTJhYk1jX1pwZDhpTHdyT3dRR3JibHZiRVRDVG1WVXJKZWRtaw?oc=5",
+   "source": "한겨레",
+   "time": "09/17 07:51",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美연준 금리인상 주목할 5가지…'만장일치'·'연내 추가 긴축'",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PRDl3LVE0UWlWNVVtd2I3VFFmdk1IRnBIc0Rvd3pTb2huWUdRcjZJajBlMXUtRG1WanhVSlJTbXZnYUMwVnAxMGJtRENaODBmSEw5V3ZvalhqQW1BWjlpWUVWZV9GU2fSAWxBVV95cUxNUGo2VGFnZnhkWEZZN1hrVUFUTWQxeHh2YVRDNkx4T0VlY2RUTlRGcldmV1VlT1VMbWR5QmxjOHRHNHU1TXRkLU16MkVzb3pZUFNWanBpdjJrSFpZN2ljYlNfcHprY0ZIUktXU0k?oc=5",
+   "source": "뉴스1",
+   "time": "09/17 07:23",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "Fed 기준금리 인상에 美 대형 은행 일제 우대금리 7%로↑",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tQmdPTUxjeFlIZ2lNVnlqajgyZ1FWeEdCX3ZrXzJ1Z25IMzVrdGtzWXhya2lHZ3d3Q1FnY25DSU1yQ0wwTnRYM3VZTmFLT2o4SmdkR3h2ZGgydw?oc=5",
+   "source": "한국경제",
+   "time": "09/17 07:17",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "3년만의 기준금리 인상에…美대형은행, 우대금리 7%로 ↑",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QWGdxbk1yQkdQSlk2R1VxRUpQcW91Tkx0ak9RTzFHc19aaUE5UWJYbmVzdTA1S3RUT2tKWk1aMUtWMzZnUTZpWHFRdVZ3dzZEWlY3ZUxFcDZPVzBsQndoTjFWc2NlOFk?oc=5",
+   "source": "연합뉴스TV",
+   "time": "09/17 07:06",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "뉴욕증시 연준 금리 인상·추가 긴축 우려에 하락…다우 1.21%↓[뉴욕마감]",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPdFVnbjNENW1uYk50RE9pcFcwUWVXUFUyVHBmcmZ2dnpxd0k4cTg1Y1p2dmtkU2VHcVlBYTRZYjZkVXpaV3N4UEJuWEhUV01JWmxYQk9rSVNHal9MMy1hdTg0TEQ?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "09/17 06:14",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "미 연준, 3년 만에 금리 인상‥추가 긴축 예고",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94Y1dqeVB3eWtYVFByTEJ1RDJMTENwWk5rRERXeFZudzd2QUR2c0lNLXdRa3hyYWR0ekdRRU04T1hTRmpSVVAxUlF5SzdiajhjRFlsd1NPemJwRnhuN2RuSXF0ZG9oa1k5Z0lJQ1poSkVJNTM1Tk9TdWdB0gF6QVVfeXFMUGJ1NnFrNk5aMzlQTEF4STFYNno4SHc1RGp1QTB6NEMzSDdPVW03MnJlb1d4cVJjeENnV0E5M2hnX3EyeTlhb0xVRHc0QW40SWg3a3R4X0p3OEd3RnJwbDJGaWRCTzVvMWtXLUpQSG0tQWhTZkxIYjlOSHc?oc=5",
+   "source": "MBC 뉴스",
+   "time": "09/17 06:09",
+   "dir": "up",
+   "strength": 2
   }
  ]
 }
