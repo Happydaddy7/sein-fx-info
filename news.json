@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17 23:30",
+ "updated": "2026-09-18 09:00",
  "summary": {
   "up": 10,
   "down": 0,
@@ -15,6 +15,54 @@
  },
  "items": [
   {
+   "title": "반도체가 가른 아시아 통화…원화·대만달러 강세, 루피·페소 약세",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Oa01sS1FHZWY2dU9MWU9jeDJVRm41dHczMWFPWXdkb1dSOEpRb1U1aDcxRlhiMGdoOVJ3a00yZWxGV29kUnBuaGhWYTR1bzFVUnR4V29TTmhsQQ?oc=5",
+   "source": "한국경제",
+   "time": "09/18 08:45",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[마켓 프리뷰] 코스피 '매파 연준'에도 약보합…글로벌 금리 인상 촉각",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkVW5OQlFkRzZiSGlLc3B0Q3pBS29RaF8yZ1lvNTVFNThGeDBtRmxUQVhxRlc5dVBwdjUtUHo3b2llSG1CTER4ZDZya2U4ZmZoNGFz0gFYQVVfeXFMTmhfeW1TVFFJTzhRSHVJOWpWSzZrdlpvODc0dnRTOWRncDR3ZHlZaVhsQXgtX2pNTk9QZ3Bkd1pvYVliTnVXdHpPbzBvRnJrdEJXNkkydFlIVQ?oc=5",
+   "source": "SBS Biz",
+   "time": "09/18 07:01",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "연준 불확실성 해소에 뉴욕 증시 상승...10월 금리 인상론에 힘 실려",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJSTFZYnRVbUgySEM3bFhReFZwd2pUWENiMUVHbUdCNGFZQVlMZE9kYzRiaUJhcjItYkxhekkzZ1B5RWN0NUVMd2NZcDZTWWRmaUhodDVfNE15am9JVnFRQ2hwbmpxR3dIRjBLYldFdw?oc=5",
+   "source": "YTN",
+   "time": "09/18 06:32",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "\"긴축 마이웨이\" 워시… '연준 독립성' 의구심 씻어냈다 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vYUtSZndUeXgySFdib0oxSFNOdG5FNjZHM3Mzb3ZjWXdWUTZZUU94OXd6ZG1hVk5UVFRwd01LSmtEek9pbkdYbDdLNlQxZlpQRGx0LVhkRmJGWUJ0LVlEbmR5RmNHV0lv0gFuQVVfeXFMTk1mdjNqTHh5QWlmeDBoc0pLOFhSRjNkYTh5bjl4ek4wX2lMaHpoYTctMGFMbVJfWTVnTGVTUnVTcGhDbWN5UzRsRm9OUzBabjFKZVFoc2J6NXVDTUxiRzlEMlRkTkxJZjJ4VThhLUE?oc=5",
+   "source": "머니투데이",
+   "time": "09/18 03:05",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "집값·유가·환율 ‘쌓이는 명분’…한은, 3연속 금리 인상 문 열었다",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KaVgydjl2emlkTWhnVHptNmtYQlY4cHdXR2FzbENIaUJjeDFsUWFHRHhuaXJhV1dRSWFIdzZ0YzAtXzJwVHlGcXZYQ2hKRmlSRG1rSVd3?oc=5",
+   "source": "중앙일보",
+   "time": "09/18 00:30",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[사설]연준 3년 만에 금리 인상… 이제 진짜 ‘긴축의 시대’로",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1dy1zaHJQSmVXY1RmbkloVDM0ZnFreG81dEpGMGRUb0Z2dlRmU3JaNEl1ZUhOd3N0YnRjR204b0wwQkZOQS1halluZWR5YWVMazJ1WnB3UTV5LXh5Sno2MDRnVkpVcEVzOHpqN200R3BtMlo2RWfSAWZBVV95cUxOYTJFbTdNYnZaRTFucmtPNDNDNWdIdWZwWXVXeE1HOTdnTjdmdHF6ODk2NWdMQ1FpS0xMN1FDd0FxQUw3M0J6NFNVTkRRYmNyd3ZaSTl6d3NBQ1BrbUh0YVl3Zjd1RWc?oc=5",
+   "source": "동아일보",
+   "time": "09/17 23:27",
+   "dir": "up",
+   "strength": 2
+  },
+  {
    "title": "미 금리 올리자 환율 급등...한은, 연내 인상 나설까?",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84NXpxTDZkbm5vMG9NM3Z3WHRpSTZYZ1NvcWdQNGdoVWNOYUpZQmxxNFNnVzhrMGVJeEU4WHpqXzloamhOLTNoUVJlZ3ZCbE9DUm5iWWttMGhjaUFCZ3c?oc=5",
    "source": "YTN",
@@ -23,10 +71,10 @@
    "strength": 1
   },
   {
-   "title": "달러 강세에 환율 1380원대로 급등…‘금리 선반영’ 주식·채권은 잠잠",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16LVc1dUhETkNNcDBRc2FuRzdrVmpDcmVJTVFDRWtZa2Z6MWx4ZWNDeDlzWnlGbTlDQU9FLXJUQkE3cHJmQlUtc2VnSHRPUHU3YWQyNG1ZUnpjay0yeUQ1ZkNmQzJmMzA?oc=5",
-   "source": "한겨레",
-   "time": "09/17 20:49",
+   "title": "다시 ‘긴축의 시대’…미 연준 3년 만에 기준금리 0.25%P ↑, 한은도 11월 추가 인상 전망",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qZEJmdXcycEdwV2FiSDlWRWxUdTBLdURyeExNOXVSa19seXdaRXUzZEtaS0VfMk5XMEk5VGJodzhHTzg5bFVObVYydE83eGxfVDBlLVJpcUluQdIBX0FVX3lxTE9FaDBKOTkyUG1JV19kSHRQZGpyemZMcE9zLUVHeENseXhPeWpSSE5veS1FOUF1LVhHd0JPWnVCdUswZkZFUjNsY1NjdEVIT2JBeHhaMHVzRGNvWHZOcXFr?oc=5",
+   "source": "경향신문",
+   "time": "09/17 21:23",
    "dir": "up",
    "strength": 1
   },
@@ -39,58 +87,10 @@
    "strength": 2
   },
   {
-   "title": "미 연준, 3년2개월 만에 금리 인상…워시 “물가 너무 높아”",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTZGR2eEp4M0RIdFctWVl3U01IMkN1YnBLYTltSmwycElGV0d2WU9kUzFILW5mRUhqSkljQXpXd2ZONUNSZ0FDLVdhaTJhYk1jX1pwZDhpTHdyT3dRR3JibHZiRVRDVG1WVXJKZWRtaw?oc=5",
-   "source": "한겨레",
-   "time": "09/17 18:26",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "긴축으로 돌아선 美 연준…한은 금리 셈법 ’복잡’",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FbHRFdVR4ZWlDNnRSUHF5a3R4WHRhc0lCdk5sNVYtSXFDbmNFZE5EM1ZrYVdTcGt3aGdaQ2Zxb01UaWxtQ1JqUzZpX1RqRkhSMUl3Y282SWxIenNxVy1wWFN4SFRldVE?oc=5",
-   "source": "연합뉴스TV",
-   "time": "09/17 18:16",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준 금리 인상에도 코스피 6700선 방어 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTaG1iT0RfNnFfTk9pamZpcEdJTUVUbk13MFlBUVBpUHJYRGdYZnpLc1JnYXJCNWFxbzcxT21Ea2FGYlFsOW9vZlpZbE9URTJQR25zY3FDLUNQZVVnZElMNA?oc=5",
-   "source": "매일경제 마켓",
-   "time": "09/17 17:12",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 긴축 재시동에 환율 1380원 유턴… \"1400원 재돌파 가시권\"",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YQXVJVlM4VDdNX2VjaV90VW82bzZ4R1RFS0JjZEQtTVdscVJvdzNNellZaFlFRU5NenJaSklrQWQwekd4eXdLT2FibC05UU1heUFkWktOdnZPSVlQNWZlS3ViWmFOSTh4dTJ1Nk130gFzQVVfeXFMUE80blhOXzM4bGVWeGNWS2YyVEQ2OHVFWkgyY3pPdU0yd09ER3oySDFVb2tabVdXeGtYLXJNS0J5M0tzMFlGOXhpVkVSRjBoNFFzVHhzSmdFSzBkUUMtX19PbFlKRXczUWh5a09fWjBYZmtsZw?oc=5",
-   "source": "한국일보",
-   "time": "09/17 17:12",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미 금리 인상에 환율 상승세...금융당국 \"영향 제한적\"",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxLVpQaVZSbTdiNXdScVJiby11TUt3N3RrZ2Y3VEcydDhzb3lQN01rY3JpalJZOUV0dHFJUXNuazNJMEZZWEpQcWM0Ty1SWkRCVmpoQWZES0pHOVZ2VWc?oc=5",
-   "source": "YTN",
-   "time": "09/17 11:39",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "한은 “연준 긴축 기조 이어질 듯”…미국 금리 인상에 시장점검회의",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYVJOeEFGckFxdGIxbXk4VEx4ZXd3LWF3aXY3enVqbmtVR1kwZW1meGwwXzBPTDUtWDFEWlhQRWh3bTFUc0xYajZZYjlfNEhLWEMxLS1Cb2lLMHc?oc=5",
-   "source": "KBS 뉴스",
-   "time": "09/17 09:29",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "美 금리 인상 후 환율 상승에 증권가 \"추세 전환은 아냐\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRU5wVDVkUGpqQVdab3FtMU5YekNxMS1GdWVVS01kRmNBUXN6RzFVT0owZ0U5SUpKa0YwOFBlMG9kT2hVS1NQUExWeUdjVGo3RGxmT3BuWlA4Zw?oc=5",
-   "source": "한국경제",
-   "time": "09/17 08:29",
+   "title": "매파적 연준에 달러 강세…원·달러, 13.6원 오른 1382.2원 마감",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lRGpnbDc3Q1RfZGdDUEgxbG5RVEFDOFlLMElvZUdGZktlSmk4NldrQ3hwVmIwRTFINHpyZThzOHlUMUw4T1pLbWpta2R5dVdoUzVSVUJCcmRnOXdnQlFQeQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/17 15:40",
    "dir": "up",
    "strength": 2
   }
