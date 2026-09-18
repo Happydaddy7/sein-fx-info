@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 09:00",
+ "updated": "2026-09-18 10:59",
  "summary": {
   "up": 10,
   "down": 0,
@@ -14,6 +14,22 @@
   ]
  },
  "items": [
+  {
+   "title": "美 기준금리 인상 돌입에…韓 대출금리 더 오르나",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByNF9la25JZ0FFTTVsTjlyM2pfdFlrNERiR2I3Z2FuMG5Cb2d0VHA1NUpaSkxEV29YTmVBR1NPUXU4UGVhV0QxMzZtWFVFcFZPaHRqX2M4bjh2MWRYa1g5MQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/18 10:22",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 연준 3년 만에 금리 인상…한·미 금리차 1%p로 확대",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81Zlk4QlRxM1hESm5vU19LNGgyT0dKSkxKa3ZwYmp2bEJoTDF2bGY3TmQta2poS3RlNHhlekp0Ukpabk1ZQ1BpQm9EZHU5bXJvNUHSAVNBVV95cUxPODdIa3NsREdLOXg4eTNnTHB2MmFwTmJGb1pSbTdzdWxQTVIwbHFRZlVWWE9iNlVHRlpPOU9sMEpGazc3QmpwNG1SdmY2U01YVFItYw?oc=5",
+   "source": "서울경제",
+   "time": "09/18 10:00",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "반도체가 가른 아시아 통화…원화·대만달러 강세, 루피·페소 약세",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Oa01sS1FHZWY2dU9MWU9jeDJVRm41dHczMWFPWXdkb1dSOEpRb1U1aDcxRlhiMGdoOVJ3a00yZWxGV29kUnBuaGhWYTR1bzFVUnR4V29TTmhsQQ?oc=5",
@@ -55,26 +71,10 @@
    "strength": 1
   },
   {
-   "title": "[사설]연준 3년 만에 금리 인상… 이제 진짜 ‘긴축의 시대’로",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1dy1zaHJQSmVXY1RmbkloVDM0ZnFreG81dEpGMGRUb0Z2dlRmU3JaNEl1ZUhOd3N0YnRjR204b0wwQkZOQS1halluZWR5YWVMazJ1WnB3UTV5LXh5Sno2MDRnVkpVcEVzOHpqN200R3BtMlo2RWfSAWZBVV95cUxOYTJFbTdNYnZaRTFucmtPNDNDNWdIdWZwWXVXeE1HOTdnTjdmdHF6ODk2NWdMQ1FpS0xMN1FDd0FxQUw3M0J6NFNVTkRRYmNyd3ZaSTl6d3NBQ1BrbUh0YVl3Zjd1RWc?oc=5",
-   "source": "동아일보",
-   "time": "09/17 23:27",
-   "dir": "up",
-   "strength": 2
-  },
-  {
    "title": "미 금리 올리자 환율 급등...한은, 연내 인상 나설까?",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84NXpxTDZkbm5vMG9NM3Z3WHRpSTZYZ1NvcWdQNGdoVWNOYUpZQmxxNFNnVzhrMGVJeEU4WHpqXzloamhOLTNoUVJlZ3ZCbE9DUm5iWWttMGhjaUFCZ3c?oc=5",
    "source": "YTN",
    "time": "09/17 22:44",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "다시 ‘긴축의 시대’…미 연준 3년 만에 기준금리 0.25%P ↑, 한은도 11월 추가 인상 전망",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qZEJmdXcycEdwV2FiSDlWRWxUdTBLdURyeExNOXVSa19seXdaRXUzZEtaS0VfMk5XMEk5VGJodzhHTzg5bFVObVYydE83eGxfVDBlLVJpcUluQdIBX0FVX3lxTE9FaDBKOTkyUG1JV19kSHRQZGpyemZMcE9zLUVHeENseXhPeWpSSE5veS1FOUF1LVhHd0JPWnVCdUswZkZFUjNsY1NjdEVIT2JBeHhaMHVzRGNvWHZOcXFr?oc=5",
-   "source": "경향신문",
-   "time": "09/17 21:23",
    "dir": "up",
    "strength": 1
   },
