@@ -1,19 +1,27 @@
 {
- "updated": "2026-09-21 08:59",
+ "updated": "2026-09-21 11:09",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "“연준 기준금리 5% 이상으로 올릴 수도”…BofA, 시장의 ‘긴축 과소평가’ 경고",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jbXdiUUJCSGtDUXN3a2hmLThMSDRhQTJTdUhjU0VQVU5QMERDZXlEampuSmppUTZIdl9KaFAwRHI0cnFobHY3UVdhei1aQ3JKNEtkQlNn?oc=5",
+   "source": "헤럴드경제",
+   "time": "09/21 10:47",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "美 긴축 재시동에 환율 또 1400원대 올라서나 [1분 브리프]",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVMTc5cUN4dXItM3JKUVU3NTBnRXVJU3gySWNkSVBvZ2JiTjlRZjhKNlFMYTRPRVZiODlOV3JPMGY2VjBfN29xR3J1dUJlams1ZldGVzFjNWJSN2ZhVXRieA?oc=5",
@@ -71,27 +79,19 @@
    "strength": 1
   },
   {
-   "title": "오라클, 연준 금리 인상 후 주가 7% 상승…CDS는 하락(종합)",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yWDBQLXlEdHRWbDVGTWVFTTd4dFdoQlkyZlNSMmNzdEk0VDJyR0o4NGtVbEtJYTVac1dTd0RMaTQ2eVEwekhNcHhJUk5ZUEdYZlJVXzN2WlFTaGNQdWFha3dPWkFCNXhYR0gzZm5hdnA?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/18 13:14",
+   "title": "日 금리 올려도 엔화 약세…원/달러 환율 7거래일 연속 상승 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5reXNaTlc2NWFCeVdTTWdzVkRzbzY3Zm5Ea1gwdHRKNlhVdlVMVWtaSURjcEZfeHlnQ0VYSnMyTHVkVFRYc2FHNW1IUVdQZ3lobllhMzd1aVNhSXlsdzdVZlhxMkhTYVRranFJ0gFwQVVfeXFMTVZZR2g0dlUwRWtsemVuc2x5YXUtU1B2aEwtN0NrZ3UwNzU5aFp2VjdoaXhWZTVqRHg4V0lHTHlHM28xVElOMzA1R2dEVVR5enY3OVlCMmItWlNlX2draXlQSkpfUFRGYjJHRGlWM2xmRA?oc=5",
+   "source": "머니투데이",
+   "time": "09/18 17:07",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "크레이머 \"연준 금리 인상기에도 주식 피할 필요 없어…옥석 가려야\" |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qWVJyaW1yTUtlM2pEcDhzYldrdDNCM1FrZGR6UVRrX1hhUnJJbVctcS00ODBkU1B2RFRYclVFMU9JN0t2WENoQ1VRTmtuTGxXOGlqRy1nMUcwcUJvWWhYaV9rdFBlZGFWMThqN2tCWlVSdDdH?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/18 09:47",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "S&P500 선물, 연준 금리 인상 후 숨 고르기…美 국채금리↑ |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUWFwNHpyMVNmcTNRd19RSXBXbEJRbG1zdWdUcThDZ3hhZU04eEQ4OFRTNlJwSkdsdXVNc180Tm1rZm5PeWJFTk56SGJzYVFsOG9QMzJabkpKSzgyaHZaT2FRN2JXc1hmN3JOUmlRRFM2bXVj?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/18 09:33",
-   "dir": "up",
+   "title": "환율 떨어지자 실적 눈높이도↓…전자업계, 원화 강세에 '촉각' - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95Z2ZGM1hvYjAybGRfaG12YVZmeDJZUmU0WldfWDZ3OEZWU1l0ZXdGZnRBTC1wY3Y5UF9adnZFcjd1alptLThDU294SXl6YTRNZ0NNU0JzRnk1cmlhTHNjTm5McnhibVh4YWZnUNIBckFVX3lxTFBTZzZxWGVKeGgzak1hLTItblRtckpFWFV0Y0VoLUtvNDBHVURGb1M1X3JzcGo1T1V0M0pnQUx6OWtrWGNfQTJuMTQyaF9CV1I0MjBpWlgtSGYyakp0NDFSS2xpVnpvNHdKVEU3enpTWDFZUQ?oc=5",
+   "source": "머니투데이",
+   "time": "09/18 17:05",
+   "dir": "down",
    "strength": 1
   }
  ]
