@@ -1,19 +1,43 @@
 {
- "updated": "2026-09-21 18:23",
+ "updated": "2026-09-22 01:03",
  "summary": {
-  "up": 7,
+  "up": 9,
   "down": 1,
-  "neutral": 2
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 1).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "연휴 앞두고 '7천피' 회복...환율 상승세는 '주춤'",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPclhtdGhfeHpsN1B3azZxdS1VLVdhVXE2NmptQnU4WEUyUXBJU3lERUl4aUlsUHBuSkxDYU1iSlIyVFdYZlAzM2Y5VlA1OEdSSjduYTFiNS1HLWpUWTJic1V5Nm5uOFBjUV9GMXZ2aw?oc=5",
+   "source": "YTN",
+   "time": "09/21 22:45",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "아슬아슬한 환율, 다시 1400원 가나…美 긴축·유가 복병",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pNGlhTWRITUJFQ1ZNcEdMNjM1ZDh4bFctbFlhbGw2TGJXZVdxaEVuQjFIYmVncVhIc3lUSlJRc240WkVoT1JROXlGZDQ1WWFENHVOSzVn?oc=5",
+   "source": "매일경제",
+   "time": "09/21 17:06",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "골드만 \"연준 금리 인상에도 금 강세 전망 유지…내년 온스당 5,400달러\" |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGS2ZscnY1NG9icmdBR0pfTEY2d2RRREJ5OVQ2TTliZlJfQlJUOWVXclNIVkV0VmxtMGh3LTJJR1ZrTEhDREh5NC1abE84dVYycnZJMGlWXzNVQXFEVXFMRTYxeGxjc0JGb0tkVlNhaGJhaDRf?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/21 16:38",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "1380원대 후반서 제동…8거래일 만에 원/달러 환율 하락 - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EX1RoeWtYbUQ2MmN1bk5zZi12RWMwVGxROTdnZC1SWGhiVWtPSmhDdHdtbkdaSFU4QWV1N3FPWVplNW5wTi1FdDZ1TTFhMmV4OU44ZUZDaDdlQmpCalN1aUlWcW12RjEyckgtUEtIRzBFcnFqXzBoYtIBfkFVX3lxTE94dEVDWTBJRW9iMmd3NnlqUzdBUDNab284YVRQNjlFa0tfc2ZfWnhzTVdOdm5Xak1ZLXgtZWZ3cUpNS1BKaVl2b29KbTNwY2R6SjE2eloxZjVjN1Bsb0hoVE51QUZPNFgxYUgtRzN4TGQ4OVNOVGhRdDVtWEh0QQ?oc=5",
@@ -23,20 +47,12 @@
    "strength": 1
   },
   {
-   "title": "강달러·고유가 이중고에 아시아 통화 흔들…원화·엔화 동반 약세",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxdzYya2xzX2kweTF1SXZEWE9jT1gxeU4wdlExTndTRnlCVEdkSGZpQ3p4X0VmMjF0OGw4UHBxOExpeVM3dHdWaG56ZkE2dGYybzQxRHl3?oc=5",
-   "source": "중앙일보",
-   "time": "09/21 16:18",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원/달러 환율, 8거래일만에 하락…2.3원 내린 1,381.0원",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZdFp6RUpodXFxeGc0eHpObDJLSWpGUkM5Q2hzcEg0dlA0NVZLM0NrdFhvOGk5NFkyc1NueDItck55aWo4bjBxYzZzOFZrQU9sdjlYYWJKUXlnSWfSAWBBVV95cUxPbGZfWEhxbVo5VTFkQWRoTlBIbDFJQ0g2Mmh3aTgybHhLckpFaTlxSFluWXJFNktjLUFZS1R1X1lDVkRlc0sxRGRlQzdzSjNwdGM0Ym9oV3J1OS1xNjgtWGY?oc=5",
-   "source": "연합뉴스",
-   "time": "09/21 16:08",
-   "dir": "neutral",
-   "strength": 0
+   "title": "다시 1400원 위협하는 환율…美 긴축·고유가가 변수",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzd3ZV9wTy1wV1JlRFRtR0hMMUVQdzNpcWhCM201NXNIb0dMV2Z0WTVic3R4QWVNR0I5WExzVEFScTV4NEJOak1TNk9GU3hoT3F0eW5jT0NWYms0YlNqYUpyVUtuaEhaa1VoSU1vbFdIVmxObkl0MjEtalZQWEpQbzFMNEE1QzNpcHNsSGdB?oc=5",
+   "source": "조선일보",
+   "time": "09/21 11:39",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "“연준 기준금리 5% 이상으로 올릴 수도”…BofA, 시장의 ‘긴축 과소평가’ 경고",
@@ -47,10 +63,10 @@
    "strength": 1
   },
   {
-   "title": "다시 1400원 위협하는 환율…美 긴축·고유가가 변수",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzd3ZV9wTy1wV1JlRFRtR0hMMUVQdzNpcWhCM201NXNIb0dMV2Z0WTVic3R4QWVNR0I5WExzVEFScTV4NEJOak1TNk9GU3hoT3F0eW5jT0NWYms0YlNqYUpyVUtuaEhaa1VoSU1vbFdIVmxObkl0MjEtalZQWEpQbzFMNEE1QzNpcHNsSGdB?oc=5",
-   "source": "조선일보",
-   "time": "09/21 09:05",
+   "title": "월가 \"연준 금리 인상, 한두 번으로 안 끝날 수도\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1ODNQcjFDZ0o5eHVLQldRdkp6Umg4MEdGcDVJbWlHWS1Ib3FxVnQ5TGhWOHBZMWpQbnZ4d2xwYXdzVGhXbDQ2MUpHbXVQZUF5M2hhazFsbTZNTnRNLUZlUnR1eGg1S1Y1ZTRIRmFRNy0?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/21 09:54",
    "dir": "up",
    "strength": 1
   },
@@ -75,22 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52TGhUQmttenluMDhJY3JBQlQwV3AydjQ1bzdPc0xUUGhWVDVuOW5qVmRpMzloU0lfZXNKakFOaGExZEdpUjZBSW54ZUxZNml3WVJhVmZQbnRsSk1JUjNiMWVVaUNkTS1PZkZBeUs1TWd0U0VUWFHSAWZBVV95cUxPMU5IZlFiRGVJYk1rcnVMSW9OWjlwT1Y4M3Rsbk91WWxsY2hmS24xWEdsdFJSczZoZVktZWsxdEcwTS1NYWhrVUhUQU1KdXRyWV9ISWhZenRlNTJuN0RLMVFxWU5kSXc?oc=5",
    "source": "동아일보",
    "time": "09/20 15:36",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "매파적 연준에 10원 넘게 뛴 원·달러…향후 흐름은",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41Ui1tVzJpbXkzVFRyWWpfbm9QdUZxTnR2TmlGSURvUkw3eVB6WTY5VE9FdW5KQWtHV0pYcXhDMkhRTzhNalZ6c0w0aE1Hdnhwb2s1SFFKb2lJdFFBTDA0RtIBeEFVX3lxTE9SdGkzNU82TzRpZHhiVC00b2F6Y1Z4VnEtcEVmZFowalNlWDlRdFB6NWJQOHFTTlRrSjdGZW9DVElPSzhuMXcwMWNYLWl3TnNlNEU3Ri1JZkJNOTNfN01Xb1NfYWlYVV9Zd2ZsNkJEQ09xWkZSX09kSQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/20 06:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "日, 연휴 앞두고 환율 '레이트 체크'…엔화 약세 견제",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9POWdOYWJNTjQ0QW9OSmNpU0lkZjVxNWd0WVJNaUhRWHp6SmVVNThpTjV0M2t3bk5YQU1oRGRzSFZwVGl4Z0NON2RWTVRiemhZVmF4SzNWbVBzcHlBQlBfa9IBeEFVX3lxTE1wUUxDMmNfb0pldmlkWVpWSWpNcVVDWVRHUnBXS3cxTGtVanduLThzdjRnWUhPWFgzU29XdmZ6MFo2MGtOdFlqQkluelB5SFB2Rld4d0NZc2kxZHdZZGJ1MXhSUzZXVFkycEdDX0p2VWxnLUxwcWhVRw?oc=5",
-   "source": "뉴시스",
-   "time": "09/19 19:56",
    "dir": "up",
    "strength": 1
   }
