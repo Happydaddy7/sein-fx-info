@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22 01:03",
+ "updated": "2026-09-22 09:39",
  "summary": {
   "up": 9,
   "down": 1,
@@ -15,8 +15,16 @@
  },
  "items": [
   {
+   "title": "굴스비 시카고 연은총재 \"연준, 금리 인상 더 과감해야\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LczhuTHhhem1DYzdYVDk4TEhEQ05DYUc0azRfTURCeWxXczVPT3Z6QVo0cVBOUmg3eXhRNUlhYnRfLUFZb3dQdENsT2pMVUhFU290TThaRzBsdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "09/22 04:27",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "연휴 앞두고 '7천피' 회복...환율 상승세는 '주춤'",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPclhtdGhfeHpsN1B3azZxdS1VLVdhVXE2NmptQnU4WEUyUXBJU3lERUl4aUlsUHBuSkxDYU1iSlIyVFdYZlAzM2Y5VlA1OEdSSjduYTFiNS1HLWpUWTJic1V5Nm5uOFBjUV9GMXZ2aw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9abmFfMTBrRXQ2M0VpcDd4bVM2LV9HVFVDNDJ5a0ptTU9aaWpwQWFVakVKUVBjMUwwQ1ZTUXhNQjRuX3ZSenhjdEdiSVd0REtlMDVIblU5OFMwRkFhNWc?oc=5",
    "source": "YTN",
    "time": "09/21 22:45",
    "dir": "up",
@@ -55,26 +63,10 @@
    "strength": 1
   },
   {
-   "title": "“연준 기준금리 5% 이상으로 올릴 수도”…BofA, 시장의 ‘긴축 과소평가’ 경고",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jbXdiUUJCSGtDUXN3a2hmLThMSDRhQTJTdUhjU0VQVU5QMERDZXlEampuSmppUTZIdl9KaFAwRHI0cnFobHY3UVdhei1aQ3JKNEtkQlNn?oc=5",
-   "source": "헤럴드경제",
-   "time": "09/21 10:47",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "월가 \"연준 금리 인상, 한두 번으로 안 끝날 수도\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1ODNQcjFDZ0o5eHVLQldRdkp6Umg4MEdGcDVJbWlHWS1Ib3FxVnQ5TGhWOHBZMWpQbnZ4d2xwYXdzVGhXbDQ2MUpHbXVQZUF5M2hhazFsbTZNTnRNLUZlUnR1eGg1S1Y1ZTRIRmFRNy0?oc=5",
    "source": "연합인포맥스",
    "time": "09/21 09:54",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 긴축 재시동에 환율 또 1400원대 올라서나 [1분 브리프]",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVMTc5cUN4dXItM3JKUVU3NTBnRXVJU3gySWNkSVBvZ2JiTjlRZjhKNlFMYTRPRVZiODlOV3JPMGY2VjBfN29xR3J1dUJlams1ZldGVzFjNWJSN2ZhVXRieA?oc=5",
-   "source": "아시아경제",
-   "time": "09/21 08:00",
    "dir": "up",
    "strength": 1
   },
@@ -91,6 +83,14 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52TGhUQmttenluMDhJY3JBQlQwV3AydjQ1bzdPc0xUUGhWVDVuOW5qVmRpMzloU0lfZXNKakFOaGExZEdpUjZBSW54ZUxZNml3WVJhVmZQbnRsSk1JUjNiMWVVaUNkTS1PZkZBeUs1TWd0U0VUWFHSAWZBVV95cUxPMU5IZlFiRGVJYk1rcnVMSW9OWjlwT1Y4M3Rsbk91WWxsY2hmS24xWEdsdFJSczZoZVktZWsxdEcwTS1NYWhrVUhUQU1KdXRyWV9ISWhZenRlNTJuN0RLMVFxWU5kSXc?oc=5",
    "source": "동아일보",
    "time": "09/20 15:36",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "매파적 연준에 10원 넘게 뛴 원·달러…향후 흐름은",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41Ui1tVzJpbXkzVFRyWWpfbm9QdUZxTnR2TmlGSURvUkw3eVB6WTY5VE9FdW5KQWtHV0pYcXhDMkhRTzhNalZ6c0w0aE1Hdnhwb2s1SFFKb2lJdFFBTDA0RtIBeEFVX3lxTE9SdGkzNU82TzRpZHhiVC00b2F6Y1Z4VnEtcEVmZFowalNlWDlRdFB6NWJQOHFTTlRrSjdGZW9DVElPSzhuMXcwMWNYLWl3TnNlNEU3Ri1JZkJNOTNfN01Xb1NfYWlYVV9Zd2ZsNkJEQ09xWkZSX09kSQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/20 06:00",
    "dir": "up",
    "strength": 1
   }
