@@ -1,19 +1,27 @@
 {
- "updated": "2026-09-22 17:52",
+ "updated": "2026-09-22 23:14",
  "summary": {
-  "up": 9,
-  "down": 1,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
-  "dir": "up",
+  "dir": "neutral",
   "lines": [
-   "상승요인 우세 (상승 9 vs 하락 1).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "상승·하락 요인 혼재 (상승 6 vs 하락 4).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "원·달러 환율 급락…달러 매도·유가 하락에 1350원대",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nSHd3T3g2b1BKUEhnOFRIWkk4OEw4U01YVE1aRDJtc3RSal94dlBoQjE5UFN5NkNXUXYtbXNjdVBKM29JNFpxLUhyWmRBSmZvUF9faXI0ZTVQYTIybnN1WENRWjU?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "09/22 17:47",
+   "dir": "down",
+   "strength": 2
+  },
   {
    "title": "원·달러 환율 22.8원 급락, 1350원대로 \"추석 앞두고 달러 매도·미국 이란 대화 기대\"(상보)",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZV9nOU1SS1pINGozSmU2bEgzTXRGYUdSMF95UFhRcXJfTWdmbkVSaUlUaHVWMHB6X2VRY2dQWE95SjVGV3MtOUtwcjQ1aUdTLVlRSW9aZmdad0dpd1dpdw?oc=5",
@@ -23,26 +31,26 @@
    "strength": 1
   },
   {
+   "title": "한은 “환율 하락 속도 빨라…과도한 쏠림은 아냐”",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VQVBKX0RMLUpnVk1CQmFvWG8xNW1JY3hJMXoyOTJpQ1dtWlRBZXNQb0hqdzNNZjdmYl9RMFVFM0c2SU1teXl4MnYxUFpoeEJxem9CZ0Vn?oc=5",
+   "source": "헤럴드경제",
+   "time": "09/22 14:07",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "최근 5년 환율 상승기, 대기업 수익성 늘고 중기는 줄었다",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nc3dLcHNQZ2Q0MnMyTFM4a1NpM3dMQmRHOVF0cFc4RjVraml6ZG40QnRDRkNEdF9UT3IwcGlHZ2E5RGtKZTh3WnBMQng3MWpBenZDMjhycUpZUTM2elFENlRGdWgxcXVET0pmU0xRelVRdw?oc=5",
    "source": "한겨레",
-   "time": "09/22 11:34",
+   "time": "09/22 11:45",
    "dir": "up",
    "strength": 1
   },
   {
    "title": "김학균 신영증권 센터장 “연준 금리 인상에도 주가 올라…시장의 합리적 반응”",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42TTJmejh5UkpDcE1qQWxtMjJjeEJrWFJnTjNNZzMwbExFeG5QWm4xVlUxZnlSUkJ1cnBHeG1UUE5ZT1ZQVUFtYnJVUkp0Q0Y3MEs3Zl85a19IOEw2N3pTLTJ3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tY1lvYU1tVGRJcW9jczhrSXFtWjVwU1JpX0RWa0k5aVYtdVdhLTJYamcxQzB3UXRJOXI0WFFCRUl0STBnc3h4Q0ZBbFNxREM2bTVEZmk3aGFwYkZZMFVGWQ?oc=5",
    "source": "아시아경제",
    "time": "09/22 11:29",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[사설]기준금리 인상, 시차까지 살펴 취약차주 점검해야",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SQmNrVXBMRVZuVTBGR0JuWWNfcGZQRTYwck5DS1dod0lISWF2N2VSV0dHdi1jeUhUUy1CbkxFSHgxbkxkVXBNUkZsbE9PS3J6bGQ1ekJHOVQwVXM1TC1UYQ?oc=5",
-   "source": "아시아경제",
-   "time": "09/22 11:01",
    "dir": "up",
    "strength": 1
   },
@@ -55,18 +63,18 @@
    "strength": 1
   },
   {
+   "title": "환율 급락에 은행 자본부담 완화…\"자본비율 0.5~0.6%p 개선\" - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9meHFObmxQOGNRdTJZWTRjNUg0aWI0TEx0aUxDTzJLUmF0ZUIxVERjbDEzTk1OcTl0MU5GX0M4aXY2V3hxT1pINV95U0JpUVZkYU1KaDJOYS1MVlA3cUZtcjlHYzVJblZ4eWE00gFwQVVfeXFMTW9iRExpOVpDelp3ekYyZmhSbXRyQ0I0ZUVsNzdKSFh2VUh4UVExeUlTZEw2MVU1azM2ckw5MEV3VGF2dmN0TzY4QllkdHlYOVhlcFlYM0RBNUdFamNYLUdZaTB0bFlYMlc3OXFjb1RRYQ?oc=5",
+   "source": "머니투데이",
+   "time": "09/22 11:00",
+   "dir": "down",
+   "strength": 2
+  },
+  {
    "title": "한은 \"기준금리 인상, 집값 상승 기대 낮출 것…가계 대응 여력도 양호\"",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXZU1uZHlNcnZjOHF6ei1oVGJuMDNObjVabjFudzRLcE9KajExdG94VHUwT3dLb2cxY2hiZUR5Q2FLM3I4TGtnMU5MQ3BRZnY0RFJpRE9FNlYtS05SWER5TFdzMXV6WUstaGl4bWNFc3VYVzhReVI5TtIBeEFVX3lxTFBXZU1uZHlNcnZjOHF6ei1oVGJuMDNObjVabjFudzRLcE9KajExdG94VHUwT3dLb2cxY2hiZUR5Q2FLM3I4TGtnMU5MQ3BRZnY0RFJpRE9FNlYtS05SWER5TFdzMXV6WUstaGl4bWNFc3VYVzhReVI5Tg?oc=5",
    "source": "뉴시스",
    "time": "09/22 11:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "굴스비 시카고 연은총재 \"연준, 금리 인상 더 과감해야\"",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LczhuTHhhem1DYzdYVDk4TEhEQ05DYUc0azRfTURCeWxXczVPT3Z6QVo0cVBOUmg3eXhRNUlhYnRfLUFZb3dQdENsT2pMVUhFU290TThaRzBsdw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "09/22 04:27",
    "dir": "up",
    "strength": 1
   },
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGS2ZscnY1NG9icmdBR0pfTEY2d2RRREJ5OVQ2TTliZlJfQlJUOWVXclNIVkV0VmxtMGh3LTJJR1ZrTEhDREh5NC1abE84dVYycnZJMGlWXzNVQXFEVXFMRTYxeGxjc0JGb0tkVlNhaGJhaDRf?oc=5",
    "source": "연합인포맥스",
    "time": "09/21 16:38",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "다시 1400원 위협하는 환율…美 긴축·고유가가 변수",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZzd3ZV9wTy1wV1JlRFRtR0hMMUVQdzNpcWhCM201NXNIb0dMV2Z0WTVic3R4QWVNR0I5WExzVEFScTV4NEJOak1TNk9GU3hoT3F0eW5jT0NWYms0YlNqYUpyVUtuaEhaa1VoSU1vbFdIVmxObkl0MjEtalZQWEpQbzFMNEE1QzNpcHNsSGdB?oc=5",
-   "source": "조선일보",
-   "time": "09/21 11:39",
    "dir": "up",
    "strength": 1
   }
