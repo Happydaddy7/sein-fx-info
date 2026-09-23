@@ -1,24 +1,32 @@
 {
- "updated": "2026-09-23 11:15",
+ "updated": "2026-09-23 17:53",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "연준 9월 금리 올렸지만…물가·전쟁에 ‘추가 인상’ 가능성 커진다",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QX2RvN1RZS244Ylpwd3RiV2Z6ZWcxSzYyZHc3SEc5Q0M3b0tNQlBMX0hSci16b0Z1LVlwMWY2emhoNU5McHc3X28zRnpENHNXRnfSAVNBVV95cUxNRWNYUGJQdmozMWZOU2JYQXVMWURLa184S1cxM3ZQeTE3VDRjOXZUSzF1ZUpTUVVCODE0dHpDMzdBTGpibThvcy1nR2hXZWZXZHg1WQ?oc=5",
-   "source": "서울경제",
-   "time": "09/23 10:41",
+   "title": "'금리 인상' 끝이 아니다?…연준 내부서 쏟아지는 경고 [지금이뉴스]",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oWmdGaWdpeE9JeFcyOTBHX1Y3N01Mc3dkWDRwZ2N1MzZ1andhUjJPWlFzYTBNSDNOSW5wd0VrSnd4ME5XaTBLLTZoZFV4aVNleVR2SjlaSEY5TE5EQmc?oc=5",
+   "source": "YTN",
+   "time": "09/23 17:20",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "월가 전문가 \"美·이란 합의 땐 유가·금리 하락…연준, 매파 근거 잃을 것\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHbzF3WDZ5MzFMV0phM2hwLURBTXQ4VVQ3SzU5a002NnVCZjRRV0hiRVM2dWNIYWs1VzcyRjNSdFVIanlncUx5RUdnaUFzQ2EwNUNsZmxRdHpmMkRBcFRGcDNXajdQbmU5UTlZSFVnNWU?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/23 12:13",
    "dir": "up",
    "strength": 1
   },
@@ -47,34 +55,10 @@
    "strength": 1
   },
   {
-   "title": "환율 하락에 카드 해외결제 취소 땐 '환차손'… 카드업계 \"자동보상 강화\"",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OdlgyZ1BROXR6WFFSYkRvcUdIVjZtWDFrUXlkYkJNcGxRLXZVdWF2OFBGN3Fkd0tobFdzVFAtalMxcTVlNVZvVnYzV1YxSTFmR01hUDh5LVdld0R5dm5SVzVKMURxQnBEQVAyM3V30gFzQVVfeXFMTUlVUUoxRmNBMHdCVk1Ea3FmRWM1T1MtOUU2aFEzaTY1UXBaaWJ5U2tnOGtldW1qaGpQZkpkcDA0dWpYY0RpUVpFRWYzcGdMRl9pamhDc08tQ2JHUTZuckZ3b2pjeVNoOExuODZqNHVSZjRqaw?oc=5",
-   "source": "한국일보",
-   "time": "09/22 14:29",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "최근 5년 환율 상승기, 대기업 수익성 늘고 중기는 줄었다",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nc3dLcHNQZ2Q0MnMyTFM4a1NpM3dMQmRHOVF0cFc4RjVraml6ZG40QnRDRkNEdF9UT3IwcGlHZ2E5RGtKZTh3WnBMQng3MWpBenZDMjhycUpZUTM2elFENlRGdWgxcXVET0pmU0xRelVRdw?oc=5",
-   "source": "한겨레",
-   "time": "09/22 11:45",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "김학균 신영증권 센터장 “연준 금리 인상에도 주가 올라…시장의 합리적 반응”",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tY1lvYU1tVGRJcW9jczhrSXFtWjVwU1JpX0RWa0k5aVYtdVdhLTJYamcxQzB3UXRJOXI0WFFCRUl0STBnc3h4Q0ZBbFNxREM2bTVEZmk3aGFwYkZZMFVGWQ?oc=5",
    "source": "아시아경제",
    "time": "09/22 11:29",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[사설]기준금리 인상, 시차까지 살펴 취약차주 점검해야",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SQmNrVXBMRVZuVTBGR0JuWWNfcGZQRTYwck5DS1dod0lISWF2N2VSV0dHdi1jeUhUUy1CbkxFSHgxbkxkVXBNUkZsbE9PS3J6bGQ1ekJHOVQwVXM1TC1UYQ?oc=5",
-   "source": "아시아경제",
-   "time": "09/22 11:01",
    "dir": "up",
    "strength": 1
   },
@@ -88,9 +72,25 @@
   },
   {
    "title": "한은 \"기준금리 인상, 집값 상승 기대 낮출 것…가계 대응 여력도 양호\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sR1FwS1NCNlRTTkVWTGx6ZlFjYzlfdzh0T2M4akJ4Y0NGM0U3M1FGalJ5S0hyNU9DY0Y4MFVTdWpRcFZpdnNiSVk3ekhqNjI1U0pZYXg5dWxBaE1NUUJEVtIBeEFVX3lxTFBXZU1uZHlNcnZjOHF6ei1oVGJuMDNObjVabjFudzRLcE9KajExdG94VHUwT3dLb2cxY2hiZUR5Q2FLM3I4TGtnMU5MQ3BRZnY0RFJpRE9FNlYtS05SWER5TFdzMXV6WUstaGl4bWNFc3VYVzhReVI5Tg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXZU1uZHlNcnZjOHF6ei1oVGJuMDNObjVabjFudzRLcE9KajExdG94VHUwT3dLb2cxY2hiZUR5Q2FLM3I4TGtnMU5MQ3BRZnY0RFJpRE9FNlYtS05SWER5TFdzMXV6WUstaGl4bWNFc3VYVzhReVI5TtIBeEFVX3lxTFBXZU1uZHlNcnZjOHF6ei1oVGJuMDNObjVabjFudzRLcE9KajExdG94VHUwT3dLb2cxY2hiZUR5Q2FLM3I4TGtnMU5MQ3BRZnY0RFJpRE9FNlYtS05SWER5TFdzMXV6WUstaGl4bWNFc3VYVzhReVI5Tg?oc=5",
    "source": "뉴시스",
    "time": "09/22 11:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "굴스비 시카고 연은총재 \"연준, 금리 인상 더 과감해야\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LczhuTHhhem1DYzdYVDk4TEhEQ05DYUc0azRfTURCeWxXczVPT3Z6QVo0cVBOUmg3eXhRNUlhYnRfLUFZb3dQdENsT2pMVUhFU290TThaRzBsdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "09/22 04:27",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연휴 앞두고 '7천피' 회복...환율 상승세는 '주춤'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9abmFfMTBrRXQ2M0VpcDd4bVM2LV9HVFVDNDJ5a0ptTU9aaWpwQWFVakVKUVBjMUwwQ1ZTUXhNQjRuX3ZSenhjdEdiSVd0REtlMDVIblU5OFMwRkFhNWc?oc=5",
+   "source": "YTN",
+   "time": "09/21 22:45",
    "dir": "up",
    "strength": 1
   }
