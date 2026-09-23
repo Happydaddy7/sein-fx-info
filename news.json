@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-23 17:53",
+ "updated": "2026-09-23 23:30",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -31,6 +31,22 @@
    "strength": 1
   },
   {
+   "title": "연준 9월 금리 올렸지만…물가·전쟁에 ‘추가 인상’ 가능성 커진다",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QX2RvN1RZS244Ylpwd3RiV2Z6ZWcxSzYyZHc3SEc5Q0M3b0tNQlBMX0hSci16b0Z1LVlwMWY2emhoNU5McHc3X28zRnpENHNXRnfSAVNBVV95cUxNRWNYUGJQdmozMWZOU2JYQXVMWURLa184S1cxM3ZQeTE3VDRjOXZUSzF1ZUpTUVVCODE0dHpDMzdBTGpibThvcy1nR2hXZWZXZHg1WQ?oc=5",
+   "source": "서울경제",
+   "time": "09/23 10:41",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美연준 인사들 잇단 ‘인플레 경고’…“더 긴축적인 금리 도움”",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ramJTdXIwNnlnTzRhbmhhcGlHSEpaRHZLejU3dWRVQjVWMTNOR3k5M2tBd3NqV091eW11X3hmcjBrOG1GbXo4bUxNamp3cVkxNjRPSllR?oc=5",
+   "source": "헤럴드경제",
+   "time": "09/23 06:22",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "원·달러 환율 급락…달러 매도·유가 하락에 1350원대",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nSHd3T3g2b1BKUEhnOFRIWkk4OEw4U01YVE1aRDJtc3RSal94dlBoQjE5UFN5NkNXUXYtbXNjdVBKM29JNFpxLUhyWmRBSmZvUF9faXI0ZTVQYTIybnN1WENRWjU?oc=5",
    "source": "MTN 머니투데이방송",
@@ -43,14 +59,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZV9nOU1SS1pINGozSmU2bEgzTXRGYUdSMF95UFhRcXJfTWdmbkVSaUlUaHVWMHB6X2VRY2dQWE95SjVGV3MtOUtwcjQ1aUdTLVlRSW9aZmdad0dpd1dpdw?oc=5",
    "source": "아시아경제",
    "time": "09/22 16:56",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "한은 \"원화 강세, 펀더멘털 반영한 되돌림…과도한 쏠림 아냐\"(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pMzdQTV9aYjQ5YUFmN2JuVWppN0JOY2NUQ0hSemlXWG4zOUt0bzc4dHlfSkZ6dzRzZ2xoeGF6MS1TUDFOMW5SRWxlZ3pHSEhVZnc?oc=5",
-   "source": "매일경제 마켓",
-   "time": "09/22 14:43",
    "dir": "down",
    "strength": 1
   },
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LczhuTHhhem1DYzdYVDk4TEhEQ05DYUc0azRfTURCeWxXczVPT3Z6QVo0cVBOUmg3eXhRNUlhYnRfLUFZb3dQdENsT2pMVUhFU290TThaRzBsdw?oc=5",
    "source": "파이낸셜뉴스",
    "time": "09/22 04:27",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연휴 앞두고 '7천피' 회복...환율 상승세는 '주춤'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9abmFfMTBrRXQ2M0VpcDd4bVM2LV9HVFVDNDJ5a0ptTU9aaWpwQWFVakVKUVBjMUwwQ1ZTUXhNQjRuX3ZSenhjdEdiSVd0REtlMDVIblU5OFMwRkFhNWc?oc=5",
-   "source": "YTN",
-   "time": "09/21 22:45",
    "dir": "up",
    "strength": 1
   }
