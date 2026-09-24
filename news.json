@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-24 09:18",
+ "updated": "2026-09-24 11:01",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 9,
+  "down": 1,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -47,12 +47,28 @@
    "strength": 1
   },
   {
-   "title": "원·달러 환율 급락…달러 매도·유가 하락에 1350원대",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nSHd3T3g2b1BKUEhnOFRIWkk4OEw4U01YVE1aRDJtc3RSal94dlBoQjE5UFN5NkNXUXYtbXNjdVBKM29JNFpxLUhyWmRBSmZvUF9faXI0ZTVQYTIybnN1WENRWjU?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "09/22 17:47",
+   "title": "원·달러 환율 22.8원 급락, 1350원대로 \"추석 앞두고 달러 매도·미국 이란 대화 기대\"(상보)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZV9nOU1SS1pINGozSmU2bEgzTXRGYUdSMF95UFhRcXJfTWdmbkVSaUlUaHVWMHB6X2VRY2dQWE95SjVGV3MtOUtwcjQ1aUdTLVlRSW9aZmdad0dpd1dpdw?oc=5",
+   "source": "아시아경제",
+   "time": "09/22 16:56",
    "dir": "down",
-   "strength": 2
+   "strength": 1
+  },
+  {
+   "title": "김학균 신영증권 센터장 “연준 금리 인상에도 주가 올라…시장의 합리적 반응”",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tY1lvYU1tVGRJcW9jczhrSXFtWjVwU1JpX0RWa0k5aVYtdVdhLTJYamcxQzB3UXRJOXI0WFFCRUl0STBnc3h4Q0ZBbFNxREM2bTVEZmk3aGFwYkZZMFVGWQ?oc=5",
+   "source": "아시아경제",
+   "time": "09/22 11:29",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[사설]기준금리 인상, 시차까지 살펴 취약차주 점검해야",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SQmNrVXBMRVZuVTBGR0JuWWNfcGZQRTYwck5DS1dod0lISWF2N2VSV0dHdi1jeUhUUy1CbkxFSHgxbkxkVXBNUkZsbE9PS3J6bGQ1ekJHOVQwVXM1TC1UYQ?oc=5",
+   "source": "아시아경제",
+   "time": "09/22 11:01",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "한은 \"기준금리 인상, 집값 상승 기대 낮출 것…가계 대응 여력도 양호\"",
@@ -75,22 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9abmFfMTBrRXQ2M0VpcDd4bVM2LV9HVFVDNDJ5a0ptTU9aaWpwQWFVakVKUVBjMUwwQ1ZTUXhNQjRuX3ZSenhjdEdiSVd0REtlMDVIblU5OFMwRkFhNWc?oc=5",
    "source": "YTN",
    "time": "09/21 22:45",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "1380원대 후반서 제동…8거래일 만에 원/달러 환율 하락 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EX1RoeWtYbUQ2MmN1bk5zZi12RWMwVGxROTdnZC1SWGhiVWtPSmhDdHdtbkdaSFU4QWV1N3FPWVplNW5wTi1FdDZ1TTFhMmV4OU44ZUZDaDdlQmpCalN1aUlWcW12RjEyckgtUEtIRzBFcnFqXzBoYtIBfkFVX3lxTE94dEVDWTBJRW9iMmd3NnlqUzdBUDNab284YVRQNjlFa0tfc2ZfWnhzTVdOdm5Xak1ZLXgtZWZ3cUpNS1BKaVl2b29KbTNwY2R6SjE2eloxZjVjN1Bsb0hoVE51QUZPNFgxYUgtRzN4TGQ4OVNOVGhRdDVtWEh0QQ?oc=5",
-   "source": "머니투데이",
-   "time": "09/21 16:33",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "골드만 \"연준 금리 인상에도 금 강세 전망 유지…내년 온스당 5,400달러\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80UTBva1Z5Ykg4TV9LNEVPbW4zMjRHZnh3S2tYbTNTNXI3dFBnUmdhOXlwWENxYzVYU0taZXFvQU1ZdTV4MVVHSmdlSWRCa1Q0LW1rN1NCREt2c0V2dEllUGNjSHRtS0xxRmdmc0ZrUGI?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/21 16:31",
    "dir": "up",
    "strength": 1
   }
