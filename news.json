@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-25 18:10",
+ "updated": "2026-09-25 23:50",
  "summary": {
-  "up": 5,
+  "up": 4,
   "down": 0,
-  "neutral": 5
+  "neutral": 6
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 5 vs 하락 0).",
+   "상승요인 우세 (상승 4 vs 하락 0).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -55,6 +55,14 @@
    "strength": 0
   },
   {
+   "title": "[외환] 강달러·美 금리 상승세에 1,370원대 안착…15.40원↑",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yQ3hQcHJFZjVpWmpyOVdBaF9HckhiNmNMOEtDd29YQ1hHZ1RscTdsdGE3NThfd3FZY2JzamR3bWN4UWZUdjRCaUgteXBMcHNGVTZSQ1JJTG9wU0tkUXE2S0hlQXdGTkpEa24zSW1mQnbSAXRBVV95cUxNSWdWM0dnS3RSOGh2aExodWxTc1J1emNyRUtfdDVDM1RSOXZRMng4Sjl2aXE1Y2FuMUFwUFA5ZlBBTGI2OWhZY3pKX0laOGlMNEp0OC1KQXJ2TXBjSGhUN3pBNlNUWGhERXY4Q2pMT3lHNjFaRg?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/24 14:18",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
    "title": "연준 인사들, 금리 인상 뒤에도 잇딴 인플레 경고...“추가 긴축이 도움”",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96U3NCZFpyelhpb1RtRVNzN1FCdjBoNUthZlRoWXVUNWhNSmRPT3pES0JtNVBIOWxIcFF5a0dnVVJNaENhOWdqemtwX1NRQVZubnfSAVNBVV95cUxQUm1obDNUS2xmUVlUYldwR0NpYlNscXU3WUNuYUpCVllsazFDaWlJa19iMGl0NnFqdDJkWFcwWElRenVDUGpvYmtEcDlDVWJlMDlKUQ?oc=5",
    "source": "서울경제",
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHbzF3WDZ5MzFMV0phM2hwLURBTXQ4VVQ3SzU5a002NnVCZjRRV0hiRVM2dWNIYWs1VzcyRjNSdFVIanlncUx5RUdnaUFzQ2EwNUNsZmxRdHpmMkRBcFRGcDNXajdQbmU5UTlZSFVnNWU?oc=5",
    "source": "연합인포맥스",
    "time": "09/23 12:13",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美연준 인사 '인플레 경고' 잇따라…\"더 긴축적 금리가 도움\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rZWVFZ3ZSVTFfRWduYjJPT2RHUkkzNE4tZGltTG1zbjlEU3NiRW9PUENpVnRaQ1M3UGphQkl1cDZiTU1TRDJzWVBvaFptSXNCaWFYQVNibWphSTTSAWBBVV95cUxOclZ2ckNDSzRtTF9meDBXYkl4QVRuTkktT2JnYmFBZ09YZlhIUGFEZE10S01uaDFfVTZxV1dZclExSFRNcmZFT3dHZlRSWnA2b0NCUExCWWtmejAxaTJqNUE?oc=5",
-   "source": "연합뉴스",
-   "time": "09/23 02:25",
    "dir": "up",
    "strength": 1
   }
