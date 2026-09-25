@@ -1,19 +1,59 @@
 {
- "updated": "2026-09-25 11:18",
+ "updated": "2026-09-25 18:10",
  "summary": {
-  "up": 6,
-  "down": 4,
-  "neutral": 0
+  "up": 5,
+  "down": 0,
+  "neutral": 5
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
+   "상승요인 우세 (상승 5 vs 하락 0).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "잘나가던 불닭·K뷰티 환율에 울상…그래도 사라는 증권가 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yVWMxeXdCZlJBTVlWbnpzdmttTWJfd3IyRlFQVTViUGZUWHM2SndRUE9QRFdHNmdhRHpVTHd4LVBIYjdfemRfazVTajluUHZiMTlqSkNrV0I0WVZiUzN1MXdZNmFzUVZf0gFuQVVfeXFMT2pHclhrYWVOZ2dHUjBDQklNWW81X2tnell5R1NlT1UyWnFlVXJQVFV0RFdRWHVoSWtKVFNMQlA5ZDdQdGhRVVJjckUwX09ndFFkYk9hbTFEWXVHWHctVVpmX214Ylk5dVJfbkpsSmc?oc=5",
+   "source": "머니투데이",
+   "time": "09/25 10:30",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "연준 추가 인상 우려에…美 30년물 국채금리 22년 만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XMERvcGYwdFoxLUk2MktlNzVmZUJGV0pheHZwUFI1UzVCZmg2WGIwTDVTcV9NaVVWNWNnM2xzQUZ6Z0NzdTJvZWdmM216aG5iNWJKWWM4eDYzaUs1WnhENA?oc=5",
+   "source": "아시아경제",
+   "time": "09/25 09:22",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[4만달러 눈 앞] ① 3%대 성장에 국민소득 도약…12년 만에 새 문턱",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiVS03UDRPWDBVdktVZWJvZGIzdUMzSEJRZzBaVWpYM3pWQThiQTZJRFpFZXo0VGNQZ012NTIxMFhJRkY1TlUtWUlqUHY4TFlrMEE?oc=5",
+   "source": "매일경제 마켓",
+   "time": "09/25 08:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[외환-마감] 한산한 장세 속 강달러로 상승…7.60원↑",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwQk9mNHVCWDVySU1VZ2Y2T2hLRmVwOUU3QjF3dEZCU3p4bjNfQVRReUdRTDc5d0ttWHNKMkhiZklva0U4eng0LVBOaFh3RmJIMWk5QWM2Z1RkaVhQSDRLOEF6ZU5CNGhaNHBkTTJhZlo?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/24 18:18",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYmQtS240RUZlT0p3U3hUbVZaZlUwUlc0akxnbnRTN0E1WVc1SXAtX3ZwUXdIZXJWbjhDZUQwSmQ5ZTQtNWotZ290YnpBeE9hUGc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "09/24 15:32",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "연준 인사들, 금리 인상 뒤에도 잇딴 인플레 경고...“추가 긴축이 도움”",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96U3NCZFpyelhpb1RtRVNzN1FCdjBoNUthZlRoWXVUNWhNSmRPT3pES0JtNVBIOWxIcFF5a0dnVVJNaENhOWdqemtwX1NRQVZubnfSAVNBVV95cUxQUm1obDNUS2xmUVlUYldwR0NpYlNscXU3WUNuYUpCVllsazFDaWlJa19iMGl0NnFqdDJkWFcwWElRenVDUGpvYmtEcDlDVWJlMDlKUQ?oc=5",
@@ -51,46 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rZWVFZ3ZSVTFfRWduYjJPT2RHUkkzNE4tZGltTG1zbjlEU3NiRW9PUENpVnRaQ1M3UGphQkl1cDZiTU1TRDJzWVBvaFptSXNCaWFYQVNibWphSTTSAWBBVV95cUxOclZ2ckNDSzRtTF9meDBXYkl4QVRuTkktT2JnYmFBZ09YZlhIUGFEZE10S01uaDFfVTZxV1dZclExSFRNcmZFT3dHZlRSWnA2b0NCUExCWWtmejAxaTJqNUE?oc=5",
    "source": "연합뉴스",
    "time": "09/23 02:25",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율 급락…달러 매도·유가 하락에 1350원대",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nSHd3T3g2b1BKUEhnOFRIWkk4OEw4U01YVE1aRDJtc3RSal94dlBoQjE5UFN5NkNXUXYtbXNjdVBKM29JNFpxLUhyWmRBSmZvUF9faXI0ZTVQYTIybnN1WENRWjU?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "09/22 17:47",
-   "dir": "down",
-   "strength": 2
-  },
-  {
-   "title": "원·달러 환율 22.8원 급락, 1350원대로 \"추석 앞두고 달러 매도·미국 이란 대화 기대\"(상보)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZV9nOU1SS1pINGozSmU2bEgzTXRGYUdSMF95UFhRcXJfTWdmbkVSaUlUaHVWMHB6X2VRY2dQWE95SjVGV3MtOUtwcjQ1aUdTLVlRSW9aZmdad0dpd1dpdw?oc=5",
-   "source": "아시아경제",
-   "time": "09/22 16:56",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "추석 앞두고 달러 매도 쏟아져…원·달러 환율 22.8원 급락 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5cXFvTUZZdWZXSTlxdzFFTS0wdEFYd3RDWXN0TFptQ3VQZFZrUHFQUlN3cjlQSDV5MGFQOXBfc0JrT0QxYzBTRnIyMG9FZnR0ZUHSAVNBVV95cUxPUC1JMGFicm9oTnEyWDdsUlRJR1VqXzBKR29kaV9WYWJDcjM0U042NVlPTVJkVjFQNGhTUnBCa2xKSWtIWkpMcDN6UDZhZFI0OE5jUQ?oc=5",
-   "source": "서울경제",
-   "time": "09/22 16:52",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "한은 \"원화 강세, 펀더멘털 반영한 되돌림…과도한 쏠림 아냐\"(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WUGVxRWtBYlZTQkl4Yk5RWHFkTzdDVjZTZFRpNXQ4djNfZU42Vll5RHdDTThYdlRETDA4dnpjMTBHay1GLUFOUWdtb0dIcEtSc1hzdnhYYy1XX0HSAWBBVV95cUxQaWVPWFRSSHBuSDJmcno3V203ZzBsajVuRm11MlZwN0lWRWVMUmJLRU45ZjlqNnBpV0x1ZWJpSzFGWGoyelhXU3NNd1VVNWg3ZlJHakxxMEFzSEhyQlkzcHo?oc=5",
-   "source": "연합뉴스",
-   "time": "09/22 14:43",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "김학균 신영증권 센터장 “연준 금리 인상에도 주가 올라…시장의 합리적 반응”",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tY1lvYU1tVGRJcW9jczhrSXFtWjVwU1JpX0RWa0k5aVYtdVdhLTJYamcxQzB3UXRJOXI0WFFCRUl0STBnc3h4Q0ZBbFNxREM2bTVEZmk3aGFwYkZZMFVGWQ?oc=5",
-   "source": "아시아경제",
-   "time": "09/22 11:29",
    "dir": "up",
    "strength": 1
   }
