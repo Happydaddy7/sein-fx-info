@@ -1,19 +1,75 @@
 {
- "updated": "2026-09-25 23:50",
+ "updated": "2026-09-28 09:25",
  "summary": {
-  "up": 4,
+  "up": 0,
   "down": 0,
-  "neutral": 6
+  "neutral": 8
  },
  "outlook": {
-  "dir": "up",
+  "dir": "neutral",
   "lines": [
-   "상승요인 우세 (상승 4 vs 하락 0).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "상승·하락 요인 혼재 (상승 0 vs 하락 0).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "코스피 하락 출발, 원달러 환율은 1350원 후반 대",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZNUU0dTNVQzF0bjZQcDBHNWJTNFNrcl9uV2tPZXNaeUZGcDRzYzV2Vm5yTUlmRk5kaUNwTHkxaUpkbDkxVDk3NTFnVjlyQXNHN1pNOGxyZ2g2TjRqVUxzSQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/28 09:19",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "이번주 뉴욕증시 고용·물가 '빅위크'…연준 추가 인상 가늠한다[월가프리뷰]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MU2Vlb0RrZ3VnaXN5aUxxR2hYVzRFdlhXQ3JFdnpRWGh1aE9QLXhWVHkwc2VrMGNQYmh1d3c4Vzd4bk9LT21GU01SbncxakFyRXhiRVdJTjB0bE5tLXZ3LTlBYkJNNEnSAWxBVV95cUxPam5PVkE1NFVfVXBHR3g0b3hjYUlCRDUyYU9QUlZJU1Z2Q1hPTzdxUkdQVlI5Xy1yNUJBVEdObTFrRUdzR183WHNOejhKcklCV3Q1TUdCWmdFZUdpSkhQNjdZbFphX0E4eGhGVXg?oc=5",
+   "source": "뉴스1",
+   "time": "09/28 07:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "베선트 \"연준, 금리에 열린 마음 가져야…AI 생산성이 물가 억제\"",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ta1dzNWNnVk9JNWJHamQ2REQ3OVkyUEIzT19sUlZCYlF5Nm10QTlFTFFLa0Fsc09LemlUSG1jMmVmOVNTRS05bVpwRWdNV29uN3hETVc5R3lBTWNpMjlYTlJIQ19vZlFOZDFjVdIBbEFVX3lxTE4ta1dzNWNnVk9JNWJHamQ2REQ3OVkyUEIzT19sUlZCYlF5Nm10QTlFTFFLa0Fsc09LemlUSG1jMmVmOVNTRS05bVpwRWdNV29uN3hETVc5R3lBTWNpMjlYTlJIQ19vZlFOZDFjVQ?oc=5",
+   "source": "뉴스1",
+   "time": "09/28 04:53",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "같이 약했던 원화·엔화, 이제 갈라지나…경상흑자 종류 다르다 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1udDZQYllBOGhtMk52YkhKeUpvcXE4VExaNEpxNXZIQVI4WEpRT0lqVlFnUWFiR1ZZZGtMNWY5X1ZkV3lIQy1IWTg3WlR2VS1NdktnRzRSUEtYa2tENzFEdVVpQzlSRlFTa1FJ0gFwQVVfeXFMT2dKWjBFSjB3SDZGSUp2UXdVWXZTdDVDbDZteUp1cUVXR0hzWTcxNHZkNndpaFVmQW01RERCaF9nVDBRU0V6YjRuUTlLSFEyOFYyc1FwbVpJaEg2Zk5ZNktNcmIxQWZwTVg0S0d1a0Jndg?oc=5",
+   "source": "머니투데이",
+   "time": "09/27 13:45",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "1380원대 찍더니 다시 아래로…추석 뒤 환율 가를 '달러·엔·네고' - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LRldUU0ZESjdBVExXeHhpa2doOENxUEp0b1RYNUpqNFd6bFJMNWFXRnAyS0VzWjBmc3lfWVJ5UTQwcWQzVXAwUEFkQWNwTHBJTWN6SjAybS1XRl8wdVlxcHRTSHJoQTRGWWJr0gFwQVVfeXFMTTVhWlhfZ01JMHNxSTFwTXlYMTg5b2dtNDBocTA5UFFMMFZFbDlyS0lXQXpMeTdad2RoM2NLUkJYSlZjNWxTQ21OM2xvTHJtek9XQTRUV295ZmlQRFZMQ25ROEZJMWU3LUNVRUtZdjhVbw?oc=5",
+   "source": "머니투데이",
+   "time": "09/27 08:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "“추석 끝나면 환율 또 출렁?”…미중회담·대미투자 곳곳 변수",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aTW9UVGUzczliVmZzdmEwYktfNXp4X05mZ3B3dHhNWkFwYm82aVM5bm9kaGVfQjZ0ZjhjcGVJemJlWkthQmZPU2ZKWVBrZVFfVWc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "09/26 15:36",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[뉴욕환시] 달러 닷새만에↓…엔화 급등 속 호르무즈 재개방 기대감 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zZk5lTkw4N3R2SEFiV0p4T0EwWUt1ajZ6cGowTWtYUEVBQWo5cC1hckxDUXFtNnNKWmdSYTNEVHZMT0cxUTdVbnNReDNxbGRMSTlDelFxZ2YzYXh1MkVZanVWUFVUdm9TS1FOYkdKN0FDaUhh?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/26 07:59",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "잘나가던 불닭·K뷰티 환율에 울상…그래도 사라는 증권가 - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yVWMxeXdCZlJBTVlWbnpzdmttTWJfd3IyRlFQVTViUGZUWHM2SndRUE9QRFdHNmdhRHpVTHd4LVBIYjdfemRfazVTajluUHZiMTlqSkNrV0I0WVZiUzN1MXdZNmFzUVZf0gFuQVVfeXFMT2pHclhrYWVOZ2dHUjBDQklNWW81X2tnell5R1NlT1UyWnFlVXJQVFV0RFdRWHVoSWtKVFNMQlA5ZDdQdGhRVVJjckUwX09ndFFkYk9hbTFEWXVHWHctVVpmX214Ylk5dVJfbkpsSmc?oc=5",
@@ -21,78 +77,6 @@
    "time": "09/25 10:30",
    "dir": "neutral",
    "strength": 0
-  },
-  {
-   "title": "연준 추가 인상 우려에…美 30년물 국채금리 22년 만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XMERvcGYwdFoxLUk2MktlNzVmZUJGV0pheHZwUFI1UzVCZmg2WGIwTDVTcV9NaVVWNWNnM2xzQUZ6Z0NzdTJvZWdmM216aG5iNWJKWWM4eDYzaUs1WnhENA?oc=5",
-   "source": "아시아경제",
-   "time": "09/25 09:22",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[4만달러 눈 앞] ① 3%대 성장에 국민소득 도약…12년 만에 새 문턱",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiVS03UDRPWDBVdktVZWJvZGIzdUMzSEJRZzBaVWpYM3pWQThiQTZJRFpFZXo0VGNQZ012NTIxMFhJRkY1TlUtWUlqUHY4TFlrMEE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "09/25 08:00",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[외환-마감] 한산한 장세 속 강달러로 상승…7.60원↑",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwQk9mNHVCWDVySU1VZ2Y2T2hLRmVwOUU3QjF3dEZCU3p4bjNfQVRReUdRTDc5d0ttWHNKMkhiZklva0U4eng0LVBOaFh3RmJIMWk5QWM2Z1RkaVhQSDRLOEF6ZU5CNGhaNHBkTTJhZlo?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/24 18:18",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[외환] 원/달러 환율 7.6원 오른 1,366.0원(15:30 기준가)",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYmQtS240RUZlT0p3U3hUbVZaZlUwUlc0akxnbnRTN0E1WVc1SXAtX3ZwUXdIZXJWbjhDZUQwSmQ5ZTQtNWotZ290YnpBeE9hUGc?oc=5",
-   "source": "매일경제 마켓",
-   "time": "09/24 15:32",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[외환] 강달러·美 금리 상승세에 1,370원대 안착…15.40원↑",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yQ3hQcHJFZjVpWmpyOVdBaF9HckhiNmNMOEtDd29YQ1hHZ1RscTdsdGE3NThfd3FZY2JzamR3bWN4UWZUdjRCaUgteXBMcHNGVTZSQ1JJTG9wU0tkUXE2S0hlQXdGTkpEa24zSW1mQnbSAXRBVV95cUxNSWdWM0dnS3RSOGh2aExodWxTc1J1emNyRUtfdDVDM1RSOXZRMng4Sjl2aXE1Y2FuMUFwUFA5ZlBBTGI2OWhZY3pKX0laOGlMNEp0OC1KQXJ2TXBjSGhUN3pBNlNUWGhERXY4Q2pMT3lHNjFaRg?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/24 14:18",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "연준 인사들, 금리 인상 뒤에도 잇딴 인플레 경고...“추가 긴축이 도움”",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96U3NCZFpyelhpb1RtRVNzN1FCdjBoNUthZlRoWXVUNWhNSmRPT3pES0JtNVBIOWxIcFF5a0dnVVJNaENhOWdqemtwX1NRQVZubnfSAVNBVV95cUxQUm1obDNUS2xmUVlUYldwR0NpYlNscXU3WUNuYUpCVllsazFDaWlJa19iMGl0NnFqdDJkWFcwWElRenVDUGpvYmtEcDlDVWJlMDlKUQ?oc=5",
-   "source": "서울경제",
-   "time": "09/24 05:30",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "연준 바 이사, 추가 금리 인상 지지…\"인플레 목표 달성 위험 커져\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXN0hPWDZUSVhqZW9oODJ3d2FLX3ZVMWxMWGpLZW9mSjhRM2VleFJHR0QxUUstb0JQVjV4STFWaElPNjB1T09IREtScmxLQWpNSFJCMWVaTXhIcVR5XzRzM1paVE44MEl4c2RkN0VJX3o?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/24 03:47",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "'금리 인상' 끝이 아니다?…연준 내부서 쏟아지는 경고 [지금이뉴스]",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oWmdGaWdpeE9JeFcyOTBHX1Y3N01Mc3dkWDRwZ2N1MzZ1andhUjJPWlFzYTBNSDNOSW5wd0VrSnd4ME5XaTBLLTZoZFV4aVNleVR2SjlaSEY5TE5EQmc?oc=5",
-   "source": "YTN",
-   "time": "09/23 17:20",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "월가 전문가 \"美·이란 합의 땐 유가·금리 하락…연준, 매파 근거 잃을 것\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHbzF3WDZ5MzFMV0phM2hwLURBTXQ4VVQ3SzU5a002NnVCZjRRV0hiRVM2dWNIYWs1VzcyRjNSdFVIanlncUx5RUdnaUFzQ2EwNUNsZmxRdHpmMkRBcFRGcDNXajdQbmU5UTlZSFVnNWU?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/23 12:13",
-   "dir": "up",
-   "strength": 1
   }
  ]
 }
