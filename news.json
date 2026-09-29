@@ -1,19 +1,59 @@
 {
- "updated": "2026-09-28 19:16",
+ "updated": "2026-09-29 10:38",
  "summary": {
-  "up": 1,
-  "down": 3,
-  "neutral": 6
+  "up": 3,
+  "down": 2,
+  "neutral": 5
  },
  "outlook": {
-  "dir": "down",
+  "dir": "neutral",
   "lines": [
-   "하락요인 우세 (하락 3 vs 상승 1).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승·하락 요인 혼재 (상승 3 vs 하락 2).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "쿡 美연준 이사 \"AI, 인플레 부추겨…추가 금리 인상은 데이터 따라 결정\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nWjBjYWVFaWZMSHVrRGlXejR4Nm9BaDhnVUVzYmJWZ21aX0xfS0NtLWVXQzRkcnhOS3BGXzNFVE1XM05BaG1PcG4zUGNjbTVvaGZ1aWt6VmJUbkxlclRFNQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/29 10:22",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "\"유가 100달러 계속 웃돌면 내년에도 연준 추가 긴축 전망\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FR2FiVUNyY1AxcUJUNjBVeHBhRk53TnExWWVxTWNta3UtOW9jZzFTaHc2eFRIbU5MQld0TXV3cUdwLXF5bDVWZnVuMDZGb2N4UXZoa2diTjg0QzgtelhPTXp0emVva3NOaGVmdEdDamU?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/29 09:49",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "대신증권, LG이노텍 목표가↓…\"3분기 수익성에 환율 부담\"",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DTVVXRDkwSUhfUjJrSXhaby1yV3lBdmxnS2xSYWRpaWxMb2JJOVkxd0FGM29lT01QZ25TeWhBWkpvVTdIazh3WURfdzAwcDRQanc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "09/29 08:28",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "“美금리가 중국보다 3%P 높은데 왜?” … 거꾸로 치솟는 위안화의 비밀",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IbjlaMDlweTVsck82STg0TFVqNzZCTWdISTBjc3NYTHNVajIzNW9ZUHh0MzFaLUN6RjFaQnk2ZmNvb0l0cGFjREk4bGZ2TlB6WHc?oc=5",
+   "source": "매일경제",
+   "time": "09/29 04:30",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "10월 기준금리 어떻게?…신현송 물가 압력 유의",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ybENSOTRwekM1QS1uUmtLMjZaWmlHbjRNZHB3UjZTajNuVloyd1d2WFpQUnFPMEowYnZmd2s2Umg3ZzVXN09pcUZteDluRU5HdFBr0gFYQVVfeXFMTU9IdGYyTENPcmx2dk5RcWVIS0ttUU1tZERGNDJqQUp3aWdKQlZXWnhrREt1NU5GTUFQbDNyQTQ4NE1hd09oUTBNY2dfcFpxeDBaVnN1dEw3UQ?oc=5",
+   "source": "SBS Biz",
+   "time": "09/28 17:54",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "美국채금리 19년래 최고·외인 매도세에…환율 다시 1360원대 - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kQm03VmdYUlVDZ0lGbWRISV9ud0JFemJRQVNoY0VPQVNtbzJaT1JYc3lkaDItS1M5NS1UOTlEcHNTVE5vaFIwQUtPR3F6Z042eTZtUDlMakpnTnpnOW5JQWFMX2NrVnA0X2000gFwQVVfeXFMTmhWYVpnX0NDN2pMZThsWktkNmZOSm1qVGVlSGVlcE9zSi11aHBoblRqNEZhRGdSNGNHRHJFTWlwS0VJdmJOazdPcmxrU1BSWnNnM0NqalBnZE9veUdXRGZTQTZ6YWZpbE56Qkp6MmxnQw?oc=5",
@@ -31,14 +71,6 @@
    "strength": 0
   },
   {
-   "title": "추석 연휴 美국채 금리 급등에…환율 1,360원대 중반으로",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MNl9sNF8xWjVBWENJQ1pCR2Fma0VCRnZPUkNLWUNWM19QUnh1RzdyVHF5ZnRpMlBUclFBWGN1S1JLVnlLYWNtQTRWNDVSd0VycVE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "09/28 15:53",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "원·달러 환율 상승",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GRVdjb1Nja21LY3l5dXR2LU5XdzJhUFV0SVktLUtReWp2dGJBVzBHSHA3XzRnaS1RdHFPb0FTdWRJT2dXWmJKWDFoWnZoNGNjandyWXBMWVFqQ0kyRzAzZw?oc=5",
    "source": "뉴시스",
@@ -47,42 +79,10 @@
    "strength": 1
   },
   {
-   "title": "원·달러 환율, 7.6원 오른 1365.1원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSRzBfcW1oQW9tU3pGRGJyckhPVWgwN3Q5R1RSeDJLbkRXZmtYMUdXbk9qa1ZmbDU1YVhEZG14WENkdDVpYVgwMXBkeVRkekFZNXRDNzZJVUw4UTRRVGFhMNIBeEFVX3lxTE9jUVM3eWxkbnhOVmNsSFJodDZscjVZbmlxTHFHVVFVRUVVM0F0ZTVCZkw0ZzQwZE82ZXgyVXE1dm9WZ3RSaGZLVGxSM1otR1Q1czlNd05nN0xuTDdIVFNpdHh1Rnc0YTFPNTR3bWM3SWVPSnBhQ3dkeQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/28 15:42",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[외환] 원/달러 환율 7.6원 오른 1,365.1원(15:30 기준가)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uUXBnVDdHd2txNmJVVlJpcGhiV3lHU3gzdHZJUi1QaTRteHhpd2Z5TFROZUxwLU9jSjdnRGlUSW0tcnRYd1llWjFqRGk4UlJxREZfd0p2ZmdNUjTSAWBBVV95cUxNeWJOLWlLdWJzbkhpSm5RcTZzWm1tcm1VMUR6dmVIZ2xHMlZZOTEwaEM3LWtXaFBWbEFlTVhsSFlJMFAtaXdLVnpyVGxPd3JIOFZWbjJtWkVnSjJzZlVQWTI?oc=5",
-   "source": "연합뉴스",
-   "time": "09/28 15:38",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[속보]원·달러 환율, 7.6원 오른 1365.1원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJSnNBM3hPTlRpSTJhWVlFVUNlQ19RUFQxMU1oUjhnU1pYNUxFc0lHTkFsNmhfMVNXRFRveG9rNl9pY3dwdVJqM1dRZTNIZ1M1NlV4WWpZM3VwT1oxWERTR9IBeEFVX3lxTE9xT2R1WS1sZnB6YWtudU1JLWxQSHBqSF84SVhVN3hRSmxJelp0eUZrOXdaTVRlV2RQcFprWEtCb2dySDBxUDNXLWtqZXNqUkY0VHlWUDZpZGNxNkhNeWZTVWM1V2FBRWJ3RTlTRkhkd1Y5M0t3VS1MLQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/28 15:36",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "삼성전기, 환율 하락 '압박'에도 3Q 고실적 전망…AI 부품 '견인차'",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kMnZvTm5vU1ZFOWNvVnduWDY5cXJENWZwYTRDbUxCeF9WeGMzZG1VeHVtY1hxYzV6TEx4V2NpRUlWVXR6NHExdVZtSjZqNGJVemxXck5rSGpBZldpdXB0bFgzWGTSAWpBVV95cUxObTliV3IzNmFKWFI4UXBtSTBBNjU3aFE5T0dEUE5oUHZVX0Y2aGpNR3otcFJLZnlLWGRyU1ZMeW9IUzRUNHVXSDExV0RSRnRzclVYRFRQZ2NYNkxnd0swWXI3R2I0MEYtNUJ3?oc=5",
    "source": "뉴스1",
    "time": "09/28 10:16",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "삼성전기, 환율 하락에도 실적 기대감↑…AI 서버 부품이 견인",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pS3otS1lrVTQtZS1SZDZkNVVKZ1lYSW81YXYyZlpXcnN0QUNScmRsTnU4YTlzcDVnTDduVlhCN2plSEdZSG5IZGN1R2sxN1JFZW5RMXdtZDhEQjhYRkxSOdIBeEFVX3lxTE1Gci1ZMDlHUEhvdGQ3SXNpY1VlZEhZUVZPdXBHbmxtZzJYRldlYWNpSFh4NFg0alhYbmlScVctcTQ4SUxMSjFkOS1QanB5Tm9EY2F6Z1hNWnRuZkw2Y29yWndmQlpnVldhUnRVZUI3UlBrSVhPeE9IbQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/28 09:44",
    "dir": "down",
    "strength": 1
   },
