@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-30 10:09",
+ "updated": "2026-09-30 11:49",
  "summary": {
-  "up": 1,
+  "up": 3,
   "down": 2,
-  "neutral": 7
+  "neutral": 5
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 1 vs 하락 2).",
+   "상승·하락 요인 혼재 (상승 3 vs 하락 2).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
@@ -63,20 +63,20 @@
    "strength": 0
   },
   {
-   "title": "원·달러 환율, 8.4원 내린 1356.7원(오후 3시30분)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xYTJ2V2pvbkZjVUlpNEdveTZCWDZMVWNEUWkydW5nRUh6Y3RNYWVtNWRRMnEwNHl3YWlUQXd1ZTBERnNLQV9fOHR3T3FoaTBMTUpjc0RRbDRQUmdiUzduRA?oc=5",
-   "source": "아시아경제",
-   "time": "09/29 15:37",
-   "dir": "neutral",
-   "strength": 0
+   "title": "쿡 美연준 이사 \"AI, 인플레 부추겨…추가 금리 인상은 데이터 따라 결정\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nWjBjYWVFaWZMSHVrRGlXejR4Nm9BaDhnVUVzYmJWZ21aX0xfS0NtLWVXQzRkcnhOS3BGXzNFVE1XM05BaG1PcG4zUGNjbTVvaGZ1aWt6VmJUbkxlclRFNQ?oc=5",
+   "source": "뉴시스",
+   "time": "09/29 10:22",
+   "dir": "up",
+   "strength": 1
   },
   {
-   "title": "[외환] 원/달러 환율 8.4원 내린 1,356.7원(15:30 기준가)",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1faWtKcDBwWWJ0RnpRYUJKMG5uOHlNZHhZWGtqaDBHN3JXa19fOHdHSDc0Z0ZqVFczaEN2ZDlibDZLVVJERDB1Z2lITGREV2dTalE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "09/29 15:35",
-   "dir": "neutral",
-   "strength": 0
+   "title": "원·달러 환율 상승",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GRVdjb1Nja21LY3l5dXR2LU5XdzJhUFV0SVktLUtReWp2dGJBVzBHSHA3XzRnaS1RdHFPb0FTdWRJT2dXWmJKWDFoWnZoNGNjandyWXBMWVFqQ0kyRzAzZw?oc=5",
+   "source": "뉴시스",
+   "time": "09/28 15:52",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "“내년 상반기까지 긴축 지속…기준금리 최종 3.5% 전망” [헤럴드머니페스타 2026]",
