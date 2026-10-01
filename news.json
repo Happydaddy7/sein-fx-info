@@ -1,19 +1,67 @@
 {
- "updated": "2026-10-01 11:55",
+ "updated": "2026-10-01 19:32",
  "summary": {
-  "up": 5,
-  "down": 5,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 8 vs 하락 2).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "WGBI 자금 유입 공백에…원·달러 환율 상승 마감 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1eTFpaEI0TUtZeGR5ekdNeDc3S2xLVUpYMjRoZEtWaGY3dUQtaDAxcGRNNWxJWjhJYl9WY2lWa0swZnIydHEzc3NJM2Z3QkF0MVHSAVNBVV95cUxORFNHc3RKUWs0ajRBRV9rMzc5cmxXZVNPdWFnNktlc09rLXBfMUMwai1DaC10YVd4emNFMjVObjdnR2N0MDhIcGJNam02UDNid09nUQ?oc=5",
+   "source": "서울경제",
+   "time": "10/01 16:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 긴축 장기화 전망에 달러·원 환율 반등…1358.4원 마감(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjRGxPOGRTMzJPSFpvV3ZMVUJQMmtpRWxTNTJsN0RTWUtrRF9NSU5kUVl4Nzd4QlhYdE50eUZJR3Z0ZmVzTV9MTjNvdDNWcWJyUFZzNGxzS2ZOc3PSAWBBVV95cUxQb2JBSmE3a1dseVBSRnphWVY1UmI1QkkzVmJSS1E4YS1TMnBDNG9pREFMUWg1MC0yV3NqUWhMSXFYeEpEU3U1ZmFGaVM4b3BkMGtwNGJ4MUh6eGk1SDJfb1c?oc=5",
+   "source": "뉴스1",
+   "time": "10/01 16:24",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 환율 1500원에도 소비 덜 줄었다…가계도 '고환율 적응'",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51U1ZDVkhjN3ljemtuejhPX1dCOHNqeFpSUjJ6QnkyUHRCX0lZV0RjTDVLbDlYM3ZBSEMzR1JBOEktOTZNNTJZQjV1Q21qWnF4SDY4VExqeW85R3VKTkZReDhmLVJaTldTVHVCaU1R0gFzQVVfeXFMTWNVcmhhVVp1MUtibFp4ZzZpZXFKUV9GZ0g0MmI2Qk5BeGNjWWlXX0g5QnlkZUV6ZjZ4d0dxSWNucnNyUUMyQ2xNT2xYZFA3ZGozYnVzTkVmYk5pTXBkaE5STkhBbTZ4aHBZb2lUMkVBN0RhUQ?oc=5",
+   "source": "한국일보",
+   "time": "10/01 15:58",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "외환위기부터 고환율까지…반복 충격에 가계도 ‘소비 내성’",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SbVlaN3VMRXp1VFdIRnVaLW9ubHdDcENrenNlR0ZuaFpSTVBPeno2dV8zcG8zenJEM2JVYmYtUExBT0llMHlWQ043RkJ0d3dnMVHSAVNBVV95cUxQVjNtdlVKUXRHWG8xS2JNUlFZSU1sU2p3VE1CckF2TUVWalNEdUEzUVN6M3BzcnRvQko1dUJQUEJPa0FERnkxWi1EcWlNaFlBUjE3Zw?oc=5",
+   "source": "서울경제",
+   "time": "10/01 13:15",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[외환] 매도 공백에 추가 상승…외인 주식 매도·엔화 약세",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uc04tbEdKZ3NjREpRUnloMDRnUkdHS2RxMEVOZEUzdkNPdzJucXAxanJ5TUNvbVpUQVh5YkV0SEY4Xy1wQ3MzamJxakMyMzRBbmFaMDRydHpFTnc3bF82TlREejNlUzZNNXF0YUJTZ0JYY29w0gF0QVVfeXFMTm5zTi1sR0pnc2NESlFSeWgwNGdSR0dLZHEwRU5kRTN2Q093Mm5xcDFqcnlNQ29tWlRBWHliRXRIRjhfLXBDczNqYnFqQzIzNEFuYVowNHJ0ekVOdzdsXzZOVER6M2VTNk01cXRhQlNnQlhjb3A?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/01 13:07",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 급등에 익숙한 X세대, MZ보다 소비 덜 줄였다 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USm1TbXF3SldMTGkxNTQ4NWxHaXJuLVhOWHN4em1WamlMdVNZRERLeTFMVHI4ZUVoREtIVzcxUnFya00tWnBRR1JyRDVndUc4TEI4NU9NU1hZVzNxcjg5TTd3dmdxTjVKc1RJ0gFwQVVfeXFMT2ctMmxnYkVqQUYxWURqWlByVGFlVEtCM044UG0tTWh4NXplV2pOamY5WUhybW9XYjFYQ2pNamhpRkJ1SURBamZsV2ZsRjVyVUtSQThMbVk2M1NLVl92S2FxekRsWl9lRXNSTUlCUkdoYw?oc=5",
+   "source": "머니투데이",
+   "time": "10/01 12:00",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "달러원 환율 상승 중",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0ZFU5UEc4WnlvU0R4TUlBcHJDWUhsejh5RzY5YkRRSFVwbnZMZV9qd29RcHNQSURhYVlCVGxua0NPQXF0aHZTX2ZTbw?oc=5",
@@ -39,59 +87,11 @@
    "strength": 1
   },
   {
-   "title": "외환당국, 2분기 환율 방어에 96억 달러 순매도…약 14조 원",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iczhEMmc2SWljMTdnUGF4NW1nOUFldkREOGR5VWU5aUpUa041Mnl1MVhUdVAxc1RNNTQ3bXhwRTBYRVh1ZHZIUWxmRDZkQmREUWdfd9IBWkFVX3lxTE9pbTN0X3N5b2xPMmRHUFNYbl9ZclBNc2dkZWFpQWRLSEVBZG5kTWdtOWVSc1JrSE5RUHZiOEpvMmY1VmtlSDNubEJPc0xMclNQaENXYUhfLTBFZw?oc=5",
-   "source": "뉴스1",
-   "time": "09/30 17:28",
+   "title": "환율 상승 막느라…올 상반기 외환보유액 230억달러 쏟아부었다",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZG1KX2F4eWZQWExlcGl4a0h6S1JyMEV4aHZ6cXVwN3hOZzVMdTM4T3lkSW5GbFFoZFZNMnVMZ3pGMXBZM2RLUVB1ZG11d0FMQzJZbmNZUmZJZEZsUDN3TEdWaHNnNzdSUk82bld6cjJrdw?oc=5",
+   "source": "한겨레",
+   "time": "09/30 17:50",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "외환당국, 2분기에도 환율 방어에 100억 달러 순매도",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUFlkQkdWN3B5eThDNGEtV2paQUM5ZEM4ZGdWckRqQmNkYTlvNmpMbEwxNTNlU0ktR0gzZlRyOExyZUJnVGMtYUE2MnZKdFhnQmJmUWFWQnYtOTg?oc=5",
-   "source": "KBS 뉴스",
-   "time": "09/30 17:20",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 방어 위해 외환당국 2분기에 14조원 썼다",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IeEpOWDlxVXFfVXZwYzd5MVE3aEZUcm9IVkJ5R0RWZjZlZk1vU1ZSaTBnRUN4SlJ2SmNWOUNwMml1clV2b2xYLTBPaE1RVC15LXfSAVNBVV95cUxOTzVjMTZWbW51SzFUdFczektOWWNuVFdmTDdRVnZGTGNJLXFTbEZBbWViRFdTNXFhN1RlSTFwalBlWDIzbFFQanFPUllzZlV6LU93VQ?oc=5",
-   "source": "서울경제",
-   "time": "09/30 16:35",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "외환당국, 올해 2분기 환율 방어에 96.1억 달러 투입",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TQ3B5MGtTZkFnQ3Nqb0ZQaFNSRnd4TjNxTF9oOVc5UU9KaTB5bm1yVnVXbVhLOVZvX0lZX1V6RExYNHdaUlVCaVpmSkljQkJpSG15T3lEMjF6UkUzd3BLcdIBeEFVX3lxTE9XTFBqdl9pZzBwaENkaHpyeThOSy1zQnhFMTI0VGN5Ty1CbDhzYUNvUER2cElaZ1lXX3g4bnFKWHZESnhpbjNrSlpLaE1qQkZlSFJyOTk0UnRoZG9fWTh0ek9yWHFYLXgzME5tSEh1cThpc1JTZHJzcQ?oc=5",
-   "source": "뉴시스",
-   "time": "09/30 16:22",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "외인 주식 매도 환전에도…분기말 네고에 환율 하락 마감 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4UXBXNWJLNWJfMTE2cWctMGFTVThYeENvV1ZwcFpNcU5tamdQaUs4WEFDYWFqdU9fczVFVFJVYzk4a2FoclllRFpJdlhjU0lVQlHSAVNBVV95cUxQVTNwbmJoNVhvdENzNUx3c05MbjlleXoxeXYwQmVsaHpLQmRfUUo0aXFxNjA5VjNCaEVhemVxZkxIckVHTjd2a3ZyQXI0d2NwV0J3SQ?oc=5",
-   "source": "서울경제",
-   "time": "09/30 16:06",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[외환] 外人 환전 수요·호주달러 급락에 상승 반전…1,360원 육박",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GQ1hWR1hpaTQzSkZXc2hnU0ZRUHF0Y1d3R2tKcjBYOEdlN2NlbGtjbEpOeUhjdVhpSlNhNS1hWHp1dmV5QVZqRUI2RnlDMWpMV01FU19xOTREQzZLcFRHTjlHMFhOWTc1RlNHSTZrNlbSAXRBVV95cUxNMDVFbmVyV2d2OGdCQVlkZXo0NUk2N3k3ZXpmT3FzcHQ3Z0FjWWcwckJ0OHJDTmpvNy1TSTI4Z2JpVldsa1pZR2g4bDhpRk5YOTR6NlljNE14Ql9WN0VZQ1NqelpnWnhvYWdhTFhLQXZQQ3drYQ?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/30 13:04",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[뉴욕환시] 달러 이틀째↑…美 국채금리 고공행진 속 ECB '비둘기' 발언 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wZWhIU1lEWTNQR2dmRFV5dlNENFdxMVFRcnlISk10RVZicHVHZHhESW9PNFNGcmVYS2ZmamRBd2tSOUNJQk5HRS1kaG5xaWFrZHR4clZPS2UzS2VVcjFIaURPUjNoVHBaTk9HZTRYTmgwbVJv?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/30 07:32",
-   "dir": "down",
    "strength": 1
   }
  ]
