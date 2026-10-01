@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30 19:04",
+ "updated": "2026-10-01 10:09",
  "summary": {
   "up": 6,
   "down": 4,
@@ -14,6 +14,30 @@
   ]
  },
  "items": [
+  {
+   "title": "달러원 환율 상승 중",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0ZFU5UEc4WnlvU0R4TUlBcHJDWUhsejh5RzY5YkRRSFVwbnZMZV9qd29RcHNQSURhYVlCVGxua0NPQXF0aHZTX2ZTbw?oc=5",
+   "source": "뉴스1",
+   "time": "10/01 09:26",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 8월 PCE 예상보다 완화…연준 추가금리인상 부담 덜었다",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SSjFVazkxNUNJdFFPQ2U2aXV5Z2pYM2VqdVZERE9CTk5XRG5TZEZybEp6NU05dzJ0Uk43aHQwUVpDaUcxY0RuSkRpdDhmMVBnT1lIdUZsVVNzQQ?oc=5",
+   "source": "한국경제",
+   "time": "09/30 22:37",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "美 8월 물가 예상보다 덜 올랐다…연준 금리인상 부담 완화(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0weWhBd1llUXhINmVGVnViNVlyNWlxa2swOFAySmM4Q0VYN0J0dmJZUEtWYmE1dGhjRkxrLVpYaVdLLVhiMUNVX3RralcwSDNkcmxLdlhXdmXSAV5BVV95cUxOV09OQTZvUTBzUXZEajRBYlY5RjhCalVuWVljU1lSeGhYa29wWmZzZ0ZfQlp2RDZpc0dGOUc5NnZQbGtjZXFzSmxncl8xZDBHa1dhYzAzUGpxRVNGMWpR?oc=5",
+   "source": "뉴스1",
+   "time": "09/30 22:07",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "환율 상승 막느라…올 상반기 외환보유액 230억달러 쏟아부었다",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZG1KX2F4eWZQWExlcGl4a0h6S1JyMEV4aHZ6cXVwN3hOZzVMdTM4T3lkSW5GbFFoZFZNMnVMZ3pGMXBZM2RLUVB1ZG11d0FMQzJZbmNZUmZJZEZsUDN3TEdWaHNnNzdSUk82bld6cjJrdw?oc=5",
@@ -35,14 +59,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUFlkQkdWN3B5eThDNGEtV2paQUM5ZEM4ZGdWckRqQmNkYTlvNmpMbEwxNTNlU0ktR0gzZlRyOExyZUJnVGMtYUE2MnZKdFhnQmJmUWFWQnYtOTg?oc=5",
    "source": "KBS 뉴스",
    "time": "09/30 17:20",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "외환당국, 2분기 환율 방어에 96억달러 순매도",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0SE52bndhZ3E2VUhidlpwZGFnV1JIVWNLN3BGSlh0OUhvcVA5YjdQRTFZdEkwYnlyUWs5b1Bld1ZFNWxxeHVqNXRLVTMzbVNOWThyZ1ZvcGRGWWPSAWBBVV95cUxPNU5kY1draVRPR0NXWFQ2Mkk0MEgwbXVkTU50YU9oZE40cEFwVDRyQnBMUGhsTE9qUlk4V2E1YUpLZ0RPbzVidEJYVWNUeVEzdGpnREtEN1plNElmaS1rSU0?oc=5",
-   "source": "연합뉴스",
-   "time": "09/30 17:17",
    "dir": "up",
    "strength": 1
   },
@@ -71,26 +87,10 @@
    "strength": 1
   },
   {
-   "title": "美금리 상승도 누른 수출업체 달러 매도…환율 1,350원대 초반",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tTzRjNWgybGkwTk5pd3hKMFhBMGZwMEdRV3UzMFNCVFB5ZmZXTzdrV1J1RlJkbWlOd0FRcTVyUDliS1FIUEhRVEVDNTdULTVRbkE?oc=5",
-   "source": "매일경제 마켓",
-   "time": "09/30 16:01",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "[외환] 外人 환전 수요·호주달러 급락에 상승 반전…1,360원 육박",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GQ1hWR1hpaTQzSkZXc2hnU0ZRUHF0Y1d3R2tKcjBYOEdlN2NlbGtjbEpOeUhjdVhpSlNhNS1hWHp1dmV5QVZqRUI2RnlDMWpMV01FU19xOTREQzZLcFRHTjlHMFhOWTc1RlNHSTZrNlbSAXRBVV95cUxNMDVFbmVyV2d2OGdCQVlkZXo0NUk2N3k3ZXpmT3FzcHQ3Z0FjWWcwckJ0OHJDTmpvNy1TSTI4Z2JpVldsa1pZR2g4bDhpRk5YOTR6NlljNE14Ql9WN0VZQ1NqelpnWnhvYWdhTFhLQXZQQ3drYQ?oc=5",
    "source": "연합인포맥스",
    "time": "09/30 13:04",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[뉴욕환시] 달러 이틀째↑…美 국채금리 고공행진 속 ECB '비둘기' 발언 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wZWhIU1lEWTNQR2dmRFV5dlNENFdxMVFRcnlISk10RVZicHVHZHhESW9PNFNGcmVYS2ZmamRBd2tSOUNJQk5HRS1kaG5xaWFrZHR4clZPS2UzS2VVcjFIaURPUjNoVHBaTk9HZTRYTmgwbVJv?oc=5",
-   "source": "연합인포맥스",
-   "time": "09/30 07:32",
    "dir": "down",
    "strength": 1
   }
