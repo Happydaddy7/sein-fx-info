@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-01 10:09",
+ "updated": "2026-10-01 11:55",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 5,
+  "down": 5,
   "neutral": 0
  },
  "outlook": {
-  "dir": "up",
+  "dir": "neutral",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
@@ -36,14 +36,6 @@
    "source": "뉴스1",
    "time": "09/30 22:07",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "환율 상승 막느라…올 상반기 외환보유액 230억달러 쏟아부었다",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZG1KX2F4eWZQWExlcGl4a0h6S1JyMEV4aHZ6cXVwN3hOZzVMdTM4T3lkSW5GbFFoZFZNMnVMZ3pGMXBZM2RLUVB1ZG11d0FMQzJZbmNZUmZJZEZsUDN3TEdWaHNnNzdSUk82bld6cjJrdw?oc=5",
-   "source": "한겨레",
-   "time": "09/30 17:50",
-   "dir": "up",
    "strength": 1
   },
   {
@@ -91,6 +83,14 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GQ1hWR1hpaTQzSkZXc2hnU0ZRUHF0Y1d3R2tKcjBYOEdlN2NlbGtjbEpOeUhjdVhpSlNhNS1hWHp1dmV5QVZqRUI2RnlDMWpMV01FU19xOTREQzZLcFRHTjlHMFhOWTc1RlNHSTZrNlbSAXRBVV95cUxNMDVFbmVyV2d2OGdCQVlkZXo0NUk2N3k3ZXpmT3FzcHQ3Z0FjWWcwckJ0OHJDTmpvNy1TSTI4Z2JpVldsa1pZR2g4bDhpRk5YOTR6NlljNE14Ql9WN0VZQ1NqelpnWnhvYWdhTFhLQXZQQ3drYQ?oc=5",
    "source": "연합인포맥스",
    "time": "09/30 13:04",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[뉴욕환시] 달러 이틀째↑…美 국채금리 고공행진 속 ECB '비둘기' 발언 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wZWhIU1lEWTNQR2dmRFV5dlNENFdxMVFRcnlISk10RVZicHVHZHhESW9PNFNGcmVYS2ZmamRBd2tSOUNJQk5HRS1kaG5xaWFrZHR4clZPS2UzS2VVcjFIaURPUjNoVHBaTk9HZTRYTmgwbVJv?oc=5",
+   "source": "연합인포맥스",
+   "time": "09/30 07:32",
    "dir": "down",
    "strength": 1
   }
