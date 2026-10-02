@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-02 10:26",
+ "updated": "2026-10-02 11:57",
  "summary": {
-  "up": 9,
-  "down": 1,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 9 vs 하락 1).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -55,18 +55,10 @@
    "strength": 1
   },
   {
-   "title": "WGBI 자금 유입 공백에…원·달러 환율 상승 마감 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1eTFpaEI0TUtZeGR5ekdNeDc3S2xLVUpYMjRoZEtWaGY3dUQtaDAxcGRNNWxJWjhJYl9WY2lWa0swZnIydHEzc3NJM2Z3QkF0MVHSAVNBVV95cUxORFNHc3RKUWs0ajRBRV9rMzc5cmxXZVNPdWFnNktlc09rLXBfMUMwai1DaC10YVd4emNFMjVObjdnR2N0MDhIcGJNam02UDNid09nUQ?oc=5",
-   "source": "서울경제",
-   "time": "10/01 16:31",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 긴축 장기화 전망에 달러·원 환율 반등…1358.4원 마감(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjRGxPOGRTMzJPSFpvV3ZMVUJQMmtpRWxTNTJsN0RTWUtrRF9NSU5kUVl4Nzd4QlhYdE50eUZJR3Z0ZmVzTV9MTjNvdDNWcWJyUFZzNGxzS2ZOc3PSAWBBVV95cUxQb2JBSmE3a1dseVBSRnphWVY1UmI1QkkzVmJSS1E4YS1TMnBDNG9pREFMUWg1MC0yV3NqUWhMSXFYeEpEU3U1ZmFGaVM4b3BkMGtwNGJ4MUh6eGk1SDJfb1c?oc=5",
-   "source": "뉴스1",
-   "time": "10/01 16:24",
+   "title": "원·달러 환율 1500원에도 소비 덜 줄었다…가계도 '고환율 적응'",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51U1ZDVkhjN3ljemtuejhPX1dCOHNqeFpSUjJ6QnkyUHRCX0lZV0RjTDVLbDlYM3ZBSEMzR1JBOEktOTZNNTJZQjV1Q21qWnF4SDY4VExqeW85R3VKTkZReDhmLVJaTldTVHVCaU1R0gFzQVVfeXFMTWNVcmhhVVp1MUtibFp4ZzZpZXFKUV9GZ0g0MmI2Qk5BeGNjWWlXX0g5QnlkZUV6ZjZ4d0dxSWNucnNyUUMyQ2xNT2xYZFA3ZGozYnVzTkVmYk5pTXBkaE5STkhBbTZ4aHBZb2lUMkVBN0RhUQ?oc=5",
+   "source": "한국일보",
+   "time": "10/01 15:58",
    "dir": "up",
    "strength": 1
   },
@@ -87,10 +79,18 @@
    "strength": 1
   },
   {
-   "title": "달러원 환율 상승 중",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0ZFU5UEc4WnlvU0R4TUlBcHJDWUhsejh5RzY5YkRRSFVwbnZMZV9qd29RcHNQSURhYVlCVGxua0NPQXF0aHZTX2ZTbw?oc=5",
-   "source": "뉴스1",
-   "time": "10/01 09:26",
+   "title": "美 8월 PCE 예상보다 완화…연준 추가금리인상 부담 덜었다",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SSjFVazkxNUNJdFFPQ2U2aXV5Z2pYM2VqdVZERE9CTk5XRG5TZEZybEp6NU05dzJ0Uk43aHQwUVpDaUcxY0RuSkRpdDhmMVBnT1lIdUZsVVNzQQ?oc=5",
+   "source": "한국경제",
+   "time": "09/30 22:37",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "환율 상승 막느라…올 상반기 외환보유액 230억달러 쏟아부었다",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZG1KX2F4eWZQWExlcGl4a0h6S1JyMEV4aHZ6cXVwN3hOZzVMdTM4T3lkSW5GbFFoZFZNMnVMZ3pGMXBZM2RLUVB1ZG11d0FMQzJZbmNZUmZJZEZsUDN3TEdWaHNnNzdSUk82bld6cjJrdw?oc=5",
+   "source": "한겨레",
+   "time": "09/30 17:50",
    "dir": "up",
    "strength": 1
   }
