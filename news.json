@@ -1,27 +1,19 @@
 {
- "updated": "2026-10-02 11:57",
+ "updated": "2026-10-02 19:07",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
-  {
-   "title": "\"연준, 동결 모드 진입…이후 행보는 금리 인하\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUb2JJd0R1Sl9nMUgtSE52THBpN1Vfb2l2LVRsWHR1dmM0cENlRXd6YzJ1TTFDX3pFWHJnTmVLRjFBTEZ2aFV4dUVsZzdJaEFMYVlCa0RTNG1CZmZoV1hfN2lQaU5TZk4tTXlWeFdQc0c?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/02 09:34",
-   "dir": "down",
-   "strength": 1
-  },
   {
    "title": "연준 고위인사 잇단 '신중론'…10월 금리 인상 확률 26%로 뚝",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pblFHQWZOSjZKUEhudnpnMkVESFh2MmdDUDg1RERWOEltQ2Y2MUNPWXBnMGdUWEdfT3VPdFZzN2ktQnZvc050VFlTaGc4V19tU0RQOHV0Ql82ZGEwWXIzbdIBeEFVX3lxTE50SmVFbjJnWkVZcm5iZTVKbzR2TXRZTlZDV0hvMnhabl81cTFZTmxRVG12NUQyRGNlelBvb1UwV2FsSnV3c0toWGwybHJOMlc0WnBQaV84eG9SLTlIWHYxdWNMSWxzczRaWHJpT0Iycnd5SXdXSy1aUA?oc=5",
@@ -55,26 +47,18 @@
    "strength": 1
   },
   {
+   "title": "WGBI 자금 유입 공백에…원·달러 환율 상승 마감 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1eTFpaEI0TUtZeGR5ekdNeDc3S2xLVUpYMjRoZEtWaGY3dUQtaDAxcGRNNWxJWjhJYl9WY2lWa0swZnIydHEzc3NJM2Z3QkF0MVHSAVNBVV95cUxORFNHc3RKUWs0ajRBRV9rMzc5cmxXZVNPdWFnNktlc09rLXBfMUMwai1DaC10YVd4emNFMjVObjdnR2N0MDhIcGJNam02UDNid09nUQ?oc=5",
+   "source": "서울경제",
+   "time": "10/01 16:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "원·달러 환율 1500원에도 소비 덜 줄었다…가계도 '고환율 적응'",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51U1ZDVkhjN3ljemtuejhPX1dCOHNqeFpSUjJ6QnkyUHRCX0lZV0RjTDVLbDlYM3ZBSEMzR1JBOEktOTZNNTJZQjV1Q21qWnF4SDY4VExqeW85R3VKTkZReDhmLVJaTldTVHVCaU1R0gFzQVVfeXFMTWNVcmhhVVp1MUtibFp4ZzZpZXFKUV9GZ0g0MmI2Qk5BeGNjWWlXX0g5QnlkZUV6ZjZ4d0dxSWNucnNyUUMyQ2xNT2xYZFA3ZGozYnVzTkVmYk5pTXBkaE5STkhBbTZ4aHBZb2lUMkVBN0RhUQ?oc=5",
    "source": "한국일보",
    "time": "10/01 15:58",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[외환] 매도 공백에 추가 상승…외인 주식 매도·엔화 약세",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uc04tbEdKZ3NjREpRUnloMDRnUkdHS2RxMEVOZEUzdkNPdzJucXAxanJ5TUNvbVpUQVh5YkV0SEY4Xy1wQ3MzamJxakMyMzRBbmFaMDRydHpFTnc3bF82TlREejNlUzZNNXF0YUJTZ0JYY29w0gF0QVVfeXFMTm5zTi1sR0pnc2NESlFSeWgwNGdSR0dLZHEwRU5kRTN2Q093Mm5xcDFqcnlNQ29tWlRBWHliRXRIRjhfLXBDczNqYnFqQzIzNEFuYVowNHJ0ekVOdzdsXzZOVER6M2VTNk01cXRhQlNnQlhjb3A?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/01 13:07",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 급등에 익숙한 X세대, MZ보다 소비 덜 줄였다 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USm1TbXF3SldMTGkxNTQ4NWxHaXJuLVhOWHN4em1WamlMdVNZRERLeTFMVHI4ZUVoREtIVzcxUnFya00tWnBRR1JyRDVndUc4TEI4NU9NU1hZVzNxcjg5TTd3dmdxTjVKc1RJ0gFwQVVfeXFMT2ctMmxnYkVqQUYxWURqWlByVGFlVEtCM044UG0tTWh4NXplV2pOamY5WUhybW9XYjFYQ2pNamhpRkJ1SURBamZsV2ZsRjVyVUtSQThMbVk2M1NLVl92S2FxekRsWl9lRXNSTUlCUkdoYw?oc=5",
-   "source": "머니투데이",
-   "time": "10/01 12:00",
    "dir": "up",
    "strength": 1
   },
@@ -87,11 +71,27 @@
    "strength": 1
   },
   {
+   "title": "美 8월 물가 예상보다 덜 올랐다…연준 금리인상 부담 완화(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0weWhBd1llUXhINmVGVnViNVlyNWlxa2swOFAySmM4Q0VYN0J0dmJZUEtWYmE1dGhjRkxrLVpYaVdLLVhiMUNVX3RralcwSDNkcmxLdlhXdmXSAV5BVV95cUxOV09OQTZvUTBzUXZEajRBYlY5RjhCalVuWVljU1lSeGhYa29wWmZzZ0ZfQlp2RDZpc0dGOUc5NnZQbGtjZXFzSmxncl8xZDBHa1dhYzAzUGpxRVNGMWpR?oc=5",
+   "source": "뉴스1",
+   "time": "09/30 22:07",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "환율 상승 막느라…올 상반기 외환보유액 230억달러 쏟아부었다",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZG1KX2F4eWZQWExlcGl4a0h6S1JyMEV4aHZ6cXVwN3hOZzVMdTM4T3lkSW5GbFFoZFZNMnVMZ3pGMXBZM2RLUVB1ZG11d0FMQzJZbmNZUmZJZEZsUDN3TEdWaHNnNzdSUk82bld6cjJrdw?oc=5",
    "source": "한겨레",
    "time": "09/30 17:50",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美금리 상승도 누른 수출업체 달러 매도…환율 1,350원대 초반",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81b2VGenlJVlRONzJoYTlpVFl0ZkFjbUZtaWpyNUxLUkpDUVNBVGh1Y3VDb215NTNCYXlqMk5DN2lWZVBxVFFPcUpDNnhON2F0MUNBLVUxNEpSNWPSAWBBVV95cUxPWkpPaTI5dFVRSTAzcjU5dy1jWktHdVlfeTkzWlZNSlc0dkxTZl92c0ZCRTlQc0JYbk5XVnFQQ3hVS1pGak8tbDFCOTRGMWY1WFdUX2lNM0IzMTRTVmJvMzc?oc=5",
+   "source": "연합뉴스",
+   "time": "09/30 16:01",
+   "dir": "down",
    "strength": 1
   }
  ]
