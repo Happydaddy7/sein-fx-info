@@ -1,98 +1,98 @@
 {
- "updated": "2026-10-02 19:07",
+ "updated": "2026-10-05 09:35",
  "summary": {
-  "up": 7,
-  "down": 3,
-  "neutral": 0
+  "up": 0,
+  "down": 2,
+  "neutral": 8
  },
  "outlook": {
-  "dir": "up",
+  "dir": "down",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "하락요인 우세 (하락 2 vs 상승 0).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "연준 고위인사 잇단 '신중론'…10월 금리 인상 확률 26%로 뚝",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pblFHQWZOSjZKUEhudnpnMkVESFh2MmdDUDg1RERWOEltQ2Y2MUNPWXBnMGdUWEdfT3VPdFZzN2ktQnZvc050VFlTaGc4V19tU0RQOHV0Ql82ZGEwWXIzbdIBeEFVX3lxTE50SmVFbjJnWkVZcm5iZTVKbzR2TXRZTlZDV0hvMnhabl81cTFZTmxRVG12NUQyRGNlelBvb1UwV2FsSnV3c0toWGwybHJOMlc0WnBQaV84eG9SLTlIWHYxdWNMSWxzczRaWHJpT0Iycnd5SXdXSy1aUA?oc=5",
-   "source": "뉴시스",
-   "time": "10/02 08:41",
-   "dir": "up",
-   "strength": 1
+   "title": "약달러에 웃은 ‘곱버스’, 3분기 ETF 수익률 1~3위 싹쓸이",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5a2lGbHpUbG9JZ2owNENuRFdpLWdULTNqSGg3a1A5alItdk5nN2RJenM1cDlueEtTcXBPRGtFT0RBb3k3N2xyMzljSXhmR3RZdWJ0cGQ0em5RVVBwMnlQMnpXZ0dETXZRMHhrUTVNcXhsMlZJTHfSAWZBVV95cUxPVlIyRW1FZC1tWlhLY012dC1Fa1VmY0JJUk14QTM5ZnhnOEdIS2tCbEJ0M1Z6aHkxVklBTFRhOW5oU0FPUEhtUXU5T3JhTWtrOGR3Y0V5ejFuQ3FNU25mZE8zdkFrcVE?oc=5",
+   "source": "동아일보",
+   "time": "10/05 01:40",
+   "dir": "neutral",
+   "strength": 0
   },
   {
-   "title": "제퍼슨 연준 부의장 “추가 금리 인상 판단에 시간 더 필요할 수도”｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVDZqMXFGdnY4bnJaNVNVZDhRWEpXZVVZUjdIbTQxNVlTVDdyXzJwNWpKdmVQcWg1S0ZMX3VXYndQZVkyYkdGbFNlbUVtSGNiWUdZcTR6TlF1U2M?oc=5",
-   "source": "중앙일보",
-   "time": "10/02 08:19",
-   "dir": "up",
-   "strength": 1
+   "title": "3분기 ETF 상슬률 1~3위, ‘달러 곱버스’ 이름 올려",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kOXpJeDFNaWRiWWUzVTZfanh5Uks3aWtiTDNRWXQwWGNzQXllclVFVFNVd0wzYl9lVXlWbTd1QjRiV1VtTTBzd1lzREpOVDhheXI1aVVaSU5vX3pyMU90QlFudHU?oc=5",
+   "source": "서울경제TV",
+   "time": "10/04 10:45",
+   "dir": "neutral",
+   "strength": 0
   },
   {
-   "title": "긴축 압박 덜어낸 미 물가...연준, 금리 인상 카드 접을까",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nQmYwcEk0RHdwdzVKTGJZZUsyUVhVTW03ZXJuVEhBRUhNb2NkY1VrUEFRX2d1Z3ZYRmk3Vi1IYVg0QmllMWItYlhhMGhsalU4ekhHTkZCaW9wX3A2VkE?oc=5",
-   "source": "YTN",
-   "time": "10/02 04:50",
-   "dir": "up",
-   "strength": 2
+   "title": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YbmMyd2JLeUJrR1NibzBldDN1b3VucmdlYi00UFFxUURSV1MxdGJmOExaRlh3NzhhRzNsbmdIaDNrbzQxSEowUmlQSXVQenBYQXc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "10/04 06:20",
+   "dir": "neutral",
+   "strength": 0
   },
   {
-   "title": "\"10월 美 증시, 금리가 변수\"…연준 긴축·국채금리 급등에 촉각",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91eGtzWjV2YkRwTEp0N3h0SWpRek5HRVNSbl9rOE42ZWYtXzVMMGJtYzYtX2RfSEVzMXhma1ZFbmlkdnRFXzBJbFZybC1YZnB5NXk5SVlsZHlpN0hwY2dYUdIBeEFVX3lxTE1uSFFKYTdONjg5ZjV5VjRjNktDVkhBdGlydW8xcFRaUTZhU0tMandzWkFjQS1ldG1NdGE2aFJpck9NY0xwOWNYLXhIOUx2V29acnpTeWwybmRvR1NGUUZXTnAwbXJvalB4MFpQSExZd0taaUk1MGZucA?oc=5",
-   "source": "뉴시스",
-   "time": "10/02 03:55",
-   "dir": "up",
-   "strength": 1
+   "title": "\"10월 연준·한은 금리 동결할 것…달러-원 1,345~1,370원 전망\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ydUFjaTZEM1VzOXFVY2ZPSDUxdzVUbjJsaGJQRjlHSkFVSHFZTG85QzgtdExlX0tXY015R0xhSXl2Uk1MZTM3b09DUFFEUXgzdy0tOVlHNzFQQVkxNHZmV05Qclozd3JzZFMtbGh3dlI?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/03 07:40",
+   "dir": "neutral",
+   "strength": 0
   },
   {
-   "title": "WGBI 자금 유입 공백에…원·달러 환율 상승 마감 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1eTFpaEI0TUtZeGR5ekdNeDc3S2xLVUpYMjRoZEtWaGY3dUQtaDAxcGRNNWxJWjhJYl9WY2lWa0swZnIydHEzc3NJM2Z3QkF0MVHSAVNBVV95cUxORFNHc3RKUWs0ajRBRV9rMzc5cmxXZVNPdWFnNktlc09rLXBfMUMwai1DaC10YVd4emNFMjVObjdnR2N0MDhIcGJNam02UDNid09nUQ?oc=5",
-   "source": "서울경제",
-   "time": "10/01 16:31",
-   "dir": "up",
-   "strength": 1
+   "title": "1,366원까지 치솟더니…원·달러 환율, 갑자기 1340원대로",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nTUl0RWFMNVltR211cUk4ZzVnREdJWXFaYWR3am44TTcxRC1yZE9DSTVYX3ZuSlUwYnEzeVZKTGV4Q3dEcEFEYVJNdmlEd2hxa1MwVjdpek5UOUtwNEVkZ1prNjd3Wk82OENiN3dza2JWMENMLXE0?oc=5",
+   "source": "한국경제TV",
+   "time": "10/02 17:37",
+   "dir": "neutral",
+   "strength": 0
   },
   {
-   "title": "원·달러 환율 1500원에도 소비 덜 줄었다…가계도 '고환율 적응'",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51U1ZDVkhjN3ljemtuejhPX1dCOHNqeFpSUjJ6QnkyUHRCX0lZV0RjTDVLbDlYM3ZBSEMzR1JBOEktOTZNNTJZQjV1Q21qWnF4SDY4VExqeW85R3VKTkZReDhmLVJaTldTVHVCaU1R0gFzQVVfeXFMTWNVcmhhVVp1MUtibFp4ZzZpZXFKUV9GZ0g0MmI2Qk5BeGNjWWlXX0g5QnlkZUV6ZjZ4d0dxSWNucnNyUUMyQ2xNT2xYZFA3ZGozYnVzTkVmYk5pTXBkaE5STkhBbTZ4aHBZb2lUMkVBN0RhUQ?oc=5",
-   "source": "한국일보",
-   "time": "10/01 15:58",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 8월 PCE 예상보다 완화…연준 추가금리인상 부담 덜었다",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SSjFVazkxNUNJdFFPQ2U2aXV5Z2pYM2VqdVZERE9CTk5XRG5TZEZybEp6NU05dzJ0Uk43aHQwUVpDaUcxY0RuSkRpdDhmMVBnT1lIdUZsVVNzQQ?oc=5",
-   "source": "한국경제",
-   "time": "09/30 22:37",
+   "title": "달러-원, 위안화 강세에 고점 대비 13원 넘게 하락…한때 1,353.10원 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Pbm9RcDg3cV9RSTFhdFdzVVRMelFvcTBmWDNkbTFRcnRBT0c5REVMLXRzU2JCQjF4RDN5Wm56bGJ6N1hWeWJ6OFk0a0VYbXhZSV9nZFdVN1lERW9MZWhyTVdTZzBfcXZzSlN1ZXhnSjZJeEVq?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/02 16:48",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "美 8월 물가 예상보다 덜 올랐다…연준 금리인상 부담 완화(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0weWhBd1llUXhINmVGVnViNVlyNWlxa2swOFAySmM4Q0VYN0J0dmJZUEtWYmE1dGhjRkxrLVpYaVdLLVhiMUNVX3RralcwSDNkcmxLdlhXdmXSAV5BVV95cUxOV09OQTZvUTBzUXZEajRBYlY5RjhCalVuWVljU1lSeGhYa29wWmZzZ0ZfQlp2RDZpc0dGOUc5NnZQbGtjZXFzSmxncl8xZDBHa1dhYzAzUGpxRVNGMWpR?oc=5",
+   "title": "대외 악재에도 환율 1350원까지 하락… '역대급' 무역흑자 '달러 공급'(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yVmhJOFdUTU9KVFNTOFZTWHZWUGtjeHhwSkZETmpURkhkS0NOTms0dlA1XzZnTmtLNGV0d2REdzF3SDVWMzNiUkNGQzVRQU5kZkY3MzdZSThGTDjSAWBBVV95cUxNeGljZ1B5Q2k4Vmt4NHE1YzdFek9OYmdKbDRIUEo2djFvRmFKbmRIVWtvMjVFbTV4bFAyRHBnUGc5M1FUcU9sTERkc3JKZl94Q3pGX1M3enZoYndXbWxNRzc?oc=5",
    "source": "뉴스1",
-   "time": "09/30 22:07",
+   "time": "10/02 16:43",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "환율 상승 막느라…올 상반기 외환보유액 230억달러 쏟아부었다",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KZG1KX2F4eWZQWExlcGl4a0h6S1JyMEV4aHZ6cXVwN3hOZzVMdTM4T3lkSW5GbFFoZFZNMnVMZ3pGMXBZM2RLUVB1ZG11d0FMQzJZbmNZUmZJZEZsUDN3TEdWaHNnNzdSUk82bld6cjJrdw?oc=5",
-   "source": "한겨레",
-   "time": "09/30 17:50",
-   "dir": "up",
-   "strength": 1
+   "title": "환율 다시 오르나...IBK證 “연말 1400원 전망”",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00LUd5V1BrV1hNSS14TTRoTlphdDhQczE4aDRTU0JuTWtlSmt1SFFCOTBaQy1TdUR6MkREbTJLYWl3aWIxUFZSTDB3aENMWndlNlhuWQ?oc=5",
+   "source": "매일경제",
+   "time": "10/02 16:30",
+   "dir": "neutral",
+   "strength": 0
   },
   {
-   "title": "美금리 상승도 누른 수출업체 달러 매도…환율 1,350원대 초반",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81b2VGenlJVlRONzJoYTlpVFl0ZkFjbUZtaWpyNUxLUkpDUVNBVGh1Y3VDb215NTNCYXlqMk5DN2lWZVBxVFFPcUpDNnhON2F0MUNBLVUxNEpSNWPSAWBBVV95cUxPWkpPaTI5dFVRSTAzcjU5dy1jWktHdVlfeTkzWlZNSlc0dkxTZl92c0ZCRTlQc0JYbk5XVnFQQ3hVS1pGak8tbDFCOTRGMWY1WFdUX2lNM0IzMTRTVmJvMzc?oc=5",
-   "source": "연합뉴스",
-   "time": "09/30 16:01",
-   "dir": "down",
-   "strength": 1
+   "title": "“9월에 20조 팔아치운 외국인”…10월엔 돌아올까",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRzBhQklwQjdSS1AtdDVSVGJPNHE2V2tLZFBjb1lFeFh1cHVoXzF1UkdqQlhEQ1hLbGYxYnRSS2JIY0ZpVUhfRzhrX1pkWE5Ic3c?oc=5",
+   "source": "매일경제 마켓",
+   "time": "10/02 15:24",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "\"삼전닉스 458조 폭탄 터진다\"…환율 거꾸로 가는 '진짜 이유' [분석+]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83dWlGSDdsczFHTGFEWHJQQktHalBZZElnN0VXSWxOdzFNRDFna2p6SVpJRmJsMTVsTHpoa1NXblBDMXZfM3dfM3FvMzk1N016TnctSlZiamhJUQ?oc=5",
+   "source": "한국경제",
+   "time": "10/02 13:30",
+   "dir": "neutral",
+   "strength": 0
   }
  ]
 }
