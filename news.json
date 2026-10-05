@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-05 09:35",
+ "updated": "2026-10-05 11:50",
  "summary": {
-  "up": 0,
+  "up": 1,
   "down": 2,
-  "neutral": 8
+  "neutral": 7
  },
  "outlook": {
-  "dir": "down",
+  "dir": "neutral",
   "lines": [
-   "하락요인 우세 (하락 2 vs 상승 0).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승·하락 요인 혼재 (상승 1 vs 하락 2).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
@@ -47,6 +47,30 @@
    "strength": 0
   },
   {
+   "title": "[속보] 뉴욕증시 연준 금리 동결 가능성에 상승 마감…나스닥 1.19%↑",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zbnphRmJDQ3hreUVpbC1ESXlzcXh2U0IycjFMTDFmdDd6a2VwSUpvTFoyMWNxZTdWMVAyMURUcEZXNEc2bmYyNFFySXF3WmpGSkxjSVR1TzRYRXBvVjlYQdIBeEFVX3lxTE1wNWpvcmVTaXFIbG9oc054Q3FUd3puaVhfUnVaSE9OMDdPaWR6SlUzR2hZalptT0l3QXBMQl9hdmdWMFk1eTZGbDEzcktrZ0RBTVgtWlYwLWRUcUFHZXgxcDhwUTFkSXMxUVVlTDkxak9hcVBnblpYNA?oc=5",
+   "source": "뉴시스",
+   "time": "10/03 05:08",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "10월 금리 인상 확률 70%→25%…연준 핵심 인사들 잇단 ‘신중론’｜Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfZDUyd2hjZ1JobmtMRWlDVk03Z3dFNkRuaHJMVVJMVjJnblNZcDZyaDZncXV2RmVjTVZubDRrQ0lUQWcxQm5iMll3RGttbl9RelluenlSYlBCUWc?oc=5",
+   "source": "중앙일보",
+   "time": "10/03 03:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "뉴욕증시, 연준 10월 금리 동결 가능성에 상승 출발…다우 0.68%↑",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pZXFvT2NsbVJTOXdwbFpOV1NXQVR6SC1JVTRrWUNHb29pUTgtcFd3V3BYY2R4VHQ0bWVjQVl3eHVmOFI4OTJucjRnLUJ5N0VCMjVPS3dONC00aEhUWllqaNIBeEFVX3lxTFBybjZSdDlrNGlORDBwMldQU1NxVGRhd29EZTU5TlNwNVJjM1ljR2UwaGY3elRCMVlTZmJ6VTBTRzFsenNDNWV2NFhKaHZ1ZWhLRnJxbWp5cUxvZ05mZHVVRDdHZjA1cUJkcVVtUWpmRUNia1dfdTZFbw?oc=5",
+   "source": "뉴시스",
+   "time": "10/02 23:06",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
    "title": "1,366원까지 치솟더니…원·달러 환율, 갑자기 1340원대로",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nTUl0RWFMNVltR211cUk4ZzVnREdJWXFaYWR3am44TTcxRC1yZE9DSTVYX3ZuSlUwYnEzeVZKTGV4Q3dEcEFEYVJNdmlEd2hxa1MwVjdpek5UOUtwNEVkZ1prNjd3Wk82OENiN3dza2JWMENMLXE0?oc=5",
    "source": "한국경제TV",
@@ -69,30 +93,6 @@
    "time": "10/02 16:43",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "환율 다시 오르나...IBK證 “연말 1400원 전망”",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00LUd5V1BrV1hNSS14TTRoTlphdDhQczE4aDRTU0JuTWtlSmt1SFFCOTBaQy1TdUR6MkREbTJLYWl3aWIxUFZSTDB3aENMWndlNlhuWQ?oc=5",
-   "source": "매일경제",
-   "time": "10/02 16:30",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "“9월에 20조 팔아치운 외국인”…10월엔 돌아올까",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRzBhQklwQjdSS1AtdDVSVGJPNHE2V2tLZFBjb1lFeFh1cHVoXzF1UkdqQlhEQ1hLbGYxYnRSS2JIY0ZpVUhfRzhrX1pkWE5Ic3c?oc=5",
-   "source": "매일경제 마켓",
-   "time": "10/02 15:24",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "\"삼전닉스 458조 폭탄 터진다\"…환율 거꾸로 가는 '진짜 이유' [분석+]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83dWlGSDdsczFHTGFEWHJQQktHalBZZElnN0VXSWxOdzFNRDFna2p6SVpJRmJsMTVsTHpoa1NXblBDMXZfM3dfM3FvMzk1N016TnctSlZiamhJUQ?oc=5",
-   "source": "한국경제",
-   "time": "10/02 13:30",
-   "dir": "neutral",
-   "strength": 0
   }
  ]
 }
