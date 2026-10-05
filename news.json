@@ -1,19 +1,43 @@
 {
- "updated": "2026-10-05 11:50",
+ "updated": "2026-10-05 19:56",
  "summary": {
   "up": 1,
-  "down": 2,
-  "neutral": 7
+  "down": 1,
+  "neutral": 8
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 1 vs 하락 2).",
+   "상승·하락 요인 혼재 (상승 1 vs 하락 1).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "1400원대 재반등 vs 1200원대 안착…엇갈린 환율 전망 [한상춘의 국제경제 읽기]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhY09ZOUNfNi1XeWltM2ZpZFplb2U2OWdtTm45TUxRN1NOOU43aVlFR0x6eWc2NDVTM1FjazlmWnFJVFJoSmV6Q1gyTkNlYi1oSnFVcVVIaFNlQQ?oc=5",
+   "source": "한국경제",
+   "time": "10/05 18:19",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "환율 하락에 영업이익 늘어도 순이익 뚝…외화 자산 평가손익에 영향",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvYjRXaXhnbXRjS2RVakstRzNWc3BtUWh6Z1NqSGVrRHpzaGJIM3BZX05SZFo3dTY0eUY1YzVWUUJLdFdfazRPQnhMQUUtWXN6VEhxTW9TNVp2QQ?oc=5",
+   "source": "한국경제",
+   "time": "10/05 17:44",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "“연준이 10월은 쉬어도 인상 끝 아니다”…시장 관심은 ‘금리 상단’으로[디브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVVEJ1OUZLMnR4N2V4NHZFV0lHQ2NhOWNOcXJsWHNnT0llcUlTZ2ktV3Mzckg0Q1I5SmhHS2lNazlJV2UxQkxfdGZtQnVibF8zbGtIWEc0QQ?oc=5",
+   "source": "헤럴드경제",
+   "time": "10/05 13:42",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "약달러에 웃은 ‘곱버스’, 3분기 ETF 수익률 1~3위 싹쓸이",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5a2lGbHpUbG9JZ2owNENuRFdpLWdULTNqSGg3a1A5alItdk5nN2RJenM1cDlueEtTcXBPRGtFT0RBb3k3N2xyMzljSXhmR3RZdWJ0cGQ0em5RVVBwMnlQMnpXZ0dETXZRMHhrUTVNcXhsMlZJTHfSAWZBVV95cUxPVlIyRW1FZC1tWlhLY012dC1Fa1VmY0JJUk14QTM5ZnhnOEdIS2tCbEJ0M1Z6aHkxVklBTFRhOW5oU0FPUEhtUXU5T3JhTWtrOGR3Y0V5ejFuQ3FNU25mZE8zdkFrcVE?oc=5",
@@ -27,6 +51,14 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kOXpJeDFNaWRiWWUzVTZfanh5Uks3aWtiTDNRWXQwWGNzQXllclVFVFNVd0wzYl9lVXlWbTd1QjRiV1VtTTBzd1lzREpOVDhheXI1aVVaSU5vX3pyMU90QlFudHU?oc=5",
    "source": "서울경제TV",
    "time": "10/04 10:45",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "워시는 침묵…美연준 인사들 발언에 시장 움직인 이유",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QR0NldUdvWjJLNzNoMzZuMGo0bkNob0JKNmo3YWoxTGtLM3FfZFhLWnVoQ0c0dy1fUXNEdXIybTdQMEI4N1M4OWdCdFJNMDB4Mmc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "10/04 08:01",
    "dir": "neutral",
    "strength": 0
   },
@@ -60,38 +92,6 @@
    "source": "중앙일보",
    "time": "10/03 03:31",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "뉴욕증시, 연준 10월 금리 동결 가능성에 상승 출발…다우 0.68%↑",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pZXFvT2NsbVJTOXdwbFpOV1NXQVR6SC1JVTRrWUNHb29pUTgtcFd3V3BYY2R4VHQ0bWVjQVl3eHVmOFI4OTJucjRnLUJ5N0VCMjVPS3dONC00aEhUWllqaNIBeEFVX3lxTFBybjZSdDlrNGlORDBwMldQU1NxVGRhd29EZTU5TlNwNVJjM1ljR2UwaGY3elRCMVlTZmJ6VTBTRzFsenNDNWV2NFhKaHZ1ZWhLRnJxbWp5cUxvZ05mZHVVRDdHZjA1cUJkcVVtUWpmRUNia1dfdTZFbw?oc=5",
-   "source": "뉴시스",
-   "time": "10/02 23:06",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "1,366원까지 치솟더니…원·달러 환율, 갑자기 1340원대로",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nTUl0RWFMNVltR211cUk4ZzVnREdJWXFaYWR3am44TTcxRC1yZE9DSTVYX3ZuSlUwYnEzeVZKTGV4Q3dEcEFEYVJNdmlEd2hxa1MwVjdpek5UOUtwNEVkZ1prNjd3Wk82OENiN3dza2JWMENMLXE0?oc=5",
-   "source": "한국경제TV",
-   "time": "10/02 17:37",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "달러-원, 위안화 강세에 고점 대비 13원 넘게 하락…한때 1,353.10원 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Pbm9RcDg3cV9RSTFhdFdzVVRMelFvcTBmWDNkbTFRcnRBT0c5REVMLXRzU2JCQjF4RDN5Wm56bGJ6N1hWeWJ6OFk0a0VYbXhZSV9nZFdVN1lERW9MZWhyTVdTZzBfcXZzSlN1ZXhnSjZJeEVq?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/02 16:48",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "대외 악재에도 환율 1350원까지 하락… '역대급' 무역흑자 '달러 공급'(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yVmhJOFdUTU9KVFNTOFZTWHZWUGtjeHhwSkZETmpURkhkS0NOTms0dlA1XzZnTmtLNGV0d2REdzF3SDVWMzNiUkNGQzVRQU5kZkY3MzdZSThGTDjSAWBBVV95cUxNeGljZ1B5Q2k4Vmt4NHE1YzdFek9OYmdKbDRIUEo2djFvRmFKbmRIVWtvMjVFbTV4bFAyRHBnUGc5M1FUcU9sTERkc3JKZl94Q3pGX1M3enZoYndXbWxNRzc?oc=5",
-   "source": "뉴스1",
-   "time": "10/02 16:43",
-   "dir": "down",
    "strength": 1
   }
  ]
