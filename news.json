@@ -1,19 +1,35 @@
 {
- "updated": "2026-10-06 11:07",
+ "updated": "2026-10-06 12:41",
  "summary": {
-  "up": 0,
+  "up": 1,
   "down": 2,
-  "neutral": 6
+  "neutral": 7
  },
  "outlook": {
-  "dir": "down",
+  "dir": "neutral",
   "lines": [
-   "하락요인 우세 (하락 2 vs 상승 0).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승·하락 요인 혼재 (상승 1 vs 하락 2).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "美 달러 18개월 만에 최고…‘킹달러’ 만든 다섯 가지 이유",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3JZblMtaXVDcFNUVUpmZzRHM2w5ZHE2LURQenY1QUJ2cVJnNEZMclZ3T3ltYmI4dm1EWkZTSEZGR1M5YnZiYTFWOGFuVGl6VWFaNXl2ejd1a1h4VlVsODY1RHljT25QMW5hMWJKdXFYOFV0M1lacTBvLW92eWxNUw?oc=5",
+   "source": "조선일보",
+   "time": "10/06 09:02",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준이 나서도 못 막는 국채 금리 급등의 진짜 본질",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zcnNjZ21VT0JTZ0xQVlk0UGVJNlh3TlpwTjZpMGI5Q2RmeDJnT1Y1MnhBeVVseGpCajc4SlZ0bEE1V3RfQ0lzYXk3aFFVR2sySmpjaVA0N0dIZFZGSFZiMmtLQ3dlY2phTHlJZ2dDNTPSAXRBVV95cUxOd1ZOQnlQWmZHUFlnaGtVZkhlQkxpazl5QWFZQS1keGFRTU4ycUp1Z0dNeDFBQmt1Q25xd1ZXWnJUeFBBRlB2WVhoSXlQc20zbFZscDV4MUx1REFUeTRLZmwxSHdhWkxHZUlWcjFWYW43NmFkbA?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/06 08:44",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "환율 12% 빠지자…순이익 쇼크 주의보 떴다",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMjZIa3J1YW9oeGVuX01fSzVfS1lQa3otY0FnOEhzcVVKb3FHOExoSU5aWTY2NlUydk5VaVRhTER4bWdHcGxaaC14SXBDa1psdW9hOHo0RDlhUQ?oc=5",
@@ -39,20 +55,20 @@
    "strength": 1
   },
   {
+   "title": "[투자의 창] 숨 고른 원·달러 환율, 다시 오를까",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XQXk5TFNmQmFBMkNsdDRrc3c3clFRai10MTZ0MjJNWmNmaGNSQnhoOVk4el9xXzJWZmVxTkJZMzRzN1dRbnhhQzJNd0NHa0h1Y2fSAVNBVV95cUxPbTQxQmZVckJDZFh3S1gzOEdVd1pWSTBmVzF1RUptaUFrZVJQSnBUNHAtYk1jTlZMN3pYLTE2MDdScnZ4VndQZHZwVVRiNEpOYkYyTQ?oc=5",
+   "source": "서울경제",
+   "time": "10/05 17:46",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
    "title": "환율 하락에 영업이익 늘어도 순이익 뚝…외화 자산 평가손익에 영향",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvYjRXaXhnbXRjS2RVakstRzNWc3BtUWh6Z1NqSGVrRHpzaGJIM3BZX05SZFo3dTY0eUY1YzVWUUJLdFdfazRPQnhMQUUtWXN6VEhxTW9TNVp2QQ?oc=5",
    "source": "한국경제",
    "time": "10/05 17:44",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "“연준이 10월은 쉬어도 인상 끝 아니다”…시장 관심은 ‘금리 상단’으로[디브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVVEJ1OUZLMnR4N2V4NHZFV0lHQ2NhOWNOcXJsWHNnT0llcUlTZ2ktV3Mzckg0Q1I5SmhHS2lNazlJV2UxQkxfdGZtQnVibF8zbGtIWEc0QQ?oc=5",
-   "source": "헤럴드경제",
-   "time": "10/05 13:42",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "3분기 ETF 상슬률 1~3위, ‘달러 곱버스’ 이름 올려",
