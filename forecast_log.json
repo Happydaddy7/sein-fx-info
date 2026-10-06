@@ -777,16 +777,33 @@
     1328,
     1368
    ],
+   "actual": 1343.98,
+   "hit": true,
+   "dir_hit": null,
+   "actual_on": "2026-10-05"
+  },
+  {
+   "made_on": "2026-10-05",
+   "base_rate": 1343.98,
+   "dir": "down",
+   "today_band": [
+    1333,
+    1348
+   ],
+   "week_band": [
+    1319,
+    1354
+   ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-10-05 19:56",
+ "updated": "2026-10-06 11:07",
  "summary": {
-  "scored": 45,
-  "hit": 26,
-  "hit_rate": 58,
+  "scored": 46,
+  "hit": 27,
+  "hit_rate": 59,
   "dir_scored": 36,
   "dir_hit": 24,
   "dir_rate": 67

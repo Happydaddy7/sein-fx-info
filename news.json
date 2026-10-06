@@ -1,19 +1,27 @@
 {
- "updated": "2026-10-05 19:56",
+ "updated": "2026-10-06 11:07",
  "summary": {
-  "up": 1,
-  "down": 1,
-  "neutral": 8
+  "up": 0,
+  "down": 2,
+  "neutral": 6
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "down",
   "lines": [
-   "상승·하락 요인 혼재 (상승 1 vs 하락 1).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "하락요인 우세 (하락 2 vs 상승 0).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
+  {
+   "title": "환율 12% 빠지자…순이익 쇼크 주의보 떴다",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMjZIa3J1YW9oeGVuX01fSzVfS1lQa3otY0FnOEhzcVVKb3FHOExoSU5aWTY2NlUydk5VaVRhTER4bWdHcGxaaC14SXBDa1psdW9hOHo0RDlhUQ?oc=5",
+   "source": "한국경제",
+   "time": "10/06 08:30",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "1400원대 재반등 vs 1200원대 안착…엇갈린 환율 전망 [한상춘의 국제경제 읽기]",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhY09ZOUNfNi1XeWltM2ZpZFplb2U2OWdtTm45TUxRN1NOOU43aVlFR0x6eWc2NDVTM1FjazlmWnFJVFJoSmV6Q1gyTkNlYi1oSnFVcVVIaFNlQQ?oc=5",
@@ -21,6 +29,14 @@
    "time": "10/05 18:19",
    "dir": "neutral",
    "strength": 0
+  },
+  {
+   "title": "원화 강세의 그늘…상장사 영업익 전망 '뒷걸음질'",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zLUdvRmFEei05SS1nTXcxYlVJdXhsS3RfOXJsVF9pV2h1S0JmLW43a0tGVU12aG5FWW9tZTUtSl93Wm1wQk1GemMyWnpmQzhGb01WcHNkWXpVQQ?oc=5",
+   "source": "한국경제",
+   "time": "10/05 17:46",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "환율 하락에 영업이익 늘어도 순이익 뚝…외화 자산 평가손익에 영향",
@@ -39,14 +55,6 @@
    "strength": 0
   },
   {
-   "title": "약달러에 웃은 ‘곱버스’, 3분기 ETF 수익률 1~3위 싹쓸이",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5a2lGbHpUbG9JZ2owNENuRFdpLWdULTNqSGg3a1A5alItdk5nN2RJenM1cDlueEtTcXBPRGtFT0RBb3k3N2xyMzljSXhmR3RZdWJ0cGQ0em5RVVBwMnlQMnpXZ0dETXZRMHhrUTVNcXhsMlZJTHfSAWZBVV95cUxPVlIyRW1FZC1tWlhLY012dC1Fa1VmY0JJUk14QTM5ZnhnOEdIS2tCbEJ0M1Z6aHkxVklBTFRhOW5oU0FPUEhtUXU5T3JhTWtrOGR3Y0V5ejFuQ3FNU25mZE8zdkFrcVE?oc=5",
-   "source": "동아일보",
-   "time": "10/05 01:40",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "3분기 ETF 상슬률 1~3위, ‘달러 곱버스’ 이름 올려",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kOXpJeDFNaWRiWWUzVTZfanh5Uks3aWtiTDNRWXQwWGNzQXllclVFVFNVd0wzYl9lVXlWbTd1QjRiV1VtTTBzd1lzREpOVDhheXI1aVVaSU5vX3pyMU90QlFudHU?oc=5",
    "source": "서울경제TV",
@@ -56,43 +64,19 @@
   },
   {
    "title": "워시는 침묵…美연준 인사들 발언에 시장 움직인 이유",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QR0NldUdvWjJLNzNoMzZuMGo0bkNob0JKNmo3YWoxTGtLM3FfZFhLWnVoQ0c0dy1fUXNEdXIybTdQMEI4N1M4OWdCdFJNMDB4Mmc?oc=5",
-   "source": "매일경제 마켓",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05dUV5UkduOXBFbWJnTS1GYWhtYWxWZFZZQzJ4cXl4dTNfeTlGUDNXa0QzYXo3R0Z5S0Y0SEdfTEVVdHVfMGZNWi0zdHlmbW44VkY2cDJOdDB6eXPSAWBBVV95cUxNMklmWkFQbFpsOGtBbmR2M3MzaGJuXzl5Zng5b3M5VzdSQUpCR0RqdG5IYzB5MVZLX0Vsb0tkSXRpc1V1WnhGbGhnWlY5RG11bjBTZG5VaGVzSUxMWGo0V1g?oc=5",
+   "source": "연합뉴스",
    "time": "10/04 08:01",
    "dir": "neutral",
    "strength": 0
   },
   {
    "title": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YbmMyd2JLeUJrR1NibzBldDN1b3VucmdlYi00UFFxUURSV1MxdGJmOExaRlh3NzhhRzNsbmdIaDNrbzQxSEowUmlQSXVQenBYQXc?oc=5",
-   "source": "매일경제 마켓",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45NFdlaGJRVDlpMmp2dENQRE9MX0xmYXU4bzE5enY3a0hiODEwMTVQMjFMbWNqdDlVSmd6c1VfWGRtdUpkRXRhdnlMcXBEUWhzX1k1N0FaeFowcTA0dktkN9IBYEFVX3lxTE45NFdlaGJRVDlpMmp2dENQRE9MX0xmYXU4bzE5enY3a0hiODEwMTVQMjFMbWNqdDlVSmd6c1VfWGRtdUpkRXRhdnlMcXBEUWhzX1k1N0FaeFowcTA0dktkNw?oc=5",
+   "source": "연합뉴스",
    "time": "10/04 06:20",
    "dir": "neutral",
    "strength": 0
-  },
-  {
-   "title": "\"10월 연준·한은 금리 동결할 것…달러-원 1,345~1,370원 전망\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ydUFjaTZEM1VzOXFVY2ZPSDUxdzVUbjJsaGJQRjlHSkFVSHFZTG85QzgtdExlX0tXY015R0xhSXl2Uk1MZTM3b09DUFFEUXgzdy0tOVlHNzFQQVkxNHZmV05Qclozd3JzZFMtbGh3dlI?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/03 07:40",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[속보] 뉴욕증시 연준 금리 동결 가능성에 상승 마감…나스닥 1.19%↑",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zbnphRmJDQ3hreUVpbC1ESXlzcXh2U0IycjFMTDFmdDd6a2VwSUpvTFoyMWNxZTdWMVAyMURUcEZXNEc2bmYyNFFySXF3WmpGSkxjSVR1TzRYRXBvVjlYQdIBeEFVX3lxTE1wNWpvcmVTaXFIbG9oc054Q3FUd3puaVhfUnVaSE9OMDdPaWR6SlUzR2hZalptT0l3QXBMQl9hdmdWMFk1eTZGbDEzcktrZ0RBTVgtWlYwLWRUcUFHZXgxcDhwUTFkSXMxUVVlTDkxak9hcVBnblpYNA?oc=5",
-   "source": "뉴시스",
-   "time": "10/03 05:08",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "10월 금리 인상 확률 70%→25%…연준 핵심 인사들 잇단 ‘신중론’｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfZDUyd2hjZ1JobmtMRWlDVk03Z3dFNkRuaHJMVVJMVjJnblNZcDZyaDZncXV2RmVjTVZubDRrQ0lUQWcxQm5iMll3RGttbl9RelluenlSYlBCUWc?oc=5",
-   "source": "중앙일보",
-   "time": "10/03 03:31",
-   "dir": "up",
-   "strength": 1
   }
  ]
 }
