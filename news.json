@@ -1,50 +1,82 @@
 {
- "updated": "2026-10-06 12:41",
+ "updated": "2026-10-06 19:52",
  "summary": {
-  "up": 1,
-  "down": 2,
-  "neutral": 7
+  "up": 2,
+  "down": 3,
+  "neutral": 5
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 1 vs 하락 2).",
+   "상승·하락 요인 혼재 (상승 2 vs 하락 3).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
+   "title": "유럽 재정 불안에도 달러·원 1343.6원…수출 네고에 상단 제한(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jODNMSEVGTVNZanFHRE9nb3N1dHhyZDFLWkREb3ZtNG1KaWJHSGhyZWhOaTE0cnduaVFmRVhoakc3T3drY3ZERUxNZndLLW9wdDlZZk1nVHBPbjh3LVFxS9IBYEFVX3lxTE9jODNMSEVGTVNZanFHRE9nb3N1dHhyZDFLWkREb3ZtNG1KaWJHSGhyZWhOaTE0cnduaVFmRVhoakc3T3drY3ZERUxNZndLLW9wdDlZZk1nVHBPbjh3LVFxSw?oc=5",
+   "source": "뉴스1",
+   "time": "10/06 16:28",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원/달러 환율 보합 움직임…0.4원 내린 1,343.6원",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUTYyaDZCRGc0eDdISFZVZjNNUU90d3dQWDZHMUp3U1BVdzFfOFZ4dVZwaHMyd2oweXRMOUljczA1S09ldVhPbF9zWHRSZUREdUI4SW5IVXNCUElBNmJ4QdIBYEFVX3lxTFBaUTYyaDZCRGc0eDdISFZVZjNNUU90d3dQWDZHMUp3U1BVdzFfOFZ4dVZwaHMyd2oweXRMOUljczA1S09ldVhPbF9zWHRSZUREdUI4SW5IVXNCUElBNmJ4QQ?oc=5",
+   "source": "연합뉴스",
+   "time": "10/06 16:13",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[단독] 원·달러 현물환 중개 20년째 ‘2사 체제’…재경부 “5년간 신규 심사 없어”",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MLXlQNXcwcWo0NHBJeHBUTjd2eDZ3TjV3Nk9adWxMVFVIdlF5SS14SV9rY1hRTko2a3F0c29qejJxenA5UUNBQVJGM1RGclBoTWfSAVNBVV95cUxNb2VpbzRiZXFFRUlKN1diaHdNQkExUV9lRC1iczZqLU9xYkF1UnlLQVNSWk4wSWZKal9wR0tJLUlvZ3J4amZLOFJGLTlwNTVGai11OA?oc=5",
+   "source": "서울경제",
+   "time": "10/06 15:52",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율, 0.4원 내린 1343.6원 마감",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZRGc2WDFpWk13cVlpcXNyNXYwQ21XNmNuX0pGeGxIbXBfRUtGQnlVTEZ4WmdYTHlndHVNNGlLUXRCR1ZOX3NEOGVNSDVfS2hST01fMU54dDFUUU9VdkdaQdIBeEFVX3lxTFBKcEV3aEcwc0JkUlYtZ2Y3dkNjQXpxRzJDUzRWMjR4emtBQWVubnVrVTJMVzVGZG1kUTRtR3VKa09WcXhRTU9BOWFBZlB4dEsySExkdXZ0cTNxaUxKc2RKRjdZWDRmV2FETjlxWVRUdzZ6N0txazM2ag?oc=5",
+   "source": "뉴시스",
+   "time": "10/06 15:44",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "환율 바닥을 묻는 이들에게…1300원 오면 정말 살 건가요? [큰손 따라잡기]",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mdDJiZEZ5aDI1aE9Ud18tVnhpLVJoenlyNFdrR0JpWjFmVWszc1R5UWJXbEdOdTM0V0tNdEViQUw0MHItaFNFMlZDTUJuc0M1QmEwT21R?oc=5",
+   "source": "헤럴드경제",
+   "time": "10/06 15:44",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "\"글로벌 채권시장, 연준 금리 인하 물 건너갔다\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pSFhNQ2kyM2w4bUxLUkdJNW80Nmd3aHdwRjh4eVVHbk1ManZFSF9TSWwwVHlxSy1kb1lraUVRRkFfVVA4TVNxZVpGbXByOV90ZXZwbjVQWXkxZ0J2RmVDdTJEN3VJcmlzR3QtRVBMZ1A?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/06 13:02",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "美 달러 18개월 만에 최고…‘킹달러’ 만든 다섯 가지 이유",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3JZblMtaXVDcFNUVUpmZzRHM2w5ZHE2LURQenY1QUJ2cVJnNEZMclZ3T3ltYmI4dm1EWkZTSEZGR1M5YnZiYTFWOGFuVGl6VWFaNXl2ejd1a1h4VlVsODY1RHljT25QMW5hMWJKdXFYOFV0M1lacTBvLW92eWxNUw?oc=5",
    "source": "조선일보",
-   "time": "10/06 09:02",
+   "time": "10/06 12:46",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "연준이 나서도 못 막는 국채 금리 급등의 진짜 본질",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zcnNjZ21VT0JTZ0xQVlk0UGVJNlh3TlpwTjZpMGI5Q2RmeDJnT1Y1MnhBeVVseGpCajc4SlZ0bEE1V3RfQ0lzYXk3aFFVR2sySmpjaVA0N0dIZFZGSFZiMmtLQ3dlY2phTHlJZ2dDNTPSAXRBVV95cUxOd1ZOQnlQWmZHUFlnaGtVZkhlQkxpazl5QWFZQS1keGFRTU4ycUp1Z0dNeDFBQmt1Q25xd1ZXWnJUeFBBRlB2WVhoSXlQc20zbFZscDV4MUx1REFUeTRLZmwxSHdhWkxHZUlWcjFWYW43NmFkbA?oc=5",
+   "title": "블랙록 \"4회 금리 인상 전망 과도…달러 강세 지속 어려워\"",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZY01xRG9hQ0ZMM2dOZnQ2dnljX3FLeGdPNktmSnFSSGdJR3ZBZ2Fna3ZJaVhFMzBOWkhzVVRwNXoxdDhpTWtwdE0tLUxMV3dHUnRjWFZ2VWE0WlBUTnUyT2E0M0YyZElvdkVkX1g2WGVOUzRv0gF0QVVfeXFMUFljTXFEb2FDRkwzZ05mdDZ2eWNfcUt4Z082S2ZKcVJIZ0lHdkFnYWdrdklpWEUzME5aSHNVVHA1ejF0OGlNa3B0TS0tTExXd0dSdGNYVnZVYTRaUFROdTJPYTQzRjJkSW92RWRfWDZYZU5TNG8?oc=5",
    "source": "연합인포맥스",
-   "time": "10/06 08:44",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "환율 12% 빠지자…순이익 쇼크 주의보 떴다",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMjZIa3J1YW9oeGVuX01fSzVfS1lQa3otY0FnOEhzcVVKb3FHOExoSU5aWTY2NlUydk5VaVRhTER4bWdHcGxaaC14SXBDa1psdW9hOHo0RDlhUQ?oc=5",
-   "source": "한국경제",
-   "time": "10/06 08:30",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "1400원대 재반등 vs 1200원대 안착…엇갈린 환율 전망 [한상춘의 국제경제 읽기]",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhY09ZOUNfNi1XeWltM2ZpZFplb2U2OWdtTm45TUxRN1NOOU43aVlFR0x6eWc2NDVTM1FjazlmWnFJVFJoSmV6Q1gyTkNlYi1oSnFVcVVIaFNlQQ?oc=5",
-   "source": "한국경제",
-   "time": "10/05 18:19",
-   "dir": "neutral",
-   "strength": 0
+   "time": "10/06 11:19",
+   "dir": "up",
+   "strength": 2
   },
   {
    "title": "원화 강세의 그늘…상장사 영업익 전망 '뒷걸음질'",
@@ -55,44 +87,12 @@
    "strength": 1
   },
   {
-   "title": "[투자의 창] 숨 고른 원·달러 환율, 다시 오를까",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XQXk5TFNmQmFBMkNsdDRrc3c3clFRai10MTZ0MjJNWmNmaGNSQnhoOVk4el9xXzJWZmVxTkJZMzRzN1dRbnhhQzJNd0NHa0h1Y2fSAVNBVV95cUxPbTQxQmZVckJDZFh3S1gzOEdVd1pWSTBmVzF1RUptaUFrZVJQSnBUNHAtYk1jTlZMN3pYLTE2MDdScnZ4VndQZHZwVVRiNEpOYkYyTQ?oc=5",
-   "source": "서울경제",
-   "time": "10/05 17:46",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "환율 하락에 영업이익 늘어도 순이익 뚝…외화 자산 평가손익에 영향",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvYjRXaXhnbXRjS2RVakstRzNWc3BtUWh6Z1NqSGVrRHpzaGJIM3BZX05SZFo3dTY0eUY1YzVWUUJLdFdfazRPQnhMQUUtWXN6VEhxTW9TNVp2QQ?oc=5",
    "source": "한국경제",
    "time": "10/05 17:44",
    "dir": "down",
    "strength": 1
-  },
-  {
-   "title": "3분기 ETF 상슬률 1~3위, ‘달러 곱버스’ 이름 올려",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kOXpJeDFNaWRiWWUzVTZfanh5Uks3aWtiTDNRWXQwWGNzQXllclVFVFNVd0wzYl9lVXlWbTd1QjRiV1VtTTBzd1lzREpOVDhheXI1aVVaSU5vX3pyMU90QlFudHU?oc=5",
-   "source": "서울경제TV",
-   "time": "10/04 10:45",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "워시는 침묵…美연준 인사들 발언에 시장 움직인 이유",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05dUV5UkduOXBFbWJnTS1GYWhtYWxWZFZZQzJ4cXl4dTNfeTlGUDNXa0QzYXo3R0Z5S0Y0SEdfTEVVdHVfMGZNWi0zdHlmbW44VkY2cDJOdDB6eXPSAWBBVV95cUxNMklmWkFQbFpsOGtBbmR2M3MzaGJuXzl5Zng5b3M5VzdSQUpCR0RqdG5IYzB5MVZLX0Vsb0tkSXRpc1V1WnhGbGhnWlY5RG11bjBTZG5VaGVzSUxMWGo0V1g?oc=5",
-   "source": "연합뉴스",
-   "time": "10/04 08:01",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "3분기 약달러에 ETF 상승률 1∼3위 모두 '달러 곱버스' 차지",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45NFdlaGJRVDlpMmp2dENQRE9MX0xmYXU4bzE5enY3a0hiODEwMTVQMjFMbWNqdDlVSmd6c1VfWGRtdUpkRXRhdnlMcXBEUWhzX1k1N0FaeFowcTA0dktkN9IBYEFVX3lxTE45NFdlaGJRVDlpMmp2dENQRE9MX0xmYXU4bzE5enY3a0hiODEwMTVQMjFMbWNqdDlVSmd6c1VfWGRtdUpkRXRhdnlMcXBEUWhzX1k1N0FaeFowcTA0dktkNw?oc=5",
-   "source": "연합뉴스",
-   "time": "10/04 06:20",
-   "dir": "neutral",
-   "strength": 0
   }
  ]
 }
