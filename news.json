@@ -1,58 +1,66 @@
 {
- "updated": "2026-10-06 19:52",
+ "updated": "2026-10-07 10:17",
  "summary": {
-  "up": 2,
-  "down": 3,
-  "neutral": 5
+  "up": 5,
+  "down": 5,
+  "neutral": 0
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 2 vs 하락 3).",
+   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "유럽 재정 불안에도 달러·원 1343.6원…수출 네고에 상단 제한(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jODNMSEVGTVNZanFHRE9nb3N1dHhyZDFLWkREb3ZtNG1KaWJHSGhyZWhOaTE0cnduaVFmRVhoakc3T3drY3ZERUxNZndLLW9wdDlZZk1nVHBPbjh3LVFxS9IBYEFVX3lxTE9jODNMSEVGTVNZanFHRE9nb3N1dHhyZDFLWkREb3ZtNG1KaWJHSGhyZWhOaTE0cnduaVFmRVhoakc3T3drY3ZERUxNZndLLW9wdDlZZk1nVHBPbjh3LVFxSw?oc=5",
-   "source": "뉴스1",
-   "time": "10/06 16:28",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원/달러 환율 보합 움직임…0.4원 내린 1,343.6원",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaUTYyaDZCRGc0eDdISFZVZjNNUU90d3dQWDZHMUp3U1BVdzFfOFZ4dVZwaHMyd2oweXRMOUljczA1S09ldVhPbF9zWHRSZUREdUI4SW5IVXNCUElBNmJ4QdIBYEFVX3lxTFBaUTYyaDZCRGc0eDdISFZVZjNNUU90d3dQWDZHMUp3U1BVdzFfOFZ4dVZwaHMyd2oweXRMOUljczA1S09ldVhPbF9zWHRSZUREdUI4SW5IVXNCUElBNmJ4QQ?oc=5",
-   "source": "연합뉴스",
-   "time": "10/06 16:13",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[단독] 원·달러 현물환 중개 20년째 ‘2사 체제’…재경부 “5년간 신규 심사 없어”",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MLXlQNXcwcWo0NHBJeHBUTjd2eDZ3TjV3Nk9adWxMVFVIdlF5SS14SV9rY1hRTko2a3F0c29qejJxenA5UUNBQVJGM1RGclBoTWfSAVNBVV95cUxNb2VpbzRiZXFFRUlKN1diaHdNQkExUV9lRC1iczZqLU9xYkF1UnlLQVNSWk4wSWZKal9wR0tJLUlvZ3J4amZLOFJGLTlwNTVGai11OA?oc=5",
-   "source": "서울경제",
-   "time": "10/06 15:52",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·달러 환율, 0.4원 내린 1343.6원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZRGc2WDFpWk13cVlpcXNyNXYwQ21XNmNuX0pGeGxIbXBfRUtGQnlVTEZ4WmdYTHlndHVNNGlLUXRCR1ZOX3NEOGVNSDVfS2hST01fMU54dDFUUU9VdkdaQdIBeEFVX3lxTFBKcEV3aEcwc0JkUlYtZ2Y3dkNjQXpxRzJDUzRWMjR4emtBQWVubnVrVTJMVzVGZG1kUTRtR3VKa09WcXhRTU9BOWFBZlB4dEsySExkdXZ0cTNxaUxKc2RKRjdZWDRmV2FETjlxWVRUdzZ6N0txazM2ag?oc=5",
+   "title": "원·달러 상승 개장",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90RmZ2NV9HYksxRDlxWjJ3bjc2Z2VmbzlwbkVJeWNfc1IyaDMzNy05NFhWZGNZaFdPTGJ1aUxnekFmQkxBYjdtR29OYmZKbHBXWHgxdmNlUTNRUEhJTHRWZ2YtQWE1Zw?oc=5",
    "source": "뉴시스",
-   "time": "10/06 15:44",
-   "dir": "neutral",
-   "strength": 0
+   "time": "10/07 09:18",
+   "dir": "up",
+   "strength": 1
   },
   {
-   "title": "환율 바닥을 묻는 이들에게…1300원 오면 정말 살 건가요? [큰손 따라잡기]",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mdDJiZEZ5aDI1aE9Ud18tVnhpLVJoenlyNFdrR0JpWjFmVWszc1R5UWJXbEdOdTM0V0tNdEViQUw0MHItaFNFMlZDTUJuc0M1QmEwT21R?oc=5",
-   "source": "헤럴드경제",
-   "time": "10/06 15:44",
-   "dir": "neutral",
-   "strength": 0
+   "title": "코스피 하락, 원·달러 상승 개장",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TbTN1enBTYXUyMWdNUGZtYjYzUEpsdFdHb1RlRHhYQ0dMTmwzazl1alMtMGdodmlKRlFVOGp5NTFHTjVaYVBGbnIxeXRQNGR2aTJ6b0pERjhhcHp3T3Z4QnFOMmVBUQ?oc=5",
+   "source": "뉴시스",
+   "time": "10/07 09:17",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "달러 약세에 수출 네고까지…환율 1330원대로 하락 시도[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1hPdFEzbmdZdzkxOElZaWVkR3BIWFFrbmRxbGljSEtZV0FjTUU3ZFV6aWp0TnNzaC1Db096UXN0VnlTbDN3Z2YwWlc0Rm1TMmxJQWU1LTllVDVPZmNsa2JtUTJ3ajBqZkx6TjRwNy1nUlZzdTQzbmsxclVoTFhETg?oc=5",
+   "source": "이데일리",
+   "time": "10/07 08:12",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[사설]석 달 새 200원 떨어진 환율, 원화 강세의 그늘도 봐야",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMi1iUlpoTVR4N2VVY2xYVldIVWg5eE14R3owWS1OaVI1U0V1eEp4cTU4NzhaS1JKOVdudHdMRXZySVVOMFdaRFpNMHV5ZGZ0Yno1RDJINXpYcHFvQjVFV0FJYklNT3NKYVlPSUxiOVYtRnhmVkdyMDl0TnM2dTdtRw?oc=5",
+   "source": "이데일리",
+   "time": "10/07 05:00",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[뉴욕 금가격] 佛 재정 우려 완화 속 달러 약세에 1% 상승",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Cc2FaZ0VqNzFmUms4OUhZakdKT0dYcndHcGZ4TTlsUjluT1Z1WGpDTHdURUZlaFY0MGY0eWxVZmpfckNLSUV2clJicWs0THBVSU00bDNlVlpQZVVmeGhHRWZoZVd4TUtLTExHTzRMbGs?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/07 04:17",
+   "dir": "down",
+   "strength": 2
+  },
+  {
+   "title": "美 고금리속 왜 위안화 강세인가[china story/정유신] - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qbFpoQ2VqeWpHRm1ZSndWeWZZOW9PRkRKV05yMXRfUV95Tnc5eTVMS0RLbHBMYW5xVW15cEFHdG12dkNRbVlOQ0Zta3l5VE1pMGZ1YXhLZjlIQ2JyZ3Q5TVc1MG5jZ2VEb2lmS3hPNlHSAXBBVV95cUxNamxaaENlanlqR0ZtWUp3VnlmWTlvT0ZESldOcjF0X1FfeU53OXk1TEtES2xwTGFucVVteXBBR3RtdnZDUW1ZTkNGbWt5eVRNaTBmdWF4S2Y5SENicmd0OU1XNTBuY2dlRG9pZkt4TzZR?oc=5",
+   "source": "머니투데이",
+   "time": "10/07 02:00",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "\"글로벌 채권시장, 연준 금리 인하 물 건너갔다\"",
@@ -71,27 +79,19 @@
    "strength": 1
   },
   {
-   "title": "블랙록 \"4회 금리 인상 전망 과도…달러 강세 지속 어려워\"",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZY01xRG9hQ0ZMM2dOZnQ2dnljX3FLeGdPNktmSnFSSGdJR3ZBZ2Fna3ZJaVhFMzBOWkhzVVRwNXoxdDhpTWtwdE0tLUxMV3dHUnRjWFZ2VWE0WlBUTnUyT2E0M0YyZElvdkVkX1g2WGVOUzRv0gF0QVVfeXFMUFljTXFEb2FDRkwzZ05mdDZ2eWNfcUt4Z082S2ZKcVJIZ0lHdkFnYWdrdklpWEUzME5aSHNVVHA1ejF0OGlNa3B0TS0tTExXd0dSdGNYVnZVYTRaUFROdTJPYTQzRjJkSW92RWRfWDZYZU5TNG8?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/06 11:19",
+   "title": "글로벌 달러 강세에 환율 1340원대 중반 공방 예상[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWZ2TWJWdThydlZndFIxR0gyWUJXa25iSl9JV25pVUhUVWtTZjlzTHVsb1djODhKdV9Kb3NpcmlQd01nbThJVXVOTUJDaWktOENvd2VZdDdUc1drSVRndUI5b3gxSkdBOVcyRC1heWd4SU9MaTA5UHlobzhWOW1CUw?oc=5",
+   "source": "이데일리",
+   "time": "10/06 08:16",
    "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "원화 강세의 그늘…상장사 영업익 전망 '뒷걸음질'",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zLUdvRmFEei05SS1nTXcxYlVJdXhsS3RfOXJsVF9pV2h1S0JmLW43a0tGVU12aG5FWW9tZTUtSl93Wm1wQk1GemMyWnpmQzhGb01WcHNkWXpVQQ?oc=5",
-   "source": "한국경제",
-   "time": "10/05 17:46",
-   "dir": "down",
    "strength": 1
   },
   {
-   "title": "환율 하락에 영업이익 늘어도 순이익 뚝…외화 자산 평가손익에 영향",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvYjRXaXhnbXRjS2RVakstRzNWc3BtUWh6Z1NqSGVrRHpzaGJIM3BZX05SZFo3dTY0eUY1YzVWUUJLdFdfazRPQnhMQUUtWXN6VEhxTW9TNVp2QQ?oc=5",
-   "source": "한국경제",
-   "time": "10/05 17:44",
-   "dir": "down",
+   "title": "[뉴욕환시] 달러 상승…'프랑스 우려' 유로 약세 속 美 인플레 압력↑",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERnhaTk9DTVVzMG4tLUowVW1BRmRNbHViU2IxQTZvTk9ja1RHTFR4M3ZROU9SdDV4VGZZWlY3cXlIX2N3NXRXZVRnaXZ3Wmo0SXJvdllJbWdzQktIekZPbXo4V0JfY2dpTS03RGxyYWU?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/06 07:31",
+   "dir": "up",
    "strength": 1
   }
  ]
