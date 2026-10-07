@@ -802,21 +802,21 @@
   {
    "made_on": "2026-10-06",
    "base_rate": 1338.78,
-   "dir": "neutral",
+   "dir": "down",
    "today_band": [
-    1331,
-    1347
+    1329,
+    1343
    ],
    "week_band": [
-    1321,
-    1356
+    1316,
+    1347
    ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-10-07 12:08",
+ "updated": "2026-10-07 19:39",
  "summary": {
   "scored": 47,
   "hit": 28,

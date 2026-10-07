@@ -1,19 +1,35 @@
 {
- "updated": "2026-10-07 12:08",
+ "updated": "2026-10-07 19:39",
  "summary": {
-  "up": 5,
-  "down": 5,
+  "up": 4,
+  "down": 6,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "down",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "하락요인 우세 (하락 6 vs 상승 4).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
+  {
+   "title": "유로화 반등·위험선호 '달러·원 하락'…'저가 매수' 1340원선 회복(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Dc1NGeGtxb08tbTNaaUE4M3FMc3M5bzJhdTBjMGZHaFNEbzhKYmk3OXM0VnRMNzRHdVlkbWowakxIQVBLR05CVi1hQTd3SVZwWE1BNEVSdlVzRVE?oc=5",
+   "source": "뉴스1",
+   "time": "10/07 16:36",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "환율, 수출기업 달러 매도 등에 3.2원 내린 1,340원",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RYlpuUWlHbkVuTUQ1NU12NGtaNUU2OTh6Q3pfeEZNV2J6OFJpM252VkRFT1kzVnpFWUNhYjFsS0RIWE1IdnZYb2FvQnlEY0txUXc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "10/07 16:12",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "원·달러 상승 개장",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90RmZ2NV9HYksxRDlxWjJ3bjc2Z2VmbzlwbkVJeWNfc1IyaDMzNy05NFhWZGNZaFdPTGJ1aUxnekFmQkxBYjdtR29OYmZKbHBXWHgxdmNlUTNRUEhJTHRWZ2YtQWE1Zw?oc=5",
@@ -23,8 +39,16 @@
    "strength": 1
   },
   {
+   "title": "코스피·코스닥지수 하락, 원·달러 상승 개장",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xaGJVd3Z4U2hKT0VSUzU4aGNxa1NBaGI0N0g2bWMyRzhOOGtZdXhPOTlzRnkyeEY0LWF1LVNUNVNqNVZTS2pMY2JJN29aYWlBQVhLbXp2NzM1bm1iU2tiYw?oc=5",
+   "source": "뉴시스",
+   "time": "10/07 09:17",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "코스피 하락, 원·달러 상승 개장",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5UUZXNEdta3VHNEN0RklBRmdQZmtiWUs1QWctNDBmWDFfMkNpWlExRnhaenduOTllYjJWcFJNNkdZZklwaHZsek1BenZqajVJcmZGV0Q4NGRVdUtiMUhTVw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TbTN1enBTYXUyMWdNUGZtYjYzUEpsdFdHb1RlRHhYQ0dMTmwzazl1alMtMGdodmlKRlFVOGp5NTFHTjVaYVBGbnIxeXRQNGR2aTJ6b0pERjhhcHp3T3Z4QnFOMmVBUQ?oc=5",
    "source": "뉴시스",
    "time": "10/07 09:17",
    "dir": "up",
@@ -47,10 +71,10 @@
    "strength": 1
   },
   {
-   "title": "[뉴욕 금가격] 佛 재정 우려 완화 속 달러 약세에 1% 상승",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Cc2FaZ0VqNzFmUms4OUhZakdKT0dYcndHcGZ4TTlsUjluT1Z1WGpDTHdURUZlaFY0MGY0eWxVZmpfckNLSUV2clJicWs0THBVSU00bDNlVlpQZVVmeGhHRWZoZVd4TUtLTExHTzRMbGs?oc=5",
+   "title": "[뉴욕 금가격] 佛 재정 우려 완화 속 달러 약세에 1% 상승 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sazlfSllFWUFsaWNyd09Eb3B1dkZCUnNJM2tjTk9qT3NIOHVSUjZsVVRkbWFUZGljalpLbUVHYlFXMThkeUxrUnpNRkhDSTVIVHZLUDc1M1ZFTDFwUXk1b080cEFxZ3ludEJIWnNjRHNhVjdy?oc=5",
    "source": "연합인포맥스",
-   "time": "10/07 04:17",
+   "time": "10/07 04:25",
    "dir": "down",
    "strength": 2
   },
@@ -63,36 +87,12 @@
    "strength": 1
   },
   {
-   "title": "\"글로벌 채권시장, 연준 금리 인하 물 건너갔다\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pSFhNQ2kyM2w4bUxLUkdJNW80Nmd3aHdwRjh4eVVHbk1ManZFSF9TSWwwVHlxSy1kb1lraUVRRkFfVVA4TVNxZVpGbXByOV90ZXZwbjVQWXkxZ0J2RmVDdTJEN3VJcmlzR3QtRVBMZ1A?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/06 13:02",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美 달러 18개월 만에 최고…‘킹달러’ 만든 다섯 가지 이유",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ3JZblMtaXVDcFNUVUpmZzRHM2w5ZHE2LURQenY1QUJ2cVJnNEZMclZ3T3ltYmI4dm1EWkZTSEZGR1M5YnZiYTFWOGFuVGl6VWFaNXl2ejd1a1h4VlVsODY1RHljT25QMW5hMWJKdXFYOFV0M1lacTBvLW92eWxNUw?oc=5",
-   "source": "조선일보",
-   "time": "10/06 12:46",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "블랙록 \"4회 금리 인상 전망 과도…달러 강세 지속 어려워\"",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZY01xRG9hQ0ZMM2dOZnQ2dnljX3FLeGdPNktmSnFSSGdJR3ZBZ2Fna3ZJaVhFMzBOWkhzVVRwNXoxdDhpTWtwdE0tLUxMV3dHUnRjWFZ2VWE0WlBUTnUyT2E0M0YyZElvdkVkX1g2WGVOUzRv0gF0QVVfeXFMUFljTXFEb2FDRkwzZ05mdDZ2eWNfcUt4Z082S2ZKcVJIZ0lHdkFnYWdrdklpWEUzME5aSHNVVHA1ejF0OGlNa3B0TS0tTExXd0dSdGNYVnZVYTRaUFROdTJPYTQzRjJkSW92RWRfWDZYZU5TNG8?oc=5",
    "source": "연합인포맥스",
    "time": "10/06 11:19",
    "dir": "up",
    "strength": 2
-  },
-  {
-   "title": "글로벌 달러 강세에 환율 1340원대 중반 공방 예상[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWZ2TWJWdThydlZndFIxR0gyWUJXa25iSl9JV25pVUhUVWtTZjlzTHVsb1djODhKdV9Kb3NpcmlQd01nbThJVXVOTUJDaWktOENvd2VZdDdUc1drSVRndUI5b3gxSkdBOVcyRC1heWd4SU9MaTA5UHlobzhWOW1CUw?oc=5",
-   "source": "이데일리",
-   "time": "10/06 08:16",
-   "dir": "up",
-   "strength": 1
   }
  ]
 }
