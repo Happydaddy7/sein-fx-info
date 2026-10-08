@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07 19:39",
+ "updated": "2026-10-08 10:38",
  "summary": {
   "up": 4,
   "down": 6,
@@ -15,6 +15,30 @@
  },
  "items": [
   {
+   "title": "달러 강세에도 환율 1340원선 공방…수출업체 매도에 상승 제한[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzgxV3BhQ1cyQ0xVYllYQk9wc2Ffdko0NVlQNzI1ZTMzUTlMWHBLRE53ZmhkY2VCSTNsblhfVGkxSy14TzZCUUFVSExFZS1QbmNYeXJMNEY1RVNsNHRiRV9yajN0T2JMRkVWZlVLd09Qdkk5QnZyQWhPb3d6NXV3eQ?oc=5",
+   "source": "이데일리",
+   "time": "10/08 08:16",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 연준 의사록 “19명 전원 9월 금리 인상 지지…연내 추가 인상 적절”｜Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Nbkk1Mk1YNTBQOWJNZ0FSMzFfNnhnSWxYTFIxd2RQVDEwdTVJbHRzaGYtXzlhUFp3dUs3ZlVRYU8tY29XZWxQeDlFV1psVG1vVkpaYWxLQi1CdTA?oc=5",
+   "source": "중앙일보",
+   "time": "10/08 04:35",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "매파적이던 연준도 예상 못한 변수…'고용쇼크' 후 금리 딜레마(종합)",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2JvTzdTV2pzaGU1NXM1Q3pScVc5MTNIZ0tpM0dvRXlfVGJaemgxWkFoUk5OZG1Rb2xQblJPRUVNQzV1bnFxUUcyS0JENk5xQW5KdmhnTU5sYm9CWko0N1FxbldtWjBvUXJ4SXNJaGEwSzg3cmN3QUtYOGstM3EwUA?oc=5",
+   "source": "이데일리",
+   "time": "10/08 03:30",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "유로화 반등·위험선호 '달러·원 하락'…'저가 매수' 1340원선 회복(종합)",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Dc1NGeGtxb08tbTNaaUE4M3FMc3M5bzJhdTBjMGZHaFNEbzhKYmk3OXM0VnRMNzRHdVlkbWowakxIQVBLR05CVi1hQTd3SVZwWE1BNEVSdlVzRVE?oc=5",
    "source": "뉴스1",
@@ -28,30 +52,6 @@
    "source": "매일경제 마켓",
    "time": "10/07 16:12",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 상승 개장",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90RmZ2NV9HYksxRDlxWjJ3bjc2Z2VmbzlwbkVJeWNfc1IyaDMzNy05NFhWZGNZaFdPTGJ1aUxnekFmQkxBYjdtR29OYmZKbHBXWHgxdmNlUTNRUEhJTHRWZ2YtQWE1Zw?oc=5",
-   "source": "뉴시스",
-   "time": "10/07 09:18",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "코스피·코스닥지수 하락, 원·달러 상승 개장",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xaGJVd3Z4U2hKT0VSUzU4aGNxa1NBaGI0N0g2bWMyRzhOOGtZdXhPOTlzRnkyeEY0LWF1LVNUNVNqNVZTS2pMY2JJN29aYWlBQVhLbXp2NzM1bm1iU2tiYw?oc=5",
-   "source": "뉴시스",
-   "time": "10/07 09:17",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "코스피 하락, 원·달러 상승 개장",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TbTN1enBTYXUyMWdNUGZtYjYzUEpsdFdHb1RlRHhYQ0dMTmwzazl1alMtMGdodmlKRlFVOGp5NTFHTjVaYVBGbnIxeXRQNGR2aTJ6b0pERjhhcHp3T3Z4QnFOMmVBUQ?oc=5",
-   "source": "뉴시스",
-   "time": "10/07 09:17",
-   "dir": "up",
    "strength": 1
   },
   {
