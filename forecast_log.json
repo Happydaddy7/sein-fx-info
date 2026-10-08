@@ -819,21 +819,21 @@
   {
    "made_on": "2026-10-07",
    "base_rate": 1338.69,
-   "dir": "down",
+   "dir": "neutral",
    "today_band": [
-    1329,
-    1342
+    1331,
+    1346
    ],
    "week_band": [
-    1317,
-    1347
+    1322,
+    1355
    ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-10-08 12:23",
+ "updated": "2026-10-08 20:00",
  "summary": {
   "scored": 48,
   "hit": 29,

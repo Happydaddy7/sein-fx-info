@@ -1,19 +1,35 @@
 {
- "updated": "2026-10-08 12:23",
+ "updated": "2026-10-08 20:00",
  "summary": {
-  "up": 4,
-  "down": 6,
+  "up": 5,
+  "down": 5,
   "neutral": 0
  },
  "outlook": {
-  "dir": "down",
+  "dir": "neutral",
   "lines": [
-   "하락요인 우세 (하락 6 vs 상승 4).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "코스피-원·달러 환율 하락 마감",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QRjdVSGw0WUJUSUNXbTNseVVRdzVuVFE3R2F4NXdIcmtaUE81dXJEaVRZd3ZXZlV0RVY4ZkRoa3FCdnNOOTJfdlhXVHY2dGZ3dkN6VUxMdFQ1TjZvTlZNM3BGZGFjQQ?oc=5",
+   "source": "뉴시스",
+   "time": "10/08 15:55",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "美국채 투매에도 달러 강세…안전자산 아니라 AI 투자 열풍 덕분",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMlQtYXNrbFQtc0ptcnhFa2RVT3d2LW1JR3VsWEFmWGU4dWxKSzgzLW12bUV5b0xKeThPM2hBLW9fbFp3TVpPbzZGR1VYdThwbkd2SXJTNHBmREVjY255b0hSLXVQOFE?oc=5",
+   "source": "뉴스1",
+   "time": "10/08 15:44",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "달러 강세에도 환율 1340원선 공방…수출업체 매도에 상승 제한[외환브리핑]",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzgxV3BhQ1cyQ0xVYllYQk9wc2Ffdko0NVlQNzI1ZTMzUTlMWHBLRE53ZmhkY2VCSTNsblhfVGkxSy14TzZCUUFVSExFZS1QbmNYeXJMNEY1RVNsNHRiRV9yajN0T2JMRkVWZlVLd09Qdkk5QnZyQWhPb3d6NXV3eQ?oc=5",
@@ -63,28 +79,12 @@
    "strength": 1
   },
   {
-   "title": "[사설]석 달 새 200원 떨어진 환율, 원화 강세의 그늘도 봐야",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMi1iUlpoTVR4N2VVY2xYVldIVWg5eE14R3owWS1OaVI1U0V1eEp4cTU4NzhaS1JKOVdudHdMRXZySVVOMFdaRFpNMHV5ZGZ0Yno1RDJINXpYcHFvQjVFV0FJYklNT3NKYVlPSUxiOVYtRnhmVkdyMDl0TnM2dTdtRw?oc=5",
-   "source": "이데일리",
-   "time": "10/07 05:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "[뉴욕 금가격] 佛 재정 우려 완화 속 달러 약세에 1% 상승 |",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sazlfSllFWUFsaWNyd09Eb3B1dkZCUnNJM2tjTk9qT3NIOHVSUjZsVVRkbWFUZGljalpLbUVHYlFXMThkeUxrUnpNRkhDSTVIVHZLUDc1M1ZFTDFwUXk1b080cEFxZ3ludEJIWnNjRHNhVjdy?oc=5",
    "source": "연합인포맥스",
    "time": "10/07 04:25",
    "dir": "down",
    "strength": 2
-  },
-  {
-   "title": "美 고금리속 왜 위안화 강세인가[china story/정유신] - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qbFpoQ2VqeWpHRm1ZSndWeWZZOW9PRkRKV05yMXRfUV95Tnc5eTVMS0RLbHBMYW5xVW15cEFHdG12dkNRbVlOQ0Zta3l5VE1pMGZ1YXhLZjlIQ2JyZ3Q5TVc1MG5jZ2VEb2lmS3hPNlHSAXBBVV95cUxNamxaaENlanlqR0ZtWUp3VnlmWTlvT0ZESldOcjF0X1FfeU53OXk1TEtES2xwTGFucVVteXBBR3RtdnZDUW1ZTkNGbWt5eVRNaTBmdWF4S2Y5SENicmd0OU1XNTBuY2dlRG9pZkt4TzZR?oc=5",
-   "source": "머니투데이",
-   "time": "10/07 02:00",
-   "dir": "down",
-   "strength": 1
   },
   {
    "title": "블랙록 \"4회 금리 인상 전망 과도…달러 강세 지속 어려워\"",
