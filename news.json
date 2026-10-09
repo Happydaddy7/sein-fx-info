@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-09 10:51",
+ "updated": "2026-10-09 12:29",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 5,
+  "down": 5,
   "neutral": 0
  },
  "outlook": {
-  "dir": "up",
+  "dir": "neutral",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
@@ -79,11 +79,11 @@
    "strength": 1
   },
   {
-   "title": "\"전쟁 끝나면 금리 내려간다\"…베센트 낙관론에 연준은 '글쎄'",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NRGZBdHRpSzRmOG0zTUhva1l6VXFIUDFNa2h6d2YyUjJMekxvNlZ3ZnItMTF6NzVkVmpPRXZEalpqN0tSZWdibGZ0U1d4RWJJcEY0aGIxaEdTUzRQeUFkd9IBeEFVX3lxTE82QlN1U2tLSDMxaktwWUNCVTdNYzJwSmdINVB5WnMxd04yOS04cHUzSGRsaG5EYzhzOXBkLWdtVU9qaXUtZC1veHlya1NVQ0tIMHF3aWJKSXljWjdPUUxldXpRcXk2OUZ6NlVQRkVHZno3el93czdLbw?oc=5",
-   "source": "뉴시스",
-   "time": "10/07 13:00",
-   "dir": "up",
+   "title": "달러 약세에 수출 네고까지…환율 1330원대로 하락 시도[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1hPdFEzbmdZdzkxOElZaWVkR3BIWFFrbmRxbGljSEtZV0FjTUU3ZFV6aWp0TnNzaC1Db096UXN0VnlTbDN3Z2YwWlc0Rm1TMmxJQWU1LTllVDVPZmNsa2JtUTJ3ajBqZkx6TjRwNy1nUlZzdTQzbmsxclVoTFhETg?oc=5",
+   "source": "이데일리",
+   "time": "10/07 08:12",
+   "dir": "down",
    "strength": 1
   },
   {
