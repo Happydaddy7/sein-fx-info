@@ -1,19 +1,35 @@
 {
- "updated": "2026-10-08 20:00",
+ "updated": "2026-10-09 10:51",
  "summary": {
-  "up": 5,
-  "down": 5,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 6 vs 하락 4).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "연준 무살렘·월러 \"추가 금리 인상 필요\"…시점엔 유연성",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUlAxYjVzRk5LWmN1dHlGdVhkUjJqZnAyWjBucENxdlBHRzFLM25MOTZ5RlpybXEzdkNxVnJJN0dnbFI2LV80V25pMnRNX2NXcy0zQ2pMZTdkZ1EtU1VIdVpJYXVwS2JlM1g3M2tXc0w1US1XdWkyeG9OSEhEZ0JweA?oc=5",
+   "source": "이데일리",
+   "time": "10/09 04:47",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준 월러 \"추가 금리 인상 예상하지만, 연속으로 할 필요 없어\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15ZzF5V3FscjJLRndHVjhsczVORnJjemdHclpmelVvRzVVbloxMmdyYzQ0cjA0X3dZNVFvMmwxTzY2MEpZdFIxOWhQQ2dERTBsbFdnTTRObFNWMVFEVHJhbGhQbVhnaVYyQ09kdGVSQk4?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/08 22:36",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "코스피-원·달러 환율 하락 마감",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QRjdVSGw0WUJUSUNXbTNseVVRdzVuVFE3R2F4NXdIcmtaUE81dXJEaVRZd3ZXZlV0RVY4ZkRoa3FCdnNOOTJfdlhXVHY2dGZ3dkN6VUxMdFQ1TjZvTlZNM3BGZGFjQQ?oc=5",
@@ -27,14 +43,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMlQtYXNrbFQtc0ptcnhFa2RVT3d2LW1JR3VsWEFmWGU4dWxKSzgzLW12bUV5b0xKeThPM2hBLW9fbFp3TVpPbzZGR1VYdThwbkd2SXJTNHBmREVjY255b0hSLXVQOFE?oc=5",
    "source": "뉴스1",
    "time": "10/08 15:44",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "달러 강세에도 환율 1340원선 공방…수출업체 매도에 상승 제한[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTzgxV3BhQ1cyQ0xVYllYQk9wc2Ffdko0NVlQNzI1ZTMzUTlMWHBLRE53ZmhkY2VCSTNsblhfVGkxSy14TzZCUUFVSExFZS1QbmNYeXJMNEY1RVNsNHRiRV9yajN0T2JMRkVWZlVLd09Qdkk5QnZyQWhPb3d6NXV3eQ?oc=5",
-   "source": "이데일리",
-   "time": "10/08 08:16",
    "dir": "up",
    "strength": 1
   },
@@ -71,11 +79,11 @@
    "strength": 1
   },
   {
-   "title": "달러 약세에 수출 네고까지…환율 1330원대로 하락 시도[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1hPdFEzbmdZdzkxOElZaWVkR3BIWFFrbmRxbGljSEtZV0FjTUU3ZFV6aWp0TnNzaC1Db096UXN0VnlTbDN3Z2YwWlc0Rm1TMmxJQWU1LTllVDVPZmNsa2JtUTJ3ajBqZkx6TjRwNy1nUlZzdTQzbmsxclVoTFhETg?oc=5",
-   "source": "이데일리",
-   "time": "10/07 08:12",
-   "dir": "down",
+   "title": "\"전쟁 끝나면 금리 내려간다\"…베센트 낙관론에 연준은 '글쎄'",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NRGZBdHRpSzRmOG0zTUhva1l6VXFIUDFNa2h6d2YyUjJMekxvNlZ3ZnItMTF6NzVkVmpPRXZEalpqN0tSZWdibGZ0U1d4RWJJcEY0aGIxaEdTUzRQeUFkd9IBeEFVX3lxTE82QlN1U2tLSDMxaktwWUNCVTdNYzJwSmdINVB5WnMxd04yOS04cHUzSGRsaG5EYzhzOXBkLWdtVU9qaXUtZC1veHlya1NVQ0tIMHF3aWJKSXljWjdPUUxldXpRcXk2OUZ6NlVQRkVHZno3el93czdLbw?oc=5",
+   "source": "뉴시스",
+   "time": "10/07 13:00",
+   "dir": "up",
    "strength": 1
   },
   {
@@ -84,14 +92,6 @@
    "source": "연합인포맥스",
    "time": "10/07 04:25",
    "dir": "down",
-   "strength": 2
-  },
-  {
-   "title": "블랙록 \"4회 금리 인상 전망 과도…달러 강세 지속 어려워\"",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZY01xRG9hQ0ZMM2dOZnQ2dnljX3FLeGdPNktmSnFSSGdJR3ZBZ2Fna3ZJaVhFMzBOWkhzVVRwNXoxdDhpTWtwdE0tLUxMV3dHUnRjWFZ2VWE0WlBUTnUyT2E0M0YyZElvdkVkX1g2WGVOUzRv0gF0QVVfeXFMUFljTXFEb2FDRkwzZ05mdDZ2eWNfcUt4Z082S2ZKcVJIZ0lHdkFnYWdrdklpWEUzME5aSHNVVHA1ejF0OGlNa3B0TS0tTExXd0dSdGNYVnZVYTRaUFROdTJPYTQzRjJkSW92RWRfWDZYZU5TNG8?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/06 11:19",
-   "dir": "up",
    "strength": 2
   }
  ]
