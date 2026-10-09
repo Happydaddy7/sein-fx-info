@@ -1,19 +1,35 @@
 {
- "updated": "2026-10-09 12:29",
+ "updated": "2026-10-09 19:59",
  "summary": {
-  "up": 5,
-  "down": 5,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 6 vs 하락 4).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "환율 하락에 '비명' 터지는데…'이 회사 대박 난다' 파격 전망 [한경우의 케이스스터디]",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHLUtSYnFLRkR3ZzNUSjBBbXdtTGhMcFdaYjBOMl9zOVlIMmIwM1dvc09kaDBRREVPdmVmV1N3NnFFLThzSjR2d3hKV3ByanBXNnd4bFdPeEJxZw?oc=5",
+   "source": "한국경제",
+   "time": "10/09 17:00",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "노후자금 환율 방어 동원 논란에도…국민연금 “외환 관련 공개 불가” [시그널]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwMWJxcVI3UEgyZHdncnJFX0RwVFlsbC0xS0xhdjdZYk5lR09tekJsdTZJanRaWHdST1V1WVpjRUlqckNOTF9wZVF4SzU4MzFwYnfSAVNBVV95cUxNdUYxMjB3bFdyQjMtTTlXb2JMT0dGNG9oUkpTbFFXMHdNcnMxeVZPczY3NThZWEVzVGFBSFJMVTlRaDk0UDZlNFd3Y2xfSUtTWHh1WQ?oc=5",
+   "source": "서울경제",
+   "time": "10/09 13:01",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "연준 무살렘·월러 \"추가 금리 인상 필요\"…시점엔 유연성",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUlAxYjVzRk5LWmN1dHlGdVhkUjJqZnAyWjBucENxdlBHRzFLM25MOTZ5RlpybXEzdkNxVnJJN0dnbFI2LV80V25pMnRNX2NXcy0zQ2pMZTdkZ1EtU1VIdVpJYXVwS2JlM1g3M2tXc0w1US1XdWkyeG9OSEhEZ0JweA?oc=5",
@@ -67,22 +83,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Dc1NGeGtxb08tbTNaaUE4M3FMc3M5bzJhdTBjMGZHaFNEbzhKYmk3OXM0VnRMNzRHdVlkbWowakxIQVBLR05CVi1hQTd3SVZwWE1BNEVSdlVzRVE?oc=5",
    "source": "뉴스1",
    "time": "10/07 16:36",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "환율, 수출기업 달러 매도 등에 3.2원 내린 1,340원",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RYlpuUWlHbkVuTUQ1NU12NGtaNUU2OTh6Q3pfeEZNV2J6OFJpM252VkRFT1kzVnpFWUNhYjFsS0RIWE1IdnZYb2FvQnlEY0txUXc?oc=5",
-   "source": "매일경제 마켓",
-   "time": "10/07 16:12",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "달러 약세에 수출 네고까지…환율 1330원대로 하락 시도[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1hPdFEzbmdZdzkxOElZaWVkR3BIWFFrbmRxbGljSEtZV0FjTUU3ZFV6aWp0TnNzaC1Db096UXN0VnlTbDN3Z2YwWlc0Rm1TMmxJQWU1LTllVDVPZmNsa2JtUTJ3ajBqZkx6TjRwNy1nUlZzdTQzbmsxclVoTFhETg?oc=5",
-   "source": "이데일리",
-   "time": "10/07 08:12",
    "dir": "down",
    "strength": 1
   },
