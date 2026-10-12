@@ -1,26 +1,42 @@
 {
- "updated": "2026-10-12 10:05",
+ "updated": "2026-10-12 12:05",
  "summary": {
-  "up": 3,
-  "down": 4,
-  "neutral": 3
+  "up": 4,
+  "down": 6,
+  "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "down",
   "lines": [
-   "상승·하락 요인 혼재 (상승 3 vs 하락 4).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "하락요인 우세 (하락 6 vs 상승 4).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "한은 “기준금리 추가 인상” 뜻 거듭 내비쳐",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JQ2xXb2xzM0VVZ0dLVkU5LVJxMzg4WnY3QWUwZkZJNF9KRWd3c3lZVlgzc01oTXpDLVEyZW1DSUg1TjM5enl2X2xFRkN5blNtdnk5b2RKOF9YMWZkd2x5WXRDRWZteHI0TmF3OHVzYzRBQQ?oc=5",
-   "source": "한겨레",
-   "time": "10/12 10:00",
-   "dir": "neutral",
-   "strength": 0
+   "title": "환율 1333.2원으로 하락…반도체 수출 호조에 2년만 ‘최저’",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcFBEUGUzTjloNkgzT3J4SnVoT1p1bERHUGxrUGhHY1pWQndJM2wxXzF4ZUVrSG1WWUdwdU9palU0NXB5UTZ0bExrdURWZDd2ZTFRWHF0cnhweklFTUFybEpFWVlPTjM4OVB6NmUzZ19XbzVUV0tSUG9fYklFaG1nQQ?oc=5",
+   "source": "이데일리",
+   "time": "10/12 11:53",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "한은 총재 “7·8월 연속 기준금리 인상으로 궁극적 비용 축소”",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzak51UWpRWkdhU2M4Q05TR0NFbUlGb2tZamxNbXF5R09kLUR0UWNGRDIzOVRjSEkwTmZFVHZJVEw5bW40dmZ1S05LeEZwQ3Y0dVJxcmVvbFMwaFk?oc=5",
+   "source": "KBS 뉴스",
+   "time": "10/12 11:45",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美연준 매파 해맥 \"기업 가격결정력 커져…현 금리로 물가 억제 부족\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vNWNFaVIxMEZFdV9oYThJaGU5UGp3Q0Q4NzAyWF9FUEVMSzNfb2R4c215Q1dXQjRnQlRCYkdoNEE1YnlkeDBtTXBxZjkzclhhTFV1RE1sc3o1TDd6elBwNtIBeEFVX3lxTFByUlI0SGs5NFRmTUktR1pSdEtCRWRTb0Yyekd2ZmllTWREUDM0amJhWjR3cTZ3X3ZGaWE3YmNWd3N5YmxacTR2N0poUU9DbjRicUpFdXFsSmlhWFk3WHplcWpLQTRZbzRDYWRhM3NKRkp4X2JfMUFobg?oc=5",
+   "source": "뉴시스",
+   "time": "10/12 10:56",
+   "dir": "up",
+   "strength": 2
   },
   {
    "title": "유가 불안·달러 강세에도…환율 1330원대로 하락",
@@ -31,28 +47,12 @@
    "strength": 1
   },
   {
-   "title": "美 9월 물가 발표 임박…연준 연말 금리 경로 주목",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52U2FrTHNkWjVubzdsaUNXSjBCTjVSTlVvdzNnNmNySjFfX0lCZDRKYnVRSGJNQ3RfLW9US2JWeXp2RlFUZlRJeEo4TUlIQTNPQ2NQemdOT3BqZw?oc=5",
-   "source": "한국경제",
-   "time": "10/12 08:35",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "중동발 유가 불안에 강달러까지…환율 상승 압력[외환브리핑]",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUswV0otTWxuVWtCNFFfeWU5SjhfUC0wdHVGcVRieEYzYS1mT3h4bUNDaVF1NkJqVnR5QktLTHBERUp3b2lUcTVCTDFnMjJKT2RLVEZYV01rYlRoZ2dOU19TRHBlQjN3b3lqYzVlaXlicE1XM2trTUxWUnpxQklBaw?oc=5",
    "source": "이데일리",
    "time": "10/12 08:06",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "“한세실업, 3Q 환율 부담에 실적 둔화…배당이 주가 하방 지지”",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUV9xNG5HUy0xcDlFejFLMlk5WUlwcVlUM0dLRW1ERUNGRmtPeENSaTNZZ0taNGdxN2QzVnN2MVpCRVdsX2dqajFjcnQ0UVFDN3RPNVFiYWctRGlqZlNvVGxQVUtYcUcycFZLU2plNTRscVZQSUhfV01ueFJINGExRA?oc=5",
-   "source": "이데일리",
-   "time": "10/12 07:52",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "금리 인하 거부했다고…트럼프, 연준 이사 리사 쿡 해임 ‘또’ 추진",
@@ -71,6 +71,14 @@
    "strength": 1
   },
   {
+   "title": "원화 강세에 달러·엔화 환율 하락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hRkxFbTVqenRVLU5fMTR2MGhiWDRFa2ZVYVhGVExZUG5vbGZnMUpzOGh6bjVDU2RqVkxSUHoxeW8xSHF1dW02SnA2bkY4LWQ4OFdNMTVFSlg2QzloRWMyOQ?oc=5",
+   "source": "뉴시스",
+   "time": "10/11 09:36",
+   "dir": "down",
+   "strength": 2
+  },
+  {
    "title": "달러·엔화 환율 하락세 이어져",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mVnRPM0VrQVp1a1R1dDNYMTI3Nk5BUlR0R3lGQjBSOEhtbjQ2bDZ4VGh0UlVRWVF3cS1Nd0JpenRrNU1kSjF2eVV0Z2p4MVM4aWsxYzdlNDFOQzgtZEVBTg?oc=5",
    "source": "뉴시스",
@@ -84,14 +92,6 @@
    "source": "이데일리",
    "time": "10/11 07:00",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美, 2연속 금리 인상? 연준 인사들은 신중론",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN1NJNGhKZzQyQWhENGhjNzZVTDRsYlN6QkdITml5U09MRjRNcnpQcmttOG9ZNVd3MVJQN3U2UU5JVnF0SVVFNnp1X3dyLVZGSGFNQU91bWxNWlJ1ZTVfZHI5T0Q5S3hsUmIzTXdLV3pJTEtidVNnazMyMmFLaUMwRW1xcFJkVWF0UmlZ?oc=5",
-   "source": "조선일보",
-   "time": "10/10 00:37",
-   "dir": "up",
    "strength": 1
   }
  ]
