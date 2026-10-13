@@ -1,19 +1,75 @@
 {
- "updated": "2026-10-13 13:21",
+ "updated": "2026-10-13 22:06",
  "summary": {
-  "up": 4,
-  "down": 6,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 4 vs 하락 6).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 7 vs 하락 3).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "한은 총재 “원화 더 오르는 게 바람직”…긴축 기조 유지｜Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OTVJiMzNkWnpHWUE3OGhzZ1hrb0Z2dXBCY2RMd3VQYUZNZ2tDMWlKMnBwQ1FRMnpFdHByMDRkek1ManNGVGRKekZQN3B4UHlES3ljel9qYkFyT28?oc=5",
+   "source": "중앙일보",
+   "time": "10/13 20:45",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "‘환율 하락=증시 상승’ 공식 옛말…외국인 매도 부추기는 원화 강세",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJUXJ1MW5hZkxwbnJ1X00zTGFtVmRYRk5ZN2dEWXRvQzhFWEhVY0pjQzVIOVB1SjlLNGtWZENNWk0tem1LdjNKalB1M2I2M3F2V3JBLXBR?oc=5",
+   "source": "중앙일보",
+   "time": "10/13 16:07",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "원/달러 환율, 하루 만에 10원 급등…외국인 순매도·달러 강세 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ieUxqSXJIazlkTWZLdnNFRzEzY0ItbzZXZTROMEtsSmlEY2FqZlg1R3ZzTy1GZnhDRmQyTEZyRVlxeUpDcU56aEdKOUJsTWpiMlpTLXA5NkQ5cWhOOXM5enpFSTZXSTBZS0hr0gFwQVVfeXFMTXR6RDVXclp0VkpuVzF4T20xX2k5TmF4WmhydEY4QnpyYkxvOVlKc3JRSWQyclB6eFA1RGc1S3FHWjNWdG1Id3FsVlRuRVdqRFk3T2NqS0tZSVREV3QycFZDNlZPMFNYZ1RTQlNaVE9mYw?oc=5",
+   "source": "머니투데이",
+   "time": "10/13 16:02",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 2년 만에 최저인데 코스피는 추락…'원화 강세'의 역설",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iYVBvVkFuRmlCOEM3eDFObFZ6MTZXTHlWM2o1N3drSXdjb3NzUHZUUkdodjJqZVpHYWs3b0h3UHlaV0tRam9RcUtzVVE4YUx1YURGcU1PenBETzhOVktOV3NLNkM4Q3V4eWZxUGJR0gFzQVVfeXFMT2gxeVZlS29KS2R5NlViaDZsaFNsRWFIN0pEOWdWNHZiN1ktNE1tLVdXc1RpTEtVbDd6WFotTE9NOGxja0hFVTNpMGd2eENleC03UnZMTWZNaGd2THJwelpPY2Q4a1FhQXY0eDFkZl9WdWdxWQ?oc=5",
+   "source": "한국일보",
+   "time": "10/13 16:00",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "코스피 급락, 원달러 환율 상승 마감",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzb29EdFNPWlZFWGNHTkFYdmtKeFl0MjFOOTcyeXFISkZ5WnlvR1ZBRUFvNmZCVlV2TThhaDRNa1pGazlVaUozek9QYw?oc=5",
+   "source": "뉴스1",
+   "time": "10/13 15:58",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "野배준영 \"한은총재, 이달 기준금리 인상 '원점 재검토'해야\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDbUJvbUZaVTM4eXhmWEM3UVVscWJXWEx0cDh4Smd3UGs0MkhpRllpX3BfNXNPRXJxdzFNd3JxYUdhZkFzWURfTWVjNFUyTUJDTjlrSE13SldvS0nSAWBBVV95cUxNY08zVlZDZC1fdG12cnJpNU5uUWhqcGlIekNEQTdrRWhLWnhJdE8xMVNMeVc5SnNjRVB5S3MyU0plaVNNZDVmTlkyYjdfblFvNDVfRk1uRjhYSEF0LWlES1A?oc=5",
+   "source": "연합뉴스",
+   "time": "10/13 15:50",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[정선영의 마켓산책] 1,500원 환율에 산 그 주식",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBc05xbVp0ZUpyeUVrWWNvVHB1UmkyQmFJd0NuSDhIYS1NbHFEUERwYXlNTFJSYmNrQXpFWmQ4cllRajdqTzdRUWRPMjJ6c2hkMG51UDR1WWFmVXpEc0I1R254WXJYWEgzYmxrNmxRTkk?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/13 14:46",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "환율 하락에 원가 부담 던 석화업계…수익성 개선은 미지수",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QME1qWHVyNkJrbklDQUo5aFRvYWlFQXJQeS1CeDVXaTJwdUJIVVJFZHJiVGk2VzRSdExXUnFiX3MxbEc2elVxVXF5Qjc1LV9HR19WZkk0NThGTHRLZG1ac9IBeEFVX3lxTE5uSkR3aDNhdEdwWF9uNzJ3TXQ4Z1hONlJCYktlRHhtR0NHMklNVTc3R1RlSUFXbjJMQkVGSGFucXJtYTJKRlQ4ekNVZEswOVg1UzNJN3ljc2ZJaGw1YlpJSEFTVjdETzh5UDJjUHpYUFRxSGd2ajJYZw?oc=5",
@@ -29,62 +85,6 @@
    "time": "10/13 12:41",
    "dir": "up",
    "strength": 2
-  },
-  {
-   "title": "올라도 내려도 문제…원화 강세에 외국인 ‘셀코리아’",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhdDMtRnkwYkVFckRzekxkS2tlbzVTQ0J4N2R2MWxDeHdQcVpxbEJLbmZ6WFBieFdLZXlqOEhjLWFaLWRaSTVFaW1ObmFJczlVeWdoZw?oc=5",
-   "source": "매일경제",
-   "time": "10/13 11:17",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "'월마트 경기침체 신호' 다시 급등…\"연준 금리 인하 전환 가능성\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxRU1wcllKV3JvQnhWclFKdVI3Yk5WX3BnMW5Vc3NJOUlLSURHTUdzazdUNUhpVHA5UXVscmRiaDN1MlRBajVyemF4SnR1N3l6bG5LcVo0U0dNTW1nRU12cDlOX0FzMHBVdE1oWTgzbGM?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/13 10:04",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美 연준 ‘매파’ 해맥 “금리 소폭·잦은 조정이 바람직”｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zQk9SUGI4Zm5UTkxRS1RBa3RvUXdWRy1mSFVGRXpYVWFpYUpHWEZoeHhZcGUxZ0J4eGoyaENDZGU5WWVLQWd6WTc2LVhJQVVRVFVwVXB1WF9HLWc?oc=5",
-   "source": "중앙일보",
-   "time": "10/13 08:46",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "고점서 30% 빠진 금값, 언제 오를까…전문가 \"연준 긴축 끝나야\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NZ29aZndtb1ZXX3pEZXlNemNaaERuUTZNS1E5MXIxR3dKVmp4SEF3NXZZT2RPRE0xbldpVUJkcTFfSVN0SHRoendwbkl1WkFyZmR2cGxSTDF0cTZ6UnlrcdIBeEFVX3lxTE9oVHpFVFd2YUp6a3o3UGlBbkRlaEpmXzltYm1MX1Z2Z2tUMWhZUzZweTZBT3FfeWU2R0lhRjhhT1kxVGdSZC1GUVhjblViNWxFYUtDZ0pEcmF4NEJuZF9qcEstY2dpRVJrM21qTkpSYl9vaDRRY2JVSw?oc=5",
-   "source": "뉴시스",
-   "time": "10/13 00:17",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "신현송 \"최근 환율 안정, 통화정책 기조가 중요하게 작용\"",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmlDQUtHUXY2QVdtTkFMd2h5RUFDRDhjazlSZXFzVkhDeENUMnFTWFZCeDV2QVZxSW9GMHl3aGZWYjNOMk13WWlEemRRcVM0OWZJTXFOSWpVb0dYN0lZM3pHMmgwSDhndWRCYzJ5ejVoSlBpUmkxZzV5a3ZHbkhEdw?oc=5",
-   "source": "이데일리",
-   "time": "10/12 17:12",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원화 강세에 원·달러 환율 1,332원까지 하락…2년여 만에 최저",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmMXZiUy1BbXlCTFhxQlU2VlZUaXNVbkJibkFSbDVhcGlxckh4OExKRENtT1B6blh3b29YR1I3VmFrcVNUQ1lPdnFWdzRNTVl0QXdoMURpR1dMOTA?oc=5",
-   "source": "KBS 뉴스",
-   "time": "10/12 16:50",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율 1333원까지 ‘뚝’…반도체 수출 호조에 2년 만에 최저",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmNlI3UXpYenJXOFl2X3RlMHd4WVFlbUJzSllkTmx1bnJDcUxvX3JFeUxGQVFYbTZpbXUtQVJuWmQ4YnRSY1NJQ01ZODctcHEtZkFGclhn?oc=5",
-   "source": "중앙일보",
-   "time": "10/12 12:16",
-   "dir": "down",
-   "strength": 1
   },
   {
    "title": "美연준 매파 해맥 \"기업 가격결정력 커져…현 금리로 물가 억제 부족\"",

@@ -870,21 +870,21 @@
   {
    "made_on": "2026-10-12",
    "base_rate": 1333.09,
-   "dir": "neutral",
+   "dir": "up",
    "today_band": [
-    1328,
-    1338
+    1330,
+    1340
    ],
    "week_band": [
-    1321,
-    1345
+    1327,
+    1349
    ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-10-13 13:21",
+ "updated": "2026-10-13 22:06",
  "summary": {
   "scored": 51,
   "hit": 31,
