@@ -1,19 +1,35 @@
 {
- "updated": "2026-10-13 22:06",
+ "updated": "2026-10-14 09:59",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 6 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "미 달러화 약세…국제유가 나흘만에 하락 속 월러 '비둘기' 발언 |",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlS2x4RE85cDJwSkt6akNUdzZYdjRMdlJMX1dFbE9zOUplWlR4ZTk0eVRmakRyZmVGcV9yM0JQZUNxQmRUYzBSZXpJcVFuQ01kSVN0aU5IWWJjN2l3YU9jVUJ2ODgwS1Q0QmM0SzZaX3M5OGt0?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/14 00:06",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "외국인 환차익 러시…‘환율 하락=증시 상승’ 공식 깼다",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Z3ZpTFdqWnE0dFhrN2hwdGZrTDVqV2pJMTB4aW5WenlXbDZqaGZnalZYU3VSVkR4UXdOdmpRRGxHS0N6VjJMMzc3Rmd0Q3kzdlBIM2xR?oc=5",
+   "source": "중앙일보",
+   "time": "10/14 00:02",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "한은 총재 “원화 더 오르는 게 바람직”…긴축 기조 유지｜Global Money Club",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OTVJiMzNkWnpHWUE3OGhzZ1hrb0Z2dXBCY2RMd3VQYUZNZ2tDMWlKMnBwQ1FRMnpFdHByMDRkek1ManNGVGRKekZQN3B4UHlES3ljel9qYkFyT28?oc=5",
@@ -60,22 +76,6 @@
    "source": "연합뉴스",
    "time": "10/13 15:50",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[정선영의 마켓산책] 1,500원 환율에 산 그 주식",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBc05xbVp0ZUpyeUVrWWNvVHB1UmkyQmFJd0NuSDhIYS1NbHFEUERwYXlNTFJSYmNrQXpFWmQ4cllRajdqTzdRUWRPMjJ6c2hkMG51UDR1WWFmVXpEc0I1R254WXJYWEgzYmxrNmxRTkk?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/13 14:46",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 하락에 원가 부담 던 석화업계…수익성 개선은 미지수",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QME1qWHVyNkJrbklDQUo5aFRvYWlFQXJQeS1CeDVXaTJwdUJIVVJFZHJiVGk2VzRSdExXUnFiX3MxbEc2elVxVXF5Qjc1LV9HR19WZkk0NThGTHRLZG1ac9IBeEFVX3lxTE5uSkR3aDNhdEdwWF9uNzJ3TXQ4Z1hONlJCYktlRHhtR0NHMklNVTc3R1RlSUFXbjJMQkVGSGFucXJtYTJKRlQ4ekNVZEswOVg1UzNJN3ljc2ZJaGw1YlpJSEFTVjdETzh5UDJjUHpYUFRxSGd2ajJYZw?oc=5",
-   "source": "뉴시스",
-   "time": "10/13 13:11",
-   "dir": "down",
    "strength": 1
   },
   {
