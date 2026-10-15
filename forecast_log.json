@@ -904,21 +904,21 @@
   {
    "made_on": "2026-10-14",
    "base_rate": 1336.79,
-   "dir": "neutral",
+   "dir": "up",
    "today_band": [
-    1331,
-    1342
+    1334,
+    1343
    ],
    "week_band": [
-    1324,
-    1350
+    1331,
+    1352
    ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-10-14 23:45",
+ "updated": "2026-10-15 09:21",
  "summary": {
   "scored": 53,
   "hit": 32,

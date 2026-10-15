@@ -1,19 +1,43 @@
 {
- "updated": "2026-10-14 23:45",
+ "updated": "2026-10-15 09:21",
  "summary": {
-  "up": 5,
-  "down": 5,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 6 vs 하락 4).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "동국제강 3Q 영업익 298억 전망…원·달러 하락에 4Q 개선-하나증권",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZYTBHYzJKZWdkMGNvUU1Mb0NBTWMzS2NUZm5ZTWkzNExrclNxdkJTSEdZNEhmZFUzakp2N1FLUU0tVlNjWGtRWGoyTDlHMnFRSm4wcHlESlBpZw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "10/15 05:59",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "美 물가 다시 뛰자 10월 금리인상론 부상…연준 매파에 '무게'",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWER1YjRnSjhnN2lBamYtQlNhV0RFRkZYdXdKaEtRS3dCUkhIcnNQX1d3OTNmQXhoY0s2U0xzQ2Z6VHdOdjlEMVZ2cGNkWlFjUk05Z3c3UHhjTDdZVGUxcWxHWmpaU00?oc=5",
+   "source": "뉴스1",
+   "time": "10/15 05:56",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "연준 “고유가 충격, 美 공급망 전반 확산”…물가 압력에 금리 인상 압력",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mdm5ZS21EUjVhZnFyYlFNNWxvVDRuYTZJUDRjMHNibHJpTmZsQm5VZW9NUUN2LTlqUThrT0ltUGxrS0NJV0FpUWxpV1FJNmk3cDJUMmhB?oc=5",
+   "source": "헤럴드경제",
+   "time": "10/15 05:52",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "월러 연준이사 \"美국채금리 급등, 긴축 효과…AI 물가압력 2~3년 더\"",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UM0RvTHNEeTJoYTRGcVhIdm42dm8ySmF3TzEyT0JjamI4djRueUdZbG9NLW9jeFg3WWN3R2hRS0tIRzh6YW9VZ0hDckQ2ZkE3WFVqQ2ZqRjVVN0diNGpxY0g1RFE2UGs?oc=5",
@@ -24,7 +48,7 @@
   },
   {
    "title": "'달러 약세'에 환율 하락 전환…6.8원 내린 1338.3원",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbExjcDJjQkFXeTRHaWtVZXMyejFfS1lnTEt4R1lHaVFrUnhFYzJlbjJUUThDZTlCaDhRdGIyTV9oWTdsNEtOZi1qM1BwR0dhcVNB0gFYQVVfeXFMTTRGWm9QMXZ2N2sybU9VaFhsM1JoOE5BZjFqSUc3aUVlVlNKMFpwUkRKdUpSY0lMZ3hWYW9HLWhMcW9KZGNQOVBYWmFDeFdmMHpOT003a0I5ZQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00RlpvUDF2djdrMm1PVWhYbDNSaDhOQWYxaklHN2lFZVZTSjBacFJESnVKUmNJTGd4VmFvRy1oTHFvSmRjUDlQWFphQ3hXZjB6Tk9NN2tCOWXSAVhBVV95cUxNNEZab1AxdnY3azJtT1VoWGwzUmg4TkFmMWpJRzdpRWVWU0owWnBSREp1SlJjSUxneFZhb0ctaExxb0pkY1A5UFhaYUN4V2Ywek5PTTdrQjll?oc=5",
    "source": "SBS Biz",
    "time": "10/14 16:27",
    "dir": "down",
@@ -39,34 +63,10 @@
    "strength": 1
   },
   {
-   "title": "미 달러화 약세…국제유가 나흘만에 하락 속 월러 '비둘기' 발언 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlS2x4RE85cDJwSkt6akNUdzZYdjRMdlJMX1dFbE9zOUplWlR4ZTk0eVRmakRyZmVGcV9yM0JQZUNxQmRUYzBSZXpJcVFuQ01kSVN0aU5IWWJjN2l3YU9jVUJ2ODgwS1Q0QmM0SzZaX3M5OGt0?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/14 00:06",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "외국인 환차익 러시…‘환율 하락=증시 상승’ 공식 깼다",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Z3ZpTFdqWnE0dFhrN2hwdGZrTDVqV2pJMTB4aW5WenlXbDZqaGZnalZYU3VSVkR4UXdOdmpRRGxHS0N6VjJMMzc3Rmd0Q3kzdlBIM2xR?oc=5",
    "source": "중앙일보",
    "time": "10/14 00:02",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "한은 총재 “원화 더 오르는 게 바람직”…긴축 기조 유지｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OTVJiMzNkWnpHWUE3OGhzZ1hrb0Z2dXBCY2RMd3VQYUZNZ2tDMWlKMnBwQ1FRMnpFdHByMDRkek1ManNGVGRKekZQN3B4UHlES3ljel9qYkFyT28?oc=5",
-   "source": "중앙일보",
-   "time": "10/13 20:45",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "‘환율 하락=증시 상승’ 공식 옛말…외국인 매도 부추기는 원화 강세",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJUXJ1MW5hZkxwbnJ1X00zTGFtVmRYRk5ZN2dEWXRvQzhFWEhVY0pjQzVIOVB1SjlLNGtWZENNWk0tem1LdjNKalB1M2I2M3F2V3JBLXBR?oc=5",
-   "source": "중앙일보",
-   "time": "10/13 16:07",
    "dir": "down",
    "strength": 1
   },
@@ -79,18 +79,18 @@
    "strength": 1
   },
   {
+   "title": "코스피 급락, 원달러 환율 상승 마감",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzb29EdFNPWlZFWGNHTkFYdmtKeFl0MjFOOTcyeXFISkZ5WnlvR1ZBRUFvNmZCVlV2TThhaDRNa1pGazlVaUozek9QYw?oc=5",
+   "source": "뉴스1",
+   "time": "10/13 15:58",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "월가 전문가 \"달러 강세는 일시적…이란 전쟁 끝나면 약세\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlWjdjbkJmMTNja2hSN24zNExyQVppM2hhZmd2U0R4YkV4WFVQQmlWSWVadWdXVWNUeTVQWjREUGRfeGhtUnBYZnIzeGhaQ19YRVJWTnFuaElSZG9BMXRkZzZNXzljVFJOR1lXMzI3cFo?oc=5",
    "source": "연합인포맥스",
    "time": "10/13 12:41",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "美연준 매파 해맥 \"기업 가격결정력 커져…현 금리로 물가 억제 부족\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vNWNFaVIxMEZFdV9oYThJaGU5UGp3Q0Q4NzAyWF9FUEVMSzNfb2R4c215Q1dXQjRnQlRCYkdoNEE1YnlkeDBtTXBxZjkzclhhTFV1RE1sc3o1TDd6elBwNtIBeEFVX3lxTFByUlI0SGs5NFRmTUktR1pSdEtCRWRTb0Yyekd2ZmllTWREUDM0amJhWjR3cTZ3X3ZGaWE3YmNWd3N5YmxacTR2N0poUU9DbjRicUpFdXFsSmlhWFk3WHplcWpLQTRZbzRDYWRhM3NKRkp4X2JfMUFobg?oc=5",
-   "source": "뉴시스",
-   "time": "10/12 10:56",
    "dir": "up",
    "strength": 2
   }
