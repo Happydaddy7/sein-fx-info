@@ -1,19 +1,27 @@
 {
- "updated": "2026-10-16 17:34",
+ "updated": "2026-10-16 23:23",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 5,
+  "down": 5,
   "neutral": 0
  },
  "outlook": {
-  "dir": "up",
+  "dir": "neutral",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "환율 1330원으로 하락, 2년만 ‘최저’…달러 약세·주가 반등",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSGY5eGc2dThTTncyMjVGc0phVU4yVV9XYVFVR1RVR2FCLWMwWmRtLXVQM3V2WnhnYThKRzlGd1JyckpKSG4tVjc3LXlNb1JwaHd6Q1o0T1RtWFRpaVVfSDRzaXBJcUhQeG9OYkYzZ2VVbUN6Q3N4aWJJMktGQlY4Xw?oc=5",
+   "source": "이데일리",
+   "time": "10/16 18:04",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "환율 하락 역풍에 업황 우려도…방산·증권·엔터, 눈높이 줄하향",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84NHR5Z1M1cEs1YWZjWXpxZlZieEFOYXBLV3lfcmxrN3ZJWS1nbDJuUmM2UzVlcENEcGV5d09mdTRrbEhBa2ZsTkdCT2hfM2VHamNNSzhvRW9pQQ?oc=5",
@@ -28,6 +36,14 @@
    "source": "연합뉴스TV",
    "time": "10/16 14:46",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 하락에도 원윳값 21.6% '껑충'…수입물가 넉 달 만에 오름세",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnYUlnaW1sZ0ZRQWlndnZVOEFKbzhreWlQRXM2akctRnB4d0l5ZDVXSTJwcmMtaUdLTFZsbkhseXdtSVozUFc2X0txTQ?oc=5",
+   "source": "뉴스1",
+   "time": "10/16 13:34",
+   "dir": "down",
    "strength": 1
   },
   {
@@ -63,14 +79,6 @@
    "strength": 1
   },
   {
-   "title": "美 물가에 금리인상 확률까지 30%대…연준 다시 긴축하나",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1ZzRycVVrOFpIaEpvMzVVZ1NTdU1aSS1TODZmQmFNNHU1R0tfQ1hOMDRCWmJWRjVZY0ZSNldhWmdKN05ncjEwNTJ5S2tGVV9rWE8w0gFYQVVfeXFMT0xWdVZQUjJNNjFWaXRtQnRiWVFqVkhyTnBmZjcwRi10c1pzNTZNSUxBQXNGS0o4Sk1JTGhDOHVwUlJzZElNb0h2bHdOSVpWckFtbjlLZlAxbA?oc=5",
-   "source": "SBS Biz",
-   "time": "10/15 11:15",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "美 물가 다시 뛰자 10월 금리인상론 부상…연준 매파에 '무게'",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWER1YjRnSjhnN2lBamYtQlNhV0RFRkZYdXdKaEtRS3dCUkhIcnNQX1d3OTNmQXhoY0s2U0xzQ2Z6VHdOdjlEMVZ2cGNkWlFjUk05Z3c3UHhjTDdZVGUxcWxHWmpaU00?oc=5",
    "source": "뉴스1",
@@ -79,16 +87,8 @@
    "strength": 2
   },
   {
-   "title": "월러 연준이사 \"美국채금리 급등, 긴축 효과…AI 물가압력 2~3년 더\"",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UM0RvTHNEeTJoYTRGcVhIdm42dm8ySmF3TzEyT0JjamI4djRueUdZbG9NLW9jeFg3WWN3R2hRS0tIRzh6YW9VZ0hDckQ2ZkE3WFVqQ2ZqRjVVN0diNGpxY0g1RFE2UGs?oc=5",
-   "source": "뉴스1",
-   "time": "10/14 16:27",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "'달러 약세'에 환율 하락 전환…6.8원 내린 1338.3원",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00RlpvUDF2djdrMm1PVWhYbDNSaDhOQWYxaklHN2lFZVZTSjBacFJESnVKUmNJTGd4VmFvRy1oTHFvSmRjUDlQWFphQ3hXZjB6Tk9NN2tCOWXSAVhBVV95cUxNNEZab1AxdnY3azJtT1VoWGwzUmg4TkFmMWpJRzdpRWVWU0owWnBSREp1SlJjSUxneFZhb0ctaExxb0pkY1A5UFhaYUN4V2Ywek5PTTdrQjll?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbExjcDJjQkFXeTRHaWtVZXMyejFfS1lnTEt4R1lHaVFrUnhFYzJlbjJUUThDZTlCaDhRdGIyTV9oWTdsNEtOZi1qM1BwR0dhcVNB0gFYQVVfeXFMTTRGWm9QMXZ2N2sybU9VaFhsM1JoOE5BZjFqSUc3aUVlVlNKMFpwUkRKdUpSY0lMZ3hWYW9HLWhMcW9KZGNQOVBYWmFDeFdmMHpOT003a0I5ZQ?oc=5",
    "source": "SBS Biz",
    "time": "10/14 16:27",
    "dir": "down",
