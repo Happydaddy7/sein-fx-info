@@ -1,33 +1,57 @@
 {
- "updated": "2026-10-16 11:03",
+ "updated": "2026-10-16 17:34",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
+   "title": "환율 하락 역풍에 업황 우려도…방산·증권·엔터, 눈높이 줄하향",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84NHR5Z1M1cEs1YWZjWXpxZlZieEFOYXBLV3lfcmxrN3ZJWS1nbDJuUmM2UzVlcENEcGV5d09mdTRrbEhBa2ZsTkdCT2hfM2VHamNNSzhvRW9pQQ?oc=5",
+   "source": "한국경제",
+   "time": "10/16 16:19",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "추가 금리 인상 ’촉각’…美 연준의장 “예단 안해“",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mSmhuVms1WU5LUGd6QlJfck4yNVN3bWNMd2VhYTljRkNMYTlIbWZvdk16MUJ3VzhNOVRYS0daMHQ5TXRyOFJqanMtYzVmOXlicFpJYTJkQ1VaR2xpVTdjMG9QMTZ4Ulk?oc=5",
+   "source": "연합뉴스TV",
+   "time": "10/16 14:46",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 인플레 부추기는 AI·이란 전쟁…연준, 10월 금리 인상하나",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02UjRjX01xSFROTnBtckxvTlNzSUZYbDVFTXd2bl9nOFhlQ05MUUJicGd5dVNTLWIwMnNRaTVncWtURkNWdXBTY1ZWRzZkd2tfdkt1Wm5RLUZjQ1RaejlvRdIBeEFVX3lxTFByQ1ZJMmhIdFdPOXBLUjdDc25Gclo1ZFl6Z0VtbldXMHVHRlJLNXNMb0pqQnplSzhXdUlrUzZlT1Bob3BWLThKSDJhYzV6Y3JRSnpocVBnZExaVUxZQ2o2ZVFBUVRCWE8wa1NQTkNfaVJLa2JYYjJJSQ?oc=5",
+   "source": "뉴시스",
+   "time": "10/16 11:47",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "환율 하락에도 유가 급등에 수입물가 넉 달 만에 상승",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKTGVPejdxSzlTdmdmY0dVUV94WTM0V1Q1MWV1bHdCN1Nkam5obWJFNTVIX1JacXc4aFdoaDhWTVU3bjdOakh1U1hNQVNZcWlDRDRsQjJSQmlnaDd5UnhVZkh2Wms0Mzg2dUdOZkN30gFzQVVfeXFMUG5HNWV6ZGxzNjNSR0dCdVpfODlkbm45T0E3UFhlWTlzVVowS3htZXZUOGdmcFVkTkFISHpEcUJseXRrRkFCR2wxYkxIWnlqWHQ4M0tnaUI5cDQ2NnFDNFMxbjFsQmZCeS10OFRoa3pjbWtMQQ?oc=5",
+   "source": "한국일보",
+   "time": "10/16 11:05",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "ING \"연준 금리 인상보다 낮은 임금 상승률이 물가 잡을 것\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iN1VkQk1zTUZyT3N5eUZnR3RJb0xIWmtGRWdCQkhLa29wR0JLNzN6OUxvTjJWdGZ6YVR1RVhRdzlURnZsczBoVERKal9GU3VuRW5Kc2JxdkdMakVmYVh2NVdOcDluRW5wVmdwMmFuVWU?oc=5",
    "source": "연합인포맥스",
    "time": "10/16 10:20",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 하락했지만 급등한 유가에…수입물가 1.7% 상승",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2MkwzdUJSalREb3lNbDVMMmhVdm9HYXhTd1l5NjlHNFhadjZsREhVQVJ2U3cwMnNGS2M3SFU5SHFGN0p6MVkteVp6OTJKdUdkaVFJeHN4bnFXYlpoVUNQQdIBeEFVX3lxTE5CeWVpdy1JRGJYSXQ0YVdVclJ5MllfTUxncjBWTUdHR0p1VS1XUmFvVDJ2cG9pcnNSV013ZWZKeGRPQ1QwMjV3VXJ6VUkzZ2JiRVItX082UWlValY4blZ1NFEtNHotYnJZT2JWTzliNWpmMkZPYXc4MQ?oc=5",
-   "source": "뉴시스",
-   "time": "10/16 06:00",
-   "dir": "down",
    "strength": 1
   },
   {
@@ -68,30 +92,6 @@
    "source": "SBS Biz",
    "time": "10/14 16:27",
    "dir": "down",
-   "strength": 2
-  },
-  {
-   "title": "환율, 6.8원 내린 1,338.3원…달러 약세에 하락 전환",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IRHBOSllWdWx4cjFCaHpBZ1pJVmRZbVFhTkxaOVdWbGtxcE44MVhtaENCZTR1TjhvV3dHRmNkVEpULVNGWjJ2UXFmU1BGRmtUY2N2WVJFbjV4N03SAWBBVV95cUxPMDBaVEJWczFwdGMwM2kwSGZVN2FCbHpzc243bnBYR2x1M2U2UkpQbWhCakd0SWhmdEJ6eXMyQzVyaWszLUJRS2trdW9yQUtCb1BkdEh1VGpSUDhjcWdjeVA?oc=5",
-   "source": "연합뉴스",
-   "time": "10/14 16:07",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "외국인 환차익 러시…‘환율 하락=증시 상승’ 공식 깼다",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Z3ZpTFdqWnE0dFhrN2hwdGZrTDVqV2pJMTB4aW5WenlXbDZqaGZnalZYU3VSVkR4UXdOdmpRRGxHS0N6VjJMMzc3Rmd0Q3kzdlBIM2xR?oc=5",
-   "source": "중앙일보",
-   "time": "10/14 00:02",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "월가 전문가 \"달러 강세는 일시적…이란 전쟁 끝나면 약세\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlWjdjbkJmMTNja2hSN24zNExyQVppM2hhZmd2U0R4YkV4WFVQQmlWSWVadWdXVWNUeTVQWjREUGRfeGhtUnBYZnIzeGhaQ19YRVJWTnFuaElSZG9BMXRkZzZNXzljVFJOR1lXMzI3cFo?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/13 12:41",
-   "dir": "up",
    "strength": 2
   }
  ]
