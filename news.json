@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 09:09",
+ "updated": "2026-10-16 11:03",
  "summary": {
   "up": 6,
   "down": 4,
@@ -14,6 +14,14 @@
   ]
  },
  "items": [
+  {
+   "title": "ING \"연준 금리 인상보다 낮은 임금 상승률이 물가 잡을 것\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iN1VkQk1zTUZyT3N5eUZnR3RJb0xIWmtGRWdCQkhLa29wR0JLNzN6OUxvTjJWdGZ6YVR1RVhRdzlURnZsczBoVERKal9GU3VuRW5Kc2JxdkdMakVmYVh2NVdOcDluRW5wVmdwMmFuVWU?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/16 10:20",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "환율 하락했지만 급등한 유가에…수입물가 1.7% 상승",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2MkwzdUJSalREb3lNbDVMMmhVdm9HYXhTd1l5NjlHNFhadjZsREhVQVJ2U3cwMnNGS2M3SFU5SHFGN0p6MVkteVp6OTJKdUdkaVFJeHN4bnFXYlpoVUNQQdIBeEFVX3lxTE5CeWVpdy1JRGJYSXQ0YVdVclJ5MllfTUxncjBWTUdHR0p1VS1XUmFvVDJ2cG9pcnNSV013ZWZKeGRPQ1QwMjV3VXJ6VUkzZ2JiRVItX082UWlValY4blZ1NFEtNHotYnJZT2JWTzliNWpmMkZPYXc4MQ?oc=5",
@@ -76,14 +84,6 @@
    "source": "중앙일보",
    "time": "10/14 00:02",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원/달러 환율, 하루 만에 10원 급등…외국인 순매도·달러 강세 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ieUxqSXJIazlkTWZLdnNFRzEzY0ItbzZXZTROMEtsSmlEY2FqZlg1R3ZzTy1GZnhDRmQyTEZyRVlxeUpDcU56aEdKOUJsTWpiMlpTLXA5NkQ5cWhOOXM5enpFSTZXSTBZS0hr0gFwQVVfeXFMTXR6RDVXclp0VkpuVzF4T20xX2k5TmF4WmhydEY4QnpyYkxvOVlKc3JRSWQyclB6eFA1RGc1S3FHWjNWdG1Id3FsVlRuRVdqRFk3T2NqS0tZSVREV3QycFZDNlZPMFNYZ1RTQlNaVE9mYw?oc=5",
-   "source": "머니투데이",
-   "time": "10/13 16:02",
-   "dir": "up",
    "strength": 1
   },
   {
