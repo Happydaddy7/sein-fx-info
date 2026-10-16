@@ -1,19 +1,27 @@
 {
- "updated": "2026-10-15 23:30",
+ "updated": "2026-10-16 09:09",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 6 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "환율 하락했지만 급등한 유가에…수입물가 1.7% 상승",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2MkwzdUJSalREb3lNbDVMMmhVdm9HYXhTd1l5NjlHNFhadjZsREhVQVJ2U3cwMnNGS2M3SFU5SHFGN0p6MVkteVp6OTJKdUdkaVFJeHN4bnFXYlpoVUNQQdIBeEFVX3lxTE5CeWVpdy1JRGJYSXQ0YVdVclJ5MllfTUxncjBWTUdHR0p1VS1XUmFvVDJ2cG9pcnNSV013ZWZKeGRPQ1QwMjV3VXJ6VUkzZ2JiRVItX082UWlValY4blZ1NFEtNHotYnJZT2JWTzliNWpmMkZPYXc4MQ?oc=5",
+   "source": "뉴시스",
+   "time": "10/16 06:00",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "증시 폭락에 원·달러 환율 급등 [김혜란의 FX]",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWnpRU1BJQUEzS2JQMHVuX2wxaWFDS0dodGc5NEtXZWozd3ZfQ1FuVUJTS21pVVV5U1Y3WU5pekNfV2JfNDQ5WDZmOENBdXpVelE?oc=5",
@@ -75,14 +83,6 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ieUxqSXJIazlkTWZLdnNFRzEzY0ItbzZXZTROMEtsSmlEY2FqZlg1R3ZzTy1GZnhDRmQyTEZyRVlxeUpDcU56aEdKOUJsTWpiMlpTLXA5NkQ5cWhOOXM5enpFSTZXSTBZS0hr0gFwQVVfeXFMTXR6RDVXclp0VkpuVzF4T20xX2k5TmF4WmhydEY4QnpyYkxvOVlKc3JRSWQyclB6eFA1RGc1S3FHWjNWdG1Id3FsVlRuRVdqRFk3T2NqS0tZSVREV3QycFZDNlZPMFNYZ1RTQlNaVE9mYw?oc=5",
    "source": "머니투데이",
    "time": "10/13 16:02",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "코스피 급락, 원달러 환율 상승 마감",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzb29EdFNPWlZFWGNHTkFYdmtKeFl0MjFOOTcyeXFISkZ5WnlvR1ZBRUFvNmZCVlV2TThhaDRNa1pGazlVaUozek9QYw?oc=5",
-   "source": "뉴스1",
-   "time": "10/13 15:58",
    "dir": "up",
    "strength": 1
   },
