@@ -1,19 +1,83 @@
 {
- "updated": "2026-10-16 23:23",
+ "updated": "2026-10-19 09:00",
  "summary": {
-  "up": 5,
-  "down": 5,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 6 vs 하락 4).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "외국인 매도 재개하나…환율 1330원대 상승 압력[외환 브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGN6TnFiTFNmRV84aElNQktZOHFBd1BLWjU4bTVaYmFPaFk3RW1KYWFBZktJMzF0N2dZbHdaNzVXTHZiZXlpQ0t4Rnc2TUxXc1lvd3Z1MGFFTy1DTVRhT1pub3pxV0FzV1FvUmtxZUg3MXpvZWx4d2c4aGctd1BMWg?oc=5",
+   "source": "이데일리",
+   "time": "10/19 08:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "급한 불 끈 한은, 10월 기준금리 동결 전망… 긴축 고삐는 내년까지",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EX3U2ZjBySHI5NTJZWDlBc04xUTVDcU5rMmZOeXRKdHpwbUZNZ1dmUVNFdWF6NjQ1bVdXOEp2X3ZROVdXRkdhbVdEX0ZfTkdNQ184bDJfSmY3eEJvY2o2VllLMjE2c1Iya0l1R2dR0gFzQVVfeXFMUElpdHl0WVpGRmFrRmJ5T3hnZkpIYmlkU3lqT2tid0hpX1NiQWVvdTNQMzJNN3FOUjdTVWo0NFZYemhTRExibWF4cW5IbnVGNXVrcGhIZWhxYmhWazVHRDd4TGRtSXF0SldXOU9xbzJfZW0tWQ?oc=5",
+   "source": "한국일보",
+   "time": "10/18 17:30",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 2년 1개월만에 최저... 원화 강세에 달러·엔화예금 ‘뭉칫돈’",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGoxV00tbFZWS2tMQTIwODRrMnQxUFFwYTNCSXIyYm95M21Eb1VoV0tsXzhXREcxNDZ3cXRBcmF2Ml9BX3NoU3J0V2JVbXNia09vclNHWHplUTNNdGFTRjllR0pXLTROMi1SZ0lEVUhjOHI2TW1fMXVQZTlHcjI4aWF5MS1QNndnNGVtVG9B?oc=5",
+   "source": "조선일보",
+   "time": "10/18 10:47",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "달러·엔화 약세에 환테크 열풍…외화예금 쌓인다",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ajVPb01pa0FVRm1DOXFjZkMzbjJpSFlRTzBydC1Md040SnV1OS01VXpPNkVPQW1BRWFsV1AwTk16MVpxTWFHNU5lM2xkelp1bGlB0gFYQVVfeXFMT3dTT2x4Q25WREQxNE4zM3prYWM5a281blZjclRCcGZia3R6SE1LbDYwWUw2MjNzSVBwSS13ZnI4b2N4X0ROd1I0SDBCNGJyS3NIN0RaaHQ4Mg?oc=5",
+   "source": "SBS Biz",
+   "time": "10/18 09:50",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[이번주 경제] 한은, 기준금리 인상 이어갈까…생산자물가도 주목",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FeEV4bmlGeWtNUWl5dGswVTkzV1pKa3h2NXRhcGl2ZEplMDNiTmpibHJ4Wi1wc0RJczc0VmF0MkQ3akFxRTl5cHRRZGdFMUdDLU1IRQ?oc=5",
+   "source": "뉴스1",
+   "time": "10/18 09:46",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "1540원대서 1330원대로…환율, ‘원화 강세’ 흐름 굳히나",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14akRvNFhqTHVrbksxNEQtWDRFQUR5dWxPNGNtZFFFVm81TWFweUlBZ3h0eXlwU19zZjliQzJQenJqcFBJYnNhd0JUQmMtMDZCek5tSDYxMVFWd1hadmVoQmJHZUk?oc=5",
+   "source": "서울경제TV",
+   "time": "10/18 08:00",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "반도체 호황에 2년 만에 최저 환율…AI 불안이 원화 강세 막나[주간외환전망]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjN4Q0NBSmMzcU9LU2tVNVV0X3BIaTZMTnkxNUpQNXNkNm1NWWJESE4yakpYWlRzUzJlQVIwamlWNVpoek5YTVRWTThCZTR1bzdSRlF3VHduaFVNamkzREFsVHNYNjZMdkwtd1djbHVqb2FzbzAzcE1MOXVHY2dGUQ?oc=5",
+   "source": "이데일리",
+   "time": "10/18 05:00",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[뉴욕 금가격] 10월 금리 인상에 신중한 연준 의장…1% 상승",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MVElwWUNWN1FmWHh6dXZObmVCZGtCUWpac0todFZZTkVaSWJrTkpVUEtYZDh5bzh0Z1IzMFpUTzZFcnhhbkk0bjNhVnFQcFFSeHk2RmRRM1JjV1JYUm1EcG0yMHQzZGxya2EyME1FUjM?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/17 01:35",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "환율 1330원으로 하락, 2년만 ‘최저’…달러 약세·주가 반등",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSGY5eGc2dThTTncyMjVGc0phVU4yVV9XYVFVR1RVR2FCLWMwWmRtLXVQM3V2WnhnYThKRzlGd1JyckpKSG4tVjc3LXlNb1JwaHd6Q1o0T1RtWFRpaVVfSDRzaXBJcUhQeG9OYkYzZ2VVbUN6Q3N4aWJJMktGQlY4Xw?oc=5",
@@ -23,75 +87,11 @@
    "strength": 1
   },
   {
-   "title": "환율 하락 역풍에 업황 우려도…방산·증권·엔터, 눈높이 줄하향",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84NHR5Z1M1cEs1YWZjWXpxZlZieEFOYXBLV3lfcmxrN3ZJWS1nbDJuUmM2UzVlcENEcGV5d09mdTRrbEhBa2ZsTkdCT2hfM2VHamNNSzhvRW9pQQ?oc=5",
-   "source": "한국경제",
-   "time": "10/16 16:19",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "추가 금리 인상 ’촉각’…美 연준의장 “예단 안해“",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mSmhuVms1WU5LUGd6QlJfck4yNVN3bWNMd2VhYTljRkNMYTlIbWZvdk16MUJ3VzhNOVRYS0daMHQ5TXRyOFJqanMtYzVmOXlicFpJYTJkQ1VaR2xpVTdjMG9QMTZ4Ulk?oc=5",
-   "source": "연합뉴스TV",
-   "time": "10/16 14:46",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 하락에도 원윳값 21.6% '껑충'…수입물가 넉 달 만에 오름세",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnYUlnaW1sZ0ZRQWlndnZVOEFKbzhreWlQRXM2akctRnB4d0l5ZDVXSTJwcmMtaUdLTFZsbkhseXdtSVozUFc2X0txTQ?oc=5",
-   "source": "뉴스1",
-   "time": "10/16 13:34",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "美 인플레 부추기는 AI·이란 전쟁…연준, 10월 금리 인상하나",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02UjRjX01xSFROTnBtckxvTlNzSUZYbDVFTXd2bl9nOFhlQ05MUUJicGd5dVNTLWIwMnNRaTVncWtURkNWdXBTY1ZWRzZkd2tfdkt1Wm5RLUZjQ1RaejlvRdIBeEFVX3lxTFByQ1ZJMmhIdFdPOXBLUjdDc25Gclo1ZFl6Z0VtbldXMHVHRlJLNXNMb0pqQnplSzhXdUlrUzZlT1Bob3BWLThKSDJhYzV6Y3JRSnpocVBnZExaVUxZQ2o2ZVFBUVRCWE8wa1NQTkNfaVJLa2JYYjJJSQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02UjRjX01xSFROTnBtckxvTlNzSUZYbDVFTXd2bl9nOFhlQ05MUUJicGd5dVNTLWIwMnNRaTVncWtURkNWdXBTY1ZWRzZkd2tfdkt1Wm5RLUZjQ1RaejlvRQ?oc=5",
    "source": "뉴시스",
    "time": "10/16 11:47",
    "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "환율 하락에도 유가 급등에 수입물가 넉 달 만에 상승",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKTGVPejdxSzlTdmdmY0dVUV94WTM0V1Q1MWV1bHdCN1Nkam5obWJFNTVIX1JacXc4aFdoaDhWTVU3bjdOakh1U1hNQVNZcWlDRDRsQjJSQmlnaDd5UnhVZkh2Wms0Mzg2dUdOZkN30gFzQVVfeXFMUG5HNWV6ZGxzNjNSR0dCdVpfODlkbm45T0E3UFhlWTlzVVowS3htZXZUOGdmcFVkTkFISHpEcUJseXRrRkFCR2wxYkxIWnlqWHQ4M0tnaUI5cDQ2NnFDNFMxbjFsQmZCeS10OFRoa3pjbWtMQQ?oc=5",
-   "source": "한국일보",
-   "time": "10/16 11:05",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "ING \"연준 금리 인상보다 낮은 임금 상승률이 물가 잡을 것\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iN1VkQk1zTUZyT3N5eUZnR3RJb0xIWmtGRWdCQkhLa29wR0JLNzN6OUxvTjJWdGZ6YVR1RVhRdzlURnZsczBoVERKal9GU3VuRW5Kc2JxdkdMakVmYVh2NVdOcDluRW5wVmdwMmFuVWU?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/16 10:20",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "증시 폭락에 원·달러 환율 급등 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWnpRU1BJQUEzS2JQMHVuX2wxaWFDS0dodGc5NEtXZWozd3ZfQ1FuVUJTS21pVVV5U1Y3WU5pekNfV2JfNDQ5WDZmOENBdXpVelE?oc=5",
-   "source": "서울경제",
-   "time": "10/15 16:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 물가 다시 뛰자 10월 금리인상론 부상…연준 매파에 '무게'",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPWER1YjRnSjhnN2lBamYtQlNhV0RFRkZYdXdKaEtRS3dCUkhIcnNQX1d3OTNmQXhoY0s2U0xzQ2Z6VHdOdjlEMVZ2cGNkWlFjUk05Z3c3UHhjTDdZVGUxcWxHWmpaU00?oc=5",
-   "source": "뉴스1",
-   "time": "10/15 05:56",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "'달러 약세'에 환율 하락 전환…6.8원 내린 1338.3원",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbExjcDJjQkFXeTRHaWtVZXMyejFfS1lnTEt4R1lHaVFrUnhFYzJlbjJUUThDZTlCaDhRdGIyTV9oWTdsNEtOZi1qM1BwR0dhcVNB0gFYQVVfeXFMTTRGWm9QMXZ2N2sybU9VaFhsM1JoOE5BZjFqSUc3aUVlVlNKMFpwUkRKdUpSY0lMZ3hWYW9HLWhMcW9KZGNQOVBYWmFDeFdmMHpOT003a0I5ZQ?oc=5",
-   "source": "SBS Biz",
-   "time": "10/14 16:27",
-   "dir": "down",
    "strength": 2
   }
  ]
