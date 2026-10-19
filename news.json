@@ -1,32 +1,56 @@
 {
- "updated": "2026-10-19 11:13",
+ "updated": "2026-10-19 18:23",
  "summary": {
-  "up": 6,
-  "down": 4,
-  "neutral": 0
+  "up": 4,
+  "down": 3,
+  "neutral": 3
  },
  "outlook": {
-  "dir": "up",
+  "dir": "neutral",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "상승·하락 요인 혼재 (상승 4 vs 하락 3).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "실적 발표에는 널뛰는 주식…기준금리 변화 영향은 미미 한 까닭 [너드의 투자법]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xd0h1MTJHRkZuYkI3NnNKMXpkdHJlQWI2MlZGZThZYmFfbWN1T09TY3V5cFNkVnI2UXgwTU9PZ01KdWVrMF9LWHVPYzlTZlh5eFE?oc=5",
+   "source": "매일경제 마켓",
+   "time": "10/19 17:51",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "1330원 코앞에서 멈춘 원-달러 환율…더 안 떨어지는 이유는?",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UaFZxdGs2Q21SVW9JZ0tVZ1FUcGVWakhGbGN6dEpNNzRlZDFOcW1pYzZwdmhoTFh5NkRKcDZOYW9nY21jMXcxRnBNNzRRbjRVV3dLT1lOVHdJZTFwT2VRT0MwXzFrWFA5emM1QkxUcDFhdw?oc=5",
+   "source": "한겨레",
+   "time": "10/19 17:32",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율 2년만에 최저치…위안화 환율도 1년만에 최저",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xOW5zMlZZZlVrLUs0OERtOWlnZ29NLW5salNUYmM5d0VBX2RKdHVVOVZDeHpjUzJfUXR6bmdWTmE2czFGemstUkVoUlBHZGZDNDFEWk9tLThBdzZqMmpDR2FTSE1DVEE?oc=5",
+   "source": "연합뉴스TV",
+   "time": "10/19 17:25",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "잘 팔렸지만 환율 하락에 '발목'…K뷰티, 3분기 눈높이 하향",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdk10MHZ4UHlqczBtU0ZkdkljOEZVUEl5aHNuMDF3YXlQdDZuRjRSbzhzWXZ2Y3E3UkVRQ0FMdnBONDlwc0tmN3pQNU5xdmt1aGxsM0gyc2x2aEdxNjk1OWZtTUxqQ0Z3YlBVbTFaUThtaWltR1pUc2xfRVZxYnM3Sw?oc=5",
+   "source": "이데일리",
+   "time": "10/19 17:16",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "외국인 매도 재개하나…환율 1330원대 상승 압력[외환 브리핑]",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGN6TnFiTFNmRV84aElNQktZOHFBd1BLWjU4bTVaYmFPaFk3RW1KYWFBZktJMzF0N2dZbHdaNzVXTHZiZXlpQ0t4Rnc2TUxXc1lvd3Z1MGFFTy1DTVRhT1pub3pxV0FzV1FvUmtxZUg3MXpvZWx4d2c4aGctd1BMWg?oc=5",
    "source": "이데일리",
    "time": "10/19 08:01",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "급한 불 끈 한은, 10월 기준금리 동결 전망… 긴축 고삐는 내년까지",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EX3U2ZjBySHI5NTJZWDlBc04xUTVDcU5rMmZOeXRKdHpwbUZNZ1dmUVNFdWF6NjQ1bVdXOEp2X3ZROVdXRkdhbVdEX0ZfTkdNQ184bDJfSmY3eEJvY2o2VllLMjE2c1Iya0l1R2dR0gFzQVVfeXFMUElpdHl0WVpGRmFrRmJ5T3hnZkpIYmlkU3lqT2tid0hpX1NiQWVvdTNQMzJNN3FOUjdTVWo0NFZYemhTRExibWF4cW5IbnVGNXVrcGhIZWhxYmhWazVHRDd4TGRtSXF0SldXOU9xbzJfZW0tWQ?oc=5",
-   "source": "한국일보",
-   "time": "10/18 17:30",
    "dir": "up",
    "strength": 1
   },
@@ -63,36 +87,12 @@
    "strength": 1
   },
   {
-   "title": "반도체 호황에 2년 만에 최저 환율…AI 불안이 원화 강세 막나[주간외환전망]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjN4Q0NBSmMzcU9LU2tVNVV0X3BIaTZMTnkxNUpQNXNkNm1NWWJESE4yakpYWlRzUzJlQVIwamlWNVpoek5YTVRWTThCZTR1bzdSRlF3VHduaFVNamkzREFsVHNYNjZMdkwtd1djbHVqb2FzbzAzcE1MOXVHY2dGUQ?oc=5",
-   "source": "이데일리",
-   "time": "10/18 05:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "몸값 높아진 원화, 환율 안정세 지속할까",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15V21KSXZHblJGQUFzbXRfemtQYWZQUlVwdnBrU2F6NGYzYU9xUmdEUXdPeUFDX0xTQ0V6UDI3YjluUzBBZFlQV2xlX3NFVlR6RFBVNkhpclVuN1pqVkJMNlAwYmlPcXpCQ1laUTlhSl8wYVFzWWFpdl9Eaw?oc=5",
-   "source": "이데일리TV",
-   "time": "10/17 08:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "[뉴욕 금가격] 10월 금리 인상에 신중한 연준 의장…1% 상승",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MVElwWUNWN1FmWHh6dXZObmVCZGtCUWpac0todFZZTkVaSWJrTkpVUEtYZDh5bzh0Z1IzMFpUTzZFcnhhbkk0bjNhVnFQcFFSeHk2RmRRM1JjV1JYUm1EcG0yMHQzZGxya2EyME1FUjM?oc=5",
    "source": "연합인포맥스",
    "time": "10/17 01:35",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "美 인플레 부추기는 AI·이란 전쟁…연준, 10월 금리 인상하나",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02UjRjX01xSFROTnBtckxvTlNzSUZYbDVFTXd2bl9nOFhlQ05MUUJicGd5dVNTLWIwMnNRaTVncWtURkNWdXBTY1ZWRzZkd2tfdkt1Wm5RLUZjQ1RaejlvRQ?oc=5",
-   "source": "뉴시스",
-   "time": "10/16 11:47",
-   "dir": "up",
-   "strength": 2
   }
  ]
 }
