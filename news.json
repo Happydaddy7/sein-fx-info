@@ -1,19 +1,27 @@
 {
- "updated": "2026-10-20 01:41",
+ "updated": "2026-10-20 09:58",
  "summary": {
   "up": 3,
-  "down": 5,
-  "neutral": 2
+  "down": 3,
+  "neutral": 4
  },
  "outlook": {
-  "dir": "down",
+  "dir": "neutral",
   "lines": [
-   "하락요인 우세 (하락 5 vs 상승 3).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승·하락 요인 혼재 (상승 3 vs 하락 3).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "[뉴욕환시] 달러 사흘만에↑…美 국채금리 상승 속 프랑스발 유로 약세",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSbE9VY2hvZEFGdlZUZWRmNzR5M1dLV3pYZ1BtN0FkckRYWlhReGFZRG80anpnOVkzbWZaYVUyVUF3ZFdISVdIbFhvWHhVZG03SU5wSUxHdWszbFZaNWthSUM0NXdxbVM5TnFRNXg3cC0?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/20 07:49",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "[포토뉴스]원화 강세 지속…이달 원·달러 환율, 2년1개월 만에 ‘최저’",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wM1FQZXNHNEVOM1JJcFZydkVNTkxhZ0dLMUtNTFJxYVE2b2hRQmlwUlBBdnE5Rnl6aWpScHdfN0dmZzh5T3I5MGQ2c3g3bFVKVjhBbmtVaThpQdIBX0FVX3lxTE9ZU1M2anJ4NDBYQ1BPSjRBYnFmTWhGRHAwa0pxaC1qY3JyODl3cmg1X1g4cDd3ZnpmUGw1Ry1xZlAzRXpyX2ltVUpHeExvaXFDTEtmcXJBbWNuQlYwTVY0?oc=5",
@@ -39,12 +47,12 @@
    "strength": 0
   },
   {
-   "title": "반도체 수출 호조 인한 달러 공급에 주요 환율 하락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lVEVDVlJFR0ZPZkxNcklpWUxDdzJEcXlPYVM0Mjh4OE52QkFuY2JoQTdFVkI3SU1KNTU1NlJZWU1hcENsUnlpUFBYdkFRNlMyNFNpLUp2Q29nMU5ESGZfcA?oc=5",
-   "source": "뉴시스",
-   "time": "10/19 15:16",
-   "dir": "down",
-   "strength": 2
+   "title": "강달러에도 원화 나홀로 강세…버팀목은 경상흑자",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jSmhYbThqRnkwVmlHVnBTWmJESDdTRC1lcU10MDM3OG1PY0NMZkhTOEI0LVZPY3plRkZLVmZERGd2MVBQVFIwRHNsbTcxZUd5UUHSAVNBVV95cUxNazRSQS1ZdU1lS2VmTnZhNloxRGQyT2c4VEtrTjRhcGZZWGg5dFdLZDFrcTRWdHRHMzV5UGhVa2dpZGZ1c0hhWHVOZm1WbWdxS19rZw?oc=5",
+   "source": "서울경제",
+   "time": "10/19 18:25",
+   "dir": "neutral",
+   "strength": 0
   },
   {
    "title": "급한 불 끈 한은, 10월 기준금리 동결 전망… 긴축 고삐는 내년까지",
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14akRvNFhqTHVrbksxNEQtWDRFQUR5dWxPNGNtZFFFVm81TWFweUlBZ3h0eXlwU19zZjliQzJQenJqcFBJYnNhd0JUQmMtMDZCek5tSDYxMVFWd1hadmVoQmJHZUk?oc=5",
    "source": "서울경제TV",
    "time": "10/18 08:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "반도체 호황에 2년 만에 최저 환율…AI 불안이 원화 강세 막나[주간외환전망]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjN4Q0NBSmMzcU9LU2tVNVV0X3BIaTZMTnkxNUpQNXNkNm1NWWJESE4yakpYWlRzUzJlQVIwamlWNVpoek5YTVRWTThCZTR1bzdSRlF3VHduaFVNamkzREFsVHNYNjZMdkwtd1djbHVqb2FzbzAzcE1MOXVHY2dGUQ?oc=5",
-   "source": "이데일리",
-   "time": "10/18 05:00",
    "dir": "down",
    "strength": 1
   }
