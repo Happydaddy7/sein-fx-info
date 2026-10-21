@@ -1,19 +1,51 @@
 {
- "updated": "2026-10-21 09:27",
+ "updated": "2026-10-21 11:22",
  "summary": {
-  "up": 3,
+  "up": 2,
   "down": 3,
-  "neutral": 4
+  "neutral": 5
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 3 vs 하락 3).",
+   "상승·하락 요인 혼재 (상승 2 vs 하락 3).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "BNY멜론 \"연준 금리 인상 12월이 마지막…인플레, 여전히 공급이 주도\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UU3RQN0pTWm1vN3REYURRRWRETUNCR1RoWnlTZHhYUEFMeWVzdnd4UGhTNjYzYUZ0d1JRb0tfMHlFcEZrdjd0aks3TUdVSlJiRjNEUUN6dVBsVEJ1WElIeGlvTzUyb25qMFZiSFhmamY?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/21 11:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[10월 금통위 D-1] 외환시장 시나리오는",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYRkQ2YUlPWTU3SHhvbGlRRTdZNy0tZEcxSUE5TmFNaThWaWNrWjZtZHY1TEJ3a3lNSDRVbHZ6UXhYMk5wU3Nnb3ZsdHpfNUdWekhLR2N1RlZfbE82REpMM05pbWViajJpam9VcHhPQmg?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/21 10:14",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "수출업체 매도 우위 지속…달러·원 환율 3.9원 내린 1324.2원",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01M1YyYTVmNEIyWVQ4V0Y2MXJMVGJQZnF4WkxZaFgtRF9PeEVLamxLY2VPYWI2aHhpUW9lWmF0SzFtVUptM0VFTnpINnlROVdBaWZTQnRWTHdSRGVMNVJN?oc=5",
+   "source": "뉴스1",
+   "time": "10/21 09:55",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "계속 떨어지는 원달러 환율",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FTEV0em9rMTNPNVU1VjNIYzNDWElKWjRGNENCeFhFU2ZpS19GeW5vbkxkd0pzQkNsRHJDcTVOeGtpUkpHMmd1T1c0SzJJcnN0Q01GaDlUX0xQVFZhYVJqUg?oc=5",
+   "source": "뉴시스",
+   "time": "10/21 09:20",
+   "dir": "neutral",
+   "strength": 0
+  },
   {
    "title": "[사진] 원-달러 환율 2년 만에 최저",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxNUZ6OGhmSEg1YUhidHg3aE9nYVhmTURQUC00MHBPWDMwSkMtWkc2WWVYNjM3cUlrNlY3MTdRaE9zZnRBTTEtR3phTjdfT2FmcHphVGhn?oc=5",
@@ -27,22 +59,6 @@
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1meHNaNjNRMXVXbUFFMTh2U0R5azhIcTJsc2U5Y01XMHB4WUI1SUg5eXQ3NV95Mm50XzhaNUo1TEd6NnFteG5Rek9CVkdVREl0cGRyWg?oc=5",
    "source": "매일경제",
    "time": "10/20 17:52",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·엔 환율 840원까지…넉달새 120원 넘게 '뚝'",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuandiQmxIZmJEWGtIQTRhY0pNVWlENlpQV2ZkSnJ3Njg3QVFnbklLZDNXdGo1VEN4ZmdzV3ctbEZ3alpJMi1jbndlMzk2dWpJeFJ3ejNXTmNQQQ?oc=5",
-   "source": "한국경제",
-   "time": "10/20 17:44",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·달러 환율 1325원 연저점 또 경신",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jZmtJSGZkR1VZYW1RTjh3MlZPTzcwbE8wTjNpUDh1VDNwWU5SWllNLUZ5dGl6NWxEaTktVkNwOU5MZ0JKZHNmZ0M2N3JLVDNDckttQmZZbEpIQQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "10/20 17:26",
    "dir": "neutral",
    "strength": 0
   },
@@ -75,22 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGN6TnFiTFNmRV84aElNQktZOHFBd1BLWjU4bTVaYmFPaFk3RW1KYWFBZktJMzF0N2dZbHdaNzVXTHZiZXlpQ0t4Rnc2TUxXc1lvd3Z1MGFFTy1DTVRhT1pub3pxV0FzV1FvUmtxZUg3MXpvZWx4d2c4aGctd1BMWg?oc=5",
    "source": "이데일리",
    "time": "10/19 08:01",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "급한 불 끈 한은, 10월 기준금리 동결 전망… 긴축 고삐는 내년까지",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EX3U2ZjBySHI5NTJZWDlBc04xUTVDcU5rMmZOeXRKdHpwbUZNZ1dmUVNFdWF6NjQ1bVdXOEp2X3ZROVdXRkdhbVdEX0ZfTkdNQ184bDJfSmY3eEJvY2o2VllLMjE2c1Iya0l1R2dR0gFzQVVfeXFMUElpdHl0WVpGRmFrRmJ5T3hnZkpIYmlkU3lqT2tid0hpX1NiQWVvdTNQMzJNN3FOUjdTVWo0NFZYemhTRExibWF4cW5IbnVGNXVrcGhIZWhxYmhWazVHRDd4TGRtSXF0SldXOU9xbzJfZW0tWQ?oc=5",
-   "source": "한국일보",
-   "time": "10/18 17:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[이번주 경제] 한은, 기준금리 인상 이어갈까…생산자물가도 주목",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FeEV4bmlGeWtNUWl5dGswVTkzV1pKa3h2NXRhcGl2ZEplMDNiTmpibHJ4Wi1wc0RJczc0VmF0MkQ3akFxRTl5cHRRZGdFMUdDLU1IRQ?oc=5",
-   "source": "뉴스1",
-   "time": "10/18 09:46",
    "dir": "up",
    "strength": 1
   }
