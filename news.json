@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-21 17:57",
+ "updated": "2026-10-21 23:44",
  "summary": {
   "up": 3,
-  "down": 2,
-  "neutral": 5
+  "down": 3,
+  "neutral": 4
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 3 vs 하락 2).",
+   "상승·하락 요인 혼재 (상승 3 vs 하락 3).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
@@ -31,26 +31,18 @@
    "strength": 0
   },
   {
+   "title": "원 달러 환율 4거래일 연속 올해 최저치 경신‥1,325원까지 내려",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJQUdqcUhWX2pnYWg5R0UzMzJKTzdfUHNxUHBFSTRYM19TeEtvYUZJb2VGX1o1NEFfSnZOOGNEcHFpSGktVlJMTUpvUk02bGxDcnhBWkxtdWhFUjg3X2NLQUpXWm00VGJOUk8zYi1SMGFSTzVh0gF0QVVfeXFMTkdMdVNkY0pNOWQyV0V4X05BcndFamY1dWg3aExDNEhIU1hJbjIyVkpjcjZDQXROMWNuTGdpcV8tcm16cHNyWEZ6YmJUckd1UlFBekFCcEM2eUQwVDNoaExkOXZrNU9WTW12dG9Ua082V1ZheWM?oc=5",
+   "source": "MBC 뉴스",
+   "time": "10/21 16:47",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
    "title": "‘역대급 수출’에 환율 1325원으로 하락…4거래일 연속 연저점",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFRDMmNMWC04VlA5WmJNUWFzcHFNQkQ1OWlUSEt0amxDRTVBdGZjZ3VxSEpBbTdqZUdsSnZuVDhTMDhvTVJyb21xZThSbXVfYlNQY0IzNDFMQ1RpYTFLRUxoXzlDbzhhcUpCbVdGQVRfYi1OQWpyVEx2ME5jdGg0Ng?oc=5",
    "source": "이데일리",
    "time": "10/21 16:21",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원/달러 환율 1325.2원…4거래일 연속 연저점 경신 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01OG5EUlJlYXFEMjdFUUZGUXltWThtaVdYbENTLXRSYVlJa2c1bmFJNjlMVjBoQ2pBMlhPcTJQQ0RULXZQOUFWV3MwbVh3UEtHdWtXOWFZaUZqWlh0VzBieHFNeUYxOWs2WkpkQ0hWY0JTZ2dUdTU4btIBfkFVX3lxTE5EUHcyOXdkMEJvdkhDYkFqeEZJT0J4cFBpYVpUUGZfYlJQUm54SjFmRXk0Tl94QkhPcVIyb2RUTngyeXBndVI0RFdRUGotZ0VlNVdndk16T1lSQm1KenlfUXVSb1dsOXk4aFFEUTZrdWxTUEkyaXYzSXpId0VLZw?oc=5",
-   "source": "머니투데이",
-   "time": "10/21 16:13",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "환율 4거래일째 연저점",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6VC16c016RFZ1aU1qU1g4bDdVeHl3Q2ZIYzBMUTNmOUdvdEtRRERnU1dGRGxxWklaVzJxY3RuMnVEQVVQdk5qWHJRVV9aRGszRWlQay1URTlWSnlEczhtanVSOWpBQQ?oc=5",
-   "source": "뉴시스",
-   "time": "10/21 15:56",
    "dir": "neutral",
    "strength": 0
   },
@@ -71,10 +63,18 @@
    "strength": 1
   },
   {
+   "title": "달러 약세에 반도체 네고까지…환율 1320원대 하락 압력[외환 브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLVoxS3Q3WDhiX2gzWC12SDgzTEdaWlFSYVlBS04yTnRVN2ZLMW5scTVwcFQtRGdiMFhBM19fbHM4OW03ZFAwTTN4d2tBZ2lGR1JoSlZQN2NLMDNYZVE4TTFIZ3lnMUJMTUNmWUQ3ek1BazJTSDZMUHhQa3ZtRV8ycA?oc=5",
+   "source": "이데일리",
+   "time": "10/21 08:02",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "원-달러 환율 2년여 만에 최저…수출 기업 달러 매도에 1320원대 ‘뚝’",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1b0x3S3hxLTV3Tl9KUDRXREQ4V0I1cTd3aE9nZlNiOXZ4TGxzWk1wajZjVlFielFMVFFodXRHSU83ajdBQTBGRnZCek1GRWtDZUFMbldXMUswaThocDE3NXBKOFhUckwwSDJiUm8zUFM4Zw?oc=5",
    "source": "한겨레",
-   "time": "10/20 16:57",
+   "time": "10/20 16:39",
    "dir": "down",
    "strength": 1
   },
