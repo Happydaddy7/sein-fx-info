@@ -972,21 +972,21 @@
   {
    "made_on": "2026-10-20",
    "base_rate": 1327.84,
-   "dir": "down",
+   "dir": "neutral",
    "today_band": [
-    1320,
-    1331
+    1322,
+    1334
    ],
    "week_band": [
-    1310,
-    1335
+    1314,
+    1341
    ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-10-20 23:33",
+ "updated": "2026-10-21 09:27",
  "summary": {
   "scored": 57,
   "hit": 34,

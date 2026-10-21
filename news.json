@@ -1,24 +1,32 @@
 {
- "updated": "2026-10-20 23:33",
+ "updated": "2026-10-21 09:27",
  "summary": {
-  "up": 2,
-  "down": 4,
+  "up": 3,
+  "down": 3,
   "neutral": 4
  },
  "outlook": {
-  "dir": "down",
+  "dir": "neutral",
   "lines": [
-   "하락요인 우세 (하락 4 vs 상승 2).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승·하락 요인 혼재 (상승 3 vs 하락 3).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
   {
-   "title": "엔비디아 올라도 원화로는 손실… 서학개미 울리는 환율",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NWmEzMzRER0pFZmFaYjJzTEF3YTVxX25aZ2ZmME9QSDI5akEtanpmellaMFk3eTVocGVNU3B5UlNTQkl4SXJGNlcxR1VpY2VFcEJGWlRramw4UQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "10/20 18:20",
+   "title": "[사진] 원-달러 환율 2년 만에 최저",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxNUZ6OGhmSEg1YUhidHg3aE9nYVhmTURQUC00MHBPWDMwSkMtWkc2WWVYNjM3cUlrNlY3MTdRaE9zZnRBTTEtR3phTjdfT2FmcHphVGhn?oc=5",
+   "source": "중앙일보",
+   "time": "10/21 00:02",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "2번 연속 금리 올린 한국은행…“또 올리나” vs “동결하나” 관심 집중",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1meHNaNjNRMXVXbUFFMTh2U0R5azhIcTJsc2U5Y01XMHB4WUI1SUg5eXQ3NV95Mm50XzhaNUo1TEd6NnFteG5Rek9CVkdVREl0cGRyWg?oc=5",
+   "source": "매일경제",
+   "time": "10/20 17:52",
    "dir": "neutral",
    "strength": 0
   },
@@ -27,14 +35,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuandiQmxIZmJEWGtIQTRhY0pNVWlENlpQV2ZkSnJ3Njg3QVFnbklLZDNXdGo1VEN4ZmdzV3ctbEZ3alpJMi1jbndlMzk2dWpJeFJ3ejNXTmNQQQ?oc=5",
    "source": "한국경제",
    "time": "10/20 17:44",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "채권시장 93% \"10월 금통위 기준금리 동결 전망\"",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40M05vUmZxY3A2TzZRRHd6U3RyeExManpyUHl5YjZkNjZzbGt1VGlsWW5iR3RMcGh4OHoxWnVIdGtBeHVHSzVad1pjTkVvNU9lTnJrdFlMVi1TMHE4VHdv?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "10/20 17:35",
    "dir": "neutral",
    "strength": 0
   },
@@ -71,10 +71,18 @@
    "strength": 1
   },
   {
-   "title": "달러·엔화 약세에 환테크 열풍…외화예금 쌓인다",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ajVPb01pa0FVRm1DOXFjZkMzbjJpSFlRTzBydC1Md040SnV1OS01VXpPNkVPQW1BRWFsV1AwTk16MVpxTWFHNU5lM2xkelp1bGlB0gFYQVVfeXFMT3dTT2x4Q25WREQxNE4zM3prYWM5a281blZjclRCcGZia3R6SE1LbDYwWUw2MjNzSVBwSS13ZnI4b2N4X0ROd1I0SDBCNGJyS3NIN0RaaHQ4Mg?oc=5",
-   "source": "SBS Biz",
-   "time": "10/18 09:50",
+   "title": "외국인 매도 재개하나…환율 1330원대 상승 압력[외환 브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGN6TnFiTFNmRV84aElNQktZOHFBd1BLWjU4bTVaYmFPaFk3RW1KYWFBZktJMzF0N2dZbHdaNzVXTHZiZXlpQ0t4Rnc2TUxXc1lvd3Z1MGFFTy1DTVRhT1pub3pxV0FzV1FvUmtxZUg3MXpvZWx4d2c4aGctd1BMWg?oc=5",
+   "source": "이데일리",
+   "time": "10/19 08:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "급한 불 끈 한은, 10월 기준금리 동결 전망… 긴축 고삐는 내년까지",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EX3U2ZjBySHI5NTJZWDlBc04xUTVDcU5rMmZOeXRKdHpwbUZNZ1dmUVNFdWF6NjQ1bVdXOEp2X3ZROVdXRkdhbVdEX0ZfTkdNQ184bDJfSmY3eEJvY2o2VllLMjE2c1Iya0l1R2dR0gFzQVVfeXFMUElpdHl0WVpGRmFrRmJ5T3hnZkpIYmlkU3lqT2tid0hpX1NiQWVvdTNQMzJNN3FOUjdTVWo0NFZYemhTRExibWF4cW5IbnVGNXVrcGhIZWhxYmhWazVHRDd4TGRtSXF0SldXOU9xbzJfZW0tWQ?oc=5",
+   "source": "한국일보",
+   "time": "10/18 17:30",
    "dir": "up",
    "strength": 1
   },
@@ -84,14 +92,6 @@
    "source": "뉴스1",
    "time": "10/18 09:46",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "반도체 호황에 2년 만에 최저 환율…AI 불안이 원화 강세 막나[주간외환전망]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjN4Q0NBSmMzcU9LU2tVNVV0X3BIaTZMTnkxNUpQNXNkNm1NWWJESE4yakpYWlRzUzJlQVIwamlWNVpoek5YTVRWTThCZTR1bzdSRlF3VHduaFVNamkzREFsVHNYNjZMdkwtd1djbHVqb2FzbzAzcE1MOXVHY2dGUQ?oc=5",
-   "source": "이데일리",
-   "time": "10/18 05:00",
-   "dir": "down",
    "strength": 1
   }
  ]
