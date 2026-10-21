@@ -1,19 +1,67 @@
 {
- "updated": "2026-10-21 11:22",
+ "updated": "2026-10-21 17:57",
  "summary": {
-  "up": 2,
-  "down": 3,
+  "up": 3,
+  "down": 2,
   "neutral": 5
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 2 vs 하락 3).",
+   "상승·하락 요인 혼재 (상승 3 vs 하락 2).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
+  {
+   "title": "'환율 다시 오르겠지?' 생각에 환노출형 ETF에 베팅하는 서학개미",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92bXhCU1JEYW1vUzI2VWFVeXZKUFVZWmgyUEt5UG5RTC1VdzY4SmpRMlRCN0N4Ty0teGduTnR3TlFDNEMtbkg0SmFuMXBSejJscy1oemNKRmYyd3lqdEdQUGpGbEJKbHhfSkplNFZR0gFzQVVfeXFMTU92MHFHMVZ6M0ZoQzkwS2lQRUQ5V3dORUJwZll4ODZCcjlMb1JLdXJjM1VCWk9qaDZPV0NKdWFuOUxDZGZkTFFSZmVOZGVQMndRVHdxbWl0NjJ5NG5Ta19oVGZMTDlXa0VWeWlqS2tpOHFkTQ?oc=5",
+   "source": "한국일보",
+   "time": "10/21 17:30",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율 2.9원 내린 1325.2원..연중 최저치 또 경신",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fdlB2cFZLUEkxdTNlWGRpdlJiQmtyN3NpZ1hoZURoOG9aMUh4UUhwdS1lSEs1TmgzUnhwQmgzQ3dINVEtXzF6T2taaEd2eWpCXzZIdXgyRFdMZw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "10/21 16:56",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "‘역대급 수출’에 환율 1325원으로 하락…4거래일 연속 연저점",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFRDMmNMWC04VlA5WmJNUWFzcHFNQkQ1OWlUSEt0amxDRTVBdGZjZ3VxSEpBbTdqZUdsSnZuVDhTMDhvTVJyb21xZThSbXVfYlNQY0IzNDFMQ1RpYTFLRUxoXzlDbzhhcUpCbVdGQVRfYi1OQWpyVEx2ME5jdGg0Ng?oc=5",
+   "source": "이데일리",
+   "time": "10/21 16:21",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원/달러 환율 1325.2원…4거래일 연속 연저점 경신 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01OG5EUlJlYXFEMjdFUUZGUXltWThtaVdYbENTLXRSYVlJa2c1bmFJNjlMVjBoQ2pBMlhPcTJQQ0RULXZQOUFWV3MwbVh3UEtHdWtXOWFZaUZqWlh0VzBieHFNeUYxOWs2WkpkQ0hWY0JTZ2dUdTU4btIBfkFVX3lxTE5EUHcyOXdkMEJvdkhDYkFqeEZJT0J4cFBpYVpUUGZfYlJQUm54SjFmRXk0Tl94QkhPcVIyb2RUTngyeXBndVI0RFdRUGotZ0VlNVdndk16T1lSQm1KenlfUXVSb1dsOXk4aFFEUTZrdWxTUEkyaXYzSXpId0VLZw?oc=5",
+   "source": "머니투데이",
+   "time": "10/21 16:13",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "환율 4거래일째 연저점",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6VC16c016RFZ1aU1qU1g4bDdVeHl3Q2ZIYzBMUTNmOUdvdEtRRERnU1dGRGxxWklaVzJxY3RuMnVEQVVQdk5qWHJRVV9aRGszRWlQay1URTlWSnlEczhtanVSOWpBQQ?oc=5",
+   "source": "뉴시스",
+   "time": "10/21 15:56",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "美 주택시장 '급랭' 경고음…\"연준 추가 금리 인상 시 침체 심화 우려\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZmRLQU5rN3p6WUwzTklTeUh3bWg1bjFTcFNXeG5XZ0NESEdvYWJXWElHVWlJdF9yWDN1UFh0dXRkQURJdlRoR2tFV0x5WTc1YWhuSl9MbGtEMjNGaVJZSl9mbzA3cFZwb2FvSTVCTmw?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/21 12:15",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "BNY멜론 \"연준 금리 인상 12월이 마지막…인플레, 여전히 공급이 주도\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UU3RQN0pTWm1vN3REYURRRWRETUNCR1RoWnlTZHhYUEFMeWVzdnd4UGhTNjYzYUZ0d1JRb0tfMHlFcEZrdjd0aks3TUdVSlJiRjNEUUN6dVBsVEJ1WElIeGlvTzUyb25qMFZiSFhmamY?oc=5",
@@ -21,46 +69,6 @@
    "time": "10/21 11:01",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "[10월 금통위 D-1] 외환시장 시나리오는",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYRkQ2YUlPWTU3SHhvbGlRRTdZNy0tZEcxSUE5TmFNaThWaWNrWjZtZHY1TEJ3a3lNSDRVbHZ6UXhYMk5wU3Nnb3ZsdHpfNUdWekhLR2N1RlZfbE82REpMM05pbWViajJpam9VcHhPQmg?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/21 10:14",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "수출업체 매도 우위 지속…달러·원 환율 3.9원 내린 1324.2원",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01M1YyYTVmNEIyWVQ4V0Y2MXJMVGJQZnF4WkxZaFgtRF9PeEVLamxLY2VPYWI2aHhpUW9lWmF0SzFtVUptM0VFTnpINnlROVdBaWZTQnRWTHdSRGVMNVJN?oc=5",
-   "source": "뉴스1",
-   "time": "10/21 09:55",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "계속 떨어지는 원달러 환율",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FTEV0em9rMTNPNVU1VjNIYzNDWElKWjRGNENCeFhFU2ZpS19GeW5vbkxkd0pzQkNsRHJDcTVOeGtpUkpHMmd1T1c0SzJJcnN0Q01GaDlUX0xQVFZhYVJqUg?oc=5",
-   "source": "뉴시스",
-   "time": "10/21 09:20",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[사진] 원-달러 환율 2년 만에 최저",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxNUZ6OGhmSEg1YUhidHg3aE9nYVhmTURQUC00MHBPWDMwSkMtWkc2WWVYNjM3cUlrNlY3MTdRaE9zZnRBTTEtR3phTjdfT2FmcHphVGhn?oc=5",
-   "source": "중앙일보",
-   "time": "10/21 00:02",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "2번 연속 금리 올린 한국은행…“또 올리나” vs “동결하나” 관심 집중",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1meHNaNjNRMXVXbUFFMTh2U0R5azhIcTJsc2U5Y01XMHB4WUI1SUg5eXQ3NV95Mm50XzhaNUo1TEd6NnFteG5Rek9CVkdVREl0cGRyWg?oc=5",
-   "source": "매일경제",
-   "time": "10/20 17:52",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "원-달러 환율 2년여 만에 최저…수출 기업 달러 매도에 1320원대 ‘뚝’",
@@ -75,14 +83,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42NGhiNUNSU181QkctSTYtN2E2YWdCZ2lWMjBLUG5uRS04SFdBbVVKUjNDcnJSYzJ2QWNya3dQUkp0R1lHeGN6TmVKTWYwOG90OWp3Z1lxQ0RiMWc?oc=5",
    "source": "뉴스1",
    "time": "10/20 09:25",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[포토뉴스]원화 강세 지속…이달 원·달러 환율, 2년1개월 만에 ‘최저’",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wM1FQZXNHNEVOM1JJcFZydkVNTkxhZ0dLMUtNTFJxYVE2b2hRQmlwUlBBdnE5Rnl6aWpScHdfN0dmZzh5T3I5MGQ2c3g3bFVKVjhBbmtVaThpQdIBX0FVX3lxTE9ZU1M2anJ4NDBYQ1BPSjRBYnFmTWhGRHAwa0pxaC1qY3JyODl3cmg1X1g4cDd3ZnpmUGw1Ry1xZlAzRXpyX2ltVUpHeExvaXFDTEtmcXJBbWNuQlYwTVY0?oc=5",
-   "source": "경향신문",
-   "time": "10/19 20:50",
    "dir": "down",
    "strength": 1
   },
