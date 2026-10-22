@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22 17:59",
+ "updated": "2026-10-22 23:44",
  "summary": {
   "up": 7,
   "down": 3,
@@ -14,6 +14,14 @@
   ]
  },
  "items": [
+  {
+   "title": "한은, 기준금리 3%로 동결…\"긴축 기조 이어갈 것\"",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmRqRFh5cF9hTk0wQXJnWHFVOHAwLWc3Ml9fN2NnWFVDZlJWLURvWlNrSnlZVFItYXhBbHBoa05RNUhjQ1RUbUNObXhQbjB5SmhMY0VzS0pLNE9sTWQxMUpiNkRXN0E?oc=5",
+   "source": "연합뉴스TV",
+   "time": "10/22 21:06",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "환율, 5거래일째 연저점…금통위 이후 원화 강세 지속",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUtwd0lGSzlzeFd6b2o5LXh1WjNMUlBza1hmV0pibUFabkY2bnl3dHhwcWpHTGE2RzdwamctRnVBSV9pOTgtSmNuT3R6ZlExODJIN09DemJnS1FmRk9ZbkR0N3AzVFp1LXktRUxSdE9FQ0c3RGlzZFAxTHBrcmpUSg?oc=5",
@@ -39,14 +47,6 @@
    "strength": 1
   },
   {
-   "title": "기준금리 동결한 한은…총재 “지금의 긴축 정책 기조는 이어가야”",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rbHNyRWlTbWFqa0xmTlNvSTFsRWMwbDZNODVBUHJMQ1h6ZmFsVXpLRGE4c0dOOWRDclRoR2RaMzJqd3BXVENFeUQ5b3d5M3FSVnhTaQ?oc=5",
-   "source": "매일경제",
-   "time": "10/22 13:47",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "[뉴스1 PICK] 한국은행, 기준금리 연 3.00% 동결⋯긴축 속도 조절",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Rc0tKUElBZG5iOUpvSlMxX3gxU3RsMkdKM2VoT2tnQ3I3QVduUWRYanhHSl9oWkdJbF9IY2huRVpHa19mSjIwLWpPX2N6T0MxTU9MaUtrTXg1SFRzcDBLN0ZlNA?oc=5",
    "source": "뉴스1",
@@ -59,14 +59,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ua2ZlbE5STFplZVVmR1l0LVAtWEd0NTRYVG16b05fYWxRc0h2MXJmUW10VnNiVl81WWNNaFFMRktDYk90U2JQcW13ek5xNmR1YW5MSWlUQ0puQ0nSAWBBVV95cUxQUk1ZNF83bFRxNndBSHNkekpMQW1zM3hsMjZUd0lVbnM4VjRVSEwxUVEtQ0RIMk5EbE83YU1KMXNsTGtLWmpjcjJWZUR4TExEOVlrc285LW9xdFFhdXRmU0I?oc=5",
    "source": "연합뉴스",
    "time": "10/22 12:32",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "한은, 기준금리 연 3.0% 동결‥긴축 속도 조절",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2M3J4MFlzVUxzNzRUSTZiVmp0UFRwOEYwWVdqa01ZcV9HUE54ZW9Ca0k1b3Z4TGZ3aFBmb2VoNHpOZ0ZQTjlfZS1COE9sU2d0YURPX05wLXVkVjhETFMwTV9mdWs1R1p6cE56RjJYMU82d0w2UWlMOdIBeEFVX3lxTE9QeHY2Y0FUWmRUZVUyM2ZSMWpiNWNka2k0ODNIeU9jVS16U3N2MTRDUVlWOVJ1NU5yUS1JZUhEZVlQYjUyNlRLMVVfNkNmSU1rVVBOU3V5WndiR1BmOUZralY2UlF4N25sa1JLZ0FodDdyMFRZTFhKXw?oc=5",
-   "source": "MBC 뉴스",
-   "time": "10/22 12:15",
    "dir": "up",
    "strength": 1
   },
@@ -87,10 +79,18 @@
    "strength": 1
   },
   {
-   "title": "한은, 기준금리 연 3.00%로 동결…긴축 속도조절",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RSDRFYTBQZlV4d0NGR0ZPZ3BkSHlFR2V6WDNZd1dpeS1OSnJSMlJfV0FyTnRocHZmNzhEYm00TXNxMk9IVVNXNDY3eEpvaUtQU3Azck5FZU9yZFI3M29PS05JZGxPRllIbkE?oc=5",
-   "source": "SBS 뉴스",
-   "time": "10/22 09:52",
+   "title": "금리 인상 잠시 멈춘 한은…기준금리 3%로 동결",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XSkNOaU1OMTdJZEJpcWl5ZlBfVEhZVGVGQmdEYlo2ZWdadUQ3TFlmMHRLMGNReVVOd2cxNlF4RGdTOG54eUZRQjBNaWJGMm1HZFhiVQ?oc=5",
+   "source": "매일경제",
+   "time": "10/22 10:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "한은, 기준금리 연 3.0% 동결‥긴축 속도 조절",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IQWYwSndyLVN1VGhwczBMT3dyZWE0WThtcThFS3VoLWFBRENXMXVZNUFOemxMRmxBTnZLYUxKZlhNeFRSbFpVeVhNRjdLQnZ6Mm1CS2ladEFMeF90elQ2bWVYUzNUUm4zOTVQRUM5RnNNaUxq0gF0QVVfeXFMTWRHZnVURGFISXdsY3YzSVNxNXhzM3lEMi1laURubDlHbjhWRGljX1dEb0NjUUtHaFB1VWgzdFRJcTVwYVdxcTZRVlR1Z2ZGNV9uRTNyNVNabW1GT0RzNGdpWjcyZE9MamVmOWVJQXNUNzFwMVE?oc=5",
+   "source": "MBC 뉴스",
+   "time": "10/22 09:51",
    "dir": "up",
    "strength": 1
   }
