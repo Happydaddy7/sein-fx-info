@@ -1,48 +1,56 @@
 {
- "updated": "2026-10-21 23:44",
+ "updated": "2026-10-22 09:30",
  "summary": {
-  "up": 3,
-  "down": 3,
+  "up": 2,
+  "down": 4,
   "neutral": 4
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "down",
   "lines": [
-   "상승·하락 요인 혼재 (상승 3 vs 하락 3).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "하락요인 우세 (하락 4 vs 상승 2).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "'환율 다시 오르겠지?' 생각에 환노출형 ETF에 베팅하는 서학개미",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92bXhCU1JEYW1vUzI2VWFVeXZKUFVZWmgyUEt5UG5RTC1VdzY4SmpRMlRCN0N4Ty0teGduTnR3TlFDNEMtbkg0SmFuMXBSejJscy1oemNKRmYyd3lqdEdQUGpGbEJKbHhfSkplNFZR0gFzQVVfeXFMTU92MHFHMVZ6M0ZoQzkwS2lQRUQ5V3dORUJwZll4ODZCcjlMb1JLdXJjM1VCWk9qaDZPV0NKdWFuOUxDZGZkTFFSZmVOZGVQMndRVHdxbWl0NjJ5NG5Ta19oVGZMTDlXa0VWeWlqS2tpOHFkTQ?oc=5",
-   "source": "한국일보",
-   "time": "10/21 17:30",
-   "dir": "neutral",
-   "strength": 0
+   "title": "IBK증권 \"삼성바이오, 원·달러 환율 하락에도 성장궤도 유지\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oVlRGUVlnU09Fd2dOamM3WmlIX3dXbFhQY3pxUllvR0N5SnNGWVVCRW91a2NDUlVNOWZVcWZUaFN0V29KN05LdEthdk9XcHIxRTh0Z0J2SGMxOHfSAWBBVV95cUxQZFpqX2pHZmZxLTlsNHFwcEdIZVBwNXBJMVpyVS1fa0o4QjFnWnVnOGlxSTdpeExaVHo0MlQ3dUd5QlR0SVNEenBHVzZaclhwZk1hMDRRekRpWnBHYUlyWVY?oc=5",
+   "source": "연합뉴스",
+   "time": "10/22 08:20",
+   "dir": "down",
+   "strength": 1
   },
   {
-   "title": "원·달러 환율 2.9원 내린 1325.2원..연중 최저치 또 경신",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fdlB2cFZLUEkxdTNlWGRpdlJiQmtyN3NpZ1hoZURoOG9aMUh4UUhwdS1lSEs1TmgzUnhwQmgzQ3dINVEtXzF6T2taaEd2eWpCXzZIdXgyRFdMZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "10/21 16:56",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원 달러 환율 4거래일 연속 올해 최저치 경신‥1,325원까지 내려",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJQUdqcUhWX2pnYWg5R0UzMzJKTzdfUHNxUHBFSTRYM19TeEtvYUZJb2VGX1o1NEFfSnZOOGNEcHFpSGktVlJMTUpvUk02bGxDcnhBWkxtdWhFUjg3X2NLQUpXWm00VGJOUk8zYi1SMGFSTzVh0gF0QVVfeXFMTkdMdVNkY0pNOWQyV0V4X05BcndFamY1dWg3aExDNEhIU1hJbjIyVkpjcjZDQXROMWNuTGdpcV8tcm16cHNyWEZ6YmJUckd1UlFBekFCcEM2eUQwVDNoaExkOXZrNU9WTW12dG9Ua082V1ZheWM?oc=5",
-   "source": "MBC 뉴스",
-   "time": "10/21 16:47",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "‘역대급 수출’에 환율 1325원으로 하락…4거래일 연속 연저점",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFRDMmNMWC04VlA5WmJNUWFzcHFNQkQ1OWlUSEt0amxDRTVBdGZjZ3VxSEpBbTdqZUdsSnZuVDhTMDhvTVJyb21xZThSbXVfYlNQY0IzNDFMQ1RpYTFLRUxoXzlDbzhhcUpCbVdGQVRfYi1OQWpyVEx2ME5jdGg0Ng?oc=5",
+   "title": "쏟아지는 수출 달러…환율 1320원선 넘보나[외환 브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZThLT05qdk90b0swU1dZZmZFTWxpNk5kS3pYUTZ5WjZwRGtnRUZya0REdENNVWI4bm4tUlF6TWItN1RoSEpTLUxvbTlLcDdlbHhxUWxzWmtTZGcwX2dEUVBHUUtlMTloN3FTRnFiY19XUWd1WHVuRUdvdy0wVGF1WQ?oc=5",
    "source": "이데일리",
-   "time": "10/21 16:21",
+   "time": "10/22 08:02",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[AM-PM] 한은 금통위 오늘 기준금리 결정…동결 전망 우세 外",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iMDJ3cEZ1a083SjR2VWtDc1RrcF9QSTQtR09MM09qbGpOSnNxTlF1QUZ3WGMyTmVVNkVGZzNtaDJkUlcxb3pSd2FFSFM0YXA5YzNKQzE5NEpvYUxtU05ndXJVXzNCRGc?oc=5",
+   "source": "연합뉴스TV",
+   "time": "10/22 06:56",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "오늘 금통위, 기준금리 연 3% 동결 무게…'11월 인상' 신호에 촉각",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jS2FJamFTc013ZlNMb1lmNS10UEFCbzZVUjhmU2VUOVNLSlExb1VLNTk4OHlnVjI3UXR1VWh4RnBzZ094WWFOd3gwVUlUdU9weEdJXw?oc=5",
+   "source": "뉴스1",
+   "time": "10/22 05:50",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "한은 금통위, 오늘 기준금리 결정…동결 무게",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01d0ExRlBIS2JEWUc5T1VXZGVoemE2cmc2Y2NSMGZISWVWNEYycURiU3hLYzV5TzBOUGtCX2RtN1NZdUlQV002MkQ0VVNGbHdOdi15eXRxY0JjUWZPNHpfbXFSb0xOajA?oc=5",
+   "source": "연합뉴스TV",
+   "time": "10/22 04:47",
    "dir": "neutral",
    "strength": 0
   },
@@ -74,7 +82,7 @@
    "title": "원-달러 환율 2년여 만에 최저…수출 기업 달러 매도에 1320원대 ‘뚝’",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1b0x3S3hxLTV3Tl9KUDRXREQ4V0I1cTd3aE9nZlNiOXZ4TGxzWk1wajZjVlFielFMVFFodXRHSU83ajdBQTBGRnZCek1GRWtDZUFMbldXMUswaThocDE3NXBKOFhUckwwSDJiUm8zUFM4Zw?oc=5",
    "source": "한겨레",
-   "time": "10/20 16:39",
+   "time": "10/20 16:57",
    "dir": "down",
    "strength": 1
   },
@@ -84,14 +92,6 @@
    "source": "뉴스1",
    "time": "10/20 09:25",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "외국인 매도 재개하나…환율 1330원대 상승 압력[외환 브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGN6TnFiTFNmRV84aElNQktZOHFBd1BLWjU4bTVaYmFPaFk3RW1KYWFBZktJMzF0N2dZbHdaNzVXTHZiZXlpQ0t4Rnc2TUxXc1lvd3Z1MGFFTy1DTVRhT1pub3pxV0FzV1FvUmtxZUg3MXpvZWx4d2c4aGctd1BMWg?oc=5",
-   "source": "이데일리",
-   "time": "10/19 08:01",
-   "dir": "up",
    "strength": 1
   }
  ]
