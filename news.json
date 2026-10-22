@@ -1,97 +1,97 @@
 {
- "updated": "2026-10-22 11:17",
+ "updated": "2026-10-22 17:59",
  "summary": {
-  "up": 6,
+  "up": 7,
   "down": 3,
-  "neutral": 1
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 3).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "[전문]한국은행 금융통화위원회 10월 통화정책방향",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lblI1SU9jQkNEZzVWQ1gxNXlFUWZyc1VabmtsRnJfUkZmc2V3Y1lmczlPbHNfU09zd1dnX0hvWEIzaE1UOU5WM2RFMktMRzROUTltb3g3T0xleW1GQ240X9IBeEFVX3lxTE5pNzFCV2prczUxUlk1b1h5TVVpMzRXWTBTdV9rTEFSYUJwUTVZQ0N5ckxJODRBUEd2Z0h4eVNaREE0UEEzSUtFdXlDdFM3MHp3SXdOZnAycXd2T2xvdEV5b2ROcTFMRnJIN0hiYm9Uc1pka1NERm13Sw?oc=5",
-   "source": "뉴시스",
-   "time": "10/22 11:09",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "한은 기준금리 3.0% 동결..긴축 신호 세게 켜고 '숨 고르기'",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BNEFCMzUxU08wdHRQTkd5YWlRWmM2NmFlVWVnR2IwUXhwSFpzLVRYbTk2eFZ0c2dCY1A1UGVQSjlMMHNrU3BOWXBfNGIxM2k0SGktRk1uOUFHdw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "10/22 10:34",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "한은, 물가·집값 경계 속 기준금리 동결…긴축 속도조절",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93SmYxUTZMa0d1SEpCa3hwc05rZ2l1WEZQLXdiY1dSbHFfNUhFZWhfZzRPeTgwYWxXVTluOElXajNuSHY1Rm5mOHROcDFGaXFQUXp5clRaaXJtaVJOUzRrM1FzSkh0d2NOX3hqLTNRT2UtcE91WWNoaQ?oc=5",
-   "source": "연합뉴스",
-   "time": "10/22 10:17",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[속보] 한은, 기준금리 연 3.00% ‘매파적 동결’…11월 인상 가시화",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15V0pkYmY0alpfbkpmT3hZOUwycXRYOVhpUEhhcmdzMDJxc3RiOGs2NkZEYXUtLXZBSGdoNFAyRDQ4NE9WTW9vZUp6dnJDcGNLMlZSNg?oc=5",
-   "source": "매일경제",
-   "time": "10/22 09:50",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[포토] 원/달러 환율 상승, 코스피 하락 출발",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1za0hXcDVPLTNvc1dnLTctMmNXZjdrb2NHNTlGUUZRQXcySjlUdktfQi15X3RhUDQ4ZlczQ0lSd0hYVDdRbUEyclNoMks2aEV4MnV0Y0JFNTRqdC1VX2tidg?oc=5",
-   "source": "아시아경제",
-   "time": "10/22 09:29",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "IBK증권 \"삼성바이오, 원·달러 환율 하락에도 성장궤도 유지\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oVlRGUVlnU09Fd2dOamM3WmlIX3dXbFhQY3pxUllvR0N5SnNGWVVCRW91a2NDUlVNOWZVcWZUaFN0V29KN05LdEthdk9XcHIxRTh0Z0J2SGMxOHfSAWBBVV95cUxQZFpqX2pHZmZxLTlsNHFwcEdIZVBwNXBJMVpyVS1fa0o4QjFnWnVnOGlxSTdpeExaVHo0MlQ3dUd5QlR0SVNEenBHVzZaclhwZk1hMDRRekRpWnBHYUlyWVY?oc=5",
-   "source": "연합뉴스",
-   "time": "10/22 08:20",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美 주택시장 '급랭' 경고음…\"연준 추가 금리 인상 시 침체 심화 우려\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZmRLQU5rN3p6WUwzTklTeUh3bWg1bjFTcFNXeG5XZ0NESEdvYWJXWElHVWlJdF9yWDN1UFh0dXRkQURJdlRoR2tFV0x5WTc1YWhuSl9MbGtEMjNGaVJZSl9mbzA3cFZwb2FvSTVCTmw?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/21 12:15",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "BNY멜론 \"연준 금리 인상 12월이 마지막…인플레, 여전히 공급이 주도\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UU3RQN0pTWm1vN3REYURRRWRETUNCR1RoWnlTZHhYUEFMeWVzdnd4UGhTNjYzYUZ0d1JRb0tfMHlFcEZrdjd0aks3TUdVSlJiRjNEUUN6dVBsVEJ1WElIeGlvTzUyb25qMFZiSFhmamY?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/21 11:01",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "달러 약세에 반도체 네고까지…환율 1320원대 하락 압력[외환 브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLVoxS3Q3WDhiX2gzWC12SDgzTEdaWlFSYVlBS04yTnRVN2ZLMW5scTVwcFQtRGdiMFhBM19fbHM4OW03ZFAwTTN4d2tBZ2lGR1JoSlZQN2NLMDNYZVE4TTFIZ3lnMUJMTUNmWUQ3ek1BazJTSDZMUHhQa3ZtRV8ycA?oc=5",
+   "title": "환율, 5거래일째 연저점…금통위 이후 원화 강세 지속",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUtwd0lGSzlzeFd6b2o5LXh1WjNMUlBza1hmV0pibUFabkY2bnl3dHhwcWpHTGE2RzdwamctRnVBSV9pOTgtSmNuT3R6ZlExODJIN09DemJnS1FmRk9ZbkR0N3AzVFp1LXktRUxSdE9FQ0c3RGlzZFAxTHBrcmpUSg?oc=5",
    "source": "이데일리",
-   "time": "10/21 08:02",
+   "time": "10/22 16:35",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "원-달러 환율 2년여 만에 최저…수출 기업 달러 매도에 1320원대 ‘뚝’",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1b0x3S3hxLTV3Tl9KUDRXREQ4V0I1cTd3aE9nZlNiOXZ4TGxzWk1wajZjVlFielFMVFFodXRHSU83ajdBQTBGRnZCek1GRWtDZUFMbldXMUswaThocDE3NXBKOFhUckwwSDJiUm8zUFM4Zw?oc=5",
-   "source": "한겨레",
-   "time": "10/20 16:57",
+   "title": "원/달러 환율 '매파적 동결' 금통위에 하락…연저점 또 경신(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxOWk2MGtwQU5hS3p0QmJacG9vdmRwNG12WV83TXZNRjlJUi10b3V6UVZJYlJsZDhQTWJDeUdpTzlXd1dHMkJ0WUVpdUEwUWxDUEQ0UEduYjRRM1nSAWBBVV95cUxQajVwWTJGT3p1cG51LWc0NjRyeUhLU1cwcTdPQ2o5UlRlT201MmJ1WjYta1FaLXFYcnBlM2RFQWFSSWx5MVhTOEFVSGJNc3I1WlRyT2w3ZnVQd3NxYmZScjA?oc=5",
+   "source": "연합뉴스",
+   "time": "10/22 16:10",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "코스닥·코스피·원·달러 환율 하락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPbTk4YjlEQl9Jcm5SNUw2SVBfR0t1Z2NXdzFqSzZWS0thVnBUdHg5WkVyMUVzUFpBdjBQUnhXYi1Ndm9waGZDZlNKVV94VVdXc3k2WUJaQjc4OVljT29pSw?oc=5",
+   "source": "뉴시스",
+   "time": "10/22 16:03",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "기준금리 동결한 한은…총재 “지금의 긴축 정책 기조는 이어가야”",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rbHNyRWlTbWFqa0xmTlNvSTFsRWMwbDZNODVBUHJMQ1h6ZmFsVXpLRGE4c0dOOWRDclRoR2RaMzJqd3BXVENFeUQ5b3d5M3FSVnhTaQ?oc=5",
+   "source": "매일경제",
+   "time": "10/22 13:47",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[뉴스1 PICK] 한국은행, 기준금리 연 3.00% 동결⋯긴축 속도 조절",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Rc0tKUElBZG5iOUpvSlMxX3gxU3RsMkdKM2VoT2tnQ3I3QVduUWRYanhHSl9oWkdJbF9IY2huRVpHa19mSjIwLWpPX2N6T0MxTU9MaUtrTXg1SFRzcDBLN0ZlNA?oc=5",
+   "source": "뉴스1",
+   "time": "10/22 13:39",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원/달러 환율, '매파적 동결' 금통위 소화하며 하락세",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ua2ZlbE5STFplZVVmR1l0LVAtWEd0NTRYVG16b05fYWxRc0h2MXJmUW10VnNiVl81WWNNaFFMRktDYk90U2JQcW13ek5xNmR1YW5MSWlUQ0puQ0nSAWBBVV95cUxQUk1ZNF83bFRxNndBSHNkekpMQW1zM3hsMjZUd0lVbnM4VjRVSEwxUVEtQ0RIMk5EbE83YU1KMXNsTGtLWmpjcjJWZUR4TExEOVlrc285LW9xdFFhdXRmU0I?oc=5",
+   "source": "연합뉴스",
+   "time": "10/22 12:32",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "한은, 기준금리 연 3.0% 동결‥긴축 속도 조절",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2M3J4MFlzVUxzNzRUSTZiVmp0UFRwOEYwWVdqa01ZcV9HUE54ZW9Ca0k1b3Z4TGZ3aFBmb2VoNHpOZ0ZQTjlfZS1COE9sU2d0YURPX05wLXVkVjhETFMwTV9mdWs1R1p6cE56RjJYMU82d0w2UWlMOdIBeEFVX3lxTE9QeHY2Y0FUWmRUZVUyM2ZSMWpiNWNka2k0ODNIeU9jVS16U3N2MTRDUVlWOVJ1NU5yUS1JZUhEZVlQYjUyNlRLMVVfNkNmSU1rVVBOU3V5WndiR1BmOUZralY2UlF4N25sa1JLZ0FodDdyMFRZTFhKXw?oc=5",
+   "source": "MBC 뉴스",
+   "time": "10/22 12:15",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "신현송 한은 총재 \"원화 아직 약세…최근 환율 하락은 정상화 과정\"",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtUHhvNml4OTVGMC01bVp1dlh0Wm5WbG9sd3pmNzN1QnZYQWVzMVdPanlBa1VrRWkxNjg5Zko4MHlXdVVNc1RabGdHcHo2aDVZRmZOamZrTVJOQQ?oc=5",
+   "source": "한국경제",
+   "time": "10/22 11:55",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "한국은행, 기준금리 연 3.00%로 동결...긴축 속도 조절",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tTDIxcHBFQ2g3Q1dvbUQwazdQVUp0MVBWUURvZWlHSldvVmZqZm1aUGpKc3pEcFhqNXNCYmJnTENla2hHR1pYWGNlbDFkaDFJdk5ielRGQU50TDdHS3c?oc=5",
+   "source": "YTN",
+   "time": "10/22 10:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "한은, 기준금리 연 3.00%로 동결…긴축 속도조절",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RSDRFYTBQZlV4d0NGR0ZPZ3BkSHlFR2V6WDNZd1dpeS1OSnJSMlJfV0FyTnRocHZmNzhEYm00TXNxMk9IVVNXNDY3eEpvaUtQU3Azck5FZU9yZFI3M29PS05JZGxPRllIbkE?oc=5",
+   "source": "SBS 뉴스",
+   "time": "10/22 09:52",
+   "dir": "up",
    "strength": 1
   }
  ]
