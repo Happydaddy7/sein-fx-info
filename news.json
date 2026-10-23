@@ -1,27 +1,19 @@
 {
- "updated": "2026-10-23 11:23",
+ "updated": "2026-10-23 17:54",
  "summary": {
-  "up": 9,
-  "down": 1,
+  "up": 10,
+  "down": 0,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 9 vs 하락 1).",
+   "상승요인 우세 (상승 10 vs 하락 0).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
-  {
-   "title": "'긴축 속도조절' 한은, 기준금리 3% 동결… 내달 인상 나설까 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oOGJOT3JKUkE4bmxHVWlKa1hlN3hZdnF4TUEtLVdIaUdNTDNNRm9MN0NCSjRoakh1MXJGWlg5SEhVN1ZGZjl4TXR4TFR5OHB6YUdGMGUwSUpxTUJCT1JvdzFkUFF1bW0wczJn0gFwQVVfeXFMTzRiM3lyb1hiUjY1LTRlbXdfMTJ4WTJHTnZQdy1FX01wWlhUUWxkMnJZd2JibmRybEtfWE9memhEOU9VckpwQm9xMTZCb3BKYzRhT0pMcFRpVHB2alg2YXRWYlhqeDNlV0xEcFNzMDZoaQ?oc=5",
-   "source": "머니투데이",
-   "time": "10/23 03:57",
-   "dir": "up",
-   "strength": 1
-  },
   {
    "title": "한은, 기준금리 3%로 동결…\"긴축 기조 이어갈 것\"",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HRmRqRFh5cF9hTk0wQXJnWHFVOHAwLWc3Ml9fN2NnWFVDZlJWLURvWlNrSnlZVFItYXhBbHBoa05RNUhjQ1RUbUNObXhQbjB5SmhMY0VzS0pLNE9sTWQxMUpiNkRXN0E?oc=5",
@@ -36,14 +28,6 @@
    "source": "연합뉴스",
    "time": "10/22 16:10",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "코스닥·코스피·원·달러 환율 하락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPbTk4YjlEQl9Jcm5SNUw2SVBfR0t1Z2NXdzFqSzZWS0thVnBUdHg5WkVyMUVzUFpBdjBQUnhXYi1Ndm9waGZDZlNKVV94VVdXc3k2WUJaQjc4OVljT29pSw?oc=5",
-   "source": "뉴시스",
-   "time": "10/22 16:03",
-   "dir": "down",
    "strength": 1
   },
   {
@@ -63,6 +47,14 @@
    "strength": 1
   },
   {
+   "title": "금리 인상 일단 멈춘 한국은행…기준금리 3% 동결(종합) - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GTFR2ZDZLY0FIMkZmNGJiSy1yR3NrdER2OW5ocldvajU0MGJyUUktT0pvV1lxVTUwMTd0LVNXM1pkbDA5VkdLaW10LVZGWGdSVl8xTXF2amdUWDJabWJKRDBOOHFwU3JCNGg00gFwQVVfeXFMT2pPdEtXeTluUVZJendLUEpOT3RkV2pXdW8tR2ROSGx4Qi1PV25tcEVsWTZDdnpiTlo2T0lDemdpM1ZTbm9DVC01QmdSUHhETVE4ZG9zcUhZazZqbWJrT0ZzR2F5YkQ4N3hWM2d6X08xTA?oc=5",
+   "source": "머니투데이",
+   "time": "10/22 10:59",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "한국은행, 기준금리 연 3%로 동결...긴축 속도 조절",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KRldyZEFvY1VjSHR4SWNiM2U3Snd5U21NNU4yNEtETlY3QmJJUXJraUlySGM1RHhDSEJIa1hnVERMOEZ1QXVXUm1Xc2k2emRJOFNlSVU1azBSaU93aEE?oc=5",
    "source": "YTN",
@@ -72,17 +64,9 @@
   },
   {
    "title": "한국은행, 기준금리 연 3.00%로 동결...긴축 속도 조절",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tTDIxcHBFQ2g3Q1dvbUQwazdQVUp0MVBWUURvZWlHSldvVmZqZm1aUGpKc3pEcFhqNXNCYmJnTENla2hHR1pYWGNlbDFkaDFJdk5ielRGQU50TDdHS3c?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wTURyc2xaYS1QclQ0VDZMVm85STZHY1g1b0hDT21nRWdFbDNPYkZIaEpLcmhsbm1xdFBjWHBKSFE2bHBJWUdLdllLLTB0TW5KemlmME1jOG5tOVgta3A5aUh2S1BPS1Roc1h5YzZBSQ?oc=5",
    "source": "YTN",
    "time": "10/22 10:31",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "한은, 기준금리 연 3.0% 동결‥긴축 속도 조절",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IQWYwSndyLVN1VGhwczBMT3dyZWE0WThtcThFS3VoLWFBRENXMXVZNUFOemxMRmxBTnZLYUxKZlhNeFRSbFpVeVhNRjdLQnZ6Mm1CS2ladEFMeF90elQ2bWVYUzNUUm4zOTVQRUM5RnNNaUxq0gF0QVVfeXFMTWRHZnVURGFISXdsY3YzSVNxNXhzM3lEMi1laURubDlHbjhWRGljX1dEb0NjUUtHaFB1VWgzdFRJcTVwYVdxcTZRVlR1Z2ZGNV9uRTNyNVNabW1GT0RzNGdpWjcyZE9MamVmOWVJQXNUNzFwMVE?oc=5",
-   "source": "MBC 뉴스",
-   "time": "10/22 09:51",
    "dir": "up",
    "strength": 1
   },
@@ -91,6 +75,22 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KQkNZNnZqWnFRMS1XcU1yR2IzX0N5SU5sdE1nRXY5eEZ3TXQtMi1xOEY5OEFicjZROVZRTXNVRWQ2THN0eHRDMDZvaTFEbVZZc3pST05pN2R2eEXSAWBBVV95cUxQQk42QzZWeW5wMnhVck15c19kU3NYYnhLeTA5OS1KNHBoMXpYZHU1SEJ2S2k2MU41R2lWVVNCUnFEdFV6eTFFNUg2QzVGRkxtc2dYN3B0QnpHMFZ0VnhQbEs?oc=5",
    "source": "연합뉴스",
    "time": "10/22 09:51",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[속보] 한은, 기준금리 연 3.00% ‘매파적 동결’…11월 인상 가시화",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15V0pkYmY0alpfbkpmT3hZOUwycXRYOVhpUEhhcmdzMDJxc3RiOGs2NkZEYXUtLXZBSGdoNFAyRDQ4NE9WTW9vZUp6dnJDcGNLMlZSNg?oc=5",
+   "source": "매일경제",
+   "time": "10/22 09:50",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[포토] 원/달러 환율 상승, 코스피 하락 출발",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1za0hXcDVPLTNvc1dnLTctMmNXZjdrb2NHNTlGUUZRQXcySjlUdktfQi15X3RhUDQ4ZlczQ0lSd0hYVDdRbUEyclNoMks2aEV4MnV0Y0JFNTRqdC1VX2tidg?oc=5",
+   "source": "아시아경제",
+   "time": "10/22 09:29",
    "dir": "up",
    "strength": 1
   }
