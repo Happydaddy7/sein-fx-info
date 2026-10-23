@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-23 09:27",
+ "updated": "2026-10-23 11:23",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 9,
+  "down": 1,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -31,14 +31,6 @@
    "strength": 1
   },
   {
-   "title": "환율, 5거래일째 연저점…금통위 이후 원화 강세 지속",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUtwd0lGSzlzeFd6b2o5LXh1WjNMUlBza1hmV0pibUFabkY2bnl3dHhwcWpHTGE2RzdwamctRnVBSV9pOTgtSmNuT3R6ZlExODJIN09DemJnS1FmRk9ZbkR0N3AzVFp1LXktRUxSdE9FQ0c3RGlzZFAxTHBrcmpUSg?oc=5",
-   "source": "이데일리",
-   "time": "10/22 16:35",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "원/달러 환율 '매파적 동결' 금통위에 하락…연저점 또 경신(종합)",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxOWk2MGtwQU5hS3p0QmJacG9vdmRwNG12WV83TXZNRjlJUi10b3V6UVZJYlJsZDhQTWJDeUdpTzlXd1dHMkJ0WUVpdUEwUWxDUEQ0UEduYjRRM1nSAWBBVV95cUxQajVwWTJGT3p1cG51LWc0NjRyeUhLU1cwcTdPQ2o5UlRlT201MmJ1WjYta1FaLXFYcnBlM2RFQWFSSWx5MVhTOEFVSGJNc3I1WlRyT2w3ZnVQd3NxYmZScjA?oc=5",
    "source": "연합뉴스",
@@ -52,6 +44,14 @@
    "source": "뉴시스",
    "time": "10/22 16:03",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[뉴스1 PICK] 한국은행, 기준금리 연 3.00% 동결⋯긴축 속도 조절",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Rc0tKUElBZG5iOUpvSlMxX3gxU3RsMkdKM2VoT2tnQ3I3QVduUWRYanhHSl9oWkdJbF9IY2huRVpHa19mSjIwLWpPX2N6T0MxTU9MaUtrTXg1SFRzcDBLN0ZlNA?oc=5",
+   "source": "뉴스1",
+   "time": "10/22 13:39",
+   "dir": "up",
    "strength": 1
   },
   {
