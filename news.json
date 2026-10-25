@@ -1,17 +1,98 @@
 {
- "updated": "2026-10-23 23:30",
+ "updated": "2026-10-26 08:58",
  "summary": {
-  "up": 0,
-  "down": 0,
-  "neutral": 0
+  "up": 1,
+  "down": 1,
+  "neutral": 8
  },
  "outlook": {
   "dir": "neutral",
   "lines": [
-   "상승·하락 요인 혼재 (상승 0 vs 하락 0).",
+   "상승·하락 요인 혼재 (상승 1 vs 하락 1).",
    "뚜렷한 방향성 없이 등락 반복 가능성.",
    "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
- "items": []
+ "items": [
+  {
+   "title": "의외의 곳에서 방향이 바뀐다 원·달러 환율은 다시 오를 겁니다",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4dldHendCNFFnS3MzWFRON3JtYldKQkpkRFkxeHk0N2VTT1hFUHdRbzFzWEIxUGpZN1pvTWtoa3k3RVRkV1pVS19ELVhpTDVuNFpQQVdnSWpKOW9zbTVOdXdIbzdESHNmTHhheklQV27SAXRBVV95cUxNdHUxVFVZWDNrN3FackxqNE53Z0JsWnlxSXJ6ZVQxU1VMQjhGMktEclE4djJZQlkwQjRRQ0FXQWxlRzNSUVBzbW5kWG5ZLXNwa3FFZUVKeW51SjR4RW40Ym1IRDNQTmI1OGVvRllHbFN5dEo3aA?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/26 08:49",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원화 명목실효환율 94.83…원달러 환율 하락에 2년 만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcG1iRUthLWlwbzQ5Q3I3OTlfaXpmTkFtY3EyUjJ5bDVDSWpQdmhpUVVpV0tBZndXUVFCYVdad1BJc202SmlOUTdwTXpnVmkwV0FHdVFINDdNY0dOWHFWdUFqbFA?oc=5",
+   "source": "서울경제TV",
+   "time": "10/26 08:46",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "유가 116달러·美금리 5% 육박…코스피 또 흔들리나[뉴스새벽배송]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnVsdU1VanZsX2ZhWnhxUzRVVEdxVTNfckwyYkM0VDRxZDFmMmpIV0lzM01EQjFGOXpFdDc0QkVUWXUwcUFiS2g5QmRtMWR4OEJ5RGdPNDJJcHIxVmNtR2NGNURKRlFYcWtHRG9MWG90aWxzQXROd3hXOHl5WlN0Tw?oc=5",
+   "source": "이데일리",
+   "time": "10/26 08:11",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "트럼프, 이란 추가 공습 시사…지속되는 1320원 공방[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWFJSmxBMHlLQ0NWV3JZdUI1eXlIVkhwWXJRcmhEUl9tUkRRTUs4QWhVZ0JmSDQ1TERzZEI1blFQeUpqRVdkMG45UUdQTDRndktmWFpsNGhOb3MwYVNITVlaNXZyXzFwNmIwX0dWcTFIS3A0NjJhMjloV21BRV9Keg?oc=5",
+   "source": "이데일리",
+   "time": "10/26 08:09",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[월가프리뷰] AI주 조정 속 빅테크 실적·연준 금리 결정",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pekJYWGhpQXpiRHQtRTJmckh0WWdNRVcyd3NIM3I1dUx2Zy00OEJJRGRTbkQyNTA3LU1hbXNPTDFPX0FtSDBXQUpHOFQyU1F4cHRmcjBkdEVsZzRrOFo1eXZ4RmpibG8?oc=5",
+   "source": "뉴스1",
+   "time": "10/26 07:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zSDRGU1prOFA4YzJ1emU0dmdYYU9XTnZOdUdlSi1sNzdjQ2xRaGg1T0llNW1GVU9lSXhyT1dieFhadjJhREIwQmhMZEFMVW9lTWc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "10/26 05:55",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "美전문가들 “연준 28일 금리 동결, 12월 인상할 듯”",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96SFRuelRRbmZRWW1kdnM1UkxGUVZWenFlUEltYzcyY1Y2bkJLYURCQ3Z5ZXBmVzlKOVUzSEo4LUhTdXRFZ1JmQ1NFT3d5ZGFpRmfSAVNBVV95cUxNNm9mMGR0S2RsUjAtQXZjYlQ2UFV3TnJOOTRvUk9WX2Y0MG91RG5fdVE5MjFnVnN4TEkyWEwwMXlzX2h4ay1peHRid1NVdzFra2ZZTQ?oc=5",
+   "source": "서울경제",
+   "time": "10/26 05:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율 1320원대… 2년 만에 최저치 [뉴시스Pic]",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwRDVKWmh5UW1XLVFUTXVLT3Z1bV93eVNtMlFDdHVveVd4N1hwT0RPb0dONmxFMC1xaFRSWGdYSW1ieDRKM05mNXdwYjB1SmNJeUw4UU5CYlBCQlRGVm5hONIBeEFVX3lxTE0tVGtWX3JWWXo0Ylloc3cyYU1DMjlCT3JnLW5FS2V4S2lzTnZzUk5pN0FSSkRYbGlkcElrcXU3cVBXSV9uTUxWTXpnTzlaY2xTRjEyWTdZUzctdjVHdTlOM1k0TzdMN0xzbnA0TnFBUS1WVG5KUzFWMA?oc=5",
+   "source": "뉴시스",
+   "time": "10/25 14:10",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율 1320원대…2년 만에 최저 수준",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MRUIxV29GcmR6TTA5Vjd6SlBhaTN1dTVySG9ycUlsY2x2bm9EQ0JIU2ZVOGtrSmFqdUJIbFhaeUkydjhHb2JCZnRXeTlhZVkxdVlVMzNsVnI3a1BQWkxYTA?oc=5",
+   "source": "뉴시스",
+   "time": "10/25 14:00",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "한 번 쉬고 12월 다시 올리나…美 연준 ‘긴축 속도’에 쏠린 눈",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTlUM1M2eFVDcUFjSEE4Z3U1SUtwRm53RDRxNHFkZm9iVHRwTndYSUZiLW82NDlBWENQcjZNM0Q4bzkxVF9kZnA3QnRzQjFNM1NaU1RoUnNGT3ktVkszdW1ydWoyZ2lrUjhueWc1S1NCekxvYVhXYW5NeFZHN2JZbWdnd0k5LXI5?oc=5",
+   "source": "조선일보",
+   "time": "10/25 10:09",
+   "dir": "up",
+   "strength": 1
+  }
+ ]
 }
