@@ -1,26 +1,82 @@
 {
- "updated": "2026-10-26 11:08",
+ "updated": "2026-10-26 18:27",
  "summary": {
   "up": 1,
-  "down": 3,
-  "neutral": 6
+  "down": 9,
+  "neutral": 0
  },
  "outlook": {
   "dir": "down",
   "lines": [
-   "하락요인 우세 (하락 3 vs 상승 1).",
+   "하락요인 우세 (하락 9 vs 상승 1).",
    "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
    "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "한투證 \"달러 3~6개월간 약세 전망…4분기 환율 1,350원→1,320원\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5reWRYYTB2eHQ5dHMxSXA5NHJ4ZjhBRWk4R2JwaGZaTHdwQzZ2czZqNTdDWkFfc1VLZHU1WmRMcVk4anNTRzBXTnBNNmJfOGVmNy00THpRcGgyaHFwUzJxakFTTzh3Z2ZoTV9lZ1c2c20?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/26 10:57",
-   "dir": "neutral",
-   "strength": 0
+   "title": "물가 재상승 직면한 美연준, 금리 '매파적 동결' 유력",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTW5CQzk2Y2tLWDJ4V0dveF8xdGtkX2pWMUJVOVZmbld2V25FaWV2Y3RrR2VXWV84SmZBOF9fSHIzdjYyeXhVRkRCbjZHeHMzVm1PUnRhcjNEQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "10/26 18:23",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 1320원, 연저점 또 경신…증시 급락에도 ‘원화 강세’",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObHpib0RXRmsxSVlxU0s4blFoZzM0RnJPRmI1SVpBaG9SUk5IMVE3cXpEem5lcjBxMjNQbEQzTDQ3S0JoQVlOTm4xUzZmX29fMTJ2bThqZzJuOXNHUkxwZXlNR1RXVXF0V3lSVW5CTFpDVHlnRGk0aWtRWVc4NDZDSQ?oc=5",
+   "source": "이데일리",
+   "time": "10/26 16:40",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 환율 하락",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUXB2UlZJMkNsOVByMk41QWlaLTlRZ0lHMjhxSFZBQXpycl9oMFFqdzVZOUtSVngxTWtka1ZocmIwSzZtNFFxMzU5blJ1VkJ5bFprWGlqYmxiWjhMVW9ueQ?oc=5",
+   "source": "뉴시스",
+   "time": "10/26 16:20",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 환율 하락세",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hWU1ES3Q5d2hnY08ybHVqbTB6a212X3dmVmNKV0d0Y0loVFpQXy15YTFmMXFJN2xwUXBzTTlBZlcyazRMN1lGMUttMW9uLWUzY2lOV3h4NkZxSWI2YUhiZ2t0Y1hLdw?oc=5",
+   "source": "뉴시스",
+   "time": "10/26 16:20",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "1320원대 원·달러 환율 안정 흐름…자동차 울고, 항공 웃는다",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk1qRVhmeTdRbEVTM2dVVUI5cFNWMS1hVV84RzBtODg0OG8zVXVVYlZoUk1ZLUhmMUtjM3FhSS1kVlNrZEJtZ29QT3hnLUZXNkwtNGh1Qkh5OUpFUG83aUdqdmhnOEFvdnVGNEVLU2dRaUtRVmpmc0Exam02amE3NA?oc=5",
+   "source": "이데일리",
+   "time": "10/26 15:11",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "한투證 “강달러에도 원화 강세…4분기 1320원·내년 1분기 1280원”",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGxoY0dVNklud0JBaTJXbVVmMUxObDVFNElzS3QyMVh6NlZZb1Z1TUYtNnNvTS1zR3NrWGk2cWE2ZlJZejdfS1hLa2xEZGZQRU9INnZJbHdOLUxqZmdvYmRqRUlhSWxmejNJcWVUT0h0MlpTVE14UDdCbGFnMnhkYg?oc=5",
+   "source": "이데일리",
+   "time": "10/26 14:21",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "환율 하락에 회복한 원화 가치",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HV3duZWttT0o3QnY5aEZrU2VUWXlrZ0pNR3lMRm5VcDlKc2R4T3JQU2VhSXBGbG9fcDhwQ1pycy1vVmUycVFyeFRMdw?oc=5",
+   "source": "뉴스1",
+   "time": "10/26 13:47",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 1200원대 내려간다는데…원화 강세에 웃는 종목은?",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lR2hxRzQ5TjBaRkI1WXV2eXNLd2NRU0Rjck8yRnh0Mnc3dHRMbmc5bV9sSVNFOUFwSjdUcXpnbHFGekhYNXdNRHRJdGc5eFA5czdNckN2ckRocWxDQTMwR9IBeEFVX3lxTE8ybGt1dllEcXk3YzMxMU9xVjc4OEpjWjRKc2dnZldmSWJEZV9ueFZHcFlZZWZsZ2xKVmNBLUxwSXhfbmF4ODJMWVZwbWtBdG9FaEJMeXJRemk4YkU1MkRPUmkxWXhDWTc0VFo4UWRmcThLQXB5LTBYWg?oc=5",
+   "source": "뉴시스",
+   "time": "10/26 11:06",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "원/달러 환율 하락에…명목실효환율 2년 만에 최고",
@@ -31,67 +87,11 @@
    "strength": 1
   },
   {
-   "title": "[포토] 원/달러 환율, 코스피 동반 하락 출발",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sNGpLd1duTm9ObzlNUThxWmpiVFd2eFRRekVIck9tMW9QWG5FUi1ZM3U4azZxVUdYQ1A2Y1NNc3JsUkxrWFJXMTU2bVo2anUtYmFkTjJfSE5mSXJaNjdxRQ?oc=5",
-   "source": "아시아경제",
-   "time": "10/26 09:21",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·달러 환율 하락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wanYyZFJ4YWllR2Z6TjBOWXdBX3pKamJ6aFlYMUZ5YktLaF93dXRQQktqcXI5VGdDeVVSZDQwMnVlRGQ2Rm1fZjc4VkVSX0t6SWxkMzJqMlQ0bnh1NmNzUg?oc=5",
-   "source": "뉴시스",
-   "time": "10/26 09:19",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "달러·원 환율 장 초반 1323원대 하락…강달러 누르는 네고 물량",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UV2dSMFZIRWlwVHgwOFVWZVZ4elg3QVpiYnRYWkJhbGtnY3RtNUdWb0k3Uy1OOXBsM1NoeXJ0WHdLSTNtU3BaT3dZTGs4UUoyVGRKSlFsZndEVXB6VnU0?oc=5",
-   "source": "뉴스1",
-   "time": "10/26 09:16",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "의외의 곳에서 방향이 바뀐다 원·달러 환율은 다시 오를 겁니다",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4dldHendCNFFnS3MzWFRON3JtYldKQkpkRFkxeHk0N2VTT1hFUHdRbzFzWEIxUGpZN1pvTWtoa3k3RVRkV1pVS19ELVhpTDVuNFpQQVdnSWpKOW9zbTVOdXdIbzdESHNmTHhheklQV27SAXRBVV95cUxNdHUxVFVZWDNrN3FackxqNE53Z0JsWnlxSXJ6ZVQxU1VMQjhGMktEclE4djJZQlkwQjRRQ0FXQWxlRzNSUVBzbW5kWG5ZLXNwa3FFZUVKeW51SjR4RW40Ym1IRDNQTmI1OGVvRllHbFN5dEo3aA?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/26 08:49",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
    "title": "원화 명목실효환율 94.83…원달러 환율 하락에 2년 만에 최고",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcG1iRUthLWlwbzQ5Q3I3OTlfaXpmTkFtY3EyUjJ5bDVDSWpQdmhpUVVpV0tBZndXUVFCYVdad1BJc202SmlOUTdwTXpnVmkwV0FHdVFINDdNY0dOWHFWdUFqbFA?oc=5",
    "source": "서울경제TV",
    "time": "10/26 08:46",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "트럼프, 이란 추가 공습 시사…지속되는 1320원 공방[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWFJSmxBMHlLQ0NWV3JZdUI1eXlIVkhwWXJRcmhEUl9tUkRRTUs4QWhVZ0JmSDQ1TERzZEI1blFQeUpqRVdkMG45UUdQTDRndktmWFpsNGhOb3MwYVNITVlaNXZyXzFwNmIwX0dWcTFIS3A0NjJhMjloV21BRV9Keg?oc=5",
-   "source": "이데일리",
-   "time": "10/26 08:09",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "[월가프리뷰] AI주 조정 속 빅테크 실적·연준 금리 결정",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pekJYWGhpQXpiRHQtRTJmckh0WWdNRVcyd3NIM3I1dUx2Zy00OEJJRGRTbkQyNTA3LU1hbXNPTDFPX0FtSDBXQUpHOFQyU1F4cHRmcjBkdEVsZzRrOFo1eXZ4RmpibG8?oc=5",
-   "source": "뉴스1",
-   "time": "10/26 07:00",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "한 번 쉬고 12월 다시 올리나…美 연준 ‘긴축 속도’에 쏠린 눈",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTlUM1M2eFVDcUFjSEE4Z3U1SUtwRm53RDRxNHFkZm9iVHRwTndYSUZiLW82NDlBWENQcjZNM0Q4bzkxVF9kZnA3QnRzQjFNM1NaU1RoUnNGT3ktVkszdW1ydWoyZ2lrUjhueWc1S1NCekxvYVhXYW5NeFZHN2JZbWdnd0k5LXI5?oc=5",
-   "source": "조선일보",
-   "time": "10/25 10:09",
-   "dir": "up",
    "strength": 1
   }
  ]
