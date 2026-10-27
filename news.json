@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27 11:45",
+ "updated": "2026-10-27 18:24",
  "summary": {
   "up": 4,
   "down": 6,
@@ -14,6 +14,22 @@
   ]
  },
  "items": [
+  {
+   "title": "환율 하락에…LG이노텍, 3분기 최대 매출에도 영업이익은 반토막",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GTUJyOTVtdFZsMTlTU3c5WUtyZGsxemk1bGRnWjFybGtaSjlRbkZ0cTJ1UDBHLWRnQ3JuUlpaUHFyZ1ZJaDBlVkRvZWd6a1VQMkFHaEdYeW1jTzZ2M25zcXZPZDRQa2ZFbmVwbzVB0gFzQVVfeXFMUHVyYTFleE93SktKZ1Z2QzJhZFNVVDFZbnlLLTVKZ3lKMjA1YTRULVZTSHRpbUZyOFBPWVVVOVU2cmxNWGxSeDQtVVR3UlpPUnVuZjl3ajBVcmp3R184SkJ4dFF3b3UxMHVCbmgzSkg0c0I5TQ?oc=5",
+   "source": "한국일보",
+   "time": "10/27 16:55",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 환율 하락세",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSc1lqUlg2QWlBMDlDdng3YUpEV1FDamh6TGRpYmJoZTdkdnR1cllrQ2FORHhBWVRGYko2N01rNHd4b0toNGc1LXBNUkJ4cXEwNWNHNGh2ckREeU5uZW14M2w1aTV0dw?oc=5",
+   "source": "뉴시스",
+   "time": "10/27 16:17",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "달러·원 환율 장 초반 상승 1325원 진입…美 금리·달러 강세",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rYVNEOWdfdzdyUmhkNEFJSmZpVTV4NmUyV1ZrR0FfbHJWWWt4SzA2N2JTZmJ3ODJzU015enE2Slo4MktLeTJqY2tWdFZhLWotbHIwUGgtSnV5aFU?oc=5",
@@ -47,30 +63,6 @@
    "strength": 1
   },
   {
-   "title": "환율 1320원, 연저점 또 경신…증시 급락에도 ‘원화 강세’",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObHpib0RXRmsxSVlxU0s4blFoZzM0RnJPRmI1SVpBaG9SUk5IMVE3cXpEem5lcjBxMjNQbEQzTDQ3S0JoQVlOTm4xUzZmX29fMTJ2bThqZzJuOXNHUkxwZXlNR1RXVXF0V3lSVW5CTFpDVHlnRGk0aWtRWVc4NDZDSQ?oc=5",
-   "source": "이데일리",
-   "time": "10/26 16:40",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율 하락",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUXB2UlZJMkNsOVByMk41QWlaLTlRZ0lHMjhxSFZBQXpycl9oMFFqdzVZOUtSVngxTWtka1ZocmIwSzZtNFFxMzU5blJ1VkJ5bFprWGlqYmxiWjhMVW9ueQ?oc=5",
-   "source": "뉴시스",
-   "time": "10/26 16:20",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 환율 하락세",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hWU1ES3Q5d2hnY08ybHVqbTB6a212X3dmVmNKV0d0Y0loVFpQXy15YTFmMXFJN2xwUXBzTTlBZlcyazRMN1lGMUttMW9uLWUzY2lOV3h4NkZxSWI2YUhiZ2t0Y1hLdw?oc=5",
-   "source": "뉴시스",
-   "time": "10/26 16:20",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "원·달러 환율, 엔화 강세·월말 네고에 연저점 경신 [김혜란의 FX]",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa2o3eThWX2xUUFRPTUdfLWY1RE1pMVllY2lwRTdET1FacEI5aGV2YWdZNE9hRS1HR3dCV01aVTdyTjdIMndFRHlfMnFWZ0hIdkHSAVNBVV95cUxOLU5GQ2JDN3p6NUpWUlU4S0NWdHktZ1BXVzc5a01MQkpnNm9RRkZ0ZDdzcGN0SEkyT1BVMERKS0FzaXR2cXVLMzJrQVNzUEpOYzlNQQ?oc=5",
    "source": "서울경제",
@@ -91,6 +83,14 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGxoY0dVNklud0JBaTJXbVVmMUxObDVFNElzS3QyMVh6NlZZb1Z1TUYtNnNvTS1zR3NrWGk2cWE2ZlJZejdfS1hLa2xEZGZQRU9INnZJbHdOLUxqZmdvYmRqRUlhSWxmejNJcWVUT0h0MlpTVE14UDdCbGFnMnhkYg?oc=5",
    "source": "이데일리",
    "time": "10/26 14:21",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "원/달러 환율 하락에…명목실효환율 2년 만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVW5JTklQbUlmaEJWRXFJV2VnNnc0cVN3YmtNNVRIYUFTN2tZM0QxT0daLWV4Qm1rQXc0XzhDZWlFQnRvNHJpdy1tV2lNaTlPaEFqQ2NRWDJnM1Q4TXJWbi1SS0RPbUU?oc=5",
+   "source": "연합뉴스TV",
+   "time": "10/26 10:02",
    "dir": "down",
    "strength": 1
   }
