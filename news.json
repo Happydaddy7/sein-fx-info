@@ -1,25 +1,57 @@
 {
- "updated": "2026-10-27 01:21",
+ "updated": "2026-10-27 10:18",
  "summary": {
-  "up": 1,
-  "down": 9,
+  "up": 4,
+  "down": 6,
   "neutral": 0
  },
  "outlook": {
   "dir": "down",
   "lines": [
-   "하락요인 우세 (하락 9 vs 상승 1).",
+   "하락요인 우세 (하락 6 vs 상승 4).",
    "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
    "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
+   "title": "달러·원 환율 장 초반 상승 1325원 진입…美 금리·달러 강세",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rYVNEOWdfdzdyUmhkNEFJSmZpVTV4NmUyV1ZrR0FfbHJWWWt4SzA2N2JTZmJ3ODJzU015enE2Slo4MktLeTJqY2tWdFZhLWotbHIwUGgtSnV5aFU?oc=5",
+   "source": "뉴스1",
+   "time": "10/27 09:43",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "무디스 잔디 \"채권시장이 연준 역할 대신…추가 금리 인상 불필요\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1VXNwYWFFamxaYzFCMEFoQnhYQ0lnYUZXaWZoZUNXdjZDZnYwQkgwYkpYWEZGcko5SzlleDMxajFDVENUM18wa1NLeWdRYWxwWWZ0NzJwU2VpakZVUDk4eWplbG5KaVM3U3lValE2ck_SAXRBVV95cUxOY2N0R01lMlBDQ2Q2ZElwa01yS1pMcDJTNGRKVlFVUGs1N0lQYVpIYTVGNmVFSW0yVmxUNGtseWdnb0NmSHN2NDhpNGZ2WTNWR3ktVXdmaEtlT1JRMUFJQ0sxelFDUTY4cjhQb3cyUTFOakdvQw?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/27 09:36",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "성장률 1.0% 예상 웃돌아…환율 1320원대서 달러 강세와 줄다리기 [외환 브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQam1XOWQ4TFlnVnVMaS13cmpLN1V1Z0NmbzhCY3Vua2Q4VVU2Tmh6ZHBaTmxPMkJVWl9XejRuNml2dlpwempybncxdTVLRnJQTE1idnJmU0FlRmhseU9pZG9DN2JtNzZfQUNEX3hjZWt5SHJhZjRoX3V5SkR0RVk1eA?oc=5",
+   "source": "이데일리",
+   "time": "10/27 08:07",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "물가 재상승 직면한 美연준, 금리 '매파적 동결' 유력",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTW5CQzk2Y2tLWDJ4V0dveF8xdGtkX2pWMUJVOVZmbld2V25FaWV2Y3RrR2VXWV84SmZBOF9fSHIzdjYyeXhVRkRCbjZHeHMzVm1PUnRhcjNEQQ?oc=5",
    "source": "파이낸셜뉴스",
    "time": "10/26 18:23",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원화 강세에 환율 1320원대…항공·정유 웃고 반도체·車 울고",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsZ09ia1d2cHVrMVlLcUdRSnlCSEpzdEI3SFZxbVdRTmRZeHVHRF9GSjVSVC1XYWpqR3pHc1c1UGNEVklvZXlZZnFWU1p3RTJxMDRSYktEZnRsN0VLeVdNdHdjYkZEWTV6OTltWXFHR29sTFpMMGfSAWZBVV95cUxPbWZKVTZwcmJmYVVCQlBrUl91bnQ0d2cxbldYWDA3eHl2azY2TVQ2SUFwSk1IR3puY283Z2hBSkdvREZvLXZCSjZzRnFka0g0M1FvVkgwdGlkWkFxSmYyWmh5bjFfNUE?oc=5",
+   "source": "동아일보",
+   "time": "10/26 16:54",
+   "dir": "down",
    "strength": 1
   },
   {
@@ -47,50 +79,18 @@
    "strength": 1
   },
   {
+   "title": "원·달러 환율, 엔화 강세·월말 네고에 연저점 경신 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pa2o3eThWX2xUUFRPTUdfLWY1RE1pMVllY2lwRTdET1FacEI5aGV2YWdZNE9hRS1HR3dCV01aVTdyTjdIMndFRHlfMnFWZ0hIdkHSAVNBVV95cUxOLU5GQ2JDN3p6NUpWUlU4S0NWdHktZ1BXVzc5a01MQkpnNm9RRkZ0ZDdzcGN0SEkyT1BVMERKS0FzaXR2cXVLMzJrQVNzUEpOYzlNQQ?oc=5",
+   "source": "서울경제",
+   "time": "10/26 16:13",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "1320원대 원·달러 환율 안정 흐름…자동차 울고, 항공 웃는다",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk1qRVhmeTdRbEVTM2dVVUI5cFNWMS1hVV84RzBtODg0OG8zVXVVYlZoUk1ZLUhmMUtjM3FhSS1kVlNrZEJtZ29QT3hnLUZXNkwtNGh1Qkh5OUpFUG83aUdqdmhnOEFvdnVGNEVLU2dRaUtRVmpmc0Exam02amE3NA?oc=5",
    "source": "이데일리",
    "time": "10/26 15:11",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "한투證 “강달러에도 원화 강세…4분기 1320원·내년 1분기 1280원”",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGxoY0dVNklud0JBaTJXbVVmMUxObDVFNElzS3QyMVh6NlZZb1Z1TUYtNnNvTS1zR3NrWGk2cWE2ZlJZejdfS1hLa2xEZGZQRU9INnZJbHdOLUxqZmdvYmRqRUlhSWxmejNJcWVUT0h0MlpTVE14UDdCbGFnMnhkYg?oc=5",
-   "source": "이데일리",
-   "time": "10/26 14:21",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "환율 하락에 회복한 원화 가치",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HV3duZWttT0o3QnY5aEZrU2VUWXlrZ0pNR3lMRm5VcDlKc2R4T3JQU2VhSXBGbG9fcDhwQ1pycy1vVmUycVFyeFRMdw?oc=5",
-   "source": "뉴스1",
-   "time": "10/26 13:47",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원·달러 1200원대 내려간다는데…원화 강세에 웃는 종목은?",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lR2hxRzQ5TjBaRkI1WXV2eXNLd2NRU0Rjck8yRnh0Mnc3dHRMbmc5bV9sSVNFOUFwSjdUcXpnbHFGekhYNXdNRHRJdGc5eFA5czdNckN2ckRocWxDQTMwR9IBeEFVX3lxTE8ybGt1dllEcXk3YzMxMU9xVjc4OEpjWjRKc2dnZldmSWJEZV9ueFZHcFlZZWZsZ2xKVmNBLUxwSXhfbmF4ODJMWVZwbWtBdG9FaEJMeXJRemk4YkU1MkRPUmkxWXhDWTc0VFo4UWRmcThLQXB5LTBYWg?oc=5",
-   "source": "뉴시스",
-   "time": "10/26 11:06",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원/달러 환율 하락에…명목실효환율 2년 만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wVW5JTklQbUlmaEJWRXFJV2VnNnc0cVN3YmtNNVRIYUFTN2tZM0QxT0daLWV4Qm1rQXc0XzhDZWlFQnRvNHJpdy1tV2lNaTlPaEFqQ2NRWDJnM1Q4TXJWbi1SS0RPbUU?oc=5",
-   "source": "연합뉴스TV",
-   "time": "10/26 10:02",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "원화 명목실효환율 94.83…원달러 환율 하락에 2년 만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcG1iRUthLWlwbzQ5Q3I3OTlfaXpmTkFtY3EyUjJ5bDVDSWpQdmhpUVVpV0tBZndXUVFCYVdad1BJc202SmlOUTdwTXpnVmkwV0FHdVFINDdNY0dOWHFWdUFqbFA?oc=5",
-   "source": "서울경제TV",
-   "time": "10/26 08:46",
    "dir": "down",
    "strength": 1
   }
