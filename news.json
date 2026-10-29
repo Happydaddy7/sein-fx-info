@@ -1,32 +1,32 @@
 {
- "updated": "2026-10-29 12:18",
+ "updated": "2026-10-29 19:31",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "해외 IB \"FOMC, 예상보다 덜 매파적…연준 신뢰성 약화 재부각\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByN2JoU1hPQVBiOHJ0b3M5Tk5EckJfZTRqcjl1d244VFh4OXE1cFc5WFFFNTJuQmg3WG5lMl9NdlFkM1BkUExnY2Z1U0NKcGF5WElQOVBLVlBFbmVxNEQ4Y3JPc3J5c0pVRmVZUkI1elQ?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/29 10:38",
-   "dir": "up",
+   "title": "국고채 금리, 美 금리 연동하며 하락…완화적 FOMC 소화(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NT3NYeGJlWHE4b0VwSXNqOTRZX3JDaEJmX21lZHQ1STd5TWVfUmJXa3BVV0ZaWkl6RUJNUHpqcjNuazNST3FoZU51d0xxZWxEdkppakp0WDBZMVE?oc=5",
+   "source": "연합뉴스",
+   "time": "10/29 16:56",
+   "dir": "down",
    "strength": 1
   },
   {
-   "title": "ING \"연준, 12월 금리 인상 유력…美 10년물 금리 5.25% 전망\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcEpOYkl3NnpUZWVaVkxVNW4zOTdkeFZnSXFvWGRMbmpvcl9pc3RfMk5aR2trWEpjdTFLaTJWaGRGWWx6OVJ4UlhOTFViR1QyRGRjTTVqZlZpX09LVTJ2cTdHMmNtOS1ILVBrdlQ3NzTSAXRBVV95cUxNU2ZqeUxMOFo3N2NROVZ5bzA2N1J2bmNkcm1hR2FvU0tZa0luXzNmNzNNcmdmZ1ZnUEV4ZzY3WUFWRVVLelRVa1BpRUswRFgwYmVzWWNOaFM1dk5VTkw3RVNYWWEySFVMTllGM0JiUmMxV2xvbQ?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/29 10:17",
+   "title": "美 연준, 금리 유지했지만 반전은 12월?…‘금리 인상’ 경고에 월가 긴장",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9taG5QN0tFZ0pmNWVfWm1URkF4REd5TUVBekhlY25Ia0VtX2lOamNlRXc0S0dxZGt1Nnk3Y1ctWkswTFlubjdZX0tXQ2RCb3VERVVweVM1aEjSAVhBVV95cUxPbWhuUDdLRWdKZjVlX1ptVEZBeERHeU1FQXpIZWNuSGtFbV9pTmpjZUV3NEtHcWRrdTZ5N2NXLVpLMExZbm43WV9LV0NkQm91REVVcHlTNWhI?oc=5",
+   "source": "SBS Biz",
+   "time": "10/29 13:44",
    "dir": "up",
    "strength": 1
   },
@@ -40,7 +40,7 @@
   },
   {
    "title": "증권가, 美 연준 금리 동결에 \"긴축 종료 아닌 숨 고르기\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qTXV5aDY3Q1NjajVLOTdkS2NkSjA1amtPZlRqSlpmRkw2bkczSE9QejdBZ3Itb1NURUNwaWY5R05keHE0MGM0THF3Rk5ubjJWN3p2WW9EeVpiWW9jV0JPetIBYEFVX3lxTE1qTXV5aDY3Q1NjajVLOTdkS2NkSjA1amtPZlRqSlpmRkw2bkczSE9QejdBZ3Itb1NURUNwaWY5R05keHE0MGM0THF3Rk5ubjJWN3p2WW9EeVpiWW9jV0JPeg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03ZGhOQjVTekFOQ1M1cFFsYzFBT3k3bS1VU3NwMlpCN1JMQzZURTlTdWQ0WWxXaWFZSGNtVTNSbVFCdDU1T3hreS1QM1hoZWxoWEQ0VUQxQ0hJS2fSAWBBVV95cUxNak11eWg2N0NTY2o1Szk3ZEtjZEowNWprT2ZUakpaZkZMNm5HM0hPUHo3QWdyLW9TVEVDcGlmOUdOZHhxNDBjNExxd0ZObm4yVjd6dllvRHlaYllvY1dCT3o?oc=5",
    "source": "연합뉴스",
    "time": "10/29 08:53",
    "dir": "up",
@@ -63,27 +63,11 @@
    "strength": 2
   },
   {
-   "title": "캐나다 중앙은행, 3년 만에 금리 인상… 기준금리 2.5%로 25bp↑ - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mMEdDZFZWZlBNa3Fqa0xYbmR2UVphMmI0MjNqVGhYVk9IR2Q1MXV1cnRkRmlRS1VMaW81TmNjcU1CMHIxaTkxZmsxYWVRR0tBZ2dmQnVRTDZiSmdqdmpHVXNYcHEwMjR30gFuQVVfeXFMT2tsZ21tN1Q2dEFVbVpvbXhOVGZmWmpDMWxkTWxqZFhEZzBsMlc0WE9fQWpSdEE1NmRqWWd4dGRIUmF2T2JOWTZXZGluSU9sWTZDZldEZzdYX3prTVZQa3ZRdTc5eVdQd25YT1JKdlE?oc=5",
-   "source": "머니투데이",
-   "time": "10/29 07:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준, 2명 인상 반대표 속 다시 동결…워시 \"금융여건 긴축돼\"(종합)",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EN3VlczVWVkc1ZDdMZEpYcGVQVTBHeDJOSF9pOXdXYmhFWmdXOEdsd0N1TW9UamFvdElpbU5kdHdwQWhPRWE5VzBSeUU1WEdWbzkzQjhseUFnaUlqcmNXbDY5NHZjdG9TdmlpbzFPRGI?oc=5",
+   "title": "연준, 금리 인상 한달만에 다시 동결…2명 인상 반대표(상보)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44cllIbzlTbDlHZlFJMjUxcGJ6X0xFVGFVQ2Z2VGpzX0l0X0lxcV8yZ0o4Tzc2Q0NNdHpoN2dyWkxIc0xaTDA5Q2FDSkNzb1E0RUktWkxLNEZYMV9sdlV0Nmx0d1VEUnFhRjlwX3k3Z3I?oc=5",
    "source": "연합인포맥스",
-   "time": "10/29 06:24",
+   "time": "10/29 05:19",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "고유가로 힘들었는데...환율 하락에 항공업계 숨통 트이나",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MLUhGWUQteW5KT1BTM1g1NWJVa2V0RkdESkJZVFFCZlF3cF90NXZ1NnBfZExSTkU0V3FqR2RyMVYzOEJZeXFJeG1BZjhhQ1NqRTZTWDNB?oc=5",
-   "source": "매일경제",
-   "time": "10/28 17:35",
-   "dir": "down",
    "strength": 1
   },
   {
@@ -92,6 +76,22 @@
    "source": "연합뉴스",
    "time": "10/28 16:15",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "엘 에리언 \"연준, 금리 동결 전망…워시, 매파적 발언 예상\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kbFFEVUhrY2V6ZVZWdjBjTEFWa0pkZWE5T3drU0x0Q2hwNWdqYkFGVXhpSzlXY1FvQTNlSW42Z29hVU5VUldLMjRrVVUxWkN6MjJ3TFprdUZTVnI4TS1NMTJOa09oX2hCYlA2TWd1TkY?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/28 12:56",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원·달러 환율 하락세",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSc1lqUlg2QWlBMDlDdng3YUpEV1FDamh6TGRpYmJoZTdkdnR1cllrQ2FORHhBWVRGYko2N01rNHd4b0toNGc1LXBNUkJ4cXEwNWNHNGh2ckREeU5uZW14M2w1aTV0dw?oc=5",
+   "source": "뉴시스",
+   "time": "10/27 16:17",
+   "dir": "down",
    "strength": 1
   }
  ]
