@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29 10:38",
+ "updated": "2026-10-29 12:18",
  "summary": {
   "up": 8,
   "down": 2,
@@ -14,6 +14,14 @@
   ]
  },
  "items": [
+  {
+   "title": "해외 IB \"FOMC, 예상보다 덜 매파적…연준 신뢰성 약화 재부각\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByN2JoU1hPQVBiOHJ0b3M5Tk5EckJfZTRqcjl1d244VFh4OXE1cFc5WFFFNTJuQmg3WG5lMl9NdlFkM1BkUExnY2Z1U0NKcGF5WElQOVBLVlBFbmVxNEQ4Y3JPc3J5c0pVRmVZUkI1elQ?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/29 10:38",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "ING \"연준, 12월 금리 인상 유력…美 10년물 금리 5.25% 전망\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcEpOYkl3NnpUZWVaVkxVNW4zOTdkeFZnSXFvWGRMbmpvcl9pc3RfMk5aR2trWEpjdTFLaTJWaGRGWWx6OVJ4UlhOTFViR1QyRGRjTTVqZlZpX09LVTJ2cTdHMmNtOS1ILVBrdlQ3NzTSAXRBVV95cUxNU2ZqeUxMOFo3N2NROVZ5bzA2N1J2bmNkcm1hR2FvU0tZa0luXzNmNzNNcmdmZ1ZnUEV4ZzY3WUFWRVVLelRVa1BpRUswRFgwYmVzWWNOaFM1dk5VTkw3RVNYWWEySFVMTllGM0JiUmMxV2xvbQ?oc=5",
@@ -31,16 +39,8 @@
    "strength": 1
   },
   {
-   "title": "“미 연준, 예상보다 덜 매파적”…연내 1회 인상 전망",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MODluY1JHd1F1ejRLc3NNZmN6Q2x5SndPbDBCeUpNVUNXNnRlbnJvVlhMdk5YUTVRMU5fLVN5c1V1SEVnLXliVVJCNWhVRnZaWjhkZUZKM3lxZXFwcFBBRWFSZTNiR2ZsdWFZZ2lRbUNKUQ?oc=5",
-   "source": "한겨레",
-   "time": "10/29 09:47",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "증권가, 美 연준 금리 동결에 \"긴축 종료 아닌 숨 고르기\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03ZGhOQjVTekFOQ1M1cFFsYzFBT3k3bS1VU3NwMlpCN1JMQzZURTlTdWQ0WWxXaWFZSGNtVTNSbVFCdDU1T3hreS1QM1hoZWxoWEQ0VUQxQ0hJS2fSAWBBVV95cUxNak11eWg2N0NTY2o1Szk3ZEtjZEowNWprT2ZUakpaZkZMNm5HM0hPUHo3QWdyLW9TVEVDcGlmOUdOZHhxNDBjNExxd0ZObm4yVjd6dllvRHlaYllvY1dCT3o?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qTXV5aDY3Q1NjajVLOTdkS2NkSjA1amtPZlRqSlpmRkw2bkczSE9QejdBZ3Itb1NURUNwaWY5R05keHE0MGM0THF3Rk5ubjJWN3p2WW9EeVpiWW9jV0JPetIBYEFVX3lxTE1qTXV5aDY3Q1NjajVLOTdkS2NkSjA1amtPZlRqSlpmRkw2bkczSE9QejdBZ3Itb1NURUNwaWY5R05keHE0MGM0THF3Rk5ubjJWN3p2WW9EeVpiWW9jV0JPeg?oc=5",
    "source": "연합뉴스",
    "time": "10/29 08:53",
    "dir": "up",
