@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29 19:31",
+ "updated": "2026-10-30 10:44",
  "summary": {
   "up": 7,
   "down": 3,
@@ -15,19 +15,27 @@
  },
  "items": [
   {
-   "title": "국고채 금리, 美 금리 연동하며 하락…완화적 FOMC 소화(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NT3NYeGJlWHE4b0VwSXNqOTRZX3JDaEJmX21lZHQ1STd5TWVfUmJXa3BVV0ZaWkl6RUJNUHpqcjNuazNST3FoZU51d0xxZWxEdkppakp0WDBZMVE?oc=5",
-   "source": "연합뉴스",
-   "time": "10/29 16:56",
+   "title": "블랙록 릭 리더 \"연준 금리 인상이 인플레 해결하는가\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XVEhhYWxvMERfazE2NFN0YWhnX000UWYxNHFXZm9DZ1VxZFZKWFQ2RjJyZklOTlNOOXN5ckhPRHo2ZjE1ZTBQbjVNNVlrWEowV2gzX0tvdXdULW13Y1l1dzQ5SmpWTkl0R1Rvc1pNTlI?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/30 09:57",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美기술주 급락에 ‘달러 약세’…환율 1330원대 지속[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3dGd0NUYndJOVpHN081QjlQWC1ydUV2MXdpMVM5N3hLTlV2X2JSaGFHZG0yTmk1RFJ2VXFaRExfLWh2a0cwNzZkby1aelhnQjFzbzQwekxGUFdFU0lMN1E1RDkzV2hvNlZuYnFveTJZWFNLa0t4QmpNZWF4ZjU1aA?oc=5",
+   "source": "이데일리",
+   "time": "10/30 08:06",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "美 연준, 금리 유지했지만 반전은 12월?…‘금리 인상’ 경고에 월가 긴장",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9taG5QN0tFZ0pmNWVfWm1URkF4REd5TUVBekhlY25Ia0VtX2lOamNlRXc0S0dxZGt1Nnk3Y1ctWkswTFlubjdZX0tXQ2RCb3VERVVweVM1aEjSAVhBVV95cUxPbWhuUDdLRWdKZjVlX1ptVEZBeERHeU1FQXpIZWNuSGtFbV9pTmpjZUV3NEtHcWRrdTZ5N2NXLVpLMExZbm43WV9LV0NkQm91REVVcHlTNWhI?oc=5",
-   "source": "SBS Biz",
-   "time": "10/29 13:44",
-   "dir": "up",
+   "title": "트럼프 \"美 경제 호황…연준 정치꾼들, 금리 인하 싫어해\"",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vSFlQckQ0eFo1Sm5yR0tBTnBTeUdVbHRzTE1MUldobDZOQzNieVp4U1VyVlpSbVhYVnBWakViRmlKOVNWWXBoZ2p4c29wV2lDaTZ3Q1MyZms?oc=5",
+   "source": "뉴스1",
+   "time": "10/30 03:53",
+   "dir": "down",
    "strength": 1
   },
   {
@@ -55,43 +63,35 @@
    "strength": 2
   },
   {
-   "title": "'긴축 여지' 열어둔 美연준…한은, 내달 금리 인상 나설까",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIRTdzclczeWNEZmhzLU9kZ2hEVEZ5OHhzMkxFeWFLSlBuZUJfbHl5XzlaR0tFbnVVUHFWWDdoNTBfQ1ZEejVlZ3hQWGFURjVGUWZhVUVadDNoMGNsLXQ4TtIBeEFVX3lxTFBVRElfME43MFhsYktnQ25HNTdFLWduNHpjMVZvOHdXdzdUSFQxelNSOG1qMzBvRkFZYlBlMTJZYktUSlZQMFBMUGt5YzZKOWIxRGlZQmp6UzczRURzYkhfeEVDNGtwVS1lb0syUGphMUVZanlJbkVKbw?oc=5",
-   "source": "뉴시스",
-   "time": "10/29 07:41",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "연준, 금리 인상 한달만에 다시 동결…2명 인상 반대표(상보)",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44cllIbzlTbDlHZlFJMjUxcGJ6X0xFVGFVQ2Z2VGpzX0l0X0lxcV8yZ0o4Tzc2Q0NNdHpoN2dyWkxIc0xaTDA5Q2FDSkNzb1E0RUktWkxLNEZYMV9sdlV0Nmx0d1VEUnFhRjlwX3k3Z3I?oc=5",
+   "title": "연준, 2명 인상 반대표 속 다시 동결…워시 \"금융여건 긴축돼\"(종합)",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EN3VlczVWVkc1ZDdMZEpYcGVQVTBHeDJOSF9pOXdXYmhFWmdXOEdsd0N1TW9UamFvdElpbU5kdHdwQWhPRWE5VzBSeUU1WEdWbzkzQjhseUFnaUlqcmNXbDY5NHZjdG9TdmlpbzFPRGI?oc=5",
    "source": "연합인포맥스",
-   "time": "10/29 05:19",
+   "time": "10/29 06:24",
    "dir": "up",
    "strength": 1
   },
   {
    "title": "원/달러 환율, 1,340원대로 상승…달러 매수세에 14원↑",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pZzZHXzhhdzd4WGU0VGhQb3J2WGFFUkxHNy1tbllDbmRiczZ1TEtsVTlXN29SUnZBUGoxYW9FSmZmTlBZVzBRUk5GSERmdWFWR19QXzdvdl9GSWZwTkJ2d9IBYEFVX3lxTE1pZzZHXzhhdzd4WGU0VGhQb3J2WGFFUkxHNy1tbllDbmRiczZ1TEtsVTlXN29SUnZBUGoxYW9FSmZmTlBZVzBRUk5GSERmdWFWR19QXzdvdl9GSWZwTkJ2dw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwc1NyQ19JMFRoM29iRVM5QUFoNUcyYTFwNWRvTml4QVdMZHE4aXhJdmV4T0NmcktOdkpkUUUtZTUtY1o2YWVsZWZUS2tJWUM1MERMWE13bjktWWvSAWBBVV95cUxNaWc2R184YXc3eFhlNFRoUG9ydlhhRVJMRzctbW5ZQ25kYnM2dUxLbFU5VzdvUlJ2QVBqMWFvRUpmZk5QWVcwUVJORkhEZnVhVkdfUF83b3ZfRklmcE5Cdnc?oc=5",
    "source": "연합뉴스",
    "time": "10/28 16:15",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "엘 에리언 \"연준, 금리 동결 전망…워시, 매파적 발언 예상\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kbFFEVUhrY2V6ZVZWdjBjTEFWa0pkZWE5T3drU0x0Q2hwNWdqYkFGVXhpSzlXY1FvQTNlSW42Z29hVU5VUldLMjRrVVUxWkN6MjJ3TFprdUZTVnI4TS1NMTJOa09oX2hCYlA2TWd1TkY?oc=5",
-   "source": "연합인포맥스",
-   "time": "10/28 12:56",
+   "title": "“테크만 빼고” 월가, AI 돈줄 조이자…연준 ‘금리 인상’ 부담 덜까",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JOVlWNUtIQlM3d0xGZkttQ3pZa2xGcnllbXRLeXo4WkRtbXdRQjVvZnltRkJOTmc3OWQ0SEFrOW1TMWVUWnRRVlhJc1FvTV9scmhaQXBYcWlmQVZJUnBodG5kLTNod3dveGR4NXM5UkhoVGvSAWZBVV95cUxNWFVnZjhTUXIwX094RVFmeUlWalZtS0lpWWVqYmVMdG9wTzRaWkZmdWZ1aFlxdFFCUlV1QUZmYzd2YVhqM1FxUXNCV2RvUkJBNjc2bUU2UzN3ekNTbkJpNk5TZ2dwY2c?oc=5",
+   "source": "동아일보",
+   "time": "10/28 13:05",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "원·달러 환율 하락세",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSc1lqUlg2QWlBMDlDdng3YUpEV1FDamh6TGRpYmJoZTdkdnR1cllrQ2FORHhBWVRGYko2N01rNHd4b0toNGc1LXBNUkJ4cXEwNWNHNGh2ckREeU5uZW14M2w1aTV0dw?oc=5",
-   "source": "뉴시스",
-   "time": "10/27 16:17",
-   "dir": "down",
+   "title": "엘 에리언 \"연준, 금리 동결 전망…워시, 매파적 발언 예상\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kbFFEVUhrY2V6ZVZWdjBjTEFWa0pkZWE5T3drU0x0Q2hwNWdqYkFGVXhpSzlXY1FvQTNlSW42Z29hVU5VUldLMjRrVVUxWkN6MjJ3TFprdUZTVnI4TS1NMTJOa09oX2hCYlA2TWd1TkbSAXRBVV95cUxOWU04UEt6STdMMDBibkw1ZmhxQUJZTnhkUzJ4Q1YtR0hTckh2Zk1JQk9pbmVBb1pEMFlzT0JGd2psQi0wWkJ1WE84MTlSb3RLMGhIU0hlWjAweG52N1hEeTl1TmNXMTVtNnpndmVLMmVJLXhLcA?oc=5",
+   "source": "연합인포맥스",
+   "time": "10/28 12:56",
+   "dir": "up",
    "strength": 1
   }
  ]
