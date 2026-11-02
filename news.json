@@ -1,32 +1,80 @@
 {
- "updated": "2026-11-02 12:10",
+ "updated": "2026-11-02 20:46",
  "summary": {
-  "up": 2,
-  "down": 2,
-  "neutral": 6
+  "up": 3,
+  "down": 0,
+  "neutral": 7
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 2 vs 하락 2).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 3 vs 하락 0).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "[1mm금융톡]기준금리 연속 인상에도 은행 수익성 하락…이유는",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFQ1BUMlNCS1ZwRGVJRTFmZ25ZRUJPclBqZlI3djU3QTZTV1V1Q2hSSkZxV1N1aHdCaG92b1YwdFB3ckJBWVo3VEhpeTVaWUdtUTg4MHo1VktGcFowYWhXTg?oc=5",
-   "source": "아시아경제",
-   "time": "11/02 09:52",
+   "title": "달러 약세에도 원/달러 환율 9.5원 급등…외국인 달러 매수세 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nQ1dXa3F5TzluM0Z5TkhWLWVOYTJfVEl6RWFTbVhKeF9POWxXb3Jmc0FZVm5iVm9mbTVETDdTU2QxVVhRR0pGZ0REazRMX0N5N3RVUjBFdDJnY1h6ckk4Nmp4TGRnOFVjbDZV0gFwQVVfeXFMT1gwYnpKclI0VXZEV3YtYU9YcVEwT1IyRDhDaWRjdUFXYkhiMndFSlRYZVVlVGpDc1F0Y3NHdGFJTEpfNXFHcGtNX2FBQmxpTGhwRGQ2UjgzR2xNbjR3bTczTzJMd0hFTVRHZHhnd3VBZA?oc=5",
+   "source": "머니투데이",
+   "time": "11/02 17:13",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "신현송이 지목한 실질실효환율…‘원화 저평가’ 얼마나 해소됐나",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUUtpSS1TblJFSmhGQ002NWs3dk1jZXNiNzVXSWQzYmxxWkh4RERGX2d5OEJYNEFzSzRBaVJrRHl2SzJsLS1HZzNPYm5IWnJVMEZDWDN1UEZyREE1b2pHSTBoZ0hNS2NNOEZtQjEyRjVuUmwwZm9vU2JObmVoUDZFaQ?oc=5",
-   "source": "이데일리",
-   "time": "11/02 09:36",
+   "title": "원/달러 환율 1,340원대로 상승…약 2주 만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GaGNqWloyTE5qWlZqRkNkby1JYWZiVndyeHF0eENuY3ZUMmhCMGUxQ1dfU0N0V2N1Umt2dGNTVDZtZmhPTUo0eUdxY2FjWW5oWTM4UGVSTDlIU1VGWXpnSNIBYEFVX3lxTE9GaGNqWloyTE5qWlZqRkNkby1JYWZiVndyeHF0eENuY3ZUMmhCMGUxQ1dfU0N0V2N1Umt2dGNTVDZtZmhPTUo0eUdxY2FjWW5oWTM4UGVSTDlIU1VGWXpnSA?oc=5",
+   "source": "연합뉴스",
+   "time": "11/02 16:42",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율, 9.5원 오른 1343.8원 마감",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrZFVuNzBlSm1vYkhvTEJ4dG9wV0xTY2doM0FWRUFYeDlOSlVVb1UzclktRm9Md1VBTjhuT2c4Zmd3Y0pvMlhKU09USk9sOUdQb0VGby1TVENWNFB3bmwyVdIBeEFVX3lxTE5NUmQ2cTlBMm1tZnJtYVpIZXdSRVRWN3d4UWhUTFV5cjhFNWtadmtTMGdwdWxla3kxRDlBdW80WGRjWDNQZVFBQ2JfMDlpRTZ1TVZQeV84dzFpaWIyRzVPcG9US3pvZG5oblZ3Q3h3X2pJay16NktQdQ?oc=5",
+   "source": "뉴시스",
+   "time": "11/02 15:56",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "원·달러 환율 9.5원 오른 1343.8원",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qUGh0MDZnQlZUN0VsemJQamxmWUtSNi1Lb2NOQzB4Nmhqd0RPX2ZLVGxScDBBVXJqMExKRGNHUVpYcE42OWJ2dDFMUnlQNzdxM3R6WmNCbXBBdw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "11/02 15:44",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[외환] 원/달러 환율 9.5원 오른 1,343.8원(15:30 기준가)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00czVXWmJMOGcwaC1oUkRGbFB0ZHI3WlJ6Yl9xaHNheExlb3M1eTRsSndxcXVZZi02U2hSMW02aUtiOWhyemFpNWNkWF83UjhJSVBWYWxQdG1mSFVVUHBfdtIBYEFVX3lxTE00czVXWmJMOGcwaC1oUkRGbFB0ZHI3WlJ6Yl9xaHNheExlb3M1eTRsSndxcXVZZi02U2hSMW02aUtiOWhyemFpNWNkWF83UjhJSVBWYWxQdG1mSFVVUHBfdg?oc=5",
+   "source": "연합뉴스",
+   "time": "11/02 15:30",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "환율 1330원대 연중 최저…항공·철강 웃고 반도체 울었다",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wRVNpUmRxZmNRTG1IZmRxVDc2Vl9yam9VbG5iamdZNFotcUVtOUFSaTNNZExiVGV1QnFkbVhHLXNlbFl6dl8xOHIyUm5lQ0FhT0puZ1Nsd2xMQlJoWHIxZA?oc=5",
+   "source": "마이데일리",
+   "time": "11/02 14:14",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "\"워시 연준 의장의 12월 금리 인상 의지 의심스러워\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWMHM2YUNVRFRnU2VMZWR0TWNvLVRJejlfU1M0VnVDdWcyM05yR0IzaFR6S0Q3WkRMS3JJeVpPSDFSQUVUY3BLMm1tQnR6RjZXZ2wyQzdaZW1QRTBnbHN1bTg3bWFvVHV1eGd5X0tpeWs?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/02 12:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[올댓차이나] 위안화 기준치 1달러=6.7146위안…0.012% 절하",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFOFlyVkRrQjZqZ0NhUElrb29qNjd6cW9LR2lTdXFMOWxlQ3VnNDB2R2NCV0I3bGRHTEtxYjhDY0RKcHp1ajR2Z0h5M01zTDN2UzhGdmpleFJGcVJ6cmlRdNIBeEFVX3lxTE5mMHpTUDVLTzhuTkNIaFpCNXdfam5XeGhYTWZUUjFFMkVyY2Y5dFhIXzVJdXBCYnoxdHJFb2M1VjNoejZ2U2pYaWNPbS1LRWwzQzU4YUZRQUZxMVBPY3hERHl6WEx6RG1LaS1paHFYYzZuNnRva2EwdA?oc=5",
+   "source": "뉴시스",
+   "time": "11/02 10:40",
    "dir": "neutral",
    "strength": 0
   },
@@ -39,58 +87,10 @@
    "strength": 1
   },
   {
-   "title": "美 연준 \"고금리, AI 투자에도 영향\"…반도체 기댄 韓경제 '시험대'",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DaDhlZGptU3cwRWNKTkthX1F5cmJTd1hJRGpUc1RWSkhUS25leDRPVkd4ZkQ2Z2JKNkJlMndid091Y2I2ZmEzbHNJVkp1LTBkNEZ0aQ?oc=5",
-   "source": "뉴스1",
-   "time": "11/01 07:05",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "4개월 연속 내린 환율…美 선거·고용 앞두고 시험대[주간외환전망]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEpnTnZIMDdlZDF5VzVVWVlkMmJHQzluSXktNG0zdzQ2bTFHdmM4UXgyX3FkVXgzWVM4U04zT0VLeGkxajdnVjUyWXVhdHBsZW9YOGZnNExlWTdENjZvczZMSWVNdnN4TUx0Z2ZBTV9Hb0g5OFVhNTFONmdHZk5GMw?oc=5",
-   "source": "이데일리",
-   "time": "11/01 05:00",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "\"물가 목표 2% 도달\"...일본은행, 기준금리 '동결'",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRndGYkdIVlBxelVyNzhTU01xZkZVZEFzeEYzcGxFVGtNU3B3X2YzUE8zTElIRnJOcVRyaDhxbXFGQ1RrYVVQYWZoRXpOTl85V2VzLXk0b1VsNE0tM0E?oc=5",
-   "source": "YTN",
-   "time": "10/30 23:06",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "일본은행, 기준금리 1.25% 유지…‘물가 목표 2% 달성’ 판단",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03QnY5eFFWdmVid3BOSkxmcy1WQk1mS0MyU2JzZFd4azJrMkd1ZXhzRmxYZEtQT25jdFFpT3pCdmFDZXY5aENXSGE3cnpFbGRzU1pUSG10REZ5Nms?oc=5",
-   "source": "KBS 뉴스",
-   "time": "10/30 18:31",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MQW5FUXNINUFjTXo2QldZTm0weF84WUNpU2ZqdmhidWNhOGVWQnF4c1l2MVpkMkJzenFiYm0zWjdacFpVNFZNUHl1SDBXN2R5QkJSbGtYZ1RlZnPSAWBBVV95cUxORldxY3dHOUQ1aU5GQllUV2NjSl81VEMyeXdnYW9ZOGJTTkhqSVE2UmJRWVZYUl8yRlZ4YnZiU3hHZHdCb2t3OEdFTmNBYzEyd0Qzb1EwVWFoM3RKTHFJUEM?oc=5",
-   "source": "연합뉴스",
-   "time": "10/30 16:50",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "코스피 급락에도 원·달러 환율 하락…월말 네고에 1334.3원 마감 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pdlZ5aC1kLW9PakcteW1jSlV2eTJBOERYb0J5bzMxRS1rTHJwZ294SWNFbmtneG5Tem9vT0tTUnAtWjlreFRsb2pxMHk5ZFhLUUHSAVNBVV95cUxQcFYta25NMnVaM3A5d09rQUFha0Uzejc0Z3NRcTU2VEZTUnFfaDlqd0w2UVNBaVpVVnpLbFhXTmhWYzAtdkJFZ29tZVQtYkR4b0UyZw?oc=5",
-   "source": "서울경제",
-   "time": "10/30 16:18",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "일본은행 기준금리 1.25% 동결… \"12월에 금리 인상 길 열어\"",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGWHVJNGlCTjQ0ang2dTJuT1ZONFNFZUxsNFBjRGtMU2lIZWF5cHFwdTNyODZ4Wk5XamFYQ0FEcVBsT1FLbzZjWktVYmx6VHlRMFhQYk9GTGpRZTBmb1JUcnNzdHE2cmpFb19nbkVB0gFzQVVfeXFMTk1LakIzbHNRck9KcnBsUWZNMXhfVmRpdmwzbW1kSFpVd09TN002UnBseDNvQTczYVVmYzl2VUFWVm4xYjJiMHg1RnF2VTJqbFZtT21yNDFwamswQU5xODVJMTQ1b1U3QXVVeGhmZDdWeTdINA?oc=5",
-   "source": "한국일보",
-   "time": "10/30 16:01",
+   "title": "물가 여전히 높다…연준서 잇따라 추가 금리 인상 요구",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YQXBvcnhKUUowamlZZWNWLVBpWnlWY2dXeTRiT0tFNGsxRW15UXNpc1k2dnVCdEtMb1FkblpRVnp1dms4eXJfM0xLQURvR0J3MngtUFpreG5zUQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "10/31 05:35",
    "dir": "up",
    "strength": 1
   }
