@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-02 10:22",
+ "updated": "2026-11-02 12:10",
  "summary": {
-  "up": 1,
-  "down": 3,
+  "up": 2,
+  "down": 2,
   "neutral": 6
  },
  "outlook": {
-  "dir": "down",
+  "dir": "neutral",
   "lines": [
-   "하락요인 우세 (하락 3 vs 상승 1).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승·하락 요인 혼재 (상승 2 vs 하락 2).",
+   "뚜렷한 방향성 없이 등락 반복 가능성.",
+   "평소 페이스 유지하며 지표 발표 주시."
   ]
  },
  "items": [
@@ -55,12 +55,20 @@
    "strength": 0
   },
   {
-   "title": "환율, 1334.3원 마감…수출기업 달러 매도에 소폭 하락",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkMFozOFVHYTIxTGNvZ0UzTkpFMXlGY2FCelZLSXBJS2t0Z01LTXlmRlc0T0MzOE9zYnAwaDRLQkdmTkRQSFEyamxxUkN2bm9Cc1RF0gFYQVVfeXFMTlhKd244UmZ5dGJ5ZDJFV0p5Y2Z6aUk1d2ZucnhFRWRtQzBFX3J1QUVUb1ZlMTJudE9lUFN3eWNrX0VuXzExaUlTOGd2WUtfVncyanF4MzBVYw?oc=5",
-   "source": "SBS Biz",
-   "time": "10/30 17:19",
-   "dir": "down",
-   "strength": 1
+   "title": "\"물가 목표 2% 도달\"...일본은행, 기준금리 '동결'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRndGYkdIVlBxelVyNzhTU01xZkZVZEFzeEYzcGxFVGtNU3B3X2YzUE8zTElIRnJOcVRyaDhxbXFGQ1RrYVVQYWZoRXpOTl85V2VzLXk0b1VsNE0tM0E?oc=5",
+   "source": "YTN",
+   "time": "10/30 23:06",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "일본은행, 기준금리 1.25% 유지…‘물가 목표 2% 달성’ 판단",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03QnY5eFFWdmVid3BOSkxmcy1WQk1mS0MyU2JzZFd4azJrMkd1ZXhzRmxYZEtQT25jdFFpT3pCdmFDZXY5aENXSGE3cnpFbGRzU1pUSG10REZ5Nms?oc=5",
+   "source": "KBS 뉴스",
+   "time": "10/30 18:31",
+   "dir": "neutral",
+   "strength": 0
   },
   {
    "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락",
@@ -79,20 +87,12 @@
    "strength": 1
   },
   {
-   "title": "달러·원 환율 2.5원 내린 1334.3원…이틀째 하락(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5QlZ3Umx1U3RBSWM1N3c5M28teEQ4MXZTeHVqSncwc3lPdlctTzVZMXVkWnFfcmI3WkF6a1U4b1p1cVJySHBHdU9RaXlMUU5kNjdvMm9oSHdKVUk?oc=5",
-   "source": "뉴스1",
-   "time": "10/30 16:07",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "원·달러 환율, 2.5원 내린 1334.3원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zQlNjU01YaThFZVpPZnNsRHFVV000RGZIZGRpbFNOLUJZeG1YaGNiRXM2ZWtUeFFmbzNlalZpSGNYYTRyVkZZcmd0MEZ4UEJ5dW92SkhZTGlGak52bU9rVtIBeEFVX3lxTFBjYTRqSVVFS0tVb1ZjRVkyUXBlT0RoMzcwUUViYTlxa0VJblQ1Y0JhVHpoMk5TODRnNlUwM29UTU5BeTYxM2RIME9MZGRhR0ZpVDFVaEN5bUh4Z0hXWDN5Ni12d3c2Yy1vY0hYeVpYazZKb2VCd2VxNw?oc=5",
-   "source": "뉴시스",
-   "time": "10/30 15:46",
-   "dir": "neutral",
-   "strength": 0
+   "title": "일본은행 기준금리 1.25% 동결… \"12월에 금리 인상 길 열어\"",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGWHVJNGlCTjQ0ang2dTJuT1ZONFNFZUxsNFBjRGtMU2lIZWF5cHFwdTNyODZ4Wk5XamFYQ0FEcVBsT1FLbzZjWktVYmx6VHlRMFhQYk9GTGpRZTBmb1JUcnNzdHE2cmpFb19nbkVB0gFzQVVfeXFMTk1LakIzbHNRck9KcnBsUWZNMXhfVmRpdmwzbW1kSFpVd09TN002UnBseDNvQTczYVVmYzl2VUFWVm4xYjJiMHg1RnF2VTJqbFZtT21yNDFwamswQU5xODVJMTQ1b1U3QXVVeGhmZDdWeTdINA?oc=5",
+   "source": "한국일보",
+   "time": "10/30 16:01",
+   "dir": "up",
+   "strength": 1
   }
  ]
 }
