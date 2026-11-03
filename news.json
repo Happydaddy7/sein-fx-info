@@ -1,66 +1,66 @@
 {
- "updated": "2026-11-03 13:26",
+ "updated": "2026-11-03 22:10",
  "summary": {
-  "up": 4,
-  "down": 1,
-  "neutral": 5
+  "up": 3,
+  "down": 5,
+  "neutral": 2
  },
  "outlook": {
-  "dir": "up",
+  "dir": "down",
   "lines": [
-   "상승요인 우세 (상승 4 vs 하락 1).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "하락요인 우세 (하락 5 vs 상승 3).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
   {
-   "title": "美 단기 국채 발행 확대의 역설…연준 대차대조표 키우나",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HVDlRX0R3MG1xMXVYTkc2YVd2Z0s1YUwzVWVVZktXVGVEaUk3dGhMTWluNGxYbTZqTmJZZkJWZFdDemoyR2Q4LUlsZGZHdVZKVUZ1RkZNQTZFUzFoa215c3B4OFp2YV9nNUpWV3FodU0?oc=5",
+   "title": "호주 기준금리 4.85%로 인상…18년 만에 최고치",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vem03Y2RsZEx1WGRPOEVfVTE4MVFacGUwRjFrYm1Ud09hQVBHWDVWbHFFckpacUpfZ0l2MkEtd3c0cmNyUnVrb3NtY2NxTElUUEFaQlJ2SnlvQQ?oc=5",
+   "source": "한국경제",
+   "time": "11/03 21:48",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "[외환-마감] 주가 급락·엔비디아 환전에 하락…2.80원↓",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HaWdVUjVtbHNXX0Zlc2p5LVQtZWYxb1U2NnAxQ0VPb3NxOGM3Z2VLUnh1R3MxeHRzbmhzY2hhTENyWUpjbFRqYzVFQ21PRnQxQ2VqQUZ5aU1uUW5HWTRScWJ2MXBpYk9GSzlQOTZnQ0w?oc=5",
    "source": "연합인포맥스",
-   "time": "11/03 12:04",
+   "time": "11/03 18:28",
    "dir": "neutral",
    "strength": 0
   },
   {
-   "title": "유통가 덮친 환율의 역설…면세점·백화점 희비 주목",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02TzBlSExmSmo5T3I4OF9UcTNZN3RncmJ2QzBnQXRCWjNoUkloM0VVbHRBdXotaHVCams4VzZfTW1jMUV4RTUyVkhpOFIyTF80MHE5UEM1eUQxUGhkM1ZpX9IBeEFVX3lxTE9GVnBxZTlpRjYxakVmcFhWVC1MZ29ZbTJVWEVjR1kyalNScGtuYjY1NTJ1WmUwZlV1b01Jc1dBNmJHVHVOSlJiVGFRd0NRdmI4WHhKeTZSc1Y2SDBmT2xIajkteXFSTXlrNDM1UmszYnhoMU9nZU90NQ?oc=5",
+   "title": "제주항공, 3Q 흑자전환·순익 2000억 돌파…\"환율 하락에 항공기 매각 수익까지\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00YkJudG1SZ3V1Tmt2YXJpZXdPdm9iNC1DZjVOc3ZVaGhFQ3YyTFFoNk4yYVJyekNWN3R3am1neVhKRTh3bUhmdUNaaGxzNW9ZUEZ5VGs3Tnp2U2tUNnI2a9IBeEFVX3lxTE9PVjI1YXgtNlVsTTFBQTQtY2xTRGVBX3B6YjM4MTd1cXJHMDdXYzlDcnZjemRzZjQ4VzNldjJIX20wdzhRaWJKZDFwTFhSdHAtVWExS1BtVzFtODROUTBjWk9HZ0tWSGJuWVlKOHJ4aGZyUUxpS0Y2NA?oc=5",
    "source": "뉴시스",
-   "time": "11/03 11:53",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "위안화 강세 너무 빨랐나…中 외화 유동성 줄여 속도 조절",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWpKTFR2MnlMMGdqN00zQUdrRThCbEo5UnpfekVFeElRTDRUMlNtbEg4YllaRzJKM3A0b2gwbE1uRHN4Z3FfZG56WEtjWkpwOS1hTVZRZTNBN3RmT0RWZ21CNGdLbkV4UlBhQ1hMbE5LQkdTMmhJd241dVB2U0c1NA?oc=5",
-   "source": "이데일리",
-   "time": "11/03 11:50",
+   "time": "11/03 17:05",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "[올댓차이나] 위안화 기준치 1달러=6.7150위안…0.006% 절하",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZemJWUmRoV1dHbEtsSXcwcVY2cVY4d0V0VEN1WWJZeFh3QXNIRXA0REkyVXhGU2tiVzZBSGtmRi1QTUplZzFQaUJEZm9fcl9KR2JFdTRsdkZoUW9hWW1RQmJEeTZKUkV4YlZVNXNNZnpMYlJOOEM2NdIBeEFVX3lxTFBZemJWUmRoV1dHbEtsSXcwcVY2cVY4d0V0VEN1WWJZeFh3QXNIRXA0REkyVXhGU2tiVzZBSGtmRi1QTUplZzFQaUJEZm9fcl9KR2JFdTRsdkZoUW9hWW1RQmJEeTZKUkV4YlZVNXNNZnpMYlJOOEM2NQ?oc=5",
+   "title": "제주항공, 3Q 영업익 549억 '흑자전환'…\"환율 하락 효과\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sSnRXazQweW52WUdmOHc3d1A5YmJyVFgyVl8tQWtIWmZ3aFlicmNpSmdNS0xvb0VCbHpUbDdzenRkaWx6ZFFJSWUya3h5VGo3U2xzc0tFQ1NMNldJMlp3aNIBeEFVX3lxTE85bjVqd2szQ2hMbHltcUlWU19lZ0cyaDhfRWphWmNuaHZsVERnV1pZU3Z4MFo5MVY1T1BwRVBiNWxoYlUwUVNBakdid2dBRTBwM2x1YnA4c0xhRkF2YVBFdnN4M2lvSXh3bG9OdHY5c1UzRjZrMERmcA?oc=5",
    "source": "뉴시스",
-   "time": "11/03 11:32",
-   "dir": "neutral",
-   "strength": 0
-  },
-  {
-   "title": "“삼겹살 한번 먹기도 무섭다” 물가 여전히 높아…한은 기준금리 인상으로 더 기운다 [머니뭐니]",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KU1k0UHBJWWgtOVJISEJOdUp0YXVJX0ItMXlHYWpVVnVPajBBLVZsVDcybFBmZ1lrQWJsa0ZIMzRKRmxsZ1pwRHVwNzhuRTZ1Vko4MHBB?oc=5",
-   "source": "헤럴드경제",
-   "time": "11/03 10:01",
-   "dir": "up",
+   "time": "11/03 16:29",
+   "dir": "down",
    "strength": 1
   },
   {
-   "title": "달러·원 환율 1346원 출발…외국인 증시 이탈에 상승 압력",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56V01JYWxTbUl5amtwV2tLaGFTUnI4T054aEhYV1JDRVNYV25oeG1UNEFvRkRBVE1yXzRYTE95QWtlQjMzblpoVHAwVXgtZGxyUU5oZ1pVdGp0Qnc?oc=5",
-   "source": "뉴스1",
-   "time": "11/03 09:38",
-   "dir": "neutral",
-   "strength": 0
+   "title": "제주항공, 3분기 영업익 549억 '흑자전환'…환율 급락에 순이익 2천억",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMllWbDlUTG11TDJPSFhlY0RJS3lnWU1tRWtUMTc5YVZLeWYxalFNYUdOQWI5NC10Q0ZWVTI1NGkyblptcTl4OUNFNzAxMnBPSURXdXEybl9uRm10c0tCcTJoa194UWp0SDdaVVdsM29uWUZXd042R0QzbVNzdThDYg?oc=5",
+   "source": "이데일리",
+   "time": "11/03 16:27",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "위안화 강세 너무 빨랐나…中 외화 유동성 줄여 속도 조절",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xcGdwWS16ZUxNOUdjdmhtRTZ5YlVnbVYwTlp2eEFPaTNSSG94bFB5ckoxblJJV0lwNS1XMWFKSGt1bXFPRWh1WVczcjlGNjc2MkdveWJsa3h5YjBlTHhFUl9ZUHktX29xNVlz?oc=5",
+   "source": "이데일리",
+   "time": "11/03 11:50",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "국제유가 급락에도 외국인 매도 경계…환율 1340원대 등락[외환브리핑]",
@@ -71,12 +71,12 @@
    "strength": 1
   },
   {
-   "title": "“환율 1200원대 간다”…증권사 10곳 중 7곳이 본 내년 환율",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODktejZ2M0x1WTVxSnpUSzJQemxIUFFvUW1OSHI3VHNhRVVQcUROdkotRlZTLTM2NGh1WDY1NHIwVVhRdEIzQWV0am1JbDJnTmpqNGNubmYzZFRZSERBcE16djdkOVYwX0pfMmJxSTk1dkJDMjk3VFozdm5ST2NXOA?oc=5",
-   "source": "이데일리",
-   "time": "11/03 05:10",
-   "dir": "neutral",
-   "strength": 0
+   "title": "中, 위안화 강세에 외화 지급준비율 4→6% 인상…32조원 달러 유동성 흡수",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IMlh5OHQwUGFzODk5anJaTEtUc0pJR1hPbGFwQldRZlBXUTVGa19KTXBfRldoU19LOGxvTndndHZmbzdtZk1GUjlkclY5MXJOaFBpZWwxNngyTGZSak5DQg?oc=5",
+   "source": "헤럴드경제 미주판",
+   "time": "11/02 22:24",
+   "dir": "down",
+   "strength": 1
   },
   {
    "title": "\"워시 연준 의장의 12월 금리 인상 의지 의심스러워\"",
