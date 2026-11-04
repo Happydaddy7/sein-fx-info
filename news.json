@@ -1,34 +1,42 @@
 {
- "updated": "2026-11-03 22:10",
+ "updated": "2026-11-04 11:01",
  "summary": {
-  "up": 3,
-  "down": 5,
-  "neutral": 2
+  "up": 7,
+  "down": 3,
+  "neutral": 0
  },
  "outlook": {
-  "dir": "down",
+  "dir": "up",
   "lines": [
-   "하락요인 우세 (하락 5 vs 상승 3).",
-   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
-   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
+   "상승요인 우세 (상승 7 vs 하락 3).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "호주 기준금리 4.85%로 인상…18년 만에 최고치",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vem03Y2RsZEx1WGRPOEVfVTE4MVFacGUwRjFrYm1Ud09hQVBHWDVWbHFFckpacUpfZ0l2MkEtd3c0cmNyUnVrb3NtY2NxTElUUEFaQlJ2SnlvQQ?oc=5",
-   "source": "한국경제",
-   "time": "11/03 21:48",
-   "dir": "neutral",
-   "strength": 0
+   "title": "美 중간선거 관망 속 강달러…달러·원 환율 오름세",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EQXQyNFZGZXc3enFFZEM1d0g0dGgyVUhhZGM0dnBXQUFIYUVJaFlHdkhwMVFfWk9nZzJpekpMTDZyc2psc250U2lJOW5VVTVfUjl0WWtnOVBhMV9PZ0M3b2tRQ180RjNVUmtZM05sdDFmRkpSVVHSAWZBVV95cUxPV2ZlTVk3MHljUWNxY0c3YXM1Z01QcTNaSWY1M0tuUTdSbEVCLXV6NXdXMkxTUElfb3NkdDhtX1Z4NUNjQkxjQUoxd1NYUUMzYlVaRTFtODBmbFpNVjdZdGpMMjZVZGc?oc=5",
+   "source": "동아일보",
+   "time": "11/04 09:40",
+   "dir": "up",
+   "strength": 1
   },
   {
-   "title": "[외환-마감] 주가 급락·엔비디아 환전에 하락…2.80원↓",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HaWdVUjVtbHNXX0Zlc2p5LVQtZWYxb1U2NnAxQ0VPb3NxOGM3Z2VLUnh1R3MxeHRzbmhzY2hhTENyWUpjbFRqYzVFQ21PRnQxQ2VqQUZ5aU1uUW5HWTRScWJ2MXBpYk9GSzlQOTZnQ0w?oc=5",
+   "title": "미국 구인 4개월 만에 최고·해고는 18개월 만에 최저...연준, 금리 인상 여력 확보",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91ejJEWFRFVjNGZ2IzVmxPOUp5c2d3NDJES1hoVWVpWTNQd3c0Q3BGTlpDSVB2M2luZUt2Q2Z2ejE0Sm54aS1jc0NSTkRVM3ZuSTRiZUtEQ0daZEdPREE?oc=5",
+   "source": "YTN",
+   "time": "11/04 04:39",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "\"내년 달러-원 1,500원대 본다…대외 불확실성·외화 선호에 상저하고\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTUkhnaUx1MFRieTVZcVhqWWNZazBCM0VRU2pEU0NRZWJkaHNDcm8tQ1V1R09fRDktOHBSb2ROcl8tRks0Z1gzaWN0SDFYb2xMOVVKRWdfUGcyQm84XzlRck1rV1dyWXJfeWtYdnQ4RUI?oc=5",
    "source": "연합인포맥스",
-   "time": "11/03 18:28",
-   "dir": "neutral",
-   "strength": 0
+   "time": "11/03 18:42",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "제주항공, 3Q 흑자전환·순익 2000억 돌파…\"환율 하락에 항공기 매각 수익까지\"",
@@ -39,27 +47,19 @@
    "strength": 1
   },
   {
-   "title": "제주항공, 3Q 영업익 549억 '흑자전환'…\"환율 하락 효과\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sSnRXazQweW52WUdmOHc3d1A5YmJyVFgyVl8tQWtIWmZ3aFlicmNpSmdNS0xvb0VCbHpUbDdzenRkaWx6ZFFJSWUya3h5VGo3U2xzc0tFQ1NMNldJMlp3aNIBeEFVX3lxTE85bjVqd2szQ2hMbHltcUlWU19lZ0cyaDhfRWphWmNuaHZsVERnV1pZU3Z4MFo5MVY1T1BwRVBiNWxoYlUwUVNBakdid2dBRTBwM2x1YnA4c0xhRkF2YVBFdnN4M2lvSXh3bG9OdHY5c1UzRjZrMERmcA?oc=5",
-   "source": "뉴시스",
-   "time": "11/03 16:29",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "제주항공, 3분기 영업익 549억 '흑자전환'…환율 급락에 순이익 2천억",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMllWbDlUTG11TDJPSFhlY0RJS3lnWU1tRWtUMTc5YVZLeWYxalFNYUdOQWI5NC10Q0ZWVTI1NGkyblptcTl4OUNFNzAxMnBPSURXdXEybl9uRm10c0tCcTJoa194UWp0SDdaVVdsM29uWUZXd042R0QzbVNzdThDYg?oc=5",
-   "source": "이데일리",
-   "time": "11/03 16:27",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "위안화 강세 너무 빨랐나…中 외화 유동성 줄여 속도 조절",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xcGdwWS16ZUxNOUdjdmhtRTZ5YlVnbVYwTlp2eEFPaTNSSG94bFB5ckoxblJJV0lwNS1XMWFKSGt1bXFPRWh1WVczcjlGNjc2MkdveWJsa3h5YjBlTHhFUl9ZUHktX29xNVlz?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2lsd3ZwTGZhdkhrQ0o4WXdlZ1VlQXNqNU1NbTducDkybUFsUEVPM3JkcnpfVERib0MyMzBkMW9iWjEtcFFheXg0N0dRbkpBNEo3U3hIblg2Y1IxUUNMQWJ3NWE1cVpwMDA3VkJaSnhZZVRWMW5BVUxDLTY3QlRKOA?oc=5",
    "source": "이데일리",
    "time": "11/03 11:50",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "“삼겹살 한번 먹기도 무섭다” 물가 여전히 높아…한은 기준금리 인상으로 더 기운다 [머니뭐니]",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KU1k0UHBJWWgtOVJISEJOdUp0YXVJX0ItMXlHYWpVVnVPajBBLVZsVDcybFBmZ1lrQWJsa0ZIMzRKRmxsZ1pwRHVwNzhuRTZ1Vko4MHBB?oc=5",
+   "source": "헤럴드경제",
+   "time": "11/03 10:01",
+   "dir": "up",
    "strength": 1
   },
   {
