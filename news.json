@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04 11:01",
+ "updated": "2026-11-04 12:44",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 6 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
@@ -47,19 +47,19 @@
    "strength": 1
   },
   {
+   "title": "제주항공, 3Q 영업익 549억 '흑자전환'…\"환율 하락 효과\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sSnRXazQweW52WUdmOHc3d1A5YmJyVFgyVl8tQWtIWmZ3aFlicmNpSmdNS0xvb0VCbHpUbDdzenRkaWx6ZFFJSWUya3h5VGo3U2xzc0tFQ1NMNldJMlp3aNIBeEFVX3lxTE85bjVqd2szQ2hMbHltcUlWU19lZ0cyaDhfRWphWmNuaHZsVERnV1pZU3Z4MFo5MVY1T1BwRVBiNWxoYlUwUVNBakdid2dBRTBwM2x1YnA4c0xhRkF2YVBFdnN4M2lvSXh3bG9OdHY5c1UzRjZrMERmcA?oc=5",
+   "source": "뉴시스",
+   "time": "11/03 16:29",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "위안화 강세 너무 빨랐나…中 외화 유동성 줄여 속도 조절",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2lsd3ZwTGZhdkhrQ0o4WXdlZ1VlQXNqNU1NbTducDkybUFsUEVPM3JkcnpfVERib0MyMzBkMW9iWjEtcFFheXg0N0dRbkpBNEo3U3hIblg2Y1IxUUNMQWJ3NWE1cVpwMDA3VkJaSnhZZVRWMW5BVUxDLTY3QlRKOA?oc=5",
    "source": "이데일리",
    "time": "11/03 11:50",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "“삼겹살 한번 먹기도 무섭다” 물가 여전히 높아…한은 기준금리 인상으로 더 기운다 [머니뭐니]",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KU1k0UHBJWWgtOVJISEJOdUp0YXVJX0ItMXlHYWpVVnVPajBBLVZsVDcybFBmZ1lrQWJsa0ZIMzRKRmxsZ1pwRHVwNzhuRTZ1Vko4MHBB?oc=5",
-   "source": "헤럴드경제",
-   "time": "11/03 10:01",
-   "dir": "up",
    "strength": 1
   },
   {
