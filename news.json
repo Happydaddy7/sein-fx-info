@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05 13:02",
+ "updated": "2026-11-05 22:39",
  "summary": {
   "up": 3,
   "down": 7,
@@ -15,6 +15,22 @@
  },
  "items": [
   {
+   "title": "[속보]영국, 3년만에 기준금리 인상…3.75%→4.00%",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1VjFxRlVTYno1OHFQcDBDSlhmelBhOEJfNFRhaGtyUVlGdlFJelY3MVhWcGJjcFpMVWprMVBvQURRR285azROQnNOTC1DSUVrZzZ1RGJBbXZnNHRiaGwyZA?oc=5",
+   "source": "아시아경제",
+   "time": "11/05 21:06",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "'삼전닉스' 연말 배당 역송금 최대 126억달러…원화 강세에 복병되나",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeENVVFI1aGRLWUY2Q21Tb3lCY2NheElNb01KUGVIZi0ybEwycVVxbzVIZ3Ntc0FUWEtZcVROQlliS3VGZ0ZpR1FJSDJUTGlra1ZEZ0dfd0RIamxHbnR3RVkxQmxzVVV2NkJ2cE9VLUpYYzhfZk8xMEY3Z3JsSGZmRA?oc=5",
+   "source": "이데일리",
+   "time": "11/05 16:42",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "트럼프 패배 후 달러 약세…환율 얼마나 더 떨어질까 [머니뭐니]",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52NnJUUjlwVVR3eTBfd3ktYkxtZGJoZjV5anlrNGhKRVJNenBxWWZNQjBGUU9nOU1LSF9faEdaQVhsZ09PdGszMjdzMWNOMXpsR0dxd1pR?oc=5",
    "source": "헤럴드경제",
@@ -27,14 +43,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlWHpudjdTcmhDOFNfeEh2dWZacnVKd0NhcHMwLXBNcFJJTE02QjRNdXp0bWVJcmNxSDdCLVNfbFVpZFhEcDNDb3I1WFM0aktWeFZvSWlIdTVIdw?oc=5",
    "source": "한국경제",
    "time": "11/05 07:54",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "민주당 상원 장악에 트럼프 ‘연준 흔들기’ 제동…금리 인하 압박도 약화",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1veUxzSEo2SWNTaWNtTDRMQm9RY0Y1MjRHWHF4RnVJSGV3OWhPbUlsNHJGaVdkMzdWSDJVSWlPcE9PTlY4eHg0VC11ZXI2dV8xSXlocmRn?oc=5",
-   "source": "헤럴드경제",
-   "time": "11/05 05:53",
    "dir": "down",
    "strength": 1
   },
@@ -63,6 +71,14 @@
    "strength": 1
   },
   {
+   "title": "민주당 상원 장악에 트럼프 ‘연준 흔들기’ 제동…금리 인하 압박도 약화[1일1트]",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdnZKcjRNM04zWGxpbklPT0FJS254alBmeV82RTExMmx3RDdxOFdYWjY1b3pRdXlDb3N0YzZCTXg3QVBLTmxEenhCcnhsRmxUdFBYN2NWSnlWOHAzMjREbg?oc=5",
+   "source": "헤럴드경제 미주판",
+   "time": "11/04 13:25",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "美 중간선거 관망 속 강달러…달러·원 환율 오름세",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EQXQyNFZGZXc3enFFZEM1d0g0dGgyVUhhZGM0dnBXQUFIYUVJaFlHdkhwMVFfWk9nZzJpekpMTDZyc2psc250U2lJOW5VVTVfUjl0WWtnOVBhMV9PZ0M3b2tRQ180RjNVUmtZM05sdDFmRkpSVVHSAWZBVV95cUxPV2ZlTVk3MHljUWNxY0c3YXM1Z01QcTNaSWY1M0tuUTdSbEVCLXV6NXdXMkxTUElfb3NkdDhtX1Z4NUNjQkxjQUoxd1NYUUMzYlVaRTFtODBmbFpNVjdZdGpMMjZVZGc?oc=5",
    "source": "동아일보",
@@ -76,22 +92,6 @@
    "source": "YTN",
    "time": "11/04 04:39",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"내년 달러-원 1,500원대 본다…대외 불확실성·외화 선호에 상저하고\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTUkhnaUx1MFRieTVZcVhqWWNZazBCM0VRU2pEU0NRZWJkaHNDcm8tQ1V1R09fRDktOHBSb2ROcl8tRks0Z1gzaWN0SDFYb2xMOVVKRWdfUGcyQm84XzlRck1rV1dyWXJfeWtYdnQ4RUI?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/03 18:42",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "위안화 강세 너무 빨랐나…中 외화 유동성 줄여 속도 조절",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWpKTFR2MnlMMGdqN00zQUdrRThCbEo5UnpfekVFeElRTDRUMlNtbEg4YllaRzJKM3A0b2gwbE1uRHN4Z3FfZG56WEtjWkpwOS1hTVZRZTNBN3RmT0RWZ21CNGdLbkV4UlBhQ1hMbE5LQkdTMmhJd241dVB2U0c1NA?oc=5",
-   "source": "이데일리",
-   "time": "11/03 11:50",
-   "dir": "down",
    "strength": 1
   }
  ]
