@@ -1,19 +1,27 @@
 {
- "updated": "2026-11-06 13:00",
+ "updated": "2026-11-06 20:54",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 9,
+  "down": 1,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "폭락장에 원·달러 급등…14.5원 오른 1356.6원 마감(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIMjU5UUQ3SDRaTmVnWlNkcENpNmxORzBKUnkwcWlTOFdXV180S04tS1c5Y3JmeS1yVTgtbG94MW03VzkzemV3bVY1ZUdqY1lCeUFra0puaVhXTUhxU09RVNIBeEFVX3lxTE5CbnlBQ1BVeHhMTV9oc1I2OWd5X1ZKcUlhQmEyajEzQkduNXN3dW8zVWtpTV9zMTJSMDFVbURPTjlMNUl5dXVwNGViVlNjbmt0ekY4YTRMRGxlTXhkc205djJIRmx1bzRsUjIyS2RKNTRRMWFyVHMwYg?oc=5",
+   "source": "뉴시스",
+   "time": "11/06 16:10",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "[블루쓰나미 긴급진단] 채권시장 \"'4천피' 가면 11월 기준금리 인상불가할듯\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83S0tycTM0TGg0U3AybDhmaE82M3A1VzhCT2xVN0hZazNCRmNkUld4dUdmTTE3TkU0VVVCbEF3d0MtV2NITEx6QXFqS0tNbG5KanlaRzBlcWxiY19yY3BOaDNya290eUxTTnpSNC0zTF8?oc=5",
@@ -84,14 +92,6 @@
    "source": "아시아경제",
    "time": "11/05 21:06",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "트럼프 패배 후 달러 약세…환율 얼마나 더 떨어질까 [머니뭐니]",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52NnJUUjlwVVR3eTBfd3ktYkxtZGJoZjV5anlrNGhKRVJNenBxWWZNQjBGUU9nOU1LSF9faEdaQVhsZ09PdGszMjdzMWNOMXpsR0dxd1pR?oc=5",
-   "source": "헤럴드경제",
-   "time": "11/05 10:19",
-   "dir": "down",
    "strength": 1
   }
  ]
