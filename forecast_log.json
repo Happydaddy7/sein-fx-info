@@ -1,23 +1,6 @@
 {
  "records": [
   {
-   "made_on": "2026-08-14",
-   "base_rate": 1411.27,
-   "dir": "up",
-   "today_band": [
-    1408,
-    1420
-   ],
-   "week_band": [
-    1404,
-    1430
-   ],
-   "actual": 1411.91,
-   "hit": true,
-   "dir_hit": true,
-   "actual_on": "2026-08-17"
-  },
-  {
    "made_on": "2026-08-17",
    "base_rate": 1411.91,
    "dir": "neutral",
@@ -1015,16 +998,33 @@
     1341,
     1355
    ],
+   "actual": 1358.73,
+   "hit": false,
+   "dir_hit": true,
+   "actual_on": "2026-11-06"
+  },
+  {
+   "made_on": "2026-11-06",
+   "base_rate": 1358.73,
+   "dir": "up",
+   "today_band": [
+    1356,
+    1365
+   ],
+   "week_band": [
+    1354,
+    1372
+   ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-11-06 20:54",
+ "updated": "2026-11-09 10:31",
  "summary": {
   "scored": 59,
-  "hit": 35,
-  "hit_rate": 59,
+  "hit": 34,
+  "hit_rate": 58,
   "dir_scored": 45,
   "dir_hit": 26,
   "dir_rate": 58
