@@ -1,26 +1,50 @@
 {
- "updated": "2026-11-09 12:29",
+ "updated": "2026-11-09 21:16",
  "summary": {
-  "up": 7,
-  "down": 1,
-  "neutral": 2
+  "up": 8,
+  "down": 2,
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 1).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "환율 1500→1300원 ‘급감’ 이유 봤더니…기업 달러 ‘390조’ 풀렸다 [머니뭐니]",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PTUVEYjZCMXdxVVZIMm9NUGR2Uy13bmRmbjRBTkNkOUVtZ1hJNmRfNXRMdjBvcElBQWtJTXl1bUhUVlFLYnVKQmhOeTlqQ0d0MTVNc1lB?oc=5",
-   "source": "헤럴드경제",
-   "time": "11/09 12:18",
-   "dir": "neutral",
-   "strength": 0
+   "title": "증시·환율 하락에…루이비통도 직격탄",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wQkd4NHk3dnpBRU5iTGt4bXItZW1FcXVzZE1nRXFMTDNEZ3M4bzRPRC1nZzM1RlAzal83VThoVGVEdGtkOG9oV2VpNWNMVkFSMkRDSGJaUXB2Zw?oc=5",
+   "source": "한국경제",
+   "time": "11/09 17:26",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "환율, 달러 강세에도 1,340원대로…4거래일만에 하락",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81UTk2WWdSdUFqUDFwUXhNVVZ1Z3lkeXBhbWNDMm1sTUxCc1JqR21CeTlUdEtUYkZ5Y0RpWGhZSmF1ek9EQ2FWdHVYYmxraGdYa1NxbzR4T29lZ2NJTG1ERnFoRlFMMWwxOHNFR3ZHRVF3RGww?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "time": "11/09 16:41",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "iM증권 “AI 조정에 원화 약세…증시 반등 땐 강세로”",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PN2h1bVhSZF8yb3Q5TWNxSFpUeHlGM3FyV2x4RHFkRHFxXzl5NlE2WUhxemRzb1V0Tk5oRlhpdkZSTVJqR296T0lBYkxHbHhLYzU4Qkpn?oc=5",
+   "source": "매일경제",
+   "time": "11/09 15:36",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "월가 전문가 \"연준 추가 금리 인상 불필요…경기 회복 꺾을 수도\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZHJCZG1uZkF5NVNaM0ZaZFJkeUhqaUtxR0RaSG5CMGNnREtiR1BYOFpDeDN0Q0l2RWtJY0xXZE0tN2VGOURPeElQYkQ4b250aGFhd1hTai1ZTVJsa2tfSmpWdDFmOU1HdnZrWXJUM1TSAXRBVV95cUxOenBSUWJndjVva1AzTW41WTZDV0pwZXRKZS04NU9aVVk5NVJDT3djQ3hwa0IxR0JEcGJIVUFDN29WS2ZJMVBaSHJVOFpRbU9LS0J0MlJpMWVjMVBSWjFFU1lHWUxKNE1Wb1JpU3Bqa1ViTGdmVg?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/09 13:11",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "미 고용시장 ‘굿’...연준 12월 금리 인상론이 대세, 금값은 하락｜Global Money Club",
@@ -29,14 +53,6 @@
    "time": "11/09 11:03",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "[올댓차이나] 위안화 기준치 1달러=6.7188위안…0.03% 절하",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KSWVZZlRCNDl0NFMzekNVa3hWeUF2Z0lmeHlMdVZxWHVzcEdIZE9weXFOcWkzTWRxb0xFaUJxNm5wZ1NFdnZPbVo2bHdSSFZpTWVpSllaLXg5TTAxdmUzWNIBeEFVX3lxTE9HNzk2Z0l0OEh3Qm9jZDhjRGNOd3k3aUlHMzFKeVNnSlk2WE5yOHR1YktHMG5yUkVIV3prOEJtaVYwcFBla3IzUkh5TmYyX1U5NUczMktldGZmdkNIMmp5Qzd2MHZiNThfc1V1cVVQMUVlOHlrUWVUbg?oc=5",
-   "source": "뉴시스",
-   "time": "11/09 10:45",
-   "dir": "neutral",
-   "strength": 0
   },
   {
    "title": "美 연준 금리 인상 기대 상승에 원·달러, 1360원대 육박",
@@ -75,22 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2ZSUS0zdk4xeVBFWFV1b1dPVkJ0dDliWkFOcHdXUnVOVzdzVmc0c0NMWEt1SEFfUnAwUVVjaExELVJGV2YxZ0VCb3BpSjNIeXJNTURrbXJhQVE2cnVRLTdBdC15TGNhNm1nSTVFdGhfaGxKdTBBdTBDQzJ2MThKTUZrTDRUYWpL?oc=5",
    "source": "조선일보",
    "time": "11/06 23:13",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준 매파 \"고용 탄탄\"…美 추가 금리인상 불씨",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LbW5HUmRYdDRGNFNaNzZpS1o0Q3U4OGZHRjYzQ1ZLRzNxd1o2NDNDdDZWWldxbmMyUksyUlNZTkprR0dCY0p2bExQMmw4R200bGc?oc=5",
-   "source": "매일경제",
-   "time": "11/06 17:21",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "폭락장에 원·달러 급등…14.5원 오른 1356.6원 마감(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIMjU5UUQ3SDRaTmVnWlNkcENpNmxORzBKUnkwcWlTOFdXV180S04tS1c5Y3JmeS1yVTgtbG94MW03VzkzemV3bVY1ZUdqY1lCeUFra0puaVhXTUhxU09RVNIBeEFVX3lxTE5CbnlBQ1BVeHhMTV9oc1I2OWd5X1ZKcUlhQmEyajEzQkduNXN3dW8zVWtpTV9zMTJSMDFVbURPTjlMNUl5dXVwNGViVlNjbmt0ekY4YTRMRGxlTXhkc205djJIRmx1bzRsUjIyS2RKNTRRMWFyVHMwYg?oc=5",
-   "source": "뉴시스",
-   "time": "11/06 16:10",
    "dir": "up",
    "strength": 1
   }
