@@ -1,33 +1,57 @@
 {
- "updated": "2026-11-09 21:16",
+ "updated": "2026-11-10 12:59",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 6 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
+   "title": "중동 긴장 완화에 달러·원 하락 출발…장 초반 1345원대",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iZWk5MmhUQ0s2NzNDaWk1SjFnUm5RRzVIb2E0WS1KRUJGOFQ1REZQY01DcmtkcjNQT05FNE85Zl9IZVhFOFBhNzBEcjFGWGNsU0hfdmh6b2pkYjQ?oc=5",
+   "source": "뉴스1",
+   "time": "11/10 10:07",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "달러 하락에도 美물가 경계…환율 1340원대 등락[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUFjRDZHaGFoaWUteWdFOVg4OVJOazZCbzRLSXJneFYtdFhDWkYtTUxOLTdwMXJBLVprWkNFUDM1QVJZc0xheXkxVmFQbVpLUHBWa1NXSHctcTdUTXR1SzdjaXJ4bXFyd3gxUjVwcE15Rk40TDlmZGhMblFiQWNXSg?oc=5",
+   "source": "이데일리",
+   "time": "11/10 08:12",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "[뉴욕 금가격] 유가 급락에 달러 약세…1% 상승",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZTWpTd09NQ0JoX3FCWXU4OVh2TTZLWWMzWm5kT0tVVmhFclYwXzJpd0F2X0pndjk5NE1Uejk4VGRTZkJENmxSVDVuX084NjIzY0JUNFJodHl2ZTZDaDNjN0pwVEFOUUZ4RjhqOTcyeUQ?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/10 04:47",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "“AI 데이터센터, 전형적 과열”…굴스비 연준 총재의 경고, 추가 금리 인상 부르나｜Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qNkdVa2JtQWZDdnVZQUt2ZjYwZW1jZVFWNXpLLTZnWlU1SHZ0cjJJUlpFd3dRTEg5dThoZ1VFcE5nX1EybnRPS0E0VmxNYTY5Sm9rQlpwblg3RG8?oc=5",
+   "source": "중앙일보",
+   "time": "11/10 01:39",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "증시·환율 하락에…루이비통도 직격탄",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wQkd4NHk3dnpBRU5iTGt4bXItZW1FcXVzZE1nRXFMTDNEZ3M4bzRPRC1nZzM1RlAzal83VThoVGVEdGtkOG9oV2VpNWNMVkFSMkRDSGJaUXB2Zw?oc=5",
    "source": "한국경제",
    "time": "11/09 17:26",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "환율, 달러 강세에도 1,340원대로…4거래일만에 하락",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81UTk2WWdSdUFqUDFwUXhNVVZ1Z3lkeXBhbWNDMm1sTUxCc1JqR21CeTlUdEtUYkZ5Y0RpWGhZSmF1ek9EQ2FWdHVYYmxraGdYa1NxbzR4T29lZ2NJTG1ERnFoRlFMMWwxOHNFR3ZHRVF3RGww?oc=5",
-   "source": "연합뉴스 한민족센터",
-   "time": "11/09 16:41",
-   "dir": "up",
    "strength": 1
   },
   {
@@ -40,7 +64,7 @@
   },
   {
    "title": "월가 전문가 \"연준 추가 금리 인상 불필요…경기 회복 꺾을 수도\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZHJCZG1uZkF5NVNaM0ZaZFJkeUhqaUtxR0RaSG5CMGNnREtiR1BYOFpDeDN0Q0l2RWtJY0xXZE0tN2VGOURPeElQYkQ4b250aGFhd1hTai1ZTVJsa2tfSmpWdDFmOU1HdnZrWXJUM1TSAXRBVV95cUxOenBSUWJndjVva1AzTW41WTZDV0pwZXRKZS04NU9aVVk5NVJDT3djQ3hwa0IxR0JEcGJIVUFDN29WS2ZJMVBaSHJVOFpRbU9LS0J0MlJpMWVjMVBSWjFFU1lHWUxKNE1Wb1JpU3Bqa1ViTGdmVg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZHJCZG1uZkF5NVNaM0ZaZFJkeUhqaUtxR0RaSG5CMGNnREtiR1BYOFpDeDN0Q0l2RWtJY0xXZE0tN2VGOURPeElQYkQ4b250aGFhd1hTai1ZTVJsa2tfSmpWdDFmOU1HdnZrWXJUM1Q?oc=5",
    "source": "연합인포맥스",
    "time": "11/09 13:11",
    "dir": "up",
@@ -67,30 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41clVZWTNvbXBna2Rya0o4YzI3WV9vVU9DTWFuZzMyTzdNQnRLcEctSzV5bFVoV2M2RUtfYUEtelBCRVhGbUNwN25jaTBaWU1GaE03TXAzZUNRd2kwR19PQtIBeEFVX3lxTE5xZnNNeXBER0VaaTM5WUVxWnBHYkFpcUpZTjhsV2RhcXZMb2ZDalVJODdtdVNDaG44bG9Kdjd1SVpCdGhWb0c4TjFfXzdxX1VDMXFrUE5vYkItRGk4VEZfWEN4WW9kWUp3NHdCVnl0SVUzUzN4bkRlSA?oc=5",
    "source": "뉴시스",
    "time": "11/09 05:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "달러·원 환율 급등…6개월 만에 최대폭",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yaWc4VDgtZUt6Xy1TZGZmRGR1UmNTLXFybV9XNWJORFc5SFA4QXM5Rm5mbHAwM3drR0VjcXJ3STMyUW5EQnpMdGFoOA?oc=5",
-   "source": "뉴스1",
-   "time": "11/08 14:15",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 중간선거 이후 환율 한 주 새 22원↑…빗나간 '달러 약세' 예상",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VWnUtdXdxaE10cVo3c1JSWDQxVDlIODVzcFNOd3dWN2tTMzY3b0ppNWdrZ0pFN3BGT2hBNmJoem5qV3B0bVc0bGtuSU5rX3dYU1NTTDFQVEhkTEJpd1ow?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "11/07 06:00",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美 10월 일자리 16만5000개 ‘깜짝 증가’… 연준 금리 인상 가능성에 무게 실리나",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2ZSUS0zdk4xeVBFWFV1b1dPVkJ0dDliWkFOcHdXUnVOVzdzVmc0c0NMWEt1SEFfUnAwUVVjaExELVJGV2YxZ0VCb3BpSjNIeXJNTURrbXJhQVE2cnVRLTdBdC15TGNhNm1nSTVFdGhfaGxKdTBBdTBDQzJ2MThKTUZrTDRUYWpL?oc=5",
-   "source": "조선일보",
-   "time": "11/06 23:13",
    "dir": "up",
    "strength": 1
   }
