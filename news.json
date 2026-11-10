@@ -1,19 +1,43 @@
 {
- "updated": "2026-11-10 14:03",
+ "updated": "2026-11-10 22:54",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 4,
+  "down": 6,
   "neutral": 0
  },
  "outlook": {
-  "dir": "up",
+  "dir": "down",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
-   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
-   "환율 오름세 대비, 필요분 조기 확보 검토."
+   "하락요인 우세 (하락 6 vs 상승 4).",
+   "달러 약세·원화 강세 흐름 → 조달비용 하락 방향.",
+   "환율 하락 시 매입 유리, 저점 분할 매수 유효."
   ]
  },
  "items": [
+  {
+   "title": "월러 연준 이사, 12월 기준금리 인상 지지 시사…\"인플레 높다\"",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rdlgtbTRsUVpRQmQyYTJkZkNKX21MMTlaZGYxRVNUQTZGTEpSbng3b2pHeVUzQkl6WlBwVjhPM2ZBNzBJS3piRXJBX3dKUTBDNXB5bk5Kdjc?oc=5",
+   "source": "뉴스1",
+   "time": "11/10 18:27",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율, 美·이란 협상기대 위험선호↑…9.6원 하락한 1,337.5원",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVejJ4VDBHbWdLYVJ0d2hhMzZRRnNyRGdUVjI2aHI2Y2k0cWk1Zkh2VmtwRFlzY1ZVeVNma0RqZWQ1c3lXc1FRb0ZnMDJ3dVNvTXJMTU5YWVlSWnfSAWBBVV95cUxNbTFGbmI2R24yWVMtM0U2U0IxSzhhS3phZ0lyT01NLXVyUHpIYXZtakhjdFRHeE5TeWw0Z3ZDWUNxYjh5VE9kenAxODdYZm84N24zbFBRcWZiUk5pa3dSWDc?oc=5",
+   "source": "연합뉴스",
+   "time": "11/10 16:29",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "중동 긴장 완화에 달러·원 9.6원↓…1337.5원 마감(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oWTlLMnFtOVEzQzVNeGRlYTV5ZURGMk56X0lpWHJwUHVkd3hSeklQazRFNnB4cnUzcm45dTJsbXpNOEplNVh6VzdvSTR1eDdpRVh0MDB6dFNxMTA?oc=5",
+   "source": "뉴스1",
+   "time": "11/10 16:27",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "중동 긴장 완화에 달러·원 하락 출발…장 초반 1345원대",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iZWk5MmhUQ0s2NzNDaWk1SjFnUm5RRzVIb2E0WS1KRUJGOFQ1REZQY01DcmtkcjNQT05FNE85Zl9IZVhFOFBhNzBEcjFGWGNsU0hfdmh6b2pkYjQ?oc=5",
@@ -47,51 +71,27 @@
    "strength": 1
   },
   {
+   "title": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1eXNNZk0zekFDNXlCZkJadkF1dmVfWHJnOW1zMndZRTJhVndNaEkzS2dmVmtWSF9LdER3N010VF9JQ3lfSXJabTNwZ0RxbWpscXhsR1JaZXl1UFhhRUlkaQ?oc=5",
+   "source": "헤럴드경제 미주판",
+   "time": "11/10 00:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원달러 환율, 달러 강세에도 1340원대로…4거래일만에 하락",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IWWJicVBRUTdWLXRac3BHN2hiVFd5MjAwOHlzdFNvaWpOajBuWUJLLW9ocFdUNFJhODZjNUh6T0NENVZGd05IcndDUmdlcHB1QUxWOFFLODRoTDdkWUIwd0pBOEFxNEdvQXc?oc=5",
+   "source": "SBS 뉴스",
+   "time": "11/09 19:13",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "증시·환율 하락에…루이비통도 직격탄",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wQkd4NHk3dnpBRU5iTGt4bXItZW1FcXVzZE1nRXFMTDNEZ3M4bzRPRC1nZzM1RlAzal83VThoVGVEdGtkOG9oV2VpNWNMVkFSMkRDSGJaUXB2Zw?oc=5",
    "source": "한국경제",
    "time": "11/09 17:26",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "iM증권 “AI 조정에 원화 약세…증시 반등 땐 강세로”",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PN2h1bVhSZF8yb3Q5TWNxSFpUeHlGM3FyV2x4RHFkRHFxXzl5NlE2WUhxemRzb1V0Tk5oRlhpdkZSTVJqR296T0lBYkxHbHhLYzU4Qkpn?oc=5",
-   "source": "매일경제",
-   "time": "11/09 15:36",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "월가 전문가 \"연준 추가 금리 인상 불필요…경기 회복 꺾을 수도\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kZHJCZG1uZkF5NVNaM0ZaZFJkeUhqaUtxR0RaSG5CMGNnREtiR1BYOFpDeDN0Q0l2RWtJY0xXZE0tN2VGOURPeElQYkQ4b250aGFhd1hTai1ZTVJsa2tfSmpWdDFmOU1HdnZrWXJUM1Q?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/09 13:11",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미 고용시장 ‘굿’...연준 12월 금리 인상론이 대세, 금값은 하락｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02N2k2cUVjYkZJS25sdUNKS2c2b1F6WUJPeVBvWURKUFlLR3kwanFSTEJQR1l6X2JETHZ1TVJDZDExcDA0bU93MHpiOUhQS21zTTV5MVVFMEJNODg?oc=5",
-   "source": "중앙일보",
-   "time": "11/09 11:03",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 연준 금리 인상 기대 상승에 원·달러, 1360원대 육박",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kanJHV3BwX3NvdkJscVBrQmJhcUw1VFlYa0thVTlyQTFIV3VXcVRFeFFtaFA0YXl4dXVxUF9TdldJdGhuZGh2elh2c1pwLU1NQmYtMWt0MzlxaTFCbHlWa9IBeEFVX3lxTE5seFhOZWR5aWxKY21XMTZNYmJpTFdqaWNoZEU1dy1LaVB6Uy0wQk5fUkxaT05NWkswaXI5ZnFIQ1Q5LWc5WFo4eXlmMjFfM1lJdE44YUhuTENMSnZDNHRqOW9pQTlrSFp3dE5uRlg0eDFqd3h6VE5lTQ?oc=5",
-   "source": "뉴시스",
-   "time": "11/09 09:45",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 블루쓰나미에 다시 고환율…반도체·조선 '수혜 기대', 철강·석화 '비용 부담' 희비",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41clVZWTNvbXBna2Rya0o4YzI3WV9vVU9DTWFuZzMyTzdNQnRLcEctSzV5bFVoV2M2RUtfYUEtelBCRVhGbUNwN25jaTBaWU1GaE03TXAzZUNRd2kwR19PQtIBeEFVX3lxTE5xZnNNeXBER0VaaTM5WUVxWnBHYkFpcUpZTjhsV2RhcXZMb2ZDalVJODdtdVNDaG44bG9Kdjd1SVpCdGhWb0c4TjFfXzdxX1VDMXFrUE5vYkItRGk4VEZfWEN4WW9kWUp3NHdCVnl0SVUzUzN4bkRlSA?oc=5",
-   "source": "뉴시스",
-   "time": "11/09 05:00",
-   "dir": "up",
    "strength": 1
   }
  ]
