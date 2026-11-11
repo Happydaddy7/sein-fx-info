@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 22:54",
+ "updated": "2026-11-11 10:45",
  "summary": {
   "up": 4,
   "down": 6,
@@ -14,6 +14,46 @@
   ]
  },
  "items": [
+  {
+   "title": "\"美 CPI 상승세 지속시 연준 긴축 더 공격적…내년 금리 인상 사이클 전망\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYTllWEQ5d1UwMXVrVjlvaHg2aDhzd3BzM0hSLUtpRm41SGd2RGhMNnZyZVZCUGpTNUkyb2FfVVdwcU1vMkplU0VWalR3WnN1Z1BvaUZiZWFCYWtvU2Q1N0V1ZnJobURiVWNLRXR3NmM?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/11 10:03",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "\"월러 50bp 언급, 12월 연준 금리 인상 사실상 굳히기\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VMFdYUnU5WnVCLUVFMmpXZGpYTjdFb0RObTBfUi1WNU13dWpKSGZNZXdIZlFJeU5nY3VScTB5SUhJNHpFQUo4MW5pbm5tZTdUZm85eXFkaWJNZm11cE80WlBtMF9TcU1BYXdwaEZ5Wnc?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/11 09:54",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "\"DB하이텍, 환율 하락에 실적 기대 밑돌 듯…목표가↓\"-KB",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmWC1Ed0RnMWNNN0tmZG9NbVo3WTJ3bjB3dmJQS01WNmtkeUZHdlVPc1BoRFoxSExjTDBoaVg3cGJ2S0hJcWpCOXZYaFRuOERveDZqYXdLVE1BUQ?oc=5",
+   "source": "한국경제",
+   "time": "11/11 07:49",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "연준 보먼 “AI 수익 기대 못 미치면 주가 급락”…12월 금리 인상도 시사｜Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5WHdOcjhicFAzS181MVh5eks3enNKS285U0dZMkRvZk9tS1p3dHdRT2JQdDFTdVpaTHp3WVU1XzJKdkFheUc4Yl9WRFhrcGRiZ0RQV2ZRYjhzQTQ?oc=5",
+   "source": "중앙일보",
+   "time": "11/11 06:03",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 하락에 ‘달러 보험’ 인기…연 6%대 확정이율 상품도",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ybVVVcTJkQ1dISEVXTEN6b2xlcF9BWEhIVFgxcEFJUEZkZjFQb3k1WElseFlVV2NpaVR4UVU1a3J4TEt6ZTZaN2lrdjlGdXJLekHSAVNBVV95cUxPSUZkN1RiaEpIVDhuR19tMzdDM1JDbWwzUERWeGVnQ3JYU3ZfLVV3T0Qtb2RqQm9QN2wwR0VYVmR6TUt5ci1PcUdZZ19sbF9SbGRLZw?oc=5",
+   "source": "서울경제",
+   "time": "11/11 05:30",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "월러 연준 이사, 12월 기준금리 인상 지지 시사…\"인플레 높다\"",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rdlgtbTRsUVpRQmQyYTJkZkNKX21MMTlaZGYxRVNUQTZGTEpSbng3b2pHeVUzQkl6WlBwVjhPM2ZBNzBJS3piRXJBX3dKUTBDNXB5bk5Kdjc?oc=5",
@@ -51,46 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUFjRDZHaGFoaWUteWdFOVg4OVJOazZCbzRLSXJneFYtdFhDWkYtTUxOLTdwMXJBLVprWkNFUDM1QVJZc0xheXkxVmFQbVpLUHBWa1NXSHctcTdUTXR1SzdjaXJ4bXFyd3gxUjVwcE15Rk40TDlmZGhMblFiQWNXSg?oc=5",
    "source": "이데일리",
    "time": "11/10 08:12",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[뉴욕 금가격] 유가 급락에 달러 약세…1% 상승",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZTWpTd09NQ0JoX3FCWXU4OVh2TTZLWWMzWm5kT0tVVmhFclYwXzJpd0F2X0pndjk5NE1Uejk4VGRTZkJENmxSVDVuX084NjIzY0JUNFJodHl2ZTZDaDNjN0pwVEFOUUZ4RjhqOTcyeUQ?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/10 04:47",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "“AI 데이터센터, 전형적 과열”…굴스비 연준 총재의 경고, 추가 금리 인상 부르나｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qNkdVa2JtQWZDdnVZQUt2ZjYwZW1jZVFWNXpLLTZnWlU1SHZ0cjJJUlpFd3dRTEg5dThoZ1VFcE5nX1EybnRPS0E0VmxNYTY5Sm9rQlpwblg3RG8?oc=5",
-   "source": "중앙일보",
-   "time": "11/10 01:39",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "한은 기준금리 3% 동결에도…금통위 과반이 “추가 긴축 필요”",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1eXNNZk0zekFDNXlCZkJadkF1dmVfWHJnOW1zMndZRTJhVndNaEkzS2dmVmtWSF9LdER3N010VF9JQ3lfSXJabTNwZ0RxbWpscXhsR1JaZXl1UFhhRUlkaQ?oc=5",
-   "source": "헤럴드경제 미주판",
-   "time": "11/10 00:01",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "원달러 환율, 달러 강세에도 1340원대로…4거래일만에 하락",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IWWJicVBRUTdWLXRac3BHN2hiVFd5MjAwOHlzdFNvaWpOajBuWUJLLW9ocFdUNFJhODZjNUh6T0NENVZGd05IcndDUmdlcHB1QUxWOFFLODRoTDdkWUIwd0pBOEFxNEdvQXc?oc=5",
-   "source": "SBS 뉴스",
-   "time": "11/09 19:13",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "증시·환율 하락에…루이비통도 직격탄",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wQkd4NHk3dnpBRU5iTGt4bXItZW1FcXVzZE1nRXFMTDNEZ3M4bzRPRC1nZzM1RlAzal83VThoVGVEdGtkOG9oV2VpNWNMVkFSMkRDSGJaUXB2Zw?oc=5",
-   "source": "한국경제",
-   "time": "11/09 17:26",
    "dir": "down",
    "strength": 1
   }
