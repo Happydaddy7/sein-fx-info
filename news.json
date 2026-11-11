@@ -1,19 +1,35 @@
 {
- "updated": "2026-11-11 12:36",
+ "updated": "2026-11-11 20:31",
  "summary": {
-  "up": 5,
-  "down": 5,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
-  "dir": "neutral",
+  "dir": "up",
   "lines": [
-   "상승·하락 요인 혼재 (상승 5 vs 하락 5).",
-   "뚜렷한 방향성 없이 등락 반복 가능성.",
-   "평소 페이스 유지하며 지표 발표 주시."
+   "상승요인 우세 (상승 6 vs 하락 4).",
+   "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
+   "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "[현승윤 칼럼] 한은, 기준금리 인상에 신중할 때",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUjZicVVEVm9ubmgxV1NCeTg1OGdjaUtoSDd1cC1sNU1ZZXBFNHdOcjkzV3NwdV9EU21WcW5id25ZdnZoZ1UtcVBGeDRWUWtIRXB4LThNSUtIZw?oc=5",
+   "source": "한국경제",
+   "time": "11/11 17:35",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준 '과잉 긴축' 내년 美증시 복병 되나…르네상스 분석가 \"큰 위험\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fc0Eya2VvYnpSZEtfOXhpQVRMR1FLTUQ4d2dDX3pMbHAzNEJ3TUlhYjRudUhCeWdWY09JNWlnZ2t2SUVSQjBaX21CdzlIRm5OU04tMmZmODRJbTRfeVBqVNIBeEFVX3lxTE1Id3hZaXJ4aGNqTzFwd05lTEprYTJKR2c5YUhjRWFWWDU3aGJxLTd3N213M1JGZFhjWDQxRXpEWk1FbF9GbzRHaWJpZEM5Z084djU0ZmU4Zk1hQzlBN1RXdUlmOUJ6Yl9xc1doME83OUlCUVpFQmxZMQ?oc=5",
+   "source": "뉴시스",
+   "time": "11/11 14:07",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "환율 때문인가 경쟁력인가…中 ‘1조달러’ 무역흑자에 긴장 예고",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTkRjQ3lpYXFaakpoc09hX2pONkhmaWRHcGVzV0NiX1c1TmdfWjIxRlNzOHNNNVV6WmV6OEFKZUlhRVRNX21XWHF5ZlgwTlF0NHI3Ri0zaDZJV1NJR1hpQkR1eG5ENE45ZDJnOGpEWnJiUFNFQ0MyVlZzNDBoU2hBLQ?oc=5",
@@ -63,18 +79,10 @@
    "strength": 1
   },
   {
-   "title": "긴축 시사한 연준 인사들…월러 12월 0.50%p 인상도 고려",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ha1dsVU5sOE9QZm9MNzBGYjhPMFd1Ql9aeXVSaGpuOE1KSG9mdFhwaUpWYVF4LWhQQVgtSlFMQ2RjWDBoX1AxcjJyRUFaQVlMMXc00gFYQVVfeXFMT3RyNHoxVXFlZUhQMzZCc0Q3azZEdmNnM01obzdpV3h0NkpiTmFUZjlyUmVZWDhBTk1ad01MeGYxNmotX1hyZW94cG9xT1lBemNlMzMxb0ZtUA?oc=5",
-   "source": "SBS Biz",
-   "time": "11/11 04:50",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "월러 연준 이사, 12월 기준금리 인상 지지 시사…\"인플레 높다\"",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rdlgtbTRsUVpRQmQyYTJkZkNKX21MMTlaZGYxRVNUQTZGTEpSbng3b2pHeVUzQkl6WlBwVjhPM2ZBNzBJS3piRXJBX3dKUTBDNXB5bk5Kdjc?oc=5",
-   "source": "뉴스1",
-   "time": "11/10 18:27",
+   "title": "[단독] 6개월 예금·대출에 '기준금리 인상' 선반영…1년짜리보다 높아져",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9scE40YVY2d0lkYnplSm5Pa0NhNjFkb2VLaDZuZ0Q4bTAwd0xxX2poNW85QkZrSjVkeXJESHhVSG9waGdVamVJcGZlQ1hCNm1HTVVHUTk0RXcyZw?oc=5",
+   "source": "한국경제",
+   "time": "11/10 18:30",
    "dir": "up",
    "strength": 1
   },
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVejJ4VDBHbWdLYVJ0d2hhMzZRRnNyRGdUVjI2aHI2Y2k0cWk1Zkh2VmtwRFlzY1ZVeVNma0RqZWQ1c3lXc1FRb0ZnMDJ3dVNvTXJMTU5YWVlSWnfSAWBBVV95cUxNbTFGbmI2R24yWVMtM0U2U0IxSzhhS3phZ0lyT01NLXVyUHpIYXZtakhjdFRHeE5TeWw0Z3ZDWUNxYjh5VE9kenAxODdYZm84N24zbFBRcWZiUk5pa3dSWDc?oc=5",
    "source": "연합뉴스",
    "time": "11/10 16:29",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "중동 긴장 완화에 달러·원 9.6원↓…1337.5원 마감(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oWTlLMnFtOVEzQzVNeGRlYTV5ZURGMk56X0lpWHJwUHVkd3hSeklQazRFNnB4cnUzcm45dTJsbXpNOEplNVh6VzdvSTR1eDdpRVh0MDB6dFNxMTA?oc=5",
-   "source": "뉴스1",
-   "time": "11/10 16:27",
    "dir": "down",
    "strength": 1
   }
