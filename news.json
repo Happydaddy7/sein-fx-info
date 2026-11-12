@@ -1,19 +1,27 @@
 {
- "updated": "2026-11-12 11:45",
+ "updated": "2026-11-12 13:44",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "수출업체 달러 매도에 환율 하락세…'강달러·AI 우려' 낙폭은 제한",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55X1h6VUpEV2cxT3p4WGVtaW0tUmhLWXhMQzFxRkxPSFdNbHN6VFdWUjlvb3VzOW5CTklKZ0hWOF9ncmVxaGt3TllEVXJ1Q3Z4MEpmaGZBNTV2QQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "11/12 12:00",
+   "dir": "down",
+   "strength": 2
+  },
   {
    "title": "'금리 인상 우려' 달러·원 환율 상승 출발…1336.6원 개장",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53bUhFZmRMVGxfMVVNRW5XMS1TbmtZSkkydzJYb183ZktwS0J2TWloenlKLWlrak5QS0VVVzFFeThhODJ5RlVZVVl2OUVQZ053dEtWUk4zZkV6ZHc?oc=5",
@@ -47,6 +55,14 @@
    "strength": 1
   },
   {
+   "title": "[마켓톡스]골드만삭스, 연준 12월 금리 인상 후 3월 추가 인상 가능성",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS013Q3Y1ZzNHdS1GTkg5N2VQLWFjTUk4dmdheTd3RFBTYWlEQ3NraWZUQzY0THVxMF9nNkV2OVRHcTRsUjNQMlVOSlRRazZnTmF2WXZESW9PbzRyanhENGNpR3BnWFRFNk1aY1MzeVJyamNOMEhaOVc3bV9HV0JkSQ?oc=5",
+   "source": "이데일리",
+   "time": "11/12 01:34",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "[현승윤 칼럼] 한은, 기준금리 인상에 신중할 때",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUjZicVVEVm9ubmgxV1NCeTg1OGdjaUtoSDd1cC1sNU1ZZXBFNHdOcjkzV3NwdV9EU21WcW5id25ZdnZoZ1UtcVBGeDRWUWtIRXB4LThNSUtIZw?oc=5",
    "source": "한국경제",
@@ -60,14 +76,6 @@
    "source": "연합뉴스",
    "time": "11/11 15:46",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "연준 '과잉 긴축' 내년 美증시 복병 되나…르네상스 분석가 \"큰 위험\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fc0Eya2VvYnpSZEtfOXhpQVRMR1FLTUQ4d2dDX3pMbHAzNEJ3TUlhYjRudUhCeWdWY09JNWlnZ2t2SUVSQjBaX21CdzlIRm5OU04tMmZmODRJbTRfeVBqVNIBeEFVX3lxTE1Id3hZaXJ4aGNqTzFwd05lTEprYTJKR2c5YUhjRWFWWDU3aGJxLTd3N213M1JGZFhjWDQxRXpEWk1FbF9GbzRHaWJpZEM5Z084djU0ZmU4Zk1hQzlBN1RXdUlmOUJ6Yl9xc1doME83OUlCUVpFQmxZMQ?oc=5",
-   "source": "뉴시스",
-   "time": "11/11 14:07",
-   "dir": "up",
    "strength": 1
   },
   {
@@ -85,14 +93,6 @@
    "time": "11/11 10:03",
    "dir": "up",
    "strength": 2
-  },
-  {
-   "title": "\"월러 50bp 언급, 12월 연준 금리 인상 사실상 굳히기\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VMFdYUnU5WnVCLUVFMmpXZGpYTjdFb0RObTBfUi1WNU13dWpKSGZNZXdIZlFJeU5nY3VScTB5SUhJNHpFQUo4MW5pbm5tZTdUZm85eXFkaWJNZm11cE80WlBtMF9TcU1BYXdwaEZ5Wnc?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/11 09:54",
-   "dir": "up",
-   "strength": 1
   }
  ]
 }
