@@ -1,25 +1,65 @@
 {
- "updated": "2026-11-11 20:31",
+ "updated": "2026-11-12 11:45",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
+   "title": "'금리 인상 우려' 달러·원 환율 상승 출발…1336.6원 개장",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53bUhFZmRMVGxfMVVNRW5XMS1TbmtZSkkydzJYb183ZktwS0J2TWloenlKLWlrak5QS0VVVzFFeThhODJ5RlVZVVl2OUVQZ053dEtWUk4zZkV6ZHc?oc=5",
+   "source": "뉴스1",
+   "time": "11/12 09:59",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "달러 가치 19개월 만에 최고...연준의 공격적 금리 인상 전망 커졌다",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42QzhYUndwX0ZZRHo5bTc1RThhWmUtbURBMDZmWklPVEI1b3BvU1k3SzA4SmNUVGhwbGVfRFktcXFxaWtuWHhzNlVRdEFsY1BFb0I2VUJlM2N2Zw?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "11/12 09:08",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준 긴축 경계 속 AI주가 반등…환율 1340원대 재진입 시도[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclZrMGdBZGNvVVprOXdHWmtteDVpb01oLTJqTzA4U2NPamRnS1IyOG1KZkJ4OFJfR3l1bmU5LVRoc1pjejkxc1M5UXVZblA5QTlLYms4ZnJ2MDczc0JoODVSMlhXWC1vQ1VLU0RlLVFLZUNMM2hoSllUNkJQdWlQUQ?oc=5",
+   "source": "이데일리",
+   "time": "11/12 08:11",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美연준, '빅스텝'이냐 '연속 인상'이냐…긴축 속도 논쟁 가열",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0waU1FdTFJckN4b0NLRjYwY3hHSnlCUFBFd0poRWVnNU5BaWtqX25xS2p3S2ZyVElyUTQ3Sk1Zc242UVZkQjR5QkJ1a2d6Z2gwWVlvN0lYeXR1Nm_SAWBBVV95cUxPS1E4XzY5d0d1dm9SMXp2enpsVEJZQmRxNGZ1NWlOSHIwWWdYNHJSbGMzakJBNFVpcHQzZTNpX2I5aDFmNG5oS3hSS3N2ZUFlMm5GSURYbmpfSTJnUnZGd1A?oc=5",
+   "source": "연합뉴스",
+   "time": "11/12 02:53",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "[현승윤 칼럼] 한은, 기준금리 인상에 신중할 때",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUjZicVVEVm9ubmgxV1NCeTg1OGdjaUtoSDd1cC1sNU1ZZXBFNHdOcjkzV3NwdV9EU21WcW5id25ZdnZoZ1UtcVBGeDRWUWtIRXB4LThNSUtIZw?oc=5",
    "source": "한국경제",
    "time": "11/11 17:35",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "\"경상수지 흑자 지속·美재정건전성 지속시 원달러 환율 현수준 가능성\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5STXVHNnk4VDZVVnFheDhYbjhFTy1KMGQwU3BCa1NoSTNmTnJaX2hEVTduVEJpOVk5Q21lY3hyVmVnOXRIRF93bHgzMGVhRTBYVUdYYVpEN1hCQWPSAWBBVV95cUxNSFpmcW1zXzNjV0JQX0phb0F5RDFUeFNKdmdMTTNUMVdTWnN0S0hGd09UbDZDQzVQbEZxVWFhU0RsZS1Yajk1RE1LMVE2NTc0bjdtMllpTG00OUJ6UlZZU2M?oc=5",
+   "source": "연합뉴스",
+   "time": "11/11 15:46",
+   "dir": "down",
    "strength": 1
   },
   {
@@ -52,46 +92,6 @@
    "source": "연합인포맥스",
    "time": "11/11 09:54",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"DB하이텍, 환율 하락에 실적 기대 밑돌 듯…목표가↓\"-KB",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmWC1Ed0RnMWNNN0tmZG9NbVo3WTJ3bjB3dmJQS01WNmtkeUZHdlVPc1BoRFoxSExjTDBoaVg3cGJ2S0hJcWpCOXZYaFRuOERveDZqYXdLVE1BUQ?oc=5",
-   "source": "한국경제",
-   "time": "11/11 07:49",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "연준 보먼 “AI 수익 기대 못 미치면 주가 급락”…12월 금리 인상도 시사｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5WHdOcjhicFAzS181MVh5eks3enNKS285U0dZMkRvZk9tS1p3dHdRT2JQdDFTdVpaTHp3WVU1XzJKdkFheUc4Yl9WRFhrcGRiZ0RQV2ZRYjhzQTQ?oc=5",
-   "source": "중앙일보",
-   "time": "11/11 06:03",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율 하락에 ‘달러 보험’ 인기…연 6%대 확정이율 상품도",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ybVVVcTJkQ1dISEVXTEN6b2xlcF9BWEhIVFgxcEFJUEZkZjFQb3k1WElseFlVV2NpaVR4UVU1a3J4TEt6ZTZaN2lrdjlGdXJLekHSAVNBVV95cUxPSUZkN1RiaEpIVDhuR19tMzdDM1JDbWwzUERWeGVnQ3JYU3ZfLVV3T0Qtb2RqQm9QN2wwR0VYVmR6TUt5ci1PcUdZZ19sbF9SbGRLZw?oc=5",
-   "source": "서울경제",
-   "time": "11/11 05:30",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[단독] 6개월 예금·대출에 '기준금리 인상' 선반영…1년짜리보다 높아져",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9scE40YVY2d0lkYnplSm5Pa0NhNjFkb2VLaDZuZ0Q4bTAwd0xxX2poNW85QkZrSjVkeXJESHhVSG9waGdVamVJcGZlQ1hCNm1HTVVHUTk0RXcyZw?oc=5",
-   "source": "한국경제",
-   "time": "11/10 18:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율, 美·이란 협상기대 위험선호↑…9.6원 하락한 1,337.5원",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVejJ4VDBHbWdLYVJ0d2hhMzZRRnNyRGdUVjI2aHI2Y2k0cWk1Zkh2VmtwRFlzY1ZVeVNma0RqZWQ1c3lXc1FRb0ZnMDJ3dVNvTXJMTU5YWVlSWnfSAWBBVV95cUxNbTFGbmI2R24yWVMtM0U2U0IxSzhhS3phZ0lyT01NLXVyUHpIYXZtakhjdFRHeE5TeWw0Z3ZDWUNxYjh5VE9kenAxODdYZm84N24zbFBRcWZiUk5pa3dSWDc?oc=5",
-   "source": "연합뉴스",
-   "time": "11/10 16:29",
-   "dir": "down",
    "strength": 1
   }
  ]
