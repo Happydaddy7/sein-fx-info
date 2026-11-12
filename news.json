@@ -1,19 +1,35 @@
 {
- "updated": "2026-11-12 13:44",
+ "updated": "2026-11-12 23:10",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "환율, 수출기업 달러 매도·외인 순매수에 장중 1320원대",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wYXJidlZlYThKNV9Pd1d6MmJMV3hUdWlYSkdnVzlLbWtDMDBMMkFQWTFYSmNlcVlmTWJnem5LVlF5RnZwU1Y3SHEzcmpTNjRNMGYw0gFYQVVfeXFMT2FtN1pib0RSWTZkNzA3bjN6djIzekNLcFVKVXJ3Q1IzS19QWEk2MUZCMVdoTE5zUzRNbWVtbEFYcXMzMkd2ekRGVVdfeXV0bGF2YnJFaVBFSw?oc=5",
+   "source": "SBS Biz",
+   "time": "11/12 16:28",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "“AI거품 극적 붕괴 가능성 … 美 연준 2~3차례 금리 인상”",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jc3lRdThCNDB4R0pVV0Y2YlZKd3UtcjVYQmhZLUVmODRWZ01RTzFINUtxaUdiUGl4SXJDT3o2bVByb0U1QzM0aE9WRHpsSUVESFE?oc=5",
+   "source": "매일경제",
+   "time": "11/12 16:17",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "수출업체 달러 매도에 환율 하락세…'강달러·AI 우려' 낙폭은 제한",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55X1h6VUpEV2cxT3p4WGVtaW0tUmhLWXhMQzFxRkxPSFdNbHN6VFdWUjlvb3VzOW5CTklKZ0hWOF9ncmVxaGt3TllEVXJ1Q3Z4MEpmaGZBNTV2QQ?oc=5",
@@ -21,6 +37,14 @@
    "time": "11/12 12:00",
    "dir": "down",
    "strength": 2
+  },
+  {
+   "title": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/12 11:25",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "'금리 인상 우려' 달러·원 환율 상승 출발…1336.6원 개장",
@@ -35,14 +59,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42QzhYUndwX0ZZRHo5bTc1RThhWmUtbURBMDZmWklPVEI1b3BvU1k3SzA4SmNUVGhwbGVfRFktcXFxaWtuWHhzNlVRdEFsY1BFb0I2VUJlM2N2Zw?oc=5",
    "source": "파이낸셜뉴스",
    "time": "11/12 09:08",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준 긴축 경계 속 AI주가 반등…환율 1340원대 재진입 시도[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclZrMGdBZGNvVVprOXdHWmtteDVpb01oLTJqTzA4U2NPamRnS1IyOG1KZkJ4OFJfR3l1bmU5LVRoc1pjejkxc1M5UXVZblA5QTlLYms4ZnJ2MDczc0JoODVSMlhXWC1vQ1VLU0RlLVFLZUNMM2hoSllUNkJQdWlQUQ?oc=5",
-   "source": "이데일리",
-   "time": "11/12 08:11",
    "dir": "up",
    "strength": 1
   },
@@ -68,22 +84,6 @@
    "source": "한국경제",
    "time": "11/11 17:35",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"경상수지 흑자 지속·美재정건전성 지속시 원달러 환율 현수준 가능성\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5STXVHNnk4VDZVVnFheDhYbjhFTy1KMGQwU3BCa1NoSTNmTnJaX2hEVTduVEJpOVk5Q21lY3hyVmVnOXRIRF93bHgzMGVhRTBYVUdYYVpEN1hCQWPSAWBBVV95cUxNSFpmcW1zXzNjV0JQX0phb0F5RDFUeFNKdmdMTTNUMVdTWnN0S0hGd09UbDZDQzVQbEZxVWFhU0RsZS1Yajk1RE1LMVE2NTc0bjdtMllpTG00OUJ6UlZZU2M?oc=5",
-   "source": "연합뉴스",
-   "time": "11/11 15:46",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "환율 때문인가 경쟁력인가…中 ‘1조달러’ 무역흑자에 긴장 예고",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTkRjQ3lpYXFaakpoc09hX2pONkhmaWRHcGVzV0NiX1c1TmdfWjIxRlNzOHNNNVV6WmV6OEFKZUlhRVRNX21XWHF5ZlgwTlF0NHI3Ri0zaDZJV1NJR1hpQkR1eG5ENE45ZDJnOGpEWnJiUFNFQ0MyVlZzNDBoU2hBLQ?oc=5",
-   "source": "이데일리",
-   "time": "11/11 11:22",
-   "dir": "down",
    "strength": 1
   },
   {
