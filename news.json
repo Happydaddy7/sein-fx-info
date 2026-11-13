@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13 12:56",
+ "updated": "2026-11-13 20:46",
  "summary": {
   "up": 9,
   "down": 1,
@@ -14,6 +14,22 @@
   ]
  },
  "items": [
+  {
+   "title": "달러-원 환율 5거래일 만에 상승…유가 급등·달러 강세",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RZm40cGZ2U1owU093TndrX2h0MHdiVmhMbE92RHA2QzRkQVMwMjRCQ1VEQkVuQ2hhcHRTamV6QmEzcFRybTJEd0xfN0xXYzR3bVo40gFYQVVfeXFMUHNRQjFmeUVVMmM3VmFfZVZXUHRaSW02cnlWUkdxVG9tRmdGQjRkT2pKU3gwSnlvandxaG5tbnJTV182UWU0YjY5OUxXZVUtZFdEOWlZZzNBRQ?oc=5",
+   "source": "SBS Biz",
+   "time": "11/13 17:27",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "코스피 하락, 원달러 환율 상승",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03MG1wWG02UURPT0ZVbkhhTjlCLVlaWUt1UHh5WmVabzlWUndkdzZUSmJDeFdzSkVuMzhya3Q3QTNBVGFQVkdVOWkzUQ?oc=5",
+   "source": "뉴스1",
+   "time": "11/13 16:04",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "日재무상 \"일방적·급격한 움직임 우려\"…엔화 약세에 구두 개입",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11RXR3YWF0YkJLM1hpLU96NEoxVzB4NlM0TmJ1a2QyUDZsM0M4cURIcmNkakFaSm1tcXBGUlZiWm5IX3FVMXowR3czUU1GR2o4YTNKcWhJRHUxQkk3ZGxhTdIBeEFVX3lxTE5YN0N3bUd4a09OUFc0U0hhMGhsTFVMckk2bkNmU2NCM2FQRlo3ejJVUXR3bUNaSE9kcE9nZ1pYUGpTMXNObk82b2ZCRncyUURCZmhkeEV6QVNTX1RYYVRucFNzdWlPTWlWZWlUejRxS2lJUFpXTmFhMA?oc=5",
@@ -55,14 +71,6 @@
    "strength": 1
   },
   {
-   "title": "美 긴축 우려에도 환율 2.9원↓…1330.7원 마감(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xZE1TVUZ6dFRiVjc2WlB1SWpoRnY3cnI2aHpRbWd1SVVPVXZHUTBZenpsU1djVzVUbjZ6eENLZlJ1V04ybEJKX1YwdkQ1c3Yzbm5mS1ZXd0xPdVk?oc=5",
-   "source": "뉴스1",
-   "time": "11/12 16:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "“AI거품 극적 붕괴 가능성 … 美 연준 2~3차례 금리 인상”",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jc3lRdThCNDB4R0pVV0Y2YlZKd3UtcjVYQmhZLUVmODRWZ01RTzFINUtxaUdiUGl4SXJDT3o2bVByb0U1QzM0aE9WRHpsSUVESFE?oc=5",
    "source": "매일경제",
@@ -75,14 +83,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
    "source": "연합인포맥스",
    "time": "11/12 11:25",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美연준, '빅스텝'이냐 '연속 인상'이냐…긴축 속도 논쟁 가열",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0waU1FdTFJckN4b0NLRjYwY3hHSnlCUFBFd0poRWVnNU5BaWtqX25xS2p3S2ZyVElyUTQ3Sk1Zc242UVZkQjR5QkJ1a2d6Z2gwWVlvN0lYeXR1Nm_SAWBBVV95cUxPS1E4XzY5d0d1dm9SMXp2enpsVEJZQmRxNGZ1NWlOSHIwWWdYNHJSbGMzakJBNFVpcHQzZTNpX2I5aDFmNG5oS3hSS3N2ZUFlMm5GSURYbmpfSTJnUnZGd1A?oc=5",
-   "source": "연합뉴스",
-   "time": "11/12 02:53",
    "dir": "up",
    "strength": 1
   },
