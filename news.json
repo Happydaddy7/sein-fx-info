@@ -1,25 +1,49 @@
 {
- "updated": "2026-11-12 23:10",
+ "updated": "2026-11-13 11:28",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 9,
+  "down": 1,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "환율, 수출기업 달러 매도·외인 순매수에 장중 1320원대",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wYXJidlZlYThKNV9Pd1d6MmJMV3hUdWlYSkdnVzlLbWtDMDBMMkFQWTFYSmNlcVlmTWJnem5LVlF5RnZwU1Y3SHEzcmpTNjRNMGYw0gFYQVVfeXFMT2FtN1pib0RSWTZkNzA3bjN6djIzekNLcFVKVXJ3Q1IzS19QWEk2MUZCMVdoTE5zUzRNbWVtbEFYcXMzMkd2ekRGVVdfeXV0bGF2YnJFaVBFSw?oc=5",
-   "source": "SBS Biz",
-   "time": "11/12 16:28",
+   "title": "원화 강세에 수입물가 한 달 만에 하락…반도체 호황에 수출물가는 반등",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82TzVzM2F6QWZUSmxOSHZwMk43VFl5OHdsalBWY3dtRlpmbXBBWWNVVGttQXRUWThJQjZQc3ZyYWcyUTZPVjJ0VmRUdnJ3bEZVNkdVRzBVMVZqeG1McDNWUGJiWVBaZlp2Z1oyRE9n0gFzQVVfeXFMTnA1RWEwS1BOTzBROG1ZNU1zUVA0VlBoLTB3ZDVCdFFqQWVlQmZHT2FXY21DRnFZaUZ4c2tEbWJPdlo0VHNyZkh1QkZRRlpPYVFuZ0NLdXVHSTFOZmVSbUViVlBLbU13dE1qN1p5Ynk0RDZGQQ?oc=5",
+   "source": "한국일보",
+   "time": "11/13 10:54",
    "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "\"전투 경험 풍부한 연준, 매파가 주도권 잡고 금리 3번 올릴 것\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkTTlqWWw1Z1VKeHJwYWVIRlBMQzgtRk1sYW1lYm4xdWp6MG1CVFJyRUNXQW96eHBwWk1wRHdQSEpOVGZtYjA5aEZoM3N0ZUhueFBHQzE0N1JCWlo1czMya1VzNnBHMlVidl8ydzFMT0vSAXRBVV95cUxNSDBUOVg0N1JnUGw0eHp6R2FfUWlWeVhFNEVkeWxNWDF5dTJKeDZfUm1FX1FPLTU1Q0hDdFB3Z0VpdjJDNUZuY2ZLbkphSHlwWVBJQ0NKM0VSTVBTWUF5QWVJM2hJUmxYSTkteHl3aGtmakl2UA?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/13 09:17",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美연준 인사들 “추가 긴축 필요”…해맥은 점진 인상, 데일리는 속도 조절",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLTZNUnBoOVBvUFpFVU10dmNuYzJNalZVSEpuUm5paWNxVzlLX3NaMXBtQy1mQ25EaWhRQkdLcUF0T1BpeWJzenFnWkg5VE1YTEtQaXZFVWN3V1dESTdwNkhIVDAxWEJNM2U5ejkyaWdhaERHVmdyVk5ZaFRsbkdJdg?oc=5",
+   "source": "이데일리",
+   "time": "11/13 07:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "미 달러화 약보합…'매파' 연준 기대 vs 젠슨 황發 기술주 약세",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lcEIwdzdRUVk2cWEwaVdtS1JNUFJiM1g0UHhaS3VwTGJsQXBscnZmUV9Wc3o3dEpCVWZTN3QtZFQ0X3Bvd094ZzQ3MXVseXR6LUMwOTZ5TzBWYmtNa3I3ZEFXYmdDZnh4VDBlWU0yS2c?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/12 23:59",
+   "dir": "up",
    "strength": 1
   },
   {
@@ -29,14 +53,6 @@
    "time": "11/12 16:17",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "수출업체 달러 매도에 환율 하락세…'강달러·AI 우려' 낙폭은 제한",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55X1h6VUpEV2cxT3p4WGVtaW0tUmhLWXhMQzFxRkxPSFdNbHN6VFdWUjlvb3VzOW5CTklKZ0hWOF9ncmVxaGt3TllEVXJ1Q3Z4MEpmaGZBNTV2QQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "11/12 12:00",
-   "dir": "down",
-   "strength": 2
   },
   {
    "title": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
@@ -55,26 +71,10 @@
    "strength": 2
   },
   {
-   "title": "달러 가치 19개월 만에 최고...연준의 공격적 금리 인상 전망 커졌다",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42QzhYUndwX0ZZRHo5bTc1RThhWmUtbURBMDZmWklPVEI1b3BvU1k3SzA4SmNUVGhwbGVfRFktcXFxaWtuWHhzNlVRdEFsY1BFb0I2VUJlM2N2Zw?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "11/12 09:08",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "美연준, '빅스텝'이냐 '연속 인상'이냐…긴축 속도 논쟁 가열",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0waU1FdTFJckN4b0NLRjYwY3hHSnlCUFBFd0poRWVnNU5BaWtqX25xS2p3S2ZyVElyUTQ3Sk1Zc242UVZkQjR5QkJ1a2d6Z2gwWVlvN0lYeXR1Nm_SAWBBVV95cUxPS1E4XzY5d0d1dm9SMXp2enpsVEJZQmRxNGZ1NWlOSHIwWWdYNHJSbGMzakJBNFVpcHQzZTNpX2I5aDFmNG5oS3hSS3N2ZUFlMm5GSURYbmpfSTJnUnZGd1A?oc=5",
    "source": "연합뉴스",
    "time": "11/12 02:53",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[마켓톡스]골드만삭스, 연준 12월 금리 인상 후 3월 추가 인상 가능성",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS013Q3Y1ZzNHdS1GTkg5N2VQLWFjTUk4dmdheTd3RFBTYWlEQ3NraWZUQzY0THVxMF9nNkV2OVRHcTRsUjNQMlVOSlRRazZnTmF2WXZESW9PbzRyanhENGNpR3BnWFRFNk1aY1MzeVJyamNOMEhaOVc3bV9HV0JkSQ?oc=5",
-   "source": "이데일리",
-   "time": "11/12 01:34",
    "dir": "up",
    "strength": 1
   },
