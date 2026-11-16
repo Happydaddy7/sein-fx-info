@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13 20:46",
+ "updated": "2026-11-16 10:40",
  "summary": {
   "up": 9,
   "down": 1,
@@ -15,10 +15,66 @@
  },
  "items": [
   {
-   "title": "달러-원 환율 5거래일 만에 상승…유가 급등·달러 강세",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RZm40cGZ2U1owU093TndrX2h0MHdiVmhMbE92RHA2QzRkQVMwMjRCQ1VEQkVuQ2hhcHRTamV6QmEzcFRybTJEd0xfN0xXYzR3bVo40gFYQVVfeXFMUHNRQjFmeUVVMmM3VmFfZVZXUHRaSW02cnlWUkdxVG9tRmdGQjRkT2pKU3gwSnlvandxaG5tbnJTV182UWU0YjY5OUxXZVUtZFdEOWlZZzNBRQ?oc=5",
-   "source": "SBS Biz",
-   "time": "11/13 17:27",
+   "title": "美재무 \"유가 하락하는데 과도한 금리 인상 안 돼\"…연준에 신중론",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHTHMxMzVLSXMxUzVQRkgxQTBPbEhycDJyLUF6N2NXbjRhY0VYa19vM0xDcjJTcncyTTZyUlRyUDZic1dKSl9EYlRlNi1aYXVQd1NWZlM2VGpZZUdfSTctNtIBeEFVX3lxTFBweFcwdllySU8wWk9NN04yZnYwV1F6OWhrNGFESzY5N2R1c0FxdGVreVFxWG1ocEtGMU9LZl92WGpQR1Y3N0pzOV9WU3BSOUVqczh1SUwwQ0JGZXNpUVlUVk9HeVJUY21aMkJxYk92MU9wTmdDWWkwTA?oc=5",
+   "source": "뉴시스",
+   "time": "11/16 10:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "달러·원 환율, 장 초반 1334원…美 긴축 경계 속 소폭 하락",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHRWYyNi12YVZzU2RJc1hLT1hGZDZ0eFJEVVBDUno0UmVSdWZreHUwTGpSRktCUFZvR25ULW9zRzl0bjhmc2huRE1Lei1hTGhRemg0T0RDY3hWUTA?oc=5",
+   "source": "뉴스1",
+   "time": "11/16 09:35",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 반도체주 급락에 환율 상승 경계…외국인 수급 변수[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk85TGkwc3NKdnlOVlh0ZDV1TFFtU2ZZSWF6R1VRUUNyczJfSzdLN3hraEo5ODJpY3VfQ0JuT1AxSVpDS1NOUW0wS2RzYWwtRk5kNW9vWGh3RjZDZTVWOHFZdHFkNE16b2JvZjdvaVUwdnVLYW1UWllIaV9iTlJpbQ?oc=5",
+   "source": "이데일리",
+   "time": "11/16 08:08",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율·채권, 美 긴축 경계…환율 1330원대 줄다리기",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnLWtvWTg2djNMYmFyclZOci11ZnM2blU0RnV5UFlfb3dORkNYTDBNTEYwREtKNm5WSF9BS2xDU0Z2ZTBRdjhDRjcwSXJlVVY5VXRZSWxnR2RTQQ?oc=5",
+   "source": "한국경제",
+   "time": "11/16 07:44",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "\"내년 환율, 달러당 1320원…원화 강세 전환\"[주末머니]",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QZktnNEV0d2ZQekhoZFhwcHljRWFfcEpUS3NEUG1IeVhnaXUzOXVyVVdlWTR1eVZYVC1YNmtnOHRWOWtrdWQ1ekxONHk0RDdoOFJyUFBTVm9pUmNEaHFTMUJn?oc=5",
+   "source": "아시아경제",
+   "time": "11/15 14:15",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "국제유가 상승에 달러 강세…달러인덱스 19개월 만에 최고",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qYUZzRFlzdHNfSkI4MlduanF0ajlTdlo4QWIxNFdYc0ZJMnNvWU9QX01tR1FhNk1vY0R6SzliUzdGcVVqYkJvMTM2Q1Y1UlhkRnfSAVNBVV95cUxNV2hvSDMzeWNRNy1LalFRNXZrWUdJMmRZRXpqN1o4SDluMkJZU05ENGlpYVNEN2hrc0NmY1lLV3FSNm9lVmp4cUgtaWxRZ1Z5YjJDbw?oc=5",
+   "source": "서울경제",
+   "time": "11/14 10:47",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "BofA \"연준, 다음 달부터 3회 연속 금리 인상\"…1월 전망 추가",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUGQ3T1lmeDBuT3dOUklaQ0hOUEFxS1dTcUpmMXFFci1EX05QNjlIaUgzQ1ZkNFZpNFN6ZlVVU2ZfMzRYRE1yajc3SElEd1FyNE40anQtbE1vek1LMGNGRTZtQ2xzbG11QUxkdUw4dG0?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/14 01:41",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美재무 \"과도한 금리 인상은 잡음 큰 수치에 대응하는 것…연준 오픈마인드 가져야\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHU2YyVnBtalIwOGVIakdrTVF6VWR6eHJ5YWFxQWY3T2Zldy1MZG1sZzNmV1BvUGxUQ1RxOVFnVXNMOS1mSkh3NEY4QzV1cGU3RjByRkphaVFaTG5oN1FWWENLTlBsd3NUVmlxcUN4RXA?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/14 01:09",
    "dir": "up",
    "strength": 1
   },
@@ -37,62 +93,6 @@
    "time": "11/13 12:14",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "원화 강세에 수입물가 한 달 만에 하락…반도체 호황에 수출물가는 반등",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82TzVzM2F6QWZUSmxOSHZwMk43VFl5OHdsalBWY3dtRlpmbXBBWWNVVGttQXRUWThJQjZQc3ZyYWcyUTZPVjJ0VmRUdnJ3bEZVNkdVRzBVMVZqeG1McDNWUGJiWVBaZlp2Z1oyRE9n0gFzQVVfeXFMTnA1RWEwS1BOTzBROG1ZNU1zUVA0VlBoLTB3ZDVCdFFqQWVlQmZHT2FXY21DRnFZaUZ4c2tEbWJPdlo0VHNyZkh1QkZRRlpPYVFuZ0NLdXVHSTFOZmVSbUViVlBLbU13dE1qN1p5Ynk0RDZGQQ?oc=5",
-   "source": "한국일보",
-   "time": "11/13 10:54",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "\"전투 경험 풍부한 연준, 매파가 주도권 잡고 금리 3번 올릴 것\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkTTlqWWw1Z1VKeHJwYWVIRlBMQzgtRk1sYW1lYm4xdWp6MG1CVFJyRUNXQW96eHBwWk1wRHdQSEpOVGZtYjA5aEZoM3N0ZUhueFBHQzE0N1JCWlo1czMya1VzNnBHMlVidl8ydzFMT0vSAXRBVV95cUxNSDBUOVg0N1JnUGw0eHp6R2FfUWlWeVhFNEVkeWxNWDF5dTJKeDZfUm1FX1FPLTU1Q0hDdFB3Z0VpdjJDNUZuY2ZLbkphSHlwWVBJQ0NKM0VSTVBTWUF5QWVJM2hJUmxYSTkteHl3aGtmakl2UA?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/13 09:17",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美연준 인사들 “추가 긴축 필요”…해맥은 점진 인상, 데일리는 속도 조절",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLTZNUnBoOVBvUFpFVU10dmNuYzJNalZVSEpuUm5paWNxVzlLX3NaMXBtQy1mQ25EaWhRQkdLcUF0T1BpeWJzenFnWkg5VE1YTEtQaXZFVWN3V1dESTdwNkhIVDAxWEJNM2U5ejkyaWdhaERHVmdyVk5ZaFRsbkdJdg?oc=5",
-   "source": "이데일리",
-   "time": "11/13 07:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미 달러화 약보합…'매파' 연준 기대 vs 젠슨 황發 기술주 약세",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lcEIwdzdRUVk2cWEwaVdtS1JNUFJiM1g0UHhaS3VwTGJsQXBscnZmUV9Wc3o3dEpCVWZTN3QtZFQ0X3Bvd094ZzQ3MXVseXR6LUMwOTZ5TzBWYmtNa3I3ZEFXYmdDZnh4VDBlWU0yS2c?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/12 23:59",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "“AI거품 극적 붕괴 가능성 … 美 연준 2~3차례 금리 인상”",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jc3lRdThCNDB4R0pVV0Y2YlZKd3UtcjVYQmhZLUVmODRWZ01RTzFINUtxaUdiUGl4SXJDT3o2bVByb0U1QzM0aE9WRHpsSUVESFE?oc=5",
-   "source": "매일경제",
-   "time": "11/12 16:17",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zcFRGSGZzTWRNNHZtYVlZeTI0VVlCUnJVcW1CZWhwWW96RlBEbk1nYmtwaWlaeEtjaWg1UHZZX05RTGFDd2xycUhBUXZCX0s4RVEySXp6QjdQQURVZUF5R2V3X0hOSXg0enVXZWZsVmw?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/12 11:25",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"美 CPI 상승세 지속시 연준 긴축 더 공격적…내년 금리 인상 사이클 전망\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYTllWEQ5d1UwMXVrVjlvaHg2aDhzd3BzM0hSLUtpRm41SGd2RGhMNnZyZVZCUGpTNUkyb2FfVVdwcU1vMkplU0VWalR3WnN1Z1BvaUZiZWFCYWtvU2Q1N0V1ZnJobURiVWNLRXR3NmM?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/11 10:03",
-   "dir": "up",
-   "strength": 2
   }
  ]
 }
