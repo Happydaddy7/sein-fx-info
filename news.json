@@ -1,24 +1,48 @@
 {
- "updated": "2026-11-16 10:40",
+ "updated": "2026-11-16 21:11",
  "summary": {
-  "up": 9,
-  "down": 1,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 9 vs 하락 1).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "美재무 \"유가 하락하는데 과도한 금리 인상 안 돼\"…연준에 신중론",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHTHMxMzVLSXMxUzVQRkgxQTBPbEhycDJyLUF6N2NXbjRhY0VYa19vM0xDcjJTcncyTTZyUlRyUDZic1dKSl9EYlRlNi1aYXVQd1NWZlM2VGpZZUdfSTctNtIBeEFVX3lxTFBweFcwdllySU8wWk9NN04yZnYwV1F6OWhrNGFESzY5N2R1c0FxdGVreVFxWG1ocEtGMU9LZl92WGpQR1Y3N0pzOV9WU3BSOUVqczh1SUwwQ0JGZXNpUVlUVk9HeVJUY21aMkJxYk92MU9wTmdDWWkwTA?oc=5",
+   "title": "[마켓톡스]골드만삭스, 2027년 금값 전망 하향…“연준 추가 금리 인상 부담”",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3FvRFRpa2VfUjVlYmMxeFl4UjR2Z1FTZFRkLTVKQ3MwZmVnOUNmNWgyOU1FcDJMU19vRkVZTklMRUwxQ0swUGV4VTJZLTZtQjRPWDczc1BhLVpyNzZPR29qTzlROS1vZEFyR2RoWVFxcV9VN2dKN0VDTzEwS3N6VA?oc=5",
+   "source": "이데일리",
+   "time": "11/16 21:01",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[올댓차이나] 인민은행, 위안화 강세 억제차 외화 지준율 4%→6%로 올려",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aSTVLQ2NFbU5uZnlLbDJUY0dfOFIwSlNjeWhBNHQtUTFBUVE5VTRQUFl5X2wtSFZ6eHNnNTBSSkZWTERrSEIxa0tSR1czTF9TNThOSVE4X2l1OS02Y3pZSNIBeEFVX3lxTE9ra0RaeWkwTFRtcGEwMmdOeEtfc29VYmhfTHVDNnc4dGl1SGU0RHZhQWltX185Zm5pWVI5M0pUTDRFdjBGUi01eUJDR0xqRnhzb2pwQXpIU1habThuYU9EamVGdW1vNjFVUjk5bzVmRUdiQnQxcUdZTQ?oc=5",
    "source": "뉴시스",
-   "time": "11/16 10:31",
+   "time": "11/16 17:45",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "\"비행기 띄워 번 돈의 6배\"…3Q 환율 하락에 대한항공·아시아나 빚 1.5조 줄어",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IcS1fRUIyU2c4S0ppUFl2bFBKRWNZQUFhcFgyVGNWWU9POC15d1hicTVycEJkeDVpSnVzME1ZZW41Tkw1T2RMYkRQVVA3bU10LWF6QVRGVVNpOXBEbW1sWtIBeEFVX3lxTFBYbFJsRnUyRy0xOXk2U3BmcHVVaFB1VnFPZm5uRmsxWnVNcVNRTDFMM2pOMzJjaVNUVGpBc2JOZkNfb0hBWHh2bjRaSjV5VUtTRGZXVl9WQzd2SHktMmM3TnJvTUdOTTBHTWQ5akFfQUtUTjBBLTdwSg?oc=5",
+   "source": "뉴시스",
+   "time": "11/16 11:29",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "美재무 “유가 하락하는데 과도한 금리 인상 안 돼”…연준에 신중론",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00RHlxOV9ZaWlWdTRkb2l0Z2lQWmY3cFdHYkNlX2p2YzlvV1FSMlo4S0RHeUQ1OFBvNmI2RnpBNWhxeFc0VDNEci1HSnVIWDNoRVlQaTVpc3ppUVFfOWpROFFzaV9qSDQyRGRCWFNJaDNjaUnSAWZBVV95cUxNUHM0NWs0b0JRS2IzQUtOYll5V1FCcWFmdXpWdHh1QVQyQTZQRGVYTzlZYldra1V0VHMyREdSb04wMFF4REM1cXg5cE1IS3I3dnBRNVlNblVPa0l6R2ppY3FnOEdkLUE?oc=5",
+   "source": "동아일보",
+   "time": "11/16 10:40",
    "dir": "up",
    "strength": 1
   },
@@ -42,7 +66,7 @@
    "title": "환율·채권, 美 긴축 경계…환율 1330원대 줄다리기",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnLWtvWTg2djNMYmFyclZOci11ZnM2blU0RnV5UFlfb3dORkNYTDBNTEYwREtKNm5WSF9BS2xDU0Z2ZTBRdjhDRjcwSXJlVVY5VXRZSWxnR2RTQQ?oc=5",
    "source": "한국경제",
-   "time": "11/16 07:44",
+   "time": "11/15 17:29",
    "dir": "up",
    "strength": 1
   },
@@ -55,10 +79,10 @@
    "strength": 1
   },
   {
-   "title": "국제유가 상승에 달러 강세…달러인덱스 19개월 만에 최고",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qYUZzRFlzdHNfSkI4MlduanF0ajlTdlo4QWIxNFdYc0ZJMnNvWU9QX01tR1FhNk1vY0R6SzliUzdGcVVqYkJvMTM2Q1Y1UlhkRnfSAVNBVV95cUxNV2hvSDMzeWNRNy1LalFRNXZrWUdJMmRZRXpqN1o4SDluMkJZU05ENGlpYVNEN2hrc0NmY1lLV3FSNm9lVmp4cUgtaWxRZ1Z5YjJDbw?oc=5",
-   "source": "서울경제",
-   "time": "11/14 10:47",
+   "title": "연준 ‘12월 금리 인상’ 베팅에…달러 가치, 지난해 5월 이후 최고｜Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SRjB3NlVrS0d3WklvbU12ZF9xU2RBTWhyR1FjV3ZlUUhOUkk5TVg3ajR1R1B3TWVWc0tmdHQ3c1VPYVNxOTVQSGVneE0zY3Rrb0Z2RGFrNVF5SmM?oc=5",
+   "source": "중앙일보",
+   "time": "11/14 02:28",
    "dir": "up",
    "strength": 1
   },
@@ -67,30 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUGQ3T1lmeDBuT3dOUklaQ0hOUEFxS1dTcUpmMXFFci1EX05QNjlIaUgzQ1ZkNFZpNFN6ZlVVU2ZfMzRYRE1yajc3SElEd1FyNE40anQtbE1vek1LMGNGRTZtQ2xzbG11QUxkdUw4dG0?oc=5",
    "source": "연합인포맥스",
    "time": "11/14 01:41",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美재무 \"과도한 금리 인상은 잡음 큰 수치에 대응하는 것…연준 오픈마인드 가져야\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHU2YyVnBtalIwOGVIakdrTVF6VWR6eHJ5YWFxQWY3T2Zldy1MZG1sZzNmV1BvUGxUQ1RxOVFnVXNMOS1mSkh3NEY4QzV1cGU3RjByRkphaVFaTG5oN1FWWENLTlBsd3NUVmlxcUN4RXA?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/14 01:09",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "코스피 하락, 원달러 환율 상승",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03MG1wWG02UURPT0ZVbkhhTjlCLVlaWUt1UHh5WmVabzlWUndkdzZUSmJDeFdzSkVuMzhya3Q3QTNBVGFQVkdVOWkzUQ?oc=5",
-   "source": "뉴스1",
-   "time": "11/13 16:04",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "日재무상 \"일방적·급격한 움직임 우려\"…엔화 약세에 구두 개입",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11RXR3YWF0YkJLM1hpLU96NEoxVzB4NlM0TmJ1a2QyUDZsM0M4cURIcmNkakFaSm1tcXBGUlZiWm5IX3FVMXowR3czUU1GR2o4YTNKcWhJRHUxQkk3ZGxhTdIBeEFVX3lxTE5YN0N3bUd4a09OUFc0U0hhMGhsTFVMckk2bkNmU2NCM2FQRlo3ejJVUXR3bUNaSE9kcE9nZ1pYUGpTMXNObk82b2ZCRncyUURCZmhkeEV6QVNTX1RYYVRucFNzdWlPTWlWZWlUejRxS2lJUFpXTmFhMA?oc=5",
-   "source": "뉴시스",
-   "time": "11/13 12:14",
    "dir": "up",
    "strength": 1
   }
