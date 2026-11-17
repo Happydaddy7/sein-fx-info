@@ -1,26 +1,34 @@
 {
- "updated": "2026-11-17 14:34",
+ "updated": "2026-11-18 00:04",
  "summary": {
-  "up": 6,
+  "up": 7,
   "down": 3,
-  "neutral": 1
+  "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 3).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "[올댓차이나] 위안화 기준치 1달러=6.7132위안…0.013% 절상",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90UWhrUm84Wlczci04a3lYUmFrcWt4R1ZjOU92VWlUaTBrekJjS2x1VjN6ZzFydGxEZE5KQnhPakZFQlFlSG9zVWRkVE9KZXUtQlVFYlBtLWRCaE45aWExNtIBeEFVX3lxTFBwTmRReUpRdFRERTI1bGc4YXVQcV9rNWc4TFpZdkpMZ21tTERyWk1fRnJvaU14QWdDYWM0cHpTU0lISE95a1RDc3h2Wk8zVENKOWdERTM3MWE4ZkRzSGttRi01OEVrTjc1VHJtNGppd0RfT2dRamZBUg?oc=5",
+   "title": "코스피 5000선 붕괴, 원·달러 환율 상승 마감",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WNmlVbVprNTB0Nlh1T19IOGRnbjNjYUo0NjdWam15bVE2NnBETmpLZUxDRk1Ob0NOYmVXd1V3bEp6OVJUZ0gwY1BXbjQzQm14djNKa0ktcjFCU29mWjZ6dQ?oc=5",
    "source": "뉴시스",
-   "time": "11/17 10:57",
-   "dir": "neutral",
-   "strength": 0
+   "time": "11/17 16:09",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 긴축 우려에 환율 2.5원 오른 1338.2원 마감 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ZzZ4dkQ5SEdPRDdiOGRNR3p1aHJVMXNXZU5kSDJfRjJJUVRzU05ZYTdSVjNmMTBjdklHMkhuaW1xM1AtT3k1Vl9QN3RSeWJMeVHSAVNBVV95cUxOMjM5N3YwdGsya0Y5ZEVyM0RUYWV4X3l1U2lWUnY4ck9jWEJFMTZGNzNXTDk4Nk5KRjFzOWptZlJNWS1WU2Y1MHlCMU90NE1oNzNKZw?oc=5",
+   "source": "서울경제",
+   "time": "11/17 15:45",
+   "dir": "up",
+   "strength": 1
   },
   {
    "title": "엔화, 美 AI 관련주 약세에 달러 매도로 1달러=159엔대 중반 상승 출발",
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk85TGkwc3NKdnlOVlh0ZDV1TFFtU2ZZSWF6R1VRUUNyczJfSzdLN3hraEo5ODJpY3VfQ0JuT1AxSVpDS1NOUW0wS2RzYWwtRk5kNW9vWGh3RjZDZTVWOHFZdHFkNE16b2JvZjdvaVUwdnVLYW1UWllIaV9iTlJpbQ?oc=5",
    "source": "이데일리",
    "time": "11/16 08:08",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "환율·채권, 美 긴축 경계…환율 1330원대 줄다리기",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnLWtvWTg2djNMYmFyclZOci11ZnM2blU0RnV5UFlfb3dORkNYTDBNTEYwREtKNm5WSF9BS2xDU0Z2ZTBRdjhDRjcwSXJlVVY5VXRZSWxnR2RTQQ?oc=5",
-   "source": "한국경제",
-   "time": "11/15 17:29",
    "dir": "up",
    "strength": 1
   }
