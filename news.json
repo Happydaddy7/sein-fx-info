@@ -1,41 +1,65 @@
 {
- "updated": "2026-11-16 21:11",
+ "updated": "2026-11-17 13:22",
  "summary": {
-  "up": 7,
-  "down": 3,
-  "neutral": 0
+  "up": 6,
+  "down": 2,
+  "neutral": 2
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 6 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "[마켓톡스]골드만삭스, 2027년 금값 전망 하향…“연준 추가 금리 인상 부담”",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3FvRFRpa2VfUjVlYmMxeFl4UjR2Z1FTZFRkLTVKQ3MwZmVnOUNmNWgyOU1FcDJMU19vRkVZTklMRUwxQ0swUGV4VTJZLTZtQjRPWDczc1BhLVpyNzZPR29qTzlROS1vZEFyR2RoWVFxcV9VN2dKN0VDTzEwS3N6VA?oc=5",
+   "title": "엔화, 美 AI 관련주 약세에 달러 매도로 1달러=159엔대 중반 상승 출발",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LRlRyTHRpVENQWmVKN3VVZzNocnFzcWR4akpCellkbER5ZGlHaTh3ZFgweUd3TEpMamlhN29xem5pME43N0wwa2g4Tlp6c29ESzQyZWY2QzdZYkFxYzY1TNIBeEFVX3lxTE12WTNnbjBSX3dzTmVHdW5yc1FoeVJhTEVJX1NFSVRFajB3QnFvUzVRRHRremhublcxTUMzbDhRcm5lanNaelp4YWRkVjB2c25hQkFWOGlianJjdTlybXE0SG5La2t6Y1ZCQi1xRktpcVdzREdWN0tDTQ?oc=5",
+   "source": "뉴시스",
+   "time": "11/17 10:26",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "美 반도체주 5% 급락에 환율 상승 압력…수출 달러가 제동[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT25qSUNacVZCcHZuRXdXY2dnYW5ILUtEd2JUVTE2WGg5SUJPbTd5RUZLU3p6QmxiUWFTdkZfV3NKU1kxcmM4MGthS3VOTU1UWVhncW1STGg5NE1BakhqZjZ2eXo0bkRpTU8zajFDbmNhM2RlWnYwOE8tYnk5TXFSNA?oc=5",
    "source": "이데일리",
-   "time": "11/16 21:01",
+   "time": "11/17 08:09",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "[올댓차이나] 인민은행, 위안화 강세 억제차 외화 지준율 4%→6%로 올려",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aSTVLQ2NFbU5uZnlLbDJUY0dfOFIwSlNjeWhBNHQtUTFBUVE5VTRQUFl5X2wtSFZ6eHNnNTBSSkZWTERrSEIxa0tSR1czTF9TNThOSVE4X2l1OS02Y3pZSNIBeEFVX3lxTE9ra0RaeWkwTFRtcGEwMmdOeEtfc29VYmhfTHVDNnc4dGl1SGU0RHZhQWltX185Zm5pWVI5M0pUTDRFdjBGUi01eUJDR0xqRnhzb2pwQXpIU1habThuYU9EamVGdW1vNjFVUjk5bzVmRUdiQnQxcUdZTQ?oc=5",
-   "source": "뉴시스",
-   "time": "11/16 17:45",
+   "title": "한은, 이달 기준금리 0.25%p 인상 가능성 커져",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BRGR2dWo0VlNOSFlZcTk3ZXN3MmJXZ1MxczRibTFKRWc5WXptQnJBM1NoRmZnYm9Wa1ZkaGRwZFd2Q29YSVVhSVRZM25MelpiWGFIalo1SWxFMEJBY1hOTDZSenJMQV9aenZfNkVldTNUZw?oc=5",
+   "source": "한겨레",
+   "time": "11/17 08:05",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "JP모건 연준, 금리 0.25%p씩 인상할 것",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aQm5WbW43ZU9vb242VktkaFJPX01IWFg1cDI5eDJoUEs2NEphYzlWbzlXZzVxVzVrMUp5SjlYMGxfMU85TU50SGxxb0tJbUlOV0pr0gFYQVVfeXFMTzVBZTdEdnI2MHhvdktGQkl3Q1ZSVjU0T3dlYngxZnZ2aU1CQzJGUUVndy1hTXMyTUhLQ2JjVlhTUVZGV3U4MFVXdHF3Qi15dFc0Z0hTLXV1NA?oc=5",
+   "source": "SBS Biz",
+   "time": "11/17 07:06",
+   "dir": "neutral",
+   "strength": 0
+  },
+  {
+   "title": "캐나다 10월 CPI 3.1% 상승…전망 하회하자 캐나다달러 약세",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0VnpRRjFfREtVNGhyN1ZyMHVCMWlmS25HUWthRnI2QV8wVDdhd0ZQUEZPdTQxc09JSFBIRE4zbFdBMTM5TjNaNjBNWFBDNlZQdnFzUG9aaW5naUZKZkFUQWFCRWNLTUJRQ09WbzJkNzA?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/17 01:21",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "\"비행기 띄워 번 돈의 6배\"…3Q 환율 하락에 대한항공·아시아나 빚 1.5조 줄어",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IcS1fRUIyU2c4S0ppUFl2bFBKRWNZQUFhcFgyVGNWWU9POC15d1hicTVycEJkeDVpSnVzME1ZZW41Tkw1T2RMYkRQVVA3bU10LWF6QVRGVVNpOXBEbW1sWtIBeEFVX3lxTFBYbFJsRnUyRy0xOXk2U3BmcHVVaFB1VnFPZm5uRmsxWnVNcVNRTDFMM2pOMzJjaVNUVGpBc2JOZkNfb0hBWHh2bjRaSjV5VUtTRGZXVl9WQzd2SHktMmM3TnJvTUdOTTBHTWQ5akFfQUtUTjBBLTdwSg?oc=5",
-   "source": "뉴시스",
-   "time": "11/16 11:29",
-   "dir": "down",
+   "title": "[마켓톡스]골드만삭스, 2027년 금값 전망 하향…“연준 추가 금리 인상 부담”",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT0UtYldFdmFxOEhhYlB4UENDS2pmSDRHSnB0dmYxN2ViVnZiR0tISTJhYkV2Zi0tSXZyWGFsNVl0N1N4OGE5VUtBWFg1VU9aT0l4NzU0MW1wVFdYQmdkRHdHSk0tX3gzRWZaMG56Z1lIM3pCak9Vd3dMMTNDZm40Zg?oc=5",
+   "source": "이데일리",
+   "time": "11/16 21:01",
+   "dir": "up",
    "strength": 1
   },
   {
@@ -67,30 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnLWtvWTg2djNMYmFyclZOci11ZnM2blU0RnV5UFlfb3dORkNYTDBNTEYwREtKNm5WSF9BS2xDU0Z2ZTBRdjhDRjcwSXJlVVY5VXRZSWxnR2RTQQ?oc=5",
    "source": "한국경제",
    "time": "11/15 17:29",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"내년 환율, 달러당 1320원…원화 강세 전환\"[주末머니]",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QZktnNEV0d2ZQekhoZFhwcHljRWFfcEpUS3NEUG1IeVhnaXUzOXVyVVdlWTR1eVZYVC1YNmtnOHRWOWtrdWQ1ekxONHk0RDdoOFJyUFBTVm9pUmNEaHFTMUJn?oc=5",
-   "source": "아시아경제",
-   "time": "11/15 14:15",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "연준 ‘12월 금리 인상’ 베팅에…달러 가치, 지난해 5월 이후 최고｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SRjB3NlVrS0d3WklvbU12ZF9xU2RBTWhyR1FjV3ZlUUhOUkk5TVg3ajR1R1B3TWVWc0tmdHQ3c1VPYVNxOTVQSGVneE0zY3Rrb0Z2RGFrNVF5SmM?oc=5",
-   "source": "중앙일보",
-   "time": "11/14 02:28",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "BofA \"연준, 다음 달부터 3회 연속 금리 인상\"…1월 전망 추가",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUGQ3T1lmeDBuT3dOUklaQ0hOUEFxS1dTcUpmMXFFci1EX05QNjlIaUgzQ1ZkNFZpNFN6ZlVVU2ZfMzRYRE1yajc3SElEd1FyNE40anQtbE1vek1LMGNGRTZtQ2xzbG11QUxkdUw4dG0?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/14 01:41",
    "dir": "up",
    "strength": 1
   }
