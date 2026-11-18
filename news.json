@@ -1,19 +1,43 @@
 {
- "updated": "2026-11-18 00:04",
+ "updated": "2026-11-18 12:27",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 6,
+  "down": 4,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 6 vs 하락 4).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "환율, 장중 1320원대 하락…외국인 주식 순매수에 원화 강세",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeThVNkxOazFmNDBiWmpOb2JrM3EzNFVsbk9qbkFlYmp1WjFCaXB4VlZ0QzNpME1BMUVGOGk4ajUxOTNaZXZkVzhvVjliZ0NmdlZORTdmdEdkSE5JLVZTOVItbkttRDFUeFZFT0Y5YzlCNzdwZTFHS1A3MUt3VUZmcg?oc=5",
+   "source": "이데일리",
+   "time": "11/18 10:59",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "뉴욕 연은 총재 “급격한 금리 인상 불필요”…美 연준 ‘빅스텝’에 제동",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15dnhWOVBVcU8xcjZtOEpTbk91MWx6VWdEeUxoNGpVMEp2T3NyVmZucXZweDJzQWpuRFpRU2lHLVFUOGU4M1MwcnJxX0VLMWZMN1E?oc=5",
+   "source": "매일경제",
+   "time": "11/18 10:16",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "엔비디아 호실적에도 환율 상승 압력…수출 네고가 제동[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWc5LXNtYzZHZG0xM01ncWdUVVNSSGVOZWNhUlNmcFJoc1BCNjYxYlFMUElTZmpUX09rd1c0ZTR4RmV0STZIb2lpRWw5Wm1ubVFKZ1ppMi12WkE2aldmT09KcFhvSEd2Z0tMM0o4QUFMNzdhM09DckhTTWZnMW1ZYg?oc=5",
+   "source": "이데일리",
+   "time": "11/18 08:08",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "코스피 5000선 붕괴, 원·달러 환율 상승 마감",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WNmlVbVprNTB0Nlh1T19IOGRnbjNjYUo0NjdWam15bVE2NnBETmpLZUxDRk1Ob0NOYmVXd1V3bEp6OVJUZ0gwY1BXbjQzQm14djNKa0ktcjFCU29mWjZ6dQ?oc=5",
@@ -68,30 +92,6 @@
    "source": "뉴시스",
    "time": "11/16 17:45",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美재무 “유가 하락하는데 과도한 금리 인상 안 돼”…연준에 신중론",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00RHlxOV9ZaWlWdTRkb2l0Z2lQWmY3cFdHYkNlX2p2YzlvV1FSMlo4S0RHeUQ1OFBvNmI2RnpBNWhxeFc0VDNEci1HSnVIWDNoRVlQaTVpc3ppUVFfOWpROFFzaV9qSDQyRGRCWFNJaDNjaUnSAWZBVV95cUxNUHM0NWs0b0JRS2IzQUtOYll5V1FCcWFmdXpWdHh1QVQyQTZQRGVYTzlZYldra1V0VHMyREdSb04wMFF4REM1cXg5cE1IS3I3dnBRNVlNblVPa0l6R2ppY3FnOEdkLUE?oc=5",
-   "source": "동아일보",
-   "time": "11/16 10:40",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "달러·원 환율, 장 초반 1334원…美 긴축 경계 속 소폭 하락",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHRWYyNi12YVZzU2RJc1hLT1hGZDZ0eFJEVVBDUno0UmVSdWZreHUwTGpSRktCUFZvR25ULW9zRzl0bjhmc2huRE1Lei1hTGhRemg0T0RDY3hWUTA?oc=5",
-   "source": "뉴스1",
-   "time": "11/16 09:35",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 반도체주 급락에 환율 상승 경계…외국인 수급 변수[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk85TGkwc3NKdnlOVlh0ZDV1TFFtU2ZZSWF6R1VRUUNyczJfSzdLN3hraEo5ODJpY3VfQ0JuT1AxSVpDS1NOUW0wS2RzYWwtRk5kNW9vWGh3RjZDZTVWOHFZdHFkNE16b2JvZjdvaVUwdnVLYW1UWllIaV9iTlJpbQ?oc=5",
-   "source": "이데일리",
-   "time": "11/16 08:08",
-   "dir": "up",
    "strength": 1
   }
  ]
