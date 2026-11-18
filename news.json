@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18 13:59",
+ "updated": "2026-11-18 23:44",
  "summary": {
   "up": 6,
   "down": 4,
@@ -14,6 +14,38 @@
   ]
  },
  "items": [
+  {
+   "title": "美연준 매파 위원, \"인플레 상대 승리선언 아직 일러\"",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aanEwbkk0Y2dZVENCRm1ycnNIblVCb2R4T3p4OFVYVGRzTWVBOTRNMVlBM2JCZTNfNk8zakpkN20taG80MWZLazNGbVEzdGh2?oc=5",
+   "source": "매일경제 마켓",
+   "time": "11/18 21:46",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "소비는 버티고 물가는 뛴다…연준 '추가 금리 인상' 압박",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRUV3VlRPWGJUdHVsSjFsWGJTbHF2Q0NKWjhFMm9hdmllbjF5Y3NoQklvc2JOODRhbjRUYmxpLUo3bGszYTNnMk9aZXRFU2RyWGJzZGk4emVIeVNqWjkwSm9vV1JXaFJ4SHJqUTlLbS1LYTJSWmdRaFpxUXF3Q2ZnVA?oc=5",
+   "source": "이데일리",
+   "time": "11/18 18:58",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율 하락에…코스피 상장사 3분기 순익 30% 뚝",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aNkhmZE5oUzJWcW5SUl8xNEtzQ1NPbDdMMzMyZHJ0UzdNLXYwSVJ4RzBzR1BwT2YtS0Vtc0V3QUZtbXlUVV9Wc2ZSNVNIX3dhTHfSAVNBVV95cUxPNkZXcTJMNGdvT0FsV2xsb0VXcll5OHpQWF9VZXoxR3Z3QzVrVmd5WGt0Yi1yYy1Vakx5Y1ZOU0V4VDJXUklqTzJySnBlZ3pzcXl6Yw?oc=5",
+   "source": "서울경제",
+   "time": "11/18 17:54",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "엔비디아 호실적에 위험선호 회복…원·달러 환율 5.2원 하락 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9odHpkMXRmcEx6VTRZdGJjLUFPOURNWFRSWkZOS0RkaWxvLXhHenJKekN0T3lmellxT3NDMmpBZ2tvdVVNUWtHQVRMNEFUcHZWdnfSAVNBVV95cUxNdmhHMkRIMnk4eDBPQkJYZzREMm5GMGFmTFphanpUbG0xNTEwbDh1NFczeFExcnJBTENaN0xtOVAtanNENXA0cUZTUXZ0emZCNmhKSQ?oc=5",
+   "source": "서울경제",
+   "time": "11/18 16:21",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "환율, 장중 1320원대 하락…외국인 주식 순매수에 원화 강세",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeThVNkxOazFmNDBiWmpOb2JrM3EzNFVsbk9qbkFlYmp1WjFCaXB4VlZ0QzNpME1BMUVGOGk4ajUxOTNaZXZkVzhvVjliZ0NmdlZORTdmdEdkSE5JLVZTOVItbkttRDFUeFZFT0Y5YzlCNzdwZTFHS1A3MUt3VUZmcg?oc=5",
@@ -59,38 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LRlRyTHRpVENQWmVKN3VVZzNocnFzcWR4akpCellkbER5ZGlHaTh3ZFgweUd3TEpMamlhN29xem5pME43N0wwa2g4Tlp6c29ESzQyZWY2QzdZYkFxYzY1TNIBeEFVX3lxTE12WTNnbjBSX3dzTmVHdW5yc1FoeVJhTEVJX1NFSVRFajB3QnFvUzVRRHRremhublcxTUMzbDhRcm5lanNaelp4YWRkVjB2c25hQkFWOGlianJjdTlybXE0SG5La2t6Y1ZCQi1xRktpcVdzREdWN0tDTQ?oc=5",
    "source": "뉴시스",
    "time": "11/17 10:26",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美 반도체주 5% 급락에 환율 상승 압력…수출 달러가 제동[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT25qSUNacVZCcHZuRXdXY2dnYW5ILUtEd2JUVTE2WGg5SUJPbTd5RUZLU3p6QmxiUWFTdkZfV3NKU1kxcmM4MGthS3VOTU1UWVhncW1STGg5NE1BakhqZjZ2eXo0bkRpTU8zajFDbmNhM2RlWnYwOE8tYnk5TXFSNA?oc=5",
-   "source": "이데일리",
-   "time": "11/17 08:09",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "캐나다 10월 CPI 3.1% 상승…전망 하회하자 캐나다달러 약세",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0VnpRRjFfREtVNGhyN1ZyMHVCMWlmS25HUWthRnI2QV8wVDdhd0ZQUEZPdTQxc09JSFBIRE4zbFdBMTM5TjNaNjBNWFBDNlZQdnFzUG9aaW5naUZKZkFUQWFCRWNLTUJRQ09WbzJkNzA?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/17 01:21",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "[마켓톡스]골드만삭스, 2027년 금값 전망 하향…“연준 추가 금리 인상 부담”",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT0UtYldFdmFxOEhhYlB4UENDS2pmSDRHSnB0dmYxN2ViVnZiR0tISTJhYkV2Zi0tSXZyWGFsNVl0N1N4OGE5VUtBWFg1VU9aT0l4NzU0MW1wVFdYQmdkRHdHSk0tX3gzRWZaMG56Z1lIM3pCak9Vd3dMMTNDZm40Zg?oc=5",
-   "source": "이데일리",
-   "time": "11/16 21:01",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[올댓차이나] 인민은행, 위안화 강세 억제차 외화 지준율 4%→6%로 올려",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aSTVLQ2NFbU5uZnlLbDJUY0dfOFIwSlNjeWhBNHQtUTFBUVE5VTRQUFl5X2wtSFZ6eHNnNTBSSkZWTERrSEIxa0tSR1czTF9TNThOSVE4X2l1OS02Y3pZSNIBeEFVX3lxTE9ra0RaeWkwTFRtcGEwMmdOeEtfc29VYmhfTHVDNnc4dGl1SGU0RHZhQWltX185Zm5pWVI5M0pUTDRFdjBGUi01eUJDR0xqRnhzb2pwQXpIU1habThuYU9EamVGdW1vNjFVUjk5bzVmRUdiQnQxcUdZTQ?oc=5",
-   "source": "뉴시스",
-   "time": "11/16 17:45",
    "dir": "down",
    "strength": 1
   }
