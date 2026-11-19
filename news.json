@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-18 23:44",
+ "updated": "2026-11-19 12:00",
  "summary": {
-  "up": 6,
-  "down": 4,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 6 vs 하락 4).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "美연준 매파 위원, \"인플레 상대 승리선언 아직 일러\"",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aanEwbkk0Y2dZVENCRm1ycnNIblVCb2R4T3p4OFVYVGRzTWVBOTRNMVlBM2JCZTNfNk8zakpkN20taG80MWZLazNGbVEzdGh2?oc=5",
-   "source": "매일경제 마켓",
-   "time": "11/18 21:46",
+   "title": "'금리 동결' 10월 FOMC서 추가 금리 인상에 공감대‥'빅스텝' 거론도",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbzdrRWMtdWxNMzFNd1UzVnF3bDEwWDI1S3EtQU00ZDJrdFd3dHlpRlN6RHdhRmlqZk0wRDJYVG5lR042N1VYSVF4RTFyckJTWDBJSVhtWUt3MWQwZ3pHWjBHX3o1VVNNOEJiTU13alh1N3pa0gF0QVVfeXFMTWVTSTkxVmxYWG8wc2RqYzI4YjEtMGR3VWR6QTB4UnRuMFhhbDdJQUs4T3VpQXFwLUYxbnlWMVdoUHFQMDhxdmZjYW5oTGs2QTk5Vlk1MjZNMlBVWlF2LWhGWHZxMEpHTlNLbGoxRWh0LWVRa0Q?oc=5",
+   "source": "MBC 뉴스",
+   "time": "11/19 10:53",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "달러 19개월 만에 최고·금값 14개월 만에 최저…연준 매파 합창",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejdDd0xmN1BQT1JzU0hFQ1RMOVFoR1VOOGN6b0tNUDZLbGxOU01Ialh1YjZacDVIYVdZM1M3dE1JZENUelZzakxkUDNFeW4wMzRlZzFTRGZYLVhwZHJFbjgxTXNnUEh0Q0FYV1NQTlZlbkNzNE9XUUktNml4Ny1maQ?oc=5",
+   "source": "이데일리",
+   "time": "11/19 09:40",
    "dir": "up",
    "strength": 2
   },
   {
-   "title": "소비는 버티고 물가는 뛴다…연준 '추가 금리 인상' 압박",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRUV3VlRPWGJUdHVsSjFsWGJTbHF2Q0NKWjhFMm9hdmllbjF5Y3NoQklvc2JOODRhbjRUYmxpLUo3bGszYTNnMk9aZXRFU2RyWGJzZGk4emVIeVNqWjkwSm9vV1JXaFJ4SHJqUTlLbS1LYTJSWmdRaFpxUXF3Q2ZnVA?oc=5",
-   "source": "이데일리",
-   "time": "11/18 18:58",
+   "title": "DS증권 \"한솔케미칼 환율 하락 탓 실적 부진…목표가 하향\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45eF8wMWMyS1ZNUndyR3dUSENsVDRFX2lJaUNCRGRVNWJQd1VIMXkzVW9BZW8wbHlaOVNfOGJ4LTZuX21EOG44aFZGSGVzRTZ3ejR0NzVYcHJ6aVHSAWBBVV95cUxNLTBkc2VLMWZ6VGI2N3Y4V1ZDcEp4NWowSTIyMjNMNEpCMnhoTUdweTl0bmttMkFueE11bHJObVZQZ05SZEstN25YbXRrOTJveEU3QlA1ejBIYnl0N0lIc1Y?oc=5",
+   "source": "연합뉴스",
+   "time": "11/19 08:33",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "미 연준, 추가 금리 인상 공감대...일부 위원 '빅스텝' 거론",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ORnhHczc2ZzZDbWZJbG5tNmMwLVVqVDhMTXU0MzFTb05zNkRlbFFqZkRfR2YtVWNtT1AtSkt0MkdTaWRYc3ZJVHN1dmFocDFEVVJIazB0TXVudDJMRlE?oc=5",
+   "source": "YTN",
+   "time": "11/19 08:26",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "환율 하락에…코스피 상장사 3분기 순익 30% 뚝",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aNkhmZE5oUzJWcW5SUl8xNEtzQ1NPbDdMMzMyZHJ0UzdNLXYwSVJ4RzBzR1BwT2YtS0Vtc0V3QUZtbXlUVV9Wc2ZSNVNIX3dhTHfSAVNBVV95cUxPNkZXcTJMNGdvT0FsV2xsb0VXcll5OHpQWF9VZXoxR3Z3QzVrVmd5WGt0Yi1yYy1Vakx5Y1ZOU0V4VDJXUklqTzJySnBlZ3pzcXl6Yw?oc=5",
+   "title": "[뉴욕환시] 달러 상승…파운드 약세 속 연준 인사들 잇단 '매파' 발언",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RRkljWDlsUEJnOHIyZk9xcUlSUV8ySzdYeWFtdmhKY19lYmdtUERaT0ExWHhJaTJFb0hhZGNmV3hvYURjVjZ0WVRkUGxzUnJ0YVoxaFVKMkJHR21GaXd4WWEwTGQxQ3ZUbVRrMHA2VWg?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/19 08:22",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "美 연준 긴축 우려에 강달러…환율 상승 폭은 제한될 듯[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUZuODRQSEJNOHNKRWVjN19OWUN4ZFB4NV9oVTBFT0Z5UXNJMWU4c1J1azJKZUtiamYxRFlxT2dycWNpZkViaU9raWNZWF91OUtpSWFuSHhmY0JVOS1PN2RuX2t4VTdndEZnRVhfbU1ETnpQeU00NEZ2Q01JbEFvNw?oc=5",
+   "source": "이데일리",
+   "time": "11/19 08:03",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "“실적 좋아도 소용없네”…엔비디아 급락에 연준 금리 인상론도 ‘고개’, 뉴욕증시 혼조 [투자360]",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Rd3ZYaXNDVlRFbjNKdVVUS1RuRnRnX3ItVWZNcGlvMWthQVoxUldLNTJGZnNvSW9HejJlYUxDU1Y0anlDWkxJcjk0UjJrdjN6aVpXNVdB?oc=5",
+   "source": "헤럴드경제",
+   "time": "11/19 07:47",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "미 연준, 추가 금리 인상에 공감대…10월 FOMC 의사록 공개",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yTVo2d3JLRDRjaVNEcGxMYWkzbklJV1NtQ19TLXZNWHF0c0RGSEZBM1MzdjRLQzljMWdyck1CR2VMb241ZkhrazBRZm5xd3NYQ3IzRlRsNUJpTUo3dHln?oc=5",
+   "source": "MTN 머니투데이방송",
+   "time": "11/19 07:20",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "해외서 돈 벌어도 순이익은 ‘뚝’…환율 급락에 소비재 기업 ‘울상’",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbWFYT3lYQUlGbm1BQllXTzJOb2lRejBaZ0U4ejdvdDNxT2ktdGJUazdraUJiWFoyR2hRaXRPbUJHM2E2TFBWelFmS19JZFhuckHSAVNBVV95cUxOOVJWM0Z0dWdZTW1uMk9xQXpiQy15YUpjVnBBejlOQmExWXE5Ql9fa0JCQUQtVzhlY0EyVUpDNmZsZ1dMNldLMzZXU28yNlhtMS1DUQ?oc=5",
    "source": "서울경제",
-   "time": "11/18 17:54",
+   "time": "11/19 06:30",
    "dir": "down",
    "strength": 1
   },
   {
-   "title": "엔비디아 호실적에 위험선호 회복…원·달러 환율 5.2원 하락 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9odHpkMXRmcEx6VTRZdGJjLUFPOURNWFRSWkZOS0RkaWxvLXhHenJKekN0T3lmellxT3NDMmpBZ2tvdVVNUWtHQVRMNEFUcHZWdnfSAVNBVV95cUxNdmhHMkRIMnk4eDBPQkJYZzREMm5GMGFmTFphanpUbG0xNTEwbDh1NFczeFExcnJBTENaN0xtOVAtanNENXA0cUZTUXZ0emZCNmhKSQ?oc=5",
-   "source": "서울경제",
-   "time": "11/18 16:21",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "환율, 장중 1320원대 하락…외국인 주식 순매수에 원화 강세",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeThVNkxOazFmNDBiWmpOb2JrM3EzNFVsbk9qbkFlYmp1WjFCaXB4VlZ0QzNpME1BMUVGOGk4ajUxOTNaZXZkVzhvVjliZ0NmdlZORTdmdEdkSE5JLVZTOVItbkttRDFUeFZFT0Y5YzlCNzdwZTFHS1A3MUt3VUZmcg?oc=5",
-   "source": "이데일리",
-   "time": "11/18 10:59",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "뉴욕 연은 총재 “급격한 금리 인상 불필요”…美 연준 ‘빅스텝’에 제동",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15dnhWOVBVcU8xcjZtOEpTbk91MWx6VWdEeUxoNGpVMEp2T3NyVmZucXZweDJzQWpuRFpRU2lHLVFUOGU4M1MwcnJxX0VLMWZMN1E?oc=5",
-   "source": "매일경제",
-   "time": "11/18 10:16",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "엔비디아 호실적에도 환율 상승 압력…수출 네고가 제동[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWc5LXNtYzZHZG0xM01ncWdUVVNSSGVOZWNhUlNmcFJoc1BCNjYxYlFMUElTZmpUX09rd1c0ZTR4RmV0STZIb2lpRWw5Wm1ubVFKZ1ppMi12WkE2aldmT09KcFhvSEd2Z0tMM0o4QUFMNzdhM09DckhTTWZnMW1ZYg?oc=5",
-   "source": "이데일리",
-   "time": "11/18 08:08",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "코스피 5000선 붕괴, 원·달러 환율 상승 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WNmlVbVprNTB0Nlh1T19IOGRnbjNjYUo0NjdWam15bVE2NnBETmpLZUxDRk1Ob0NOYmVXd1V3bEp6OVJUZ0gwY1BXbjQzQm14djNKa0ktcjFCU29mWjZ6dQ?oc=5",
+   "title": "美 연준 \"수개월 내 추가 금리 인상 필요\"…일부는 0.5%P 인상 제기",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sb0NwMVJESm9uVjJ3d2pKZWlXaTN3ZjRpN2k2Y3QwenJOSnVwUG9VZ2VzYWNlNTNKQ292Vl9rWkRPTlB1MmVZQ0s1MEZHcWprNkY5ZVB2Q2VYNU1QOWtDQdIBeEFVX3lxTE5DazJmaU1OVGRvbE8tTXB4VFR4aXVzTFBQaFVrQlhfdHo1U3QwVzhoMVNTME40VlNfZl9IU0xHZTdYYlJsUzhPTzlzbGY3ZTJiTGQxUHRPeEFTaDlIYWZPdHNhbm5LWkhrTFk4bU4zbW9NbVY5X01QYw?oc=5",
    "source": "뉴시스",
-   "time": "11/17 16:09",
+   "time": "11/19 06:11",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 긴축 우려에 환율 2.5원 오른 1338.2원 마감 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10ZzZ4dkQ5SEdPRDdiOGRNR3p1aHJVMXNXZU5kSDJfRjJJUVRzU05ZYTdSVjNmMTBjdklHMkhuaW1xM1AtT3k1Vl9QN3RSeWJMeVHSAVNBVV95cUxOMjM5N3YwdGsya0Y5ZEVyM0RUYWV4X3l1U2lWUnY4ck9jWEJFMTZGNzNXTDk4Nk5KRjFzOWptZlJNWS1WU2Y1MHlCMU90NE1oNzNKZw?oc=5",
-   "source": "서울경제",
-   "time": "11/17 15:45",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "엔화, 美 AI 관련주 약세에 달러 매도로 1달러=159엔대 중반 상승 출발",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LRlRyTHRpVENQWmVKN3VVZzNocnFzcWR4akpCellkbER5ZGlHaTh3ZFgweUd3TEpMamlhN29xem5pME43N0wwa2g4Tlp6c29ESzQyZWY2QzdZYkFxYzY1TNIBeEFVX3lxTE12WTNnbjBSX3dzTmVHdW5yc1FoeVJhTEVJX1NFSVRFajB3QnFvUzVRRHRremhublcxTUMzbDhRcm5lanNaelp4YWRkVjB2c25hQkFWOGlianJjdTlybXE0SG5La2t6Y1ZCQi1xRktpcVdzREdWN0tDTQ?oc=5",
-   "source": "뉴시스",
-   "time": "11/17 10:26",
-   "dir": "down",
    "strength": 1
   }
  ]
