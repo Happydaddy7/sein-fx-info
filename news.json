@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19 13:54",
+ "updated": "2026-11-19 23:51",
  "summary": {
   "up": 7,
   "down": 3,
@@ -15,6 +15,22 @@
  },
  "items": [
   {
+   "title": "글로벌 강달러도 못 막은 수급…원·달러 환율 하락 마감 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2UDVpM2dramlUVWRUaHlJY3Fsd0FpUU1ydlYzUlllRVRBTDFCQW5aTF9heFc5N044TkdBUnlPc0M1dmFFS3FucTk5ZTNSRFhTRXfSAVNBVV95cUxPX1hJSGRMVFhsWVI0VDM5dDFHN0w3UXZhYkRPVm5UZ2lPcDFaTk05YUw3U0c1Y3NpMTA1SVZCVjI0dlVoU1dvclZERGNtNkRzN3dDaw?oc=5",
+   "source": "서울경제",
+   "time": "11/19 17:07",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "연준 금리 인상 기대에도…원·달러, 3.0원 내린 1330.0원 마감",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZanJ0b3FHcHl6T0plTzZ0ZW1RNU1TcHRRV0hfSUQ5bVppeDF0eGFza1RHV19rbnhzWV9MN2Q3dTlOVzhmM21HQTdTano5ZFJTWWlyeFhBVUlyakpUSUo2b9IBeEFVX3lxTE1JN01vVS1WYU1qclE4ekFaOTFCa1pka3hBb2xfaG15bEhremdaWFB3MmRTSFRyaWFKeDFUcHdKYnJfOVpZbzNvX29wUHRJWXRwZFphSlNKWmlQRUZQa0hhbnMyMkUyTjZDdE9YVWtBOXhoZlNlZDJPTA?oc=5",
+   "source": "뉴시스",
+   "time": "11/19 15:45",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "‘원화 강세→양극화 완화’ 재조명한 한은…추가 금리 인상 여지 남기나",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93RU93RE5sb1pyZ0FUWXk0bmVyNy1ncU92dG9hR3hDWk5OUHdmV25kNFpUQzMyWG9LeHBxRWxfR1pzUVlYUVhiNjloNFZVOTF1TEHSAVNBVV95cUxPdXFRSjh5WHRLRGpmV21wZDlGc2JzOEJkek00bE5FNm0yR3BSc0F1ZFRfcmdLT21wdTI3R3BDeFQ1RXB2MFR0aC1OMFJNX2RnaEZSNA?oc=5",
    "source": "서울경제",
@@ -29,14 +45,6 @@
    "time": "11/19 10:53",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "달러 19개월 만에 최고·금값 14개월 만에 최저…연준 매파 합창",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOejdDd0xmN1BQT1JzU0hFQ1RMOVFoR1VOOGN6b0tNUDZLbGxOU01Ialh1YjZacDVIYVdZM1M3dE1JZENUelZzakxkUDNFeW4wMzRlZzFTRGZYLVhwZHJFbjgxTXNnUEh0Q0FYV1NQTlZlbkNzNE9XUUktNml4Ny1maQ?oc=5",
-   "source": "이데일리",
-   "time": "11/19 09:40",
-   "dir": "up",
-   "strength": 2
   },
   {
    "title": "DS증권 \"한솔케미칼 환율 하락 탓 실적 부진…목표가 하향\"",
@@ -84,14 +92,6 @@
    "source": "MTN 머니투데이방송",
    "time": "11/19 07:20",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "해외서 돈 벌어도 순이익은 ‘뚝’…환율 급락에 소비재 기업 ‘울상’",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZbWFYT3lYQUlGbm1BQllXTzJOb2lRejBaZ0U4ejdvdDNxT2ktdGJUazdraUJiWFoyR2hRaXRPbUJHM2E2TFBWelFmS19JZFhuckHSAVNBVV95cUxOOVJWM0Z0dWdZTW1uMk9xQXpiQy15YUpjVnBBejlOQmExWXE5Ql9fa0JCQUQtVzhlY0EyVUpDNmZsZ1dMNldLMzZXU28yNlhtMS1DUQ?oc=5",
-   "source": "서울경제",
-   "time": "11/19 06:30",
-   "dir": "down",
    "strength": 1
   }
  ]
