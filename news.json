@@ -1,19 +1,27 @@
 {
- "updated": "2026-11-19 12:00",
+ "updated": "2026-11-19 13:54",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "‘원화 강세→양극화 완화’ 재조명한 한은…추가 금리 인상 여지 남기나",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93RU93RE5sb1pyZ0FUWXk0bmVyNy1ncU92dG9hR3hDWk5OUHdmV25kNFpUQzMyWG9LeHBxRWxfR1pzUVlYUVhiNjloNFZVOTF1TEHSAVNBVV95cUxPdXFRSjh5WHRLRGpmV21wZDlGc2JzOEJkek00bE5FNm0yR3BSc0F1ZFRfcmdLT21wdTI3R3BDeFQ1RXB2MFR0aC1OMFJNX2RnaEZSNA?oc=5",
+   "source": "서울경제",
+   "time": "11/19 12:00",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "'금리 동결' 10월 FOMC서 추가 금리 인상에 공감대‥'빅스텝' 거론도",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbzdrRWMtdWxNMzFNd1UzVnF3bDEwWDI1S3EtQU00ZDJrdFd3dHlpRlN6RHdhRmlqZk0wRDJYVG5lR042N1VYSVF4RTFyckJTWDBJSVhtWUt3MWQwZ3pHWjBHX3o1VVNNOEJiTU13alh1N3pa0gF0QVVfeXFMTWVTSTkxVmxYWG8wc2RqYzI4YjEtMGR3VWR6QTB4UnRuMFhhbDdJQUs4T3VpQXFwLUYxbnlWMVdoUHFQMDhxdmZjYW5oTGs2QTk5Vlk1MjZNMlBVWlF2LWhGWHZxMEpHTlNLbGoxRWh0LWVRa0Q?oc=5",
@@ -84,14 +92,6 @@
    "source": "서울경제",
    "time": "11/19 06:30",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美 연준 \"수개월 내 추가 금리 인상 필요\"…일부는 0.5%P 인상 제기",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sb0NwMVJESm9uVjJ3d2pKZWlXaTN3ZjRpN2k2Y3QwenJOSnVwUG9VZ2VzYWNlNTNKQ292Vl9rWkRPTlB1MmVZQ0s1MEZHcWprNkY5ZVB2Q2VYNU1QOWtDQdIBeEFVX3lxTE5DazJmaU1OVGRvbE8tTXB4VFR4aXVzTFBQaFVrQlhfdHo1U3QwVzhoMVNTME40VlNfZl9IU0xHZTdYYlJsUzhPTzlzbGY3ZTJiTGQxUHRPeEFTaDlIYWZPdHNhbm5LWkhrTFk4bU4zbW9NbVY5X01QYw?oc=5",
-   "source": "뉴시스",
-   "time": "11/19 06:11",
-   "dir": "up",
    "strength": 1
   }
  ]
