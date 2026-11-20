@@ -1,19 +1,59 @@
 {
- "updated": "2026-11-19 23:51",
+ "updated": "2026-11-20 11:53",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "‘킹달러’에도 맷집 생긴 원화…‘달러 강세=원화 약세’ 공식 깨져",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LSEo1YVZYeENfX0tNTk1QcUg2aUN2U08tdzBKcG1qTTNOc1dycFVZT2J5ZlZxMGRraXZfLUd1SDBHSFFoSTZsZTZsbG83WWpxMVE?oc=5",
+   "source": "매일경제 마켓",
+   "time": "11/20 10:45",
+   "dir": "up",
+   "strength": 3
+  },
+  {
+   "title": "美 기술주 급락에 원화 약세…달러·원 환율 1335원으로 상승",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NcVZ3QjFTSjRsa2I5MDJzTXVoM2ZQbjhOTkZ0UUpxUmZDVExfbUlzLWo1M2lGTFRwM2NhbnNpMlYwdDVuSXA4NGdIamlVNm8xMHRoZGtFYnE0Tk0?oc=5",
+   "source": "뉴스1",
+   "time": "11/20 09:44",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[포토] 원/달러 환율 상승, 코스피 하락 출발",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zbE5yY0tXVlhZRE1nckp4Q3lXNXd0T1p0Um1kLXBtcEtMVkplSmt4R1NOdXFHX2M5NTEtLXlubWc0NTl5R1V1Sk1HZ0djcy13b1I0cTduLXBSRHhXV1NaSg?oc=5",
+   "source": "아시아경제",
+   "time": "11/20 09:32",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美 기술주 급락·강달러에 환율 상승 압력…1340원선 위협[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkJyUXF2VVN0UzV0MXFScFVCTnVoSnE1d0pQb0RaUFBERlBtMnAxRXEwbFVUcVlnWkFMNWFTZkZMdmFfb2loSFZYRnFQOFVubXBoeWRpWjZPTWlLb3dxWGxRUnE5ZDVLS2hzODVvR0dHc3B1ekhWbGc1Zl9Ic3RkSA?oc=5",
+   "source": "이데일리",
+   "time": "11/20 08:05",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "연준, 추가 금리인상 공감대…물가 압박에 긴축 필요 강조",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkYTF0SERrZ3hvX2FndEpMTjNwZlRxeWN4b0p6VHJmV2c2WWV1ck95RGRnQlZINnVocmZXWE05WTZWQXc5ak9WMUNIQXZYVVk?oc=5",
+   "source": "애틀랜타 중앙일보",
+   "time": "11/20 07:01",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "글로벌 강달러도 못 막은 수급…원·달러 환율 하락 마감 [김혜란의 FX]",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2UDVpM2dramlUVWRUaHlJY3Fsd0FpUU1ydlYzUlllRVRBTDFCQW5aTF9heFc5N044TkdBUnlPc0M1dmFFS3FucTk5ZTNSRFhTRXfSAVNBVV95cUxPX1hJSGRMVFhsWVI0VDM5dDFHN0w3UXZhYkRPVm5UZ2lPcDFaTk05YUw3U0c1Y3NpMTA1SVZCVjI0dlVoU1dvclZERGNtNkRzN3dDaw?oc=5",
@@ -39,30 +79,6 @@
    "strength": 1
   },
   {
-   "title": "'금리 동결' 10월 FOMC서 추가 금리 인상에 공감대‥'빅스텝' 거론도",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vbzdrRWMtdWxNMzFNd1UzVnF3bDEwWDI1S3EtQU00ZDJrdFd3dHlpRlN6RHdhRmlqZk0wRDJYVG5lR042N1VYSVF4RTFyckJTWDBJSVhtWUt3MWQwZ3pHWjBHX3o1VVNNOEJiTU13alh1N3pa0gF0QVVfeXFMTWVTSTkxVmxYWG8wc2RqYzI4YjEtMGR3VWR6QTB4UnRuMFhhbDdJQUs4T3VpQXFwLUYxbnlWMVdoUHFQMDhxdmZjYW5oTGs2QTk5Vlk1MjZNMlBVWlF2LWhGWHZxMEpHTlNLbGoxRWh0LWVRa0Q?oc=5",
-   "source": "MBC 뉴스",
-   "time": "11/19 10:53",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "DS증권 \"한솔케미칼 환율 하락 탓 실적 부진…목표가 하향\"",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45eF8wMWMyS1ZNUndyR3dUSENsVDRFX2lJaUNCRGRVNWJQd1VIMXkzVW9BZW8wbHlaOVNfOGJ4LTZuX21EOG44aFZGSGVzRTZ3ejR0NzVYcHJ6aVHSAWBBVV95cUxNLTBkc2VLMWZ6VGI2N3Y4V1ZDcEp4NWowSTIyMjNMNEpCMnhoTUdweTl0bmttMkFueE11bHJObVZQZ05SZEstN25YbXRrOTJveEU3QlA1ejBIYnl0N0lIc1Y?oc=5",
-   "source": "연합뉴스",
-   "time": "11/19 08:33",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "미 연준, 추가 금리 인상 공감대...일부 위원 '빅스텝' 거론",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ORnhHczc2ZzZDbWZJbG5tNmMwLVVqVDhMTXU0MzFTb05zNkRlbFFqZkRfR2YtVWNtT1AtSkt0MkdTaWRYc3ZJVHN1dmFocDFEVVJIazB0TXVudDJMRlE?oc=5",
-   "source": "YTN",
-   "time": "11/19 08:26",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "[뉴욕환시] 달러 상승…파운드 약세 속 연준 인사들 잇단 '매파' 발언",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RRkljWDlsUEJnOHIyZk9xcUlSUV8ySzdYeWFtdmhKY19lYmdtUERaT0ExWHhJaTJFb0hhZGNmV3hvYURjVjZ0WVRkUGxzUnJ0YVoxaFVKMkJHR21GaXd4WWEwTGQxQ3ZUbVRrMHA2VWg?oc=5",
    "source": "연합인포맥스",
@@ -77,22 +93,6 @@
    "time": "11/19 08:03",
    "dir": "up",
    "strength": 2
-  },
-  {
-   "title": "“실적 좋아도 소용없네”…엔비디아 급락에 연준 금리 인상론도 ‘고개’, 뉴욕증시 혼조 [투자360]",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Rd3ZYaXNDVlRFbjNKdVVUS1RuRnRnX3ItVWZNcGlvMWthQVoxUldLNTJGZnNvSW9HejJlYUxDU1Y0anlDWkxJcjk0UjJrdjN6aVpXNVdB?oc=5",
-   "source": "헤럴드경제",
-   "time": "11/19 07:47",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "미 연준, 추가 금리 인상에 공감대…10월 FOMC 의사록 공개",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yTVo2d3JLRDRjaVNEcGxMYWkzbklJV1NtQ19TLXZNWHF0c0RGSEZBM1MzdjRLQzljMWdyck1CR2VMb241ZkhrazBRZm5xd3NYQ3IzRlRsNUJpTUo3dHln?oc=5",
-   "source": "MTN 머니투데이방송",
-   "time": "11/19 07:20",
-   "dir": "up",
-   "strength": 1
   }
  ]
 }
