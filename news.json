@@ -1,23 +1,39 @@
 {
- "updated": "2026-11-20 13:44",
+ "updated": "2026-11-20 23:32",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 10,
+  "down": 0,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 10 vs 하락 0).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
+   "title": "외인 1.7조 순매도에 환율 상승…달러·원 1336.2원 마감(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Db3EweW9LOGxTTkppZldEQmFCNmlyb1VieXRYZFo2TmlmaUJDaHZya2xKdUZpN3VyX2xmZExrdWh6Rl9nRC1oRERRbjZNR0JkVThhd18xWXU2YzQ?oc=5",
+   "source": "뉴스1",
+   "time": "11/20 16:42",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "위험회피 심리에 환율 상승 마감…장중 1340원 터치 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVFhUSHpTY2ZnNGF5aGxZN0hxbEtMdi1UVW9EWlB1anNRVnFWcjlPVk92bERqUWJKYmFMaDBtZFpqbVphM3liOWllRkQyenllOHfSAVNBVV95cUxQRlFqR29ZdkZBSnVHVWI1Qi1EdUJEMlMzZ0NuNTlRYnItZ2prVVgwV0RmaF9KdTRyMmtMWjNaeGtpNXhUckhRTkJreFNSRlZPMWZYOA?oc=5",
+   "source": "서울경제",
+   "time": "11/20 16:18",
+   "dir": "up",
+   "strength": 2
+  },
+  {
    "title": "‘킹달러’에도 맷집 생긴 원화…‘달러 강세=원화 약세’ 공식 깨져",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LSEo1YVZYeENfX0tNTk1QcUg2aUN2U08tdzBKcG1qTTNOc1dycFVZT2J5ZlZxMGRraXZfLUd1SDBHSFFoSTZsZTZsbG83WWpxMVE?oc=5",
-   "source": "매일경제 마켓",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KQlc2QTUtalp4UDZJR0tNUDhyOWNZemVVX2lLblppZVVyQno2cHA3b1FDejhFTE1wU1BmWW9iVU9ReDNrQTRTNEx3WXdRSVd4SDFFcg?oc=5",
+   "source": "매일경제",
    "time": "11/20 10:45",
    "dir": "up",
    "strength": 3
@@ -55,27 +71,11 @@
    "strength": 1
   },
   {
-   "title": "글로벌 강달러도 못 막은 수급…원·달러 환율 하락 마감 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2UDVpM2dramlUVWRUaHlJY3Fsd0FpUU1ydlYzUlllRVRBTDFCQW5aTF9heFc5N044TkdBUnlPc0M1dmFFS3FucTk5ZTNSRFhTRXfSAVNBVV95cUxPX1hJSGRMVFhsWVI0VDM5dDFHN0w3UXZhYkRPVm5UZ2lPcDFaTk05YUw3U0c1Y3NpMTA1SVZCVjI0dlVoU1dvclZERGNtNkRzN3dDaw?oc=5",
-   "source": "서울경제",
-   "time": "11/19 17:07",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "연준 금리 인상 기대에도…원·달러, 3.0원 내린 1330.0원 마감",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZanJ0b3FHcHl6T0plTzZ0ZW1RNU1TcHRRV0hfSUQ5bVppeDF0eGFza1RHV19rbnhzWV9MN2Q3dTlOVzhmM21HQTdTano5ZFJTWWlyeFhBVUlyakpUSUo2b9IBeEFVX3lxTE1JN01vVS1WYU1qclE4ekFaOTFCa1pka3hBb2xfaG15bEhremdaWFB3MmRTSFRyaWFKeDFUcHdKYnJfOVpZbzNvX29wUHRJWXRwZFphSlNKWmlQRUZQa0hhbnMyMkUyTjZDdE9YVWtBOXhoZlNlZDJPTA?oc=5",
    "source": "뉴시스",
    "time": "11/19 15:45",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "‘원화 강세→양극화 완화’ 재조명한 한은…추가 금리 인상 여지 남기나",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93RU93RE5sb1pyZ0FUWXk0bmVyNy1ncU92dG9hR3hDWk5OUHdmV25kNFpUQzMyWG9LeHBxRWxfR1pzUVlYUVhiNjloNFZVOTF1TEHSAVNBVV95cUxPdXFRSjh5WHRLRGpmV21wZDlGc2JzOEJkek00bE5FNm0yR3BSc0F1ZFRfcmdLT21wdTI3R3BDeFQ1RXB2MFR0aC1OMFJNX2RnaEZSNA?oc=5",
-   "source": "서울경제",
-   "time": "11/19 12:00",
-   "dir": "down",
    "strength": 1
   },
   {
