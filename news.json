@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23 13:33",
+ "updated": "2026-11-24 01:44",
  "summary": {
   "up": 9,
   "down": 1,
@@ -14,6 +14,62 @@
   ]
  },
  "items": [
+  {
+   "title": "해외IB들 \"원화 강세\"…반도체 달러 환전이 환율 향방 갈라",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEtGeWtZZ3hNWEI3Z002NjFaNENmUGkzakhQWTEzOGxhMHFoWmVPd0JqYm8xbEllb2tjNElnd3RJU2ZKR3EyY0JiTHVmdDNUYm5lSDhfWkw5ZDZvM29mSUxTMzYtdjF2UE40eGZ2b0V1bDViU3JmRVJHMGtmSTVyeA?oc=5",
+   "source": "이데일리",
+   "time": "11/23 19:09",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "환율, 2주만에 장중 1,350원대…글로벌 위험회피 심리 반영",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pSWdpenpyLWJrdFZPV1lMVE14bjZsOG40OXd4WTFqZmJ6SkxYbnpRQlI2MjdhaEYxQ08xRmxWY1NsQk5OamhORkY4aHN5M0RZRndKUW05TWVHdXljdGZ3QVY5ZVV2ZU96MUE?oc=5",
+   "source": "SBS 뉴스",
+   "time": "11/23 18:50",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "원 달러 환율, 한때 1,350원 돌파‥\"안전자산 선호 심리\"",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6dHNqQnQzYV9YMjZxQXpiSFZXZWZQc055T01kdGtZbDNaOFBpZkQxNHlsYmpSZ2gzNk1DM0cxajFPMW1QUW43STZqWHFVQ2FSVFVPQ3RNcWYySUNHd081TGFpajJObFNVbnV1Si1zLTFRT0Yt0gF0QVVfeXFMT1JDeVRfWDd4YzZqMHZSWXp2ZVl1bFh0eWpvTGV2MWtRQWYzLV93UmhNRmpfdU5WSUljQnpSVDlVNnVxOGVua3pZV25hUUNQQ2R5UnB2cFlhTlBzbmlJTnFpLTVKbXU0MjJDV2lzejZuemRWME4?oc=5",
+   "source": "MBC 뉴스",
+   "time": "11/23 17:19",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "글로벌 위험회피 심리에 원화 약세…환율, 장중 1,350원대",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RdWhIQVp1Y3AyTlF3SGVCdzNzSm41Q0dPYTV3QUpGN0hVVHE1TC1pbHViZ2FqZHBLSHJVQzZNYXMzbHUta3ZoVWp0UFZ6Qm1ZdU04RVczVl93ZnRmdm1rZ0VENkVPaGl5?oc=5",
+   "source": "매일경제TV",
+   "time": "11/23 16:31",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "위험회피에 원·달러 장중 1350원 돌파 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KQzUwOVFiZHFYMERzVWV4X0JPNWFzMGdadGQtZ2thR3l6Wm1qTnRmbDhSWW0walc2b1o5ODNDY1lKa2pzbnk5WW9uSk9Ocm02Y0HSAVNBVV95cUxOamxMT1hROWp6Z3hJbDQ2MTQtOGJqQ3ZoT0wwYVdDWkFOa3dOZ0VVMGR6VHEwbVVlLVVPM1ZWUEd2VjBKckRGT01XdmM4NGZSVlJDVQ?oc=5",
+   "source": "서울경제",
+   "time": "11/23 16:11",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율, 글로벌 위험회피 심리에 상승…2주만에 장중 1,350원대",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBadHhMalk3cnNHeEFSNUpuYVNFR0Q3bksxd2JkZU9ocjVmSzNTeVl4RTludl9TQmVFYVVDcVd6UnpQaTBlZ19TdEdDbk9IaGFTeXFGQXR0MGdWdm5QS1l6MW9kcFQ4NnQwbF9sTlZPRzVGZVVu?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "time": "11/23 16:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "베선트 “연준 과도한 긴축은 정책 실수”…12월 인상론에 경고",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCd1VNUmRyU0FTWWJ4VndMWlJPZGZEWkFNNlpBUXV3T2g1dWg4N3Vfd3hlZ1VCR1lFSVJTYzRfVGlPTFFxbS1VdjFCM2prT2tfZmfSAVNBVV95cUxQM3M4Rm5lellnMDlqQU9HZEVGQU16ejItOXFWOEowTEhNYnFmNnlUcmVpaEMtTm5MaUpuTlhlQ3RpZ0dyVVBrNmJMMDY0anAwTGdqTQ?oc=5",
+   "source": "서울경제",
+   "time": "11/23 14:17",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "빌 애크먼 \"금융 매우 크게 긴축…연준, 12월 금리 올리면 안 돼\"",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XVHpSQ1JaeU5EVVcxaEVpSWVOV0RkQ3V6Ulg4RVNhaFMtU0s0MlNScUdkNVIzbC02VkxJc2oxT3RSWHg1ZkJRWnZmMlA5LUZqY1loMUZmQUh6NDdlY3RMX2ZFRDJUNGxvS2M3cVh0RDY?oc=5",
@@ -37,62 +93,6 @@
    "time": "11/22 18:05",
    "dir": "up",
    "strength": 1
-  },
-  {
-   "title": "[외환-주간] 금통위·美 PCE가 온다…AI발 위험회피 어디까지",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xeFR1bVdOdmJ5RHlwRzBVaTdLVlBnVF93QVg2d0JtVlRDTmdXcG1lY1pFOU9JOVo4UzFFbi1PdUJ1b0JkcnVhRnVxemc0RXRPVkxqMnJyMXJ4d1dQTnhYamRVQzVEWDJuN3NrQnAxTDI?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/22 13:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·외국인 역송금 변수",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WN1pIRWpiNlNNbkJmVGpqM0FiUUQxNUkwMFJwckNPR3YyVnhUWEI4NmV4QTQwYW1fdkQzWVJQVHhGSGJwTDk0cmF6OHlDOW1LV2xSTk1OTVNZQQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "time": "11/22 07:30",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美물가 경계 vs 韓금리인상…환율, 엇갈린 긴축 변수 주목[주간외환전망]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTmpiak5odXAtd3pxNkJQYnhQeWNMRU53VWhzcTl6alQzMmt5SmRjTmhEZGNjMjdnc3F2NFZKQ3ByTlVGWlpremx2TTJ0RU1sTUFIM05qUmRNY194Tk5Vbmw5NTlVelo5UXhZNFFYdXp2WENHbk02WXBvZUp4Si1XNQ?oc=5",
-   "source": "이데일리",
-   "time": "11/22 07:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[글로벌 경제지표] '추수감사절' 뉴욕증시 한산할 듯…한국은행 기준금리 인상 가능성 주목",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4S2RfNW5leTNLcmVRTThLSEJCMnNsdURpMzN5S3dXSGl3REtlenkzbTBOZk81MG1Md25pUUlVVUQzRDM4T05DUTEtelRjaWxlbk400gFYQVVfeXFMT2wzWmo1dHo5eXZwYV9BX0tEQk15R19yZFVNTHA3U0hmYlAtX3RwUjl1MDlDaTIxWVZPcW93M21JaVdZd2tTVEFfM1R1azhKaVl3cTJWMHJTSA?oc=5",
-   "source": "SBS Biz",
-   "time": "11/22 07:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"한은, 26일 기준금리 인상\" 한목소리…10곳 중 9곳 \"내년 3.50%\" [금통위 폴]",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UQnpILTlnSTVIc3VUcWo2NFpHd09rRVhUcWxvZHo4eS1YR2FVQVZpZVVCWFd5dll6MlhheXRjaTVhMXJmcm1hNWkwRktWaHBWakd4dA?oc=5",
-   "source": "뉴스1",
-   "time": "11/22 06:29",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "AI 기술주 투매에 달러 약세…안전자산 엔화·스위스 프랑 0.6%↑｜Global Money Club",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kakVkNXBrbnRnU3ZSZFhaVWwtMnhZMHhrZUdZQ1RMdTBkbzNxVmNVWjBXaXZaZmlBMXhZdGhTUndqNUhjc1pWZDBtcXVTZldSOGJIUm52UnA1QnM?oc=5",
-   "source": "중앙일보",
-   "time": "11/21 03:19",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "위험회피 심리에 환율 상승 마감…장중 1340원 터치 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVFhUSHpTY2ZnNGF5aGxZN0hxbEtMdi1UVW9EWlB1anNRVnFWcjlPVk92bERqUWJKYmFMaDBtZFpqbVphM3liOWllRkQyenllOHfSAVNBVV95cUxQRlFqR29ZdkZBSnVHVWI1Qi1EdUJEMlMzZ0NuNTlRYnItZ2prVVgwV0RmaF9KdTRyMmtMWjNaeGtpNXhUckhRTkJreFNSRlZPMWZYOA?oc=5",
-   "source": "서울경제",
-   "time": "11/20 16:18",
-   "dir": "up",
-   "strength": 2
   }
  ]
 }
