@@ -1,25 +1,89 @@
 {
- "updated": "2026-11-20 23:32",
+ "updated": "2026-11-23 11:23",
  "summary": {
-  "up": 10,
-  "down": 0,
+  "up": 9,
+  "down": 1,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 10 vs 하락 0).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
-   "title": "외인 1.7조 순매도에 환율 상승…달러·원 1336.2원 마감(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Db3EweW9LOGxTTkppZldEQmFCNmlyb1VieXRYZFo2TmlmaUJDaHZya2xKdUZpN3VyX2xmZExrdWh6Rl9nRC1oRERRbjZNR0JkVThhd18xWXU2YzQ?oc=5",
-   "source": "뉴스1",
-   "time": "11/20 16:42",
+   "title": "빌 애크먼 \"금융 매우 크게 긴축…연준, 12월 금리 올리면 안 돼\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XVHpSQ1JaeU5EVVcxaEVpSWVOV0RkQ3V6Ulg4RVNhaFMtU0s0MlNScUdkNVIzbC02VkxJc2oxT3RSWHg1ZkJRWnZmMlA5LUZqY1loMUZmQUh6NDdlY3RMX2ZFRDJUNGxvS2M3cVh0RDY?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/23 10:20",
    "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "베선트, 연준에 과잉긴축 경고…\"금융여건 상당히 조여져\"",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVTh4QkdZazg1QnBySGh5dlZoeEY3SlF5VjdBMV9hRG1hWUgtVVpzbXYxZGZyNDBLT1IyM1hyQjRuY1NPQ1dldDQxUUlTZ1oxb1RqUG82SDVBaXNMOVIyWFgwYlBqUVFUbnJuR2JBUXVVSGpQZk1QaUpxOUo0VVZ4Xw?oc=5",
+   "source": "이데일리",
+   "time": "11/23 07:51",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[뉴욕채권-주간] 연준 긴축 증시가 대신 해주나…다가오는 '침묵 기간'",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93eDljMVVkZEVnUFZFcmpHSUc1NmhGdm9ZbG9hSElsZHJ5bjB4RjN4d0Y5RmlaTGxRS3pjdnV2RzI0UkdlUjh3c3h5ZUtTYU1SaUdwSk9xUjAwQmFFMENnQ2lJemNxX0lGWFEycUYyRlU?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/22 18:05",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[외환-주간] 금통위·美 PCE가 온다…AI발 위험회피 어디까지",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xeFR1bVdOdmJ5RHlwRzBVaTdLVlBnVF93QVg2d0JtVlRDTmdXcG1lY1pFOU9JOVo4UzFFbi1PdUJ1b0JkcnVhRnVxemc0RXRPVkxqMnJyMXJ4d1dQTnhYamRVQzVEWDJuN3NrQnAxTDI?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/22 13:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·외국인 역송금 변수",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WN1pIRWpiNlNNbkJmVGpqM0FiUUQxNUkwMFJwckNPR3YyVnhUWEI4NmV4QTQwYW1fdkQzWVJQVHhGSGJwTDk0cmF6OHlDOW1LV2xSTk1OTVNZQQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "time": "11/22 07:30",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "美물가 경계 vs 韓금리인상…환율, 엇갈린 긴축 변수 주목[주간외환전망]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTmpiak5odXAtd3pxNkJQYnhQeWNMRU53VWhzcTl6alQzMmt5SmRjTmhEZGNjMjdnc3F2NFZKQ3ByTlVGWlpremx2TTJ0RU1sTUFIM05qUmRNY194Tk5Vbmw5NTlVelo5UXhZNFFYdXp2WENHbk02WXBvZUp4Si1XNQ?oc=5",
+   "source": "이데일리",
+   "time": "11/22 07:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[글로벌 경제지표] '추수감사절' 뉴욕증시 한산할 듯…한국은행 기준금리 인상 가능성 주목",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4S2RfNW5leTNLcmVRTThLSEJCMnNsdURpMzN5S3dXSGl3REtlenkzbTBOZk81MG1Md25pUUlVVUQzRDM4T05DUTEtelRjaWxlbk400gFYQVVfeXFMT2wzWmo1dHo5eXZwYV9BX0tEQk15R19yZFVNTHA3U0hmYlAtX3RwUjl1MDlDaTIxWVZPcW93M21JaVdZd2tTVEFfM1R1azhKaVl3cTJWMHJTSA?oc=5",
+   "source": "SBS Biz",
+   "time": "11/22 07:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "\"한은, 26일 기준금리 인상\" 한목소리…10곳 중 9곳 \"내년 3.50%\" [금통위 폴]",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UQnpILTlnSTVIc3VUcWo2NFpHd09rRVhUcWxvZHo4eS1YR2FVQVZpZVVCWFd5dll6MlhheXRjaTVhMXJmcm1hNWkwRktWaHBWakd4dA?oc=5",
+   "source": "뉴스1",
+   "time": "11/22 06:29",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "AI 기술주 투매에 달러 약세…안전자산 엔화·스위스 프랑 0.6%↑｜Global Money Club",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kakVkNXBrbnRnU3ZSZFhaVWwtMnhZMHhrZUdZQ1RMdTBkbzNxVmNVWjBXaXZaZmlBMXhZdGhTUndqNUhjc1pWZDBtcXVTZldSOGJIUm52UnA1QnM?oc=5",
+   "source": "중앙일보",
+   "time": "11/21 03:19",
+   "dir": "down",
    "strength": 1
   },
   {
@@ -27,70 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVFhUSHpTY2ZnNGF5aGxZN0hxbEtMdi1UVW9EWlB1anNRVnFWcjlPVk92bERqUWJKYmFMaDBtZFpqbVphM3liOWllRkQyenllOHfSAVNBVV95cUxQRlFqR29ZdkZBSnVHVWI1Qi1EdUJEMlMzZ0NuNTlRYnItZ2prVVgwV0RmaF9KdTRyMmtMWjNaeGtpNXhUckhRTkJreFNSRlZPMWZYOA?oc=5",
    "source": "서울경제",
    "time": "11/20 16:18",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "‘킹달러’에도 맷집 생긴 원화…‘달러 강세=원화 약세’ 공식 깨져",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KQlc2QTUtalp4UDZJR0tNUDhyOWNZemVVX2lLblppZVVyQno2cHA3b1FDejhFTE1wU1BmWW9iVU9ReDNrQTRTNEx3WXdRSVd4SDFFcg?oc=5",
-   "source": "매일경제",
-   "time": "11/20 10:45",
-   "dir": "up",
-   "strength": 3
-  },
-  {
-   "title": "美 기술주 급락에 원화 약세…달러·원 환율 1335원으로 상승",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NcVZ3QjFTSjRsa2I5MDJzTXVoM2ZQbjhOTkZ0UUpxUmZDVExfbUlzLWo1M2lGTFRwM2NhbnNpMlYwdDVuSXA4NGdIamlVNm8xMHRoZGtFYnE0Tk0?oc=5",
-   "source": "뉴스1",
-   "time": "11/20 09:44",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[포토] 원/달러 환율 상승, 코스피 하락 출발",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zbE5yY0tXVlhZRE1nckp4Q3lXNXd0T1p0Um1kLXBtcEtMVkplSmt4R1NOdXFHX2M5NTEtLXlubWc0NTl5R1V1Sk1HZ0djcy13b1I0cTduLXBSRHhXV1NaSg?oc=5",
-   "source": "아시아경제",
-   "time": "11/20 09:32",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "美 기술주 급락·강달러에 환율 상승 압력…1340원선 위협[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkJyUXF2VVN0UzV0MXFScFVCTnVoSnE1d0pQb0RaUFBERlBtMnAxRXEwbFVUcVlnWkFMNWFTZkZMdmFfb2loSFZYRnFQOFVubXBoeWRpWjZPTWlLb3dxWGxRUnE5ZDVLS2hzODVvR0dHc3B1ekhWbGc1Zl9Ic3RkSA?oc=5",
-   "source": "이데일리",
-   "time": "11/20 08:05",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준, 추가 금리인상 공감대…물가 압박에 긴축 필요 강조",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkYTF0SERrZ3hvX2FndEpMTjNwZlRxeWN4b0p6VHJmV2c2WWV1ck95RGRnQlZINnVocmZXWE05WTZWQXc5ak9WMUNIQXZYVVk?oc=5",
-   "source": "애틀랜타 중앙일보",
-   "time": "11/20 07:01",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "연준 금리 인상 기대에도…원·달러, 3.0원 내린 1330.0원 마감",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZanJ0b3FHcHl6T0plTzZ0ZW1RNU1TcHRRV0hfSUQ5bVppeDF0eGFza1RHV19rbnhzWV9MN2Q3dTlOVzhmM21HQTdTano5ZFJTWWlyeFhBVUlyakpUSUo2b9IBeEFVX3lxTE1JN01vVS1WYU1qclE4ekFaOTFCa1pka3hBb2xfaG15bEhremdaWFB3MmRTSFRyaWFKeDFUcHdKYnJfOVpZbzNvX29wUHRJWXRwZFphSlNKWmlQRUZQa0hhbnMyMkUyTjZDdE9YVWtBOXhoZlNlZDJPTA?oc=5",
-   "source": "뉴시스",
-   "time": "11/19 15:45",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[뉴욕환시] 달러 상승…파운드 약세 속 연준 인사들 잇단 '매파' 발언",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RRkljWDlsUEJnOHIyZk9xcUlSUV8ySzdYeWFtdmhKY19lYmdtUERaT0ExWHhJaTJFb0hhZGNmV3hvYURjVjZ0WVRkUGxzUnJ0YVoxaFVKMkJHR21GaXd4WWEwTGQxQ3ZUbVRrMHA2VWg?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/19 08:22",
-   "dir": "up",
-   "strength": 2
-  },
-  {
-   "title": "美 연준 긴축 우려에 강달러…환율 상승 폭은 제한될 듯[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUZuODRQSEJNOHNKRWVjN19OWUN4ZFB4NV9oVTBFT0Z5UXNJMWU4c1J1azJKZUtiamYxRFlxT2dycWNpZkViaU9raWNZWF91OUtpSWFuSHhmY0JVOS1PN2RuX2t4VTdndEZnRVhfbU1ETnpQeU00NEZ2Q01JbEFvNw?oc=5",
-   "source": "이데일리",
-   "time": "11/19 08:03",
    "dir": "up",
    "strength": 2
   }
