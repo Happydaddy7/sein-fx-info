@@ -1,33 +1,49 @@
 {
- "updated": "2026-11-24 01:44",
+ "updated": "2026-11-24 14:47",
  "summary": {
-  "up": 9,
-  "down": 1,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 9 vs 하락 1).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
+   "title": "채권시장 종사자 54% \"11월 한은 금통위, 기준금리 인상할 것\" - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paEplMkJjLVlBSmFRUjhCRlBJY2JaczlOWjY3MU5JcWcyaWhrdzBpSS1PQ0lHcjVHRl9DbllncGZPcEV1SGVReExyakNoR0VoWkE0UGRfWXRDYlM2WXlxZm1DUG9XWWlT0gFuQVVfeXFMTVlDZEFlX2VVM3huem51Q29FejQtTjBPckRZQ3JJRmdZN1ZQdDhpRUU1OEc0MnpIbGpib1BiYkdkR1JfWm9nSnhxODhPRDhlYkR3OTJ3N3ljSVRKUG11aFlYcmNmdENXNUNfVGR3NXc?oc=5",
+   "source": "머니투데이",
+   "time": "11/24 14:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "채권시장 참여자 54% \"11월 금통위, 기준금리 인상 예상\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZjkzN3BZVXZLZXZwZVVjR0NOSThSQTJGeS03ZldqNk9RZHYtUUtVWUppZXVIWm9LUHlqUHNNTGV0VzRTUHQ5VjVOT1RLSHhzZnRXY2J0OFBRZFhfUm5YRNIBeEFVX3lxTFBMUUx0RUROOW1DMkdwbUFmeWRWUlAtaW5zaFBhQ08xVVp3Y3c3OG5nWGpCODFHUG9tSE1pbkJxVWFoaXVodHM3TWNmWUhTVlhQdUZEd0NORzFMeWJNVU4zbjFZdzl5Mm8weGc0aVB4SWpiVFlxT1ZKVg?oc=5",
+   "source": "뉴시스",
+   "time": "11/24 12:54",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "젠슨 황 복귀에 위험 선호 회복…원·달러는 1340원대 중반",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PNWhmTmQ4YVVmOWRkNzFtNUVJSEVWM29nT0pUWndxTlJlc2d5R3ZXdl9NOTMxSndsMk9vU29HMmJMWERZSTlCVHczNzhoWlB2Y2U3X1ZUQlJ5eHJaWXYza9IBeEFVX3lxTE5lVTFhZnh1N0Eyb05ILW9mWWpMY0lFcGRzcnNHdnhQX1RybU42dFBreXNxRlBMTW1zdXlEM2NwbDJVRks0cGpRdzhjWl8wSWd6QzFtRlZDRmdQQmFZNVNxaUoxM3Y0ekFCbmVJajRFQm90ak5KSHRYMw?oc=5",
+   "source": "뉴시스",
+   "time": "11/24 10:44",
+   "dir": "down",
+   "strength": 1
+  },
+  {
    "title": "해외IB들 \"원화 강세\"…반도체 달러 환전이 환율 향방 갈라",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEtGeWtZZ3hNWEI3Z002NjFaNENmUGkzakhQWTEzOGxhMHFoWmVPd0JqYm8xbEllb2tjNElnd3RJU2ZKR3EyY0JiTHVmdDNUYm5lSDhfWkw5ZDZvM29mSUxTMzYtdjF2UE40eGZ2b0V1bDViU3JmRVJHMGtmSTVyeA?oc=5",
    "source": "이데일리",
    "time": "11/23 19:09",
    "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "환율, 2주만에 장중 1,350원대…글로벌 위험회피 심리 반영",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pSWdpenpyLWJrdFZPV1lMVE14bjZsOG40OXd4WTFqZmJ6SkxYbnpRQlI2MjdhaEYxQ08xRmxWY1NsQk5OamhORkY4aHN5M0RZRndKUW05TWVHdXljdGZ3QVY5ZVV2ZU96MUE?oc=5",
-   "source": "SBS 뉴스",
-   "time": "11/23 18:50",
-   "dir": "up",
    "strength": 1
   },
   {
@@ -55,14 +71,6 @@
    "strength": 1
   },
   {
-   "title": "환율, 글로벌 위험회피 심리에 상승…2주만에 장중 1,350원대",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBadHhMalk3cnNHeEFSNUpuYVNFR0Q3bksxd2JkZU9ocjVmSzNTeVl4RTludl9TQmVFYVVDcVd6UnpQaTBlZ19TdEdDbk9IaGFTeXFGQXR0MGdWdm5QS1l6MW9kcFQ4NnQwbF9sTlZPRzVGZVVu?oc=5",
-   "source": "연합뉴스 한민족센터",
-   "time": "11/23 16:00",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "베선트 “연준 과도한 긴축은 정책 실수”…12월 인상론에 경고",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCd1VNUmRyU0FTWWJ4VndMWlJPZGZEWkFNNlpBUXV3T2g1dWg4N3Vfd3hlZ1VCR1lFSVJTYzRfVGlPTFFxbS1VdjFCM2prT2tfZmfSAVNBVV95cUxQM3M4Rm5lellnMDlqQU9HZEVGQU16ejItOXFWOEowTEhNYnFmNnlUcmVpaEMtTm5MaUpuTlhlQ3RpZ0dyVVBrNmJMMDY0anAwTGdqTQ?oc=5",
    "source": "서울경제",
@@ -83,14 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVTh4QkdZazg1QnBySGh5dlZoeEY3SlF5VjdBMV9hRG1hWUgtVVpzbXYxZGZyNDBLT1IyM1hyQjRuY1NPQ1dldDQxUUlTZ1oxb1RqUG82SDVBaXNMOVIyWFgwYlBqUVFUbnJuR2JBUXVVSGpQZk1QaUpxOUo0VVZ4Xw?oc=5",
    "source": "이데일리",
    "time": "11/23 07:51",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[뉴욕채권-주간] 연준 긴축 증시가 대신 해주나…다가오는 '침묵 기간'",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93eDljMVVkZEVnUFZFcmpHSUc1NmhGdm9ZbG9hSElsZHJ5bjB4RjN4d0Y5RmlaTGxRS3pjdnV2RzI0UkdlUjh3c3h5ZUtTYU1SaUdwSk9xUjAwQmFFMENnQ2lJemNxX0lGWFEycUYyRlU?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/22 18:05",
    "dir": "up",
    "strength": 1
   }
