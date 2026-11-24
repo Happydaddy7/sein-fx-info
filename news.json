@@ -1,19 +1,43 @@
 {
- "updated": "2026-11-24 14:47",
+ "updated": "2026-11-24 16:27",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 7,
+  "down": 3,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 7 vs 하락 3).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "외국인 240조 '팔자'에도 버틴 원화…①반도체 수출 ②리밸런싱 완화 ③ADR",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OS3g3bzZaeG5lbF93NlRFU1A2eFRpVHRVaUFXcEsxWlhfZURCTDVHT09BZWFaSEZ1NGtFWnBSM3ptQ3FvaElTNF9TNmJCbThUTG9fRmh2ZTVkSi1kNVlvbtIBeEFVX3lxTE5pUmhvbE52U3hhWUNBd09ZdGpPY21xMU1rQnBVeGlZOWlhWUZja1dacGtrSjE1SzIxWlZZSFJWTWNMbVBQYXF0ZzdnbUxYZFdYYjZCaDc5c3ppaFh5T1BqUFhFUGFmRWpVYkc0S1hwSFhRQWJLb2VuVQ?oc=5",
+   "source": "뉴시스",
+   "time": "11/24 16:18",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "시타델 \"2018년 말 폭락장 닮았다…연준 긴축·AI 투자둔화 충돌 위험\"",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UNXRvMGVPLTRKRWZTRmNCYURXZ21mSEk5V2VFaDNqek5BZFJTMVJJU2p1NFBYX3RVWkJYbjRxS1FhME1jaEExLVljdUdUVl9tVVVFSnBJWS1Jc295Z1VtSE8zMDJ3YWc?oc=5",
+   "source": "뉴스1",
+   "time": "11/24 16:00",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "환율, 엔비디아발 위험선호 회복에 하락…3.5원 내린 1,342.4원",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abVRUcXEydFRNUXc4RDRSWDhUY19wVVQzTWQxbEUwb0R1NC1CUDkzOUNzVUU4T3NtXzdKa2RTVEkxSlhzaFBCNFVXYVB2QkNraGc?oc=5",
+   "source": "매일경제 마켓",
+   "time": "11/24 15:48",
+   "dir": "down",
+   "strength": 1
+  },
   {
    "title": "채권시장 종사자 54% \"11월 한은 금통위, 기준금리 인상할 것\" - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paEplMkJjLVlBSmFRUjhCRlBJY2JaczlOWjY3MU5JcWcyaWhrdzBpSS1PQ0lHcjVHRl9DbllncGZPcEV1SGVReExyakNoR0VoWkE0UGRfWXRDYlM2WXlxZm1DUG9XWWlT0gFuQVVfeXFMTVlDZEFlX2VVM3huem51Q29FejQtTjBPckRZQ3JJRmdZN1ZQdDhpRUU1OEc0MnpIbGpib1BiYkdkR1JfWm9nSnhxODhPRDhlYkR3OTJ3N3ljSVRKUG11aFlYcmNmdENXNUNfVGR3NXc?oc=5",
@@ -31,18 +55,18 @@
    "strength": 1
   },
   {
+   "title": "채권시장 참여자 54% \"11월 금통위서 기준금리 인상 예상\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zei12aWV5NVBXWXVUX3pkYjdDWEttaDRWbnB5dDJYdGZFN1h0OHUwV1RKWEpUdjIzWngwTkxJYVljNVZJcVcyaFROZ1JNSEl2a3U4Rk1rZkZhUEHSAWBBVV95cUxQWmhZdTBjZ3JRRDBhbXZ4d1lGR0FacXVsMXFRY1VPR0lCMGhmYWRMMm5fRi1PR1dZWEcxbl9mMDY3cHRqTEhOVTI3NGEwZVk4RWR0clBBenI3MTVxVXZ3VS0?oc=5",
+   "source": "연합뉴스",
+   "time": "11/24 11:39",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "젠슨 황 복귀에 위험 선호 회복…원·달러는 1340원대 중반",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PNWhmTmQ4YVVmOWRkNzFtNUVJSEVWM29nT0pUWndxTlJlc2d5R3ZXdl9NOTMxSndsMk9vU29HMmJMWERZSTlCVHczNzhoWlB2Y2U3X1ZUQlJ5eHJaWXYza9IBeEFVX3lxTE5lVTFhZnh1N0Eyb05ILW9mWWpMY0lFcGRzcnNHdnhQX1RybU42dFBreXNxRlBMTW1zdXlEM2NwbDJVRks0cGpRdzhjWl8wSWd6QzFtRlZDRmdQQmFZNVNxaUoxM3Y0ekFCbmVJajRFQm90ak5KSHRYMw?oc=5",
    "source": "뉴시스",
    "time": "11/24 10:44",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "해외IB들 \"원화 강세\"…반도체 달러 환전이 환율 향방 갈라",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEtGeWtZZ3hNWEI3Z002NjFaNENmUGkzakhQWTEzOGxhMHFoWmVPd0JqYm8xbEllb2tjNElnd3RJU2ZKR3EyY0JiTHVmdDNUYm5lSDhfWkw5ZDZvM29mSUxTMzYtdjF2UE40eGZ2b0V1bDViU3JmRVJHMGtmSTVyeA?oc=5",
-   "source": "이데일리",
-   "time": "11/23 19:09",
    "dir": "down",
    "strength": 1
   },
@@ -67,30 +91,6 @@
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KQzUwOVFiZHFYMERzVWV4X0JPNWFzMGdadGQtZ2thR3l6Wm1qTnRmbDhSWW0walc2b1o5ODNDY1lKa2pzbnk5WW9uSk9Ocm02Y0HSAVNBVV95cUxOamxMT1hROWp6Z3hJbDQ2MTQtOGJqQ3ZoT0wwYVdDWkFOa3dOZ0VVMGR6VHEwbVVlLVVPM1ZWUEd2VjBKckRGT01XdmM4NGZSVlJDVQ?oc=5",
    "source": "서울경제",
    "time": "11/23 16:11",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "베선트 “연준 과도한 긴축은 정책 실수”…12월 인상론에 경고",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCd1VNUmRyU0FTWWJ4VndMWlJPZGZEWkFNNlpBUXV3T2g1dWg4N3Vfd3hlZ1VCR1lFSVJTYzRfVGlPTFFxbS1VdjFCM2prT2tfZmfSAVNBVV95cUxQM3M4Rm5lellnMDlqQU9HZEVGQU16ejItOXFWOEowTEhNYnFmNnlUcmVpaEMtTm5MaUpuTlhlQ3RpZ0dyVVBrNmJMMDY0anAwTGdqTQ?oc=5",
-   "source": "서울경제",
-   "time": "11/23 14:17",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "빌 애크먼 \"금융 매우 크게 긴축…연준, 12월 금리 올리면 안 돼\"",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XVHpSQ1JaeU5EVVcxaEVpSWVOV0RkQ3V6Ulg4RVNhaFMtU0s0MlNScUdkNVIzbC02VkxJc2oxT3RSWHg1ZkJRWnZmMlA5LUZqY1loMUZmQUh6NDdlY3RMX2ZFRDJUNGxvS2M3cVh0RDY?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/23 10:20",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "베선트, 연준에 과잉긴축 경고…\"금융여건 상당히 조여져\"",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVTh4QkdZazg1QnBySGh5dlZoeEY3SlF5VjdBMV9hRG1hWUgtVVpzbXYxZGZyNDBLT1IyM1hyQjRuY1NPQ1dldDQxUUlTZ1oxb1RqUG82SDVBaXNMOVIyWFgwYlBqUVFUbnJuR2JBUXVVSGpQZk1QaUpxOUo0VVZ4Xw?oc=5",
-   "source": "이데일리",
-   "time": "11/23 07:51",
    "dir": "up",
    "strength": 1
   }
