@@ -1,19 +1,35 @@
 {
- "updated": "2026-11-24 16:27",
+ "updated": "2026-11-25 04:10",
  "summary": {
-  "up": 7,
-  "down": 3,
+  "up": 8,
+  "down": 2,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 7 vs 하락 3).",
+   "상승요인 우세 (상승 8 vs 하락 2).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "27일 외국인 배당금 15.8조, 하루 외환거래량 65%…환율 상승 우려",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Zb0lOMXFSM1UxU1dxTkVFeWF2UEphQzNCV1dRRlBiWS1NMG9zY3pPU2FkVXJZREVKcFlsVzBWWGpHZDVWQnJXeW5wSWdVN0xmRlVNanZjalpVaVRmSXlOcHM3RXVRQTQ?oc=5",
+   "source": "한겨레",
+   "time": "11/25 00:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "[마켓톡스]골드만 “달러 강세 당분간 지속…2027년 완만한 약세 전환”",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX2RKZGZDM1BQZ20xVTROWkFvVHd5UzlkVjJUOEhZbGo4SFBPQy1teDA2UGgwWjFxblFTUXdMQXhHOU1Cb3JGMXotVS1VSEk2cUtIbmVMWlkwOEt0RE9LTzdIVnViUEc4U04wY1VacU01NDQ2cngtTFJVekhaYTdZSw?oc=5",
+   "source": "이데일리",
+   "time": "11/24 21:09",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "외국인 240조 '팔자'에도 버틴 원화…①반도체 수출 ②리밸런싱 완화 ③ADR",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OS3g3bzZaeG5lbF93NlRFU1A2eFRpVHRVaUFXcEsxWlhfZURCTDVHT09BZWFaSEZ1NGtFWnBSM3ptQ3FvaElTNF9TNmJCbThUTG9fRmh2ZTVkSi1kNVlvbtIBeEFVX3lxTE5pUmhvbE52U3hhWUNBd09ZdGpPY21xMU1rQnBVeGlZOWlhWUZja1dacGtrSjE1SzIxWlZZSFJWTWNMbVBQYXF0ZzdnbUxYZFdYYjZCaDc5c3ppaFh5T1BqUFhFUGFmRWpVYkc0S1hwSFhRQWJLb2VuVQ?oc=5",
@@ -31,18 +47,18 @@
    "strength": 1
   },
   {
-   "title": "환율, 엔비디아발 위험선호 회복에 하락…3.5원 내린 1,342.4원",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abVRUcXEydFRNUXc4RDRSWDhUY19wVVQzTWQxbEUwb0R1NC1CUDkzOUNzVUU4T3NtXzdKa2RTVEkxSlhzaFBCNFVXYVB2QkNraGc?oc=5",
-   "source": "매일경제 마켓",
-   "time": "11/24 15:48",
-   "dir": "down",
-   "strength": 1
-  },
-  {
    "title": "채권시장 종사자 54% \"11월 한은 금통위, 기준금리 인상할 것\" - 머니투데이",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1paEplMkJjLVlBSmFRUjhCRlBJY2JaczlOWjY3MU5JcWcyaWhrdzBpSS1PQ0lHcjVHRl9DbllncGZPcEV1SGVReExyakNoR0VoWkE0UGRfWXRDYlM2WXlxZm1DUG9XWWlT0gFuQVVfeXFMTVlDZEFlX2VVM3huem51Q29FejQtTjBPckRZQ3JJRmdZN1ZQdDhpRUU1OEc0MnpIbGpib1BiYkdkR1JfWm9nSnhxODhPRDhlYkR3OTJ3N3ljSVRKUG11aFlYcmNmdENXNUNfVGR3NXc?oc=5",
    "source": "머니투데이",
    "time": "11/24 14:31",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "채권시장 참여자 54% 11월 기준금리 인상 예상",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80WlFJM2dzUFRYUi14WlpkSjlEd01HRERETjJmbXB3ZFN2ek80bU5aUlJuSEZVejlZdlZpT29EakhGVE1wckpCcmpUX2FncmtSV0Jr0gFYQVVfeXFMTlpNbjA2MFZMdWFyTThJYTlIOUxkc0NQT0dKSjdfT291VzRLNEhWLUVaUVg4NEZINzVIdHBkcGo0OUJ0dHp0VUNBYjdfUTh5THM0SFp2eDNpNA?oc=5",
+   "source": "SBS Biz",
+   "time": "11/24 13:54",
    "dir": "up",
    "strength": 1
   },
@@ -71,28 +87,12 @@
    "strength": 1
   },
   {
-   "title": "원 달러 환율, 한때 1,350원 돌파‥\"안전자산 선호 심리\"",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6dHNqQnQzYV9YMjZxQXpiSFZXZWZQc055T01kdGtZbDNaOFBpZkQxNHlsYmpSZ2gzNk1DM0cxajFPMW1QUW43STZqWHFVQ2FSVFVPQ3RNcWYySUNHd081TGFpajJObFNVbnV1Si1zLTFRT0Yt0gF0QVVfeXFMT1JDeVRfWDd4YzZqMHZSWXp2ZVl1bFh0eWpvTGV2MWtRQWYzLV93UmhNRmpfdU5WSUljQnpSVDlVNnVxOGVua3pZV25hUUNQQ2R5UnB2cFlhTlBzbmlJTnFpLTVKbXU0MjJDV2lzejZuemRWME4?oc=5",
-   "source": "MBC 뉴스",
-   "time": "11/23 17:19",
-   "dir": "up",
-   "strength": 1
-  },
-  {
    "title": "글로벌 위험회피 심리에 원화 약세…환율, 장중 1,350원대",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RdWhIQVp1Y3AyTlF3SGVCdzNzSm41Q0dPYTV3QUpGN0hVVHE1TC1pbHViZ2FqZHBLSHJVQzZNYXMzbHUta3ZoVWp0UFZ6Qm1ZdU04RVczVl93ZnRmdm1rZ0VENkVPaGl5?oc=5",
    "source": "매일경제TV",
    "time": "11/23 16:31",
    "dir": "up",
    "strength": 2
-  },
-  {
-   "title": "위험회피에 원·달러 장중 1350원 돌파 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KQzUwOVFiZHFYMERzVWV4X0JPNWFzMGdadGQtZ2thR3l6Wm1qTnRmbDhSWW0walc2b1o5ODNDY1lKa2pzbnk5WW9uSk9Ocm02Y0HSAVNBVV95cUxOamxMT1hROWp6Z3hJbDQ2MTQtOGJqQ3ZoT0wwYVdDWkFOa3dOZ0VVMGR6VHEwbVVlLVVPM1ZWUEd2VjBKckRGT01XdmM4NGZSVlJDVQ?oc=5",
-   "source": "서울경제",
-   "time": "11/23 16:11",
-   "dir": "up",
-   "strength": 1
   }
  ]
 }
