@@ -1006,21 +1006,21 @@
   {
    "made_on": "2026-11-24",
    "base_rate": 1344.51,
-   "dir": "up",
+   "dir": "neutral",
    "today_band": [
-    1342,
-    1352
+    1339,
+    1350
    ],
    "week_band": [
-    1338,
-    1362
+    1331,
+    1358
    ],
    "actual": null,
    "hit": null,
    "dir_hit": null
   }
  ],
- "updated": "2026-11-25 13:48",
+ "updated": "2026-11-25 14:57",
  "summary": {
   "scored": 59,
   "hit": 33,
