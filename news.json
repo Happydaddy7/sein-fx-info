@@ -1,19 +1,67 @@
 {
- "updated": "2026-11-26 14:49",
+ "updated": "2026-11-27 00:57",
  "summary": {
-  "up": 9,
-  "down": 1,
+  "up": 10,
+  "down": 0,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 9 vs 하락 1).",
+   "상승요인 우세 (상승 10 vs 하락 0).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "[사설]기준금리 인상, 주담대는 15년 만에 최고… ‘빚투 시대’ 저문다",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GdHR3MXZoSElJN2I1QjlKZVhDMjc5Z0IzdzdCekJXd2lZTWRHd2xqYi1iSUdQYW9fdGNaQmZUZC1zT011aUdKNlk4VGpKWk9FWFk0UWxiSFBBOGt2bUt2Uy03Y1B4azlfYnVzMUpLSGNqN2FIU1HSAWZBVV95cUxQMzhKZUdaQmVyeTR2MGpLUnJSOUtVZWVfWFpCWDFNcUpoVnJVb2YxSjZMY1ljcTRpODNqcUZVUlptdVFMT0tLNm9nVnZUQTdaZEFjeXFMWVVianJRallGMkJObEVaS3c?oc=5",
+   "source": "동아일보",
+   "time": "11/26 23:24",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "5% 안팎 대출금리 더 뛴다…올 3번째 기준금리 인상에 가계·기업 ‘비상’",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zVG9IWkxIZTJWeHRZRVFzTFhPN2VCZkVhYW8zV3hNd1NoYWhQbFFUM2Y2RFJuMUEyUTI2SnVKcFNMenZCVzhlMFNHc2UxQUNnS0lFemV1eWMwVkhHWXhRNWRraW1SUUk?oc=5",
+   "source": "한겨레",
+   "time": "11/26 22:32",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "한은 기준금리 인상, 성장률 전망 대폭 상향‥\"물가 안정 중점\"",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sa0FmYTlGNGtYdVppaVdXTG16cC1SaEdudnoxVnVFaDB5Q0NTeGg1bWlDa3R1eXFUc29VMUpvOXJTWWx2ZEgtZy1zeE4xQmVXQlI1RXo4UUJCWm9ucWZrTFdzWEV5Y1NnWWVkN2JBUEo3QjQ3ZVlDMNIBeEFVX3lxTE1TU0J3WGdZbFpIdWxTYVVFeFdieFJoUm03QThGZkRJMHA1YllpdTFEMU9sLWZ2YndSeEF5TE81eEVKZmd0QkRtaldwVURFV1o5VXhQQWxFakg1cmc3d1lXOVB4VWt5M2JhdWw2THdiNC1xX3Y4enZYYQ?oc=5",
+   "source": "MBC 뉴스",
+   "time": "11/26 21:34",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "금리 인상에도 환율 보합…국고채는 매파 점도표에 상승 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JWnJyNW9iNlhwU1p5UzM1eDRaa3FTZE5BczFfUHJ3QTNlVk5haThscG5rVHhRZUJfWGlRTm5kck5hYjRneFVxa0FPX3YzdlZRWFHSAVNBVV95cUxPQUJzRWcxYkRzSTlQNGlmb1h4TXpXSVRZVDdaUF9TZWpFUmpLa2taYTlJQktJNDc4eTRlRHA0S19jUW51Y3EzeE1ScDZzb0xUT0syTQ?oc=5",
+   "source": "서울경제",
+   "time": "11/26 17:17",
+   "dir": "up",
+   "strength": 2
+  },
+  {
+   "title": "원/달러 환율, 금리 인상에도 보합권…전날보다 0.5원↓(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LLTFVSE8xTEc5NktUWXVjc1ZNTnc1N0JjRmFBU1dFemhUTG5SQWdVU0JmRGo1cUpTZFNGRlhTeDdTeGlNNTZLa21lRHhobGtrVUtIS0s5amd4XzQ?oc=5",
+   "source": "연합뉴스",
+   "time": "11/26 16:11",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "달러·원 환율 1342.7원 '소폭 하락'…한은 금리 인상·수출업체 네고(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01TkZUODJlZnBrUmF4QW9iRVJSLWsxLUlmeF9QNmhCRmhKTlZtT1kzcnhEakh3c09RbUZHdlVPYkdrbFlMNkdNTDBVQnRVYnZVSVg2MmRJM3pja2c?oc=5",
+   "source": "뉴스1",
+   "time": "11/26 15:49",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "트럼프 신규 관세로 연준 추가 금리 인상 가능성 커져",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zVTFqTWJuUmhzcVR3NHZzOGlLaDA1X1ZWdmdnY1RVUzBYN0R0QWVHYUFNYmstclp3Zm51c0RfNVdpVmJBby1QbnkxdHNkU0NHNXZ30gFYQVVfeXFMT2c0OHMxb2pHVU9hcUswQTMzbWJUcWVOVDNqNEt2M1pvLXlWYTd3Ny1USzREN3Z2MkZBQ0U5TkVCc2M2bTMxaG4wR0JIVHFQbWxOZ1JsMnVNRg?oc=5",
@@ -40,57 +88,9 @@
   },
   {
    "title": "원/달러 환율, 금통위 금리 인상에 1,340원선 아래로",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ja0VWWnl4VDRnekJpWm5Xa3B2YnNYb1lfQ3lBekRibUNJYWZkQ1ZVOUhueE9YUldGVW1nM1hicTRhTmFGOENwb2FuVXVYeHB6SG9GZkRzb21YLTRkWl91VtIBYEFVX3lxTE5Ja0VWWnl4VDRnekJpWm5Xa3B2YnNYb1lfQ3lBekRibUNJYWZkQ1ZVOUhueE9YUldGVW1nM1hicTRhTmFGOENwb2FuVXVYeHB6SG9GZkRzb21YLTRkWl91Vg?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HdkJwUmpjSnZETUpmTXpuZko5RzJQYzdOTjhOVmRUZ2JqdGVucEQzYUIzblR0QkpDaFBWdjl0Wk5URlNJYjQ2dWRPQThTQ2swRmRrNThhaERLb03SAWBBVV95cUxOSWtFVlp5eFQ0Z3pCaVpuV2twdmJzWG9ZX0N5QXpEYm1DSWFmZENWVTlIbnhPWFJXRlVtZzNYYnE0YU5hRjhDcG9hblV1WHhwekhvRmZEc29tWC00ZFpfdVY?oc=5",
    "source": "연합뉴스",
    "time": "11/26 11:45",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "금리 인상폭 어디까지?...연준서 나온 '빅스텝론' [자막뉴스]",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44VGZTTTNDeWg3Tjl2UHVFSE9PV3dWcjVaNk0ySzNjcC1IOHdDWno3dDFYNWlFQ2VkalE4N2MwM3RBSWRmbWFJUWc1ejl6TGNfX01wdWRoNVY0VlhBdUE?oc=5",
-   "source": "YTN",
-   "time": "11/26 10:17",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[속보]한국은행, 기준금리 인상…연 3.25%",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94TVBhSWprYmtCYTk0ZnBGVWhiUklubTYxOG5TV1Z6NmJ0MU1SVmtnY0wxUlpVN3NhWFNaOXJpalh3LVRwU01CUjhBLWNOZW12MmxiTUpER2x4c2VTUHJ1WW1n?oc=5",
-   "source": "뉴시스",
-   "time": "11/26 09:50",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[속보] 한국은행, 기준금리 인상…연 3.25% 결정",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmS0JRVkJlRm5zTUxvdDRMY040WWtidk92YkpyckFpZGp6MkJNcWtuT1JrZTlJNHNVTGNpSml0Um83UGdGeldFem5zNk1SZk8tVWpRTzU0dVVvZmNXQ0FJTE5kLWttWXc?oc=5",
-   "source": "연합뉴스TV",
-   "time": "11/26 09:50",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "코스피 1%대 상승 출발...한은 기준금리 인상 여부 주목",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qVUJicElDc2VueWNuaDloQ0RWaV90UjNYZGlEdUx4SXNHUEZ0LXBHcmRvaHJ1ZHRGaERfRGdjbUdzVXpTS093a3ZDVm9UQ0g2NHBsMHVfTFlEaFFKTVZkMllJQmZOYmJ4aEY3TWUwdw?oc=5",
-   "source": "YTN",
-   "time": "11/26 09:32",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[뉴욕환시] AI주 낙폭 만회에 달러 약세…엔·스위스프랑 반등",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uOEI4ekNZS2p0b2xMUnZEdXJ3ZEFDNjVOVHRLNkI0T1FxZzZlUnY5VWk3eDZWbi1aUmNOUXhSc0NoaTNsaDN3U0pjSnBWN3BPMkZ2RXl1dkhWeXpuYm16REhudTEyV05XdDVINk5OSVI?oc=5",
-   "source": "연합인포맥스",
-   "time": "11/26 08:26",
-   "dir": "down",
-   "strength": 1
-  },
-  {
-   "title": "美 물가 재상승에 짙어진 긴축 경계…한은 금통위 주목[외환브리핑]",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdWN3Nm8teF9YbWZQQmRlQk5YS3ZlcDlINDUyT1hEcHFTYm9nYTBudk5GXzNzamJXWWdMWGllbWtvcnVhaFR3VC1RNk9adU9QRVUyLXMwV3paVFp4eXNYNG9pVng3bGhxM05RQUZkZmZNV2RMeXk3ZWdKel9UOGU2cA?oc=5",
-   "source": "이데일리",
-   "time": "11/26 08:11",
    "dir": "up",
    "strength": 1
   }
