@@ -1,40 +1,56 @@
 {
- "updated": "2026-11-26 13:01",
+ "updated": "2026-11-26 14:49",
  "summary": {
-  "up": 8,
-  "down": 2,
+  "up": 9,
+  "down": 1,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 8 vs 하락 2).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
   {
+   "title": "트럼프 신규 관세로 연준 추가 금리 인상 가능성 커져",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zVTFqTWJuUmhzcVR3NHZzOGlLaDA1X1ZWdmdnY1RVUzBYN0R0QWVHYUFNYmstclp3Zm51c0RfNVdpVmJBby1QbnkxdHNkU0NHNXZ30gFYQVVfeXFMT2c0OHMxb2pHVU9hcUswQTMzbWJUcWVOVDNqNEt2M1pvLXlWYTd3Ny1USzREN3Z2MkZBQ0U5TkVCc2M2bTMxaG4wR0JIVHFQbWxOZ1JsMnVNRg?oc=5",
+   "source": "SBS Biz",
+   "time": "11/26 14:02",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "목표 2배 가까운 미국 물가…12월 기준금리 인상 무게",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xZGViMnRnQTZFRDZodU5KYURIVFpfZGFaQXlEYWd4WUQyZ2gtSnFocHNVV0RLMDI1NjRFd2NkbWoxZVJwVHZFOF9DSmlXd3loQ3ZUb08wcG5TVWFURFUwYXowRERNcmdmQllDa2VfemVnemhD?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "time": "11/26 12:59",
+   "dir": "up",
+   "strength": 1
+  },
+  {
+   "title": "월가 \"美 신규 관세에 연준 추가 금리 인상 가능성 커져\"",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xZzJ5Vkl0SGFiUmJtNHNoRkZ6cXhBOW5tc3hwME12bUQ5YnJobEJQdjROamRsX1E4TFcxNzVheHhuVTltcVdyTmpZRkN2dUpkdUxWVllCRWgyWWhsQ0xmREF6UUNqRkw2NXpKRU1YbzbSAXRBVV95cUxNV2NiYnl6VDlTcjA1RmMyYnJaWC1Fb3h5T3J3TzRhMGZ3M3NWa2Y1U1VTZDRLYzh3akN5VTgtSjNHMDktS1UzZ3NoMzZnUmlvTmYzZ0RnYXBYd0JhOElLdV9sdXlaamVzdkRqazdvUWh6OFBtVw?oc=5",
+   "source": "연합인포맥스",
+   "time": "11/26 12:19",
+   "dir": "up",
+   "strength": 1
+  },
+  {
    "title": "원/달러 환율, 금통위 금리 인상에 1,340원선 아래로",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HdkJwUmpjSnZETUpmTXpuZko5RzJQYzdOTjhOVmRUZ2JqdGVucEQzYUIzblR0QkpDaFBWdjl0Wk5URlNJYjQ2dWRPQThTQ2swRmRrNThhaERLb03SAWBBVV95cUxOSWtFVlp5eFQ0Z3pCaVpuV2twdmJzWG9ZX0N5QXpEYm1DSWFmZENWVTlIbnhPWFJXRlVtZzNYYnE0YU5hRjhDcG9hblV1WHhwekhvRmZEc29tWC00ZFpfdVY?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ja0VWWnl4VDRnekJpWm5Xa3B2YnNYb1lfQ3lBekRibUNJYWZkQ1ZVOUhueE9YUldGVW1nM1hicTRhTmFGOENwb2FuVXVYeHB6SG9GZkRzb21YLTRkWl91VtIBYEFVX3lxTE5Ja0VWWnl4VDRnekJpWm5Xa3B2YnNYb1lfQ3lBekRibUNJYWZkQ1ZVOUhueE9YUldGVW1nM1hicTRhTmFGOENwb2FuVXVYeHB6SG9GZkRzb21YLTRkWl91Vg?oc=5",
    "source": "연합뉴스",
    "time": "11/26 11:45",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "코스피, 1% 안팎 상승세…한은 기준금리 인상 속 탄력 둔화",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mRmJ1TWF2RXVMY1dLVmZVa0Y0RzZaRTVSTHFyY24ya0U2YkpYd25OMlliZWlJcDd6Zlk5Sk4wclV1emk0OFlYZy02VnJZZFFkRmM3TUZOYlJqSWfSAWBBVV95cUxOVjgzS2txcWFFeVEtOUJXbldJeVdha0pMWU9OYkNfVnkxM2ZWMm5FSmxtYzU3NXh2S0hydnZsZnFFendadlJVbWdiZU1VZkdiemNEMEZfUmhILUt5LS1PTEo?oc=5",
-   "source": "연합뉴스",
-   "time": "11/26 11:11",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "[속보] 한은 기준금리 연 3%→3.25% 인상…다시 긴축 박차 가한다",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYdnFnalE1WGVnc3llMlp1X282clpWS19jWmJmQjdEeC1sZzRoUjdSRXh3cWNvd3kwWmxjS293MWlTNTdQU0V0N0Q5NGZLV2F6NTNLS2RR?oc=5",
-   "source": "중앙일보",
-   "time": "11/26 09:50",
+   "title": "금리 인상폭 어디까지?...연준서 나온 '빅스텝론' [자막뉴스]",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44VGZTTTNDeWg3Tjl2UHVFSE9PV3dWcjVaNk0ySzNjcC1IOHdDWno3dDFYNWlFQ2VkalE4N2MwM3RBSWRmbWFJUWc1ejl6TGNfX01wdWRoNVY0VlhBdUE?oc=5",
+   "source": "YTN",
+   "time": "11/26 10:17",
    "dir": "up",
    "strength": 1
   },
@@ -56,17 +72,17 @@
   },
   {
    "title": "코스피 1%대 상승 출발...한은 기준금리 인상 여부 주목",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16VlEyeWpjUHI1dEh5MUFDellGR3RGR2JnOHBOaFdkMGZUX0l1ZGRIWVA4U0NOZ016ZUVxNTBxTHdMc19jZ2d3STlBUmZmX0JUeFJrd3Q4cWhwWnZpUEE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qVUJicElDc2VueWNuaDloQ0RWaV90UjNYZGlEdUx4SXNHUEZ0LXBHcmRvaHJ1ZHRGaERfRGdjbUdzVXpTS093a3ZDVm9UQ0g2NHBsMHVfTFlEaFFKTVZkMllJQmZOYmJ4aEY3TWUwdw?oc=5",
    "source": "YTN",
    "time": "11/26 09:32",
    "dir": "up",
    "strength": 1
   },
   {
-   "title": "[뉴욕환시] AI주 낙폭 만회에 달러 약세…엔·스위스프랑 반등 |",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5Q1RvbjVyUzhPTFMyaVRsVkpqV3lLVy11R1BFWDV5QkdtcjlYSWJ2eG5CNGxGUDZ6eGhxc3ZNckRlUFlYZTc4SEJ6TVV0VnFlQnlIMDZITXJndkdDMG9aTVlwQ0Y1Tlh5MVhOTVlTcG9HSm1r?oc=5",
+   "title": "[뉴욕환시] AI주 낙폭 만회에 달러 약세…엔·스위스프랑 반등",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uOEI4ekNZS2p0b2xMUnZEdXJ3ZEFDNjVOVHRLNkI0T1FxZzZlUnY5VWk3eDZWbi1aUmNOUXhSc0NoaTNsaDN3U0pjSnBWN3BPMkZ2RXl1dkhWeXpuYm16REhudTEyV05XdDVINk5OSVI?oc=5",
    "source": "연합인포맥스",
-   "time": "11/26 08:33",
+   "time": "11/26 08:26",
    "dir": "down",
    "strength": 1
   },
@@ -76,22 +92,6 @@
    "source": "이데일리",
    "time": "11/26 08:11",
    "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "27일 외국인 배당금 15.8조, 하루 외환거래량 65%…환율 상승 우려",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Zb0lOMXFSM1UxU1dxTkVFeWF2UEphQzNCV1dRRlBiWS1NMG9zY3pPU2FkVXJZREVKcFlsVzBWWGpHZDVWQnJXeW5wSWdVN0xmRlVNanZjalpVaVRmSXlOcHM3RXVRQTQ?oc=5",
-   "source": "한겨레",
-   "time": "11/25 11:53",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "\"영원무역, 원달러 환율 하락에 3Q 실적↓… 목표가↓\"-유진 - 머니투데이",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9raWtPN3FaVFV1RmJnVm5tY19lUE9LRzF6Um1zc05ESkIyQW0tc0lZMFNOMkNiNXgyS0k4cm9zM3lZbjViNkFrZlpQMTBKTnhla1FVNnFlQnJSbk83R2poODBpRGh4U0xRcVRfT3JDN3ZyVTdZQlHSAXtBVV95cUxOZnNHM0RIekstMWdUcjVhUnlMN1c3RE0xdFlGUmtzRlBBTEVaT3Z2Ty1ab2dUWWZNc2F3Um5FUGRmUW9FdDVCZXQtZTdnQUpGcS1pd1dMMXhhdmNzOUhlSlozNjBjcnBhVHlfcUFqak5mM1llQndSVUtJZ0E?oc=5",
-   "source": "머니투데이",
-   "time": "11/25 08:59",
-   "dir": "down",
    "strength": 1
   }
  ]
