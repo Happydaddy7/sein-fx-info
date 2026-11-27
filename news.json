@@ -1,19 +1,35 @@
 {
- "updated": "2026-11-27 14:43",
+ "updated": "2026-11-28 00:45",
  "summary": {
-  "up": 10,
-  "down": 0,
+  "up": 9,
+  "down": 1,
   "neutral": 0
  },
  "outlook": {
   "dir": "up",
   "lines": [
-   "상승요인 우세 (상승 10 vs 하락 0).",
+   "상승요인 우세 (상승 9 vs 하락 1).",
    "원화 약세·달러 강세 압력 → 조달비용 상승 방향.",
    "환율 오름세 대비, 필요분 조기 확보 검토."
   ]
  },
  "items": [
+  {
+   "title": "주가↑· 환율↓…달러·원 환율, 원화 강세에 1337.9원 마감(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GUkR2NlRqSWc2aXFBRG1DNXVHbVZqQThCOHlYUlpjbURjV2pwODE4MkNhODd6QnBmTVVoY1BkTHktN3MwdS1lblB5SGRmUHBTTjhyNzlYMVRGV3M?oc=5",
+   "source": "뉴스1",
+   "time": "11/27 16:18",
+   "dir": "down",
+   "strength": 1
+  },
+  {
+   "title": "여당, 기준금리 인상에 \"가계 부담 우려‥민생예산 증액 요청\"",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84eEZIOXdRYm4yYTFCQUxxbmtVMHZtVXplWDVFSjZxeVROR2VLcmJLY2FmZy0zbG5iTmV6OHN4dzN3Rm5VMkEtaTROMDBKTlhqWGg1R3BQRWN3QkNvQWRUQWZNNXMyYkc1Si0xcHEtTkwzc04tNVktatIBeEFVX3lxTFB6Vk14V1dnS0RFZDdxYjdraWY4dEVOd1FsQUZ1UjhfRU4xdVRVaW1vUUJmZi1MbGFjd1RXSUVhcXFkMEItVHlGNlMwMFM2N0RiWDdnRFM1RFlwVnNYZ1FEdDl3ZWI1M2Y2UDJSLURRSEkzakR3c2dJUA?oc=5",
+   "source": "MBC 뉴스",
+   "time": "11/27 12:14",
+   "dir": "up",
+   "strength": 1
+  },
   {
    "title": "김민석 “한국은행 기준 금리 인상에 서민 부담…당력 동원해 민생 정치 올인”",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xVFdKQTRLUTJaUXI3aWRtUUpSbTNrWDBTV0RDODBzZDFQMnlpMlBmUjJ3V3lGVDBYMW56S25yUHRRNkxMSlQ1SXh1RGUwWE04bHFlNW9qbUo5U1k?oc=5",
@@ -55,26 +71,10 @@
    "strength": 1
   },
   {
-   "title": "금리 인상에도 환율 보합…국고채는 매파 점도표에 상승 [김혜란의 FX]",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JWnJyNW9iNlhwU1p5UzM1eDRaa3FTZE5BczFfUHJ3QTNlVk5haThscG5rVHhRZUJfWGlRTm5kck5hYjRneFVxa0FPX3YzdlZRWFHSAVNBVV95cUxPQUJzRWcxYkRzSTlQNGlmb1h4TXpXSVRZVDdaUF9TZWpFUmpLa2taYTlJQktJNDc4eTRlRHA0S19jUW51Y3EzeE1ScDZzb0xUT0syTQ?oc=5",
-   "source": "서울경제",
-   "time": "11/26 17:17",
-   "dir": "up",
-   "strength": 2
-  },
-  {
    "title": "원/달러 환율, 금리 인상에도 보합권…전날보다 0.5원↓(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LLTFVSE8xTEc5NktUWXVjc1ZNTnc1N0JjRmFBU1dFemhUTG5SQWdVU0JmRGo1cUpTZFNGRlhTeDdTeGlNNTZLa21lRHhobGtrVUtIS0s5amd4XzQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LLTFVSE8xTEc5NktUWXVjc1ZNTnc1N0JjRmFBU1dFemhUTG5SQWdVU0JmRGo1cUpTZFNGRlhTeDdTeGlNNTZLa21lRHhobGtrVUtIS0s5amd4XzTSAWBBVV95cUxOM1dlTkZkZWFGMHpkTjE4U0JLdmtOYllmUnIyNHJnY2l2STJmYUM3bDN4NlZJS2hyODgzbG1Nalo4VElCZjlaTFpIUEl2cEt5bUFGRkM3QWRwWVE0dG5yY1k?oc=5",
    "source": "연합뉴스",
    "time": "11/26 16:11",
-   "dir": "up",
-   "strength": 1
-  },
-  {
-   "title": "달러·원 환율 1342.7원 '소폭 하락'…한은 금리 인상·수출업체 네고(종합)",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01TkZUODJlZnBrUmF4QW9iRVJSLWsxLUlmeF9QNmhCRmhKTlZtT1kzcnhEakh3c09RbUZHdlVPYkdrbFlMNkdNTDBVQnRVYnZVSVg2MmRJM3pja2c?oc=5",
-   "source": "뉴스1",
-   "time": "11/26 15:49",
    "dir": "up",
    "strength": 1
   },
